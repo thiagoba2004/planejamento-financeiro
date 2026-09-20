@@ -1,0 +1,5 @@
+case_id,renda_liquida,despesas_essenciais,servico_divida,ativos_liquidos,ativos_totais,passivos_totais,C01_cobertura_meses,C02_servico_divida_renda,C03_renda_apos_divida,C04_fluxo_livre,patrimonio_liquido,solvencia,nivel_intervencao_inicial
+PF-CASO-01,8000,4300,1800,12000,90000,28000,2.7907,0.2250,6200,1900,62000,3.2143,ALERTA_PRECOCE
+PF-CASO-02,6500,4300,2700,1500,70000,48000,0.3488,0.4154,3800,-500,22000,1.4583,ESTABILIZACAO
+PF-CASO-03,9000,4800,4000,3000,150000,75000,0.6250,0.4444,5000,200,75000,2.0000,REESTRUTURACAO
+PF-CASO-04,5200,3900,3100,500,50000,82000,0.1282,0.5962,2100,-1800,-32000,0.6098,ENCAMINHAMENTO_EXTERNO
