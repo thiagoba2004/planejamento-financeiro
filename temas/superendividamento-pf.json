@@ -2,11 +2,34 @@
   "slug": "superendividamento-pf",
   "type": "learning-unit",
   "title": "Superendividamento das Pessoas Físicas",
-  "status": "EM_PESQUISA",
+  "status": "PUBLICACAO_PREPARADA",
   "project_code": "PRJ-000004",
   "strategy_code": "EA-000004-000001",
+  "phase": "08/08",
+  "updated_at": "2026-09-20",
   "source_markdown": "temas/superendividamento-pf.md",
   "html": "temas/superendividamento-pf.html",
-  "tracks": ["TRILHA_PROVA","TRILHA_PRATICA"],
-  "updated_at": "2026-09-20"
+  "tracks": [
+    "TRILHA_PROVA",
+    "TRILHA_PRATICA"
+  ],
+  "evidence_grades": [
+    "A",
+    "B",
+    "P"
+  ],
+  "competency_count": 14,
+  "cases": [
+    "PF-CASO-01",
+    "PF-CASO-02",
+    "PF-CASO-03",
+    "PF-CASO-04"
+  ],
+  "assessments": [
+    "A1_CONHECIMENTO",
+    "A2_CALCULO",
+    "A3_CASO",
+    "A4_COMUNICACAO_JULGAMENTO"
+  ],
+  "review_date": "2026-09-20"
 }
