@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.8",
-  "current_strategy_code": "EA-000004-000001",
-  "current_strategy_name": "Compreender o fenômeno do Superendividamento das Pessoas Físicas",
+  "current_strategy_code": "EA-000004-000002",
+  "current_strategy_name": "Arquitetura pública e identidade visual do Site Planejamento Financeiro",
   "current_phase": {
-    "phase_number": 8,
-    "phase_total": 8,
-    "phase_code": "F-000004-000001-008",
-    "phase_name": "Publicação, auditoria e atualização",
-    "status": "CONCLUIDA"
+    "phase_number": 1,
+    "phase_total": 5,
+    "phase_code": "F-000004-000002-001",
+    "phase_name": "Arquitetura de informação e identidade visual",
+    "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Auditoria pós-publicação concluída e implantada: camada pública sem marcadores de governança interna, com deploy verificado.",
-  "next_logical_step": "Estratégia concluída; manter auditoria de separação público/interno em futuras publicações ou definir nova Estratégia Autônoma.",
+  "last_completed_milestone": "Pedido de reconstrução da arquitetura pública registrado e estratégia autônoma criada.",
+  "next_logical_step": "Definir mapa de navegação, menus, páginas centrais e sistema visual exclusivo; depois implementar, publicar e auditar.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
