@@ -17,8 +17,8 @@
     "phase_name": "Relatório, correções aprovadas e verificação",
     "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "Correção visual pós-auditoria: removido 'Acessar →'; cards clicáveis diferenciados por cor, cards informativos mantidos neutros.",
-  "next_logical_step": "Verificar ausência global de 'Acessar →', consistência cromática e deploy GitHub Pages.",
+  "last_completed_milestone": "Correção visual validada: 'Acessar →' removido integralmente; cards clicáveis diferenciados cromaticamente; cards informativos neutros; deploy 35537926107 success.",
+  "next_logical_step": "Prosseguir para a próxima prioridade do Projeto Planejamento Financeiro.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,17 +35,18 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_AJUSTE_CROMATICO_CARDS_AGUARDA_VERIFICACAO",
+  "site_status": "PUBLICADO_CARDS_CROMATICAMENTE_DIFERENCIADOS",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/superendividamento-pf.html",
   "last_deployment": {
-    "workflow_run_id": 35537032790,
+    "workflow_run_id": 35537926107,
     "attempt": 1,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE"
+    "verified_by": "GITHUB_PAGES_PIPELINE",
+    "public_content_commit": "09212f0da3d9dabc2f72ab35130f0ad0443ecace"
   },
   "public_menu": [
     "Início",
