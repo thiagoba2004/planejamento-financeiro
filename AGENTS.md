@@ -239,7 +239,23 @@ Quando programa, regulamento ou material oficial mudar, identificar o impacto na
 
 ## 15. Interoperabilidade com PRJ-000003
 
-O superendividamento também pode ser estudado em Ações Judiciais. Este projeto trata prioritariamente do fenômeno financeiro, diagnóstico, prevenção, recuperação e competências profissionais. Questões jurídicas podem ser referenciadas, mas não devem transformar este projeto em fonte jurídica primária.
+Temas com dimensão jurídica também podem ser estudados no PRJ-000003 — Ações Judiciais. O superendividamento e o divórcio litigioso são exemplos atuais. Este projeto trata prioritariamente de diagnóstico, cálculo, cenários, decisão financeira e competências profissionais. O PRJ-000003 é a fonte da verdade para conclusões jurídicas. No tema divórcio, direito à partilha, regime de bens, guarda, convivência e fixação de alimentos entram aqui apenas como premissas/cenários jurídicos confirmados; o Planejamento Financeiro não decide esses direitos.
+
+### 15.1. Programa financeiro do divórcio litigioso
+
+A carteira EA-000004-000005 a EA-000004-000014 cobre, respectivamente:
+1. diagnóstico e orçamento de transição;
+2. patrimônio, avaliação e liquidez;
+3. moradia;
+4. filhos e despesas de cuidado;
+5. dívidas, crédito e garantias;
+6. investimentos;
+7. seguros, previdência e proteção;
+8. tributação e custos de transferência;
+9. empresas/participações e continuidade de renda;
+10. reconstrução financeira integrada.
+
+A EA-000004-000005 é fundacional. A EA-000004-000014 é integradora. Estratégias condicionais podem ser marcadas NÃO APLICÁVEL após triagem documentada.
 
 ## 16. Fechamento
 

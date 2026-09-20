@@ -90,3 +90,280 @@ Auditoria e reorganização de Menus, Botões e Navegação concluída.
 - 139 links internos e 13 âncoras verificados;
 - zero quebra interna;
 - deploy final: workflow `35537032790` — **success**.
+
+
+## Programa integrado — consequências financeiras do divórcio litigioso
+
+**Interface jurídica:** PRJ-000003 / EA-000003-000005 — Ação de Divórcio Litigioso c/c Partilha de Bens, Guarda, Convivência e Alimentos.
+
+**Regra de dependência:** EA-000004-000005 é a estratégia-base. EA-000004-000006 a EA-000004-000013 usam resultados jurídicos confirmados como premissas quando necessário. EA-000004-000014 integra as estratégias aplicáveis. Estratégias marcadas como condicionais podem ser encerradas como NÃO APLICÁVEL após triagem documentada.
+
+
+## EA-000004-000005 — Diagnóstico financeiro da ruptura e orçamento de transição — PLANEJADA
+
+### FASE 01/06 [F-000004-000005-001] — Delimitação e perguntas de diagnóstico
+Definir eventos financeiros da ruptura, horizonte de transição, unidades familiares, premissas e limites entre dado jurídico e dado financeiro.  
+**Gate:** escopo e perguntas persistidos.
+
+### FASE 02/06 [F-000004-000005-002] — Inventário de dados e linha de base
+Mapear rendas, despesas, contas, patrimônio, dívidas, dependentes, despesas processuais e compromissos recorrentes.  
+**Gate:** dados/fontes necessários registrados e classificados.
+
+### FASE 03/06 [F-000004-000005-003] — Fluxo de caixa e cenários provisórios
+Modelar cenários de alimentos provisórios, dupla moradia, custos de convivência, honorários e mudanças temporárias sem presumir decisão judicial.  
+**Gate:** metodologia e cenários reproduzíveis documentados.
+
+### FASE 04/06 [F-000004-000005-004] — Liquidez e reserva de transição
+Dimensionar caixa mínimo, calendário de obrigações, fontes de liquidez e prioridades de curto prazo.  
+**Gate:** intervenções/cenários com limites profissionais explícitos.
+
+### FASE 05/06 [F-000004-000005-005] — Casos, comunicação e competências CFP®
+Criar casos progressivos e mapear competências de diagnóstico, comunicação, decisão e limites profissionais.  
+**Gate:** casos e competências verificáveis produzidos.
+
+### FASE 06/06 [F-000004-000005-006] — Publicação, auditoria e atualização
+Sincronizar artefatos, testar cálculos, fontes e integração com as demais estratégias.  
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+
+## EA-000004-000006 — Patrimônio, avaliação econômica e liquidez na partilha — PLANEJADA
+
+### FASE 01/06 [F-000004-000006-001] — Escopo patrimonial e interface jurídica
+Definir ativos/passivos a inventariar e quais classificações dependem de conclusão do PRJ-000003.  
+**Gate:** escopo e perguntas persistidos.
+
+### FASE 02/06 [F-000004-000006-002] — Inventário patrimonial e qualidade dos dados
+Organizar imóveis, veículos, investimentos, bens de uso, participações, previdência e passivos com documentos e datas.  
+**Gate:** dados/fontes necessários registrados e classificados.
+
+### FASE 03/06 [F-000004-000006-003] — Métodos de avaliação econômica
+Definir métodos, datas-base, premissas, descontos, custos de venda e limites de valuation por classe de ativo.  
+**Gate:** metodologia e cenários reproduzíveis documentados.
+
+### FASE 04/06 [F-000004-000006-004] — Liquidez, indivisibilidade e cenários de partilha
+Comparar venda, adjudicação, compensação financeira, manutenção temporária e outras alternativas como cenários, não como solução jurídica.  
+**Gate:** intervenções/cenários com limites profissionais explícitos.
+
+### FASE 05/06 [F-000004-000006-005] — Casos, métricas e competências CFP®
+Criar casos com patrimônio ilíquido, assimetria de liquidez e risco de concentração.  
+**Gate:** casos e competências verificáveis produzidos.
+
+### FASE 06/06 [F-000004-000006-006] — Publicação, auditoria e atualização
+Validar cálculos, fontes, premissas e integração com moradia, investimentos, dívidas e tributação.  
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+
+## EA-000004-000007 — Moradia, financiamento e reorganização residencial — PLANEJADA
+
+### FASE 01/06 [F-000004-000007-001] — Diagnóstico habitacional
+Mapear imóvel atual, titularidade formal como dado, financiamento, aluguel, condomínio, seguros e custos de manutenção.  
+**Gate:** escopo e perguntas persistidos.
+
+### FASE 02/06 [F-000004-000007-002] — Custo total de moradia
+Calcular prestação/aluguel, encargos, manutenção, deslocamento e custos de mudança.  
+**Gate:** dados/fontes necessários registrados e classificados.
+
+### FASE 03/06 [F-000004-000007-003] — Cenários de permanência, venda, compra e locação
+Comparar alternativas financeiras sob diferentes premissas jurídicas e de mercado.  
+**Gate:** metodologia e cenários reproduzíveis documentados.
+
+### FASE 04/06 [F-000004-000007-004] — Liquidez e capacidade de financiamento
+Avaliar entrada, crédito, comprometimento de renda, reserva e risco de concentração em imóvel.  
+**Gate:** intervenções/cenários com limites profissionais explícitos.
+
+### FASE 05/06 [F-000004-000007-005] — Casos e competências CFP®
+Criar casos de manutenção do imóvel, venda forçada, aluguel temporário e compra posterior.  
+**Gate:** casos e competências verificáveis produzidos.
+
+### FASE 06/06 [F-000004-000007-006] — Publicação, auditoria e atualização
+Revisar premissas, cálculos e dependências com partilha e crédito.  
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+
+## EA-000004-000008 — Filhos: alimentos, educação, saúde e logística de convivência — PLANEJADA
+
+### FASE 01/06 [F-000004-000008-001] — Mapa de necessidades dos filhos
+Inventariar alimentação, moradia, educação, saúde, transporte, lazer, cuidado e necessidades especiais.  
+**Gate:** escopo e perguntas persistidos.
+
+### FASE 02/06 [F-000004-000008-002] — Despesas ordinárias, extraordinárias e sazonais
+Separar recorrência, periodicidade, previsibilidade e documentação das despesas.  
+**Gate:** dados/fontes necessários registrados e classificados.
+
+### FASE 03/06 [F-000004-000008-003] — Cenários de fluxo de caixa parental
+Modelar impactos financeiros de diferentes arranjos de custeio e convivência como cenários condicionados às definições jurídicas.  
+**Gate:** metodologia e cenários reproduzíveis documentados.
+
+### FASE 04/06 [F-000004-000008-004] — Reservas e objetivos dos filhos
+Planejar emergências, saúde, educação e objetivos futuros compatíveis com capacidade financeira.  
+**Gate:** intervenções/cenários com limites profissionais explícitos.
+
+### FASE 05/06 [F-000004-000008-005] — Casos, comunicação e competências CFP®
+Treinar coleta de dados, conversa com responsáveis, conflito de prioridades e limites éticos.  
+**Gate:** casos e competências verificáveis produzidos.
+
+### FASE 06/06 [F-000004-000008-006] — Publicação, auditoria e atualização
+Validar cálculos, linguagem e integração com a estratégia jurídica de alimentos/convivência.  
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+
+## EA-000004-000009 — Dívidas, crédito, garantias e contas conjuntas — PLANEJADA
+
+### FASE 01/06 [F-000004-000009-001] — Inventário de obrigações e acessos
+Mapear empréstimos, financiamentos, cartões, contas conjuntas, débitos automáticos, garantias e acessos financeiros.  
+**Gate:** escopo e perguntas persistidos.
+
+### FASE 02/06 [F-000004-000009-002] — Exposição de crédito e fluxo
+Quantificar parcelas, limites, vencimentos, encargos e efeito no caixa individual.  
+**Gate:** dados/fontes necessários registrados e classificados.
+
+### FASE 03/06 [F-000004-000009-003] — Riscos de solidariedade, garantia e inadimplência
+Tratar consequências financeiras condicionadas à situação contratual e à análise jurídica aplicável.  
+**Gate:** metodologia e cenários reproduzíveis documentados.
+
+### FASE 04/06 [F-000004-000009-004] — Plano de transição e controles
+Definir prioridades financeiras, alertas, documentação, monitoramento e cenários de renegociação.  
+**Gate:** intervenções/cenários com limites profissionais explícitos.
+
+### FASE 05/06 [F-000004-000009-005] — Casos e competências CFP®
+Criar casos com dívida conjunta, garantia, cartão adicional, financiamento e assimetria de informação.  
+**Gate:** casos e competências verificáveis produzidos.
+
+### FASE 06/06 [F-000004-000009-006] — Publicação, auditoria e atualização
+Validar dados, cálculos e integração com crédito, patrimônio e superendividamento.  
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+
+## EA-000004-000010 — Investimentos e reorganização de carteiras — PLANEJADA · CONDICIONAL
+
+### FASE 01/06 [F-000004-000010-001] — Inventário e classificação financeira dos investimentos
+Mapear produtos, liquidez, volatilidade, concentração, custos e titularidade formal como dado.  
+**Gate:** escopo e perguntas persistidos.
+
+### FASE 02/06 [F-000004-000010-002] — Necessidades de liquidez e horizonte
+Relacionar carteira a despesas de transição, partilha, moradia e objetivos.  
+**Gate:** dados/fontes necessários registrados e classificados.
+
+### FASE 03/06 [F-000004-000010-003] — Cenários de transferência, resgate e recomposição
+Comparar efeitos financeiros e operacionais sem presumir direito de propriedade ou tratamento tributário.  
+**Gate:** metodologia e cenários reproduzíveis documentados.
+
+### FASE 04/06 [F-000004-000010-004] — Novo perfil de risco e alocação
+Reavaliar capacidade, necessidade e tolerância a risco após mudança de renda, patrimônio e objetivos.  
+**Gate:** intervenções/cenários com limites profissionais explícitos.
+
+### FASE 05/06 [F-000004-000010-005] — Casos e competências CFP®
+Criar casos de concentração, ativos ilíquidos, resgates em momento adverso e recomposição gradual.  
+**Gate:** casos e competências verificáveis produzidos.
+
+### FASE 06/06 [F-000004-000010-006] — Publicação, auditoria e atualização
+Validar dados de produtos, premissas e dependências tributárias/jurídicas.  
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+
+## EA-000004-000011 — Seguros, previdência e proteção financeira — PLANEJADA · CONDICIONAL
+
+### FASE 01/06 [F-000004-000011-001] — Inventário de proteção e previdência
+Mapear seguros, previdência aberta/fechada, coberturas, contribuições, dependentes e beneficiários cadastrados.  
+**Gate:** escopo e perguntas persistidos.
+
+### FASE 02/06 [F-000004-000011-002] — Necessidades de proteção pós-ruptura
+Avaliar renda a proteger, dependentes, dívidas, moradia e riscos pessoais.  
+**Gate:** dados/fontes necessários registrados e classificados.
+
+### FASE 03/06 [F-000004-000011-003] — Beneficiários e efeitos contratuais
+Identificar pontos que exigem confirmação contratual, jurídica, previdenciária ou sucessória antes de qualquer alteração.  
+**Gate:** metodologia e cenários reproduzíveis documentados.
+
+### FASE 04/06 [F-000004-000011-004] — Adequação de coberturas e contribuições
+Construir cenários de continuidade, ajuste, substituição ou reforço de proteção.  
+**Gate:** intervenções/cenários com limites profissionais explícitos.
+
+### FASE 05/06 [F-000004-000011-005] — Casos e competências CFP®
+Treinar decisões de proteção com filhos, ex-cônjuge, previdência e orçamento restrito.  
+**Gate:** casos e competências verificáveis produzidos.
+
+### FASE 06/06 [F-000004-000011-006] — Publicação, auditoria e atualização
+Verificar fontes dos produtos, limites profissionais e integração com planejamento sucessório e tributário.  
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+
+## EA-000004-000012 — Tributação, declarações e custos de transferência — PLANEJADA
+
+### FASE 01/06 [F-000004-000012-001] — Escopo tributário e eventos relevantes
+Identificar eventos potenciais sem presumir incidência: transferências, venda, compensações, rendimentos, dependentes e declarações.  
+**Gate:** escopo e perguntas persistidos.
+
+### FASE 02/06 [F-000004-000012-002] — Fontes oficiais vigentes
+Levantar Receita Federal, legislação tributária e fontes estaduais/municipais pertinentes à data da pesquisa.  
+**Gate:** dados/fontes necessários registrados e classificados.
+
+### FASE 03/06 [F-000004-000012-003] — Matriz evento–tributo–declaração–documento
+Relacionar cada evento a obrigações possíveis, base de cálculo, documentação e incertezas.  
+**Gate:** metodologia e cenários reproduzíveis documentados.
+
+### FASE 04/06 [F-000004-000012-004] — Cenários e custos de transação
+Comparar impactos líquidos de alternativas patrimoniais sem substituir parecer jurídico/contábil.  
+**Gate:** intervenções/cenários com limites profissionais explícitos.
+
+### FASE 05/06 [F-000004-000012-005] — Casos e competências CFP®
+Criar casos de ativos com ganho acumulado, imóveis, investimentos e desigualdade de valores.  
+**Gate:** casos e competências verificáveis produzidos.
+
+### FASE 06/06 [F-000004-000012-006] — Publicação, auditoria e atualização
+Revalidar vigência, jurisdição e necessidade de contador/advogado tributarista.  
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+
+## EA-000004-000013 — Empresas, participações societárias e continuidade de renda — PLANEJADA · CONDICIONAL
+
+### FASE 01/06 [F-000004-000013-001] — Triagem de aplicabilidade e estrutura empresarial
+Identificar empresas, participações, funções, renda, garantias e dependência econômica do negócio.  
+**Gate:** escopo e perguntas persistidos.
+
+### FASE 02/06 [F-000004-000013-002] — Dados financeiros e qualidade da informação
+Mapear demonstrações, fluxo de caixa, endividamento, distribuição de resultados e documentação disponível.  
+**Gate:** dados/fontes necessários registrados e classificados.
+
+### FASE 03/06 [F-000004-000013-003] — Valuation e liquidez societária
+Definir métodos adequados, premissas, limitações e necessidade de especialista independente.  
+**Gate:** metodologia e cenários reproduzíveis documentados.
+
+### FASE 04/06 [F-000004-000013-004] — Continuidade de renda e risco empresarial
+Modelar efeitos de mudanças societárias, de distribuição, garantias e concentração patrimonial.  
+**Gate:** intervenções/cenários com limites profissionais explícitos.
+
+### FASE 05/06 [F-000004-000013-005] — Casos e competências CFP®
+Criar casos de empresa familiar, sócio operacional, renda variável e baixa liquidez.  
+**Gate:** casos e competências verificáveis produzidos.
+
+### FASE 06/06 [F-000004-000013-006] — Publicação, auditoria e atualização
+Validar interfaces com partilha jurídica, contabilidade, tributação e valuation profissional.  
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+
+## EA-000004-000014 — Reconstrução financeira e plano integrado pós-divórcio — PLANEJADA
+
+### FASE 01/06 [F-000004-000014-001] — Consolidação dos diagnósticos anteriores
+Reunir resultados confirmados das estratégias aplicáveis e decisões jurídicas já definidas.  
+**Gate:** escopo e perguntas persistidos.
+
+### FASE 02/06 [F-000004-000014-002] — Novo balanço patrimonial e fluxo sustentável
+Reconstruir patrimônio líquido, renda, despesas, reservas, dívidas e capacidade de poupança.  
+**Gate:** dados/fontes necessários registrados e classificados.
+
+### FASE 03/06 [F-000004-000014-003] — Objetivos e prioridades pós-divórcio
+Redefinir moradia, filhos, carreira, educação, investimentos, aposentadoria e proteção.  
+**Gate:** metodologia e cenários reproduzíveis documentados.
+
+### FASE 04/06 [F-000004-000014-004] — Plano de ação e cronograma
+Transformar prioridades em ações sequenciadas, metas, responsáveis, prazos e gatilhos de revisão.  
+**Gate:** intervenções/cenários com limites profissionais explícitos.
+
+### FASE 05/06 [F-000004-000014-005] — Monitoramento, casos e competências CFP®
+Definir indicadores, revisões periódicas e casos integrados de decisão profissional.  
+**Gate:** casos e competências verificáveis produzidos.
+
+### FASE 06/06 [F-000004-000014-006] — Publicação, auditoria e atualização
+Publicar a unidade integradora e verificar coerência com todas as estratégias e com o PRJ-000003.  
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.

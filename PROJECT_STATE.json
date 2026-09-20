@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000004",
-  "current_strategy_name": "Auditoria de Menus, Botões e Navegação",
+  "current_strategy_code": "EA-000004-000005",
+  "current_strategy_name": "Diagnóstico financeiro da ruptura e orçamento de transição",
   "current_phase": {
-    "phase_number": 3,
-    "phase_total": 3,
-    "phase_code": "F-000004-000004-003",
-    "phase_name": "Relatório, correções aprovadas e verificação",
-    "status": "CONCLUIDA"
+    "phase_number": 1,
+    "phase_total": 6,
+    "phase_code": "F-000004-000005-001",
+    "phase_name": "Delimitação e perguntas de diagnóstico",
+    "status": "PLANEJADA"
   },
-  "last_completed_milestone": "404 de Conhecimentos corrigido na publicação: pages.yml passou a incluir conhecimentos/; workflow 35538488279 concluído com success.",
-  "next_logical_step": "Prosseguir para a próxima prioridade do Projeto Planejamento Financeiro.",
+  "last_completed_milestone": "Carteira de 10 Estratégias Autônomas criada para as consequências financeiras do divórcio litigioso.",
+  "next_logical_step": "Iniciar EA-000004-000005 pela Fase 01/06 e, em paralelo apenas quando as dependências permitirem, acionar as estratégias especializadas aplicáveis.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,9 +38,9 @@
   "site_status": "PUBLICADO_CONHECIMENTOS_CORRIGIDO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "CONCLUIDA",
+  "strategy_status": "PLANEJADA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
-  "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/superendividamento-pf.html",
+  "current_strategy_public_url": null,
   "last_deployment": {
     "workflow_run_id": 35538488279,
     "attempt": 1,
@@ -95,5 +95,74 @@
   },
   "non_blocking_debts": [
     "Apresentação do e-mail: o teste exibiu a marca 'Email sent via EmailJS.com'; avaliar remoção futura se houver suporte do plano/provedor."
-  ]
+  ],
+  "strategy_portfolio": {
+    "theme": "Consequências financeiras do divórcio litigioso c/c partilha de bens, guarda, convivência e alimentos",
+    "legal_source_project": "PRJ-000003",
+    "legal_strategy": "EA-000003-000005",
+    "foundational_strategy": "EA-000004-000005",
+    "integrator_strategy": "EA-000004-000014",
+    "strategies": [
+      {
+        "code": "EA-000004-000005",
+        "name": "Diagnóstico financeiro da ruptura e orçamento de transição",
+        "conditional": false,
+        "status": "PLANEJADA"
+      },
+      {
+        "code": "EA-000004-000006",
+        "name": "Patrimônio, avaliação econômica e liquidez na partilha",
+        "conditional": false,
+        "status": "PLANEJADA"
+      },
+      {
+        "code": "EA-000004-000007",
+        "name": "Moradia, financiamento e reorganização residencial",
+        "conditional": false,
+        "status": "PLANEJADA"
+      },
+      {
+        "code": "EA-000004-000008",
+        "name": "Filhos: alimentos, educação, saúde e logística de convivência",
+        "conditional": false,
+        "status": "PLANEJADA"
+      },
+      {
+        "code": "EA-000004-000009",
+        "name": "Dívidas, crédito, garantias e contas conjuntas",
+        "conditional": false,
+        "status": "PLANEJADA"
+      },
+      {
+        "code": "EA-000004-000010",
+        "name": "Investimentos e reorganização de carteiras",
+        "conditional": true,
+        "status": "PLANEJADA"
+      },
+      {
+        "code": "EA-000004-000011",
+        "name": "Seguros, previdência e proteção financeira",
+        "conditional": true,
+        "status": "PLANEJADA"
+      },
+      {
+        "code": "EA-000004-000012",
+        "name": "Tributação, declarações e custos de transferência",
+        "conditional": false,
+        "status": "PLANEJADA"
+      },
+      {
+        "code": "EA-000004-000013",
+        "name": "Empresas, participações societárias e continuidade de renda",
+        "conditional": true,
+        "status": "PLANEJADA"
+      },
+      {
+        "code": "EA-000004-000014",
+        "name": "Reconstrução financeira e plano integrado pós-divórcio",
+        "conditional": false,
+        "status": "PLANEJADA"
+      }
+    ]
+  }
 }
