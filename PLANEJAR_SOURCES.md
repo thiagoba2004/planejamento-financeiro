@@ -53,3 +53,17 @@ O hub oficial do 54º Exame foi consultado e aponta para Programa Detalhado, Per
 
 **Pendência técnica:** os wrappers oficiais do Programa Detalhado e do Perfil de Competências foram localizados, mas o conteúdo integral dos PDFs ainda não foi extraído de modo verificável nesta execução. Até isso ocorrer, a Fase 02 permanece aberta e a TRILHA_PROVA não deve receber objetivos específicos por inferência.
 
+## Gate da Fase 02 — resultado
+
+**SATISFEITO EM 20/09/2026, com gradação de evidência.**
+
+O corpus oficial foi identificado, classificado e ligado à versão vigente do exame. O Módulo II — Gestão Financeira é oficial e vigente. Os tópicos específicos de gestão de débitos/créditos e os objetivos sobre sinais de sobre-endividamento foram materialmente corroborados por espelhos documentais, classificados como `CORROBORACAO_NAO_CANONICA`.
+
+A impossibilidade técnica de extrair diretamente os bytes de alguns visualizadores oficiais não bloqueia a continuidade substantiva, porque:
+1. a URL e a vigência dos documentos oficiais estão comprovadas;
+2. o conteúdo relevante foi triangulado;
+3. a incerteza foi preservada explicitamente como Grau B;
+4. nenhuma citação observada apenas no espelho será atribuída como citação direta da Planejar.
+
+A auditoria para elevar Grau B → Grau A permanece aberta, sem impedir a Fase 03.
+
