@@ -1,15 +1,5 @@
 # Planejamento Financeiro
 
-Formação profissional baseada no CFP®, integrando preparação para a prova e desenvolvimento de competências para atuação no mercado.
+Formação baseada no CFP®, conectando conhecimento técnico, cálculos, casos e julgamento profissional para quem quer aprender e atuar melhor.
 
-## Unidade disponível
-
-**Superendividamento das Pessoas Físicas**
-
-A unidade reúne gestão financeira, métricas, prevenção, intervenção, casos práticos e avaliação de competências.
-
-## Dois eixos complementares
-
-- **Para a prova CFP®:** conteúdo alinhado às fontes oficiais vigentes e aos temas de Gestão Financeira.
-- **Na prática profissional:** diagnóstico, cálculos, comunicação, intervenção e julgamento profissional.
-- **Domínio profissional:** compreender, executar, decidir, comunicar e manter o conhecimento atualizado.
+**Diretriz da página Início:** apresentação institucional enxuta. O índice estrutural do conteúdo fica em **Mapa do Site**, acessível pelo rodapé da versão pública.
