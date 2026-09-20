@@ -17,8 +17,8 @@
     "phase_name": "Corpus canônico Planejar e fontes primárias",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Fase 01/08 concluída: escopo e perguntas de pesquisa persistidos em research/EA-000004-000001/perguntas-de-pesquisa.md.",
-  "next_logical_step": "Inventariar materiais oficiais vigentes da Planejar pertinentes ao CFP® e registrar versão, data, vigência e dependências.",
+  "last_completed_milestone": "Corpus inicial da Planejar inventariado e classificado; fontes oficiais do exame identificadas e fontes institucionais/editoriais separadas por autoridade.",
+  "next_logical_step": "Ler e extrair de forma verificável o Programa detalhado e o Perfil de competências vigentes para fechar a Fase 02 e mapear a TRILHA_PROVA sem inferências.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
