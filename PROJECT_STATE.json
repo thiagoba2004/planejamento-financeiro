@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000001",
   "current_strategy_name": "Compreender o fenômeno do Superendividamento das Pessoas Físicas",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 2,
     "phase_total": 8,
-    "phase_code": "F-000004-000001-001",
-    "phase_name": "Delimitação do fenômeno e perguntas de pesquisa",
+    "phase_code": "F-000004-000001-002",
+    "phase_name": "Corpus canônico Planejar e fontes primárias",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Projeto inicializado pela Rota A do Gerador de Agents.",
-  "next_logical_step": "Definir perguntas de pesquisa e iniciar inventário das fontes oficiais da Planejar antes de produzir conteúdo formativo.",
+  "last_completed_milestone": "Fase 01/08 concluída: escopo e perguntas de pesquisa persistidos em research/EA-000004-000001/perguntas-de-pesquisa.md.",
+  "next_logical_step": "Inventariar materiais oficiais vigentes da Planejar pertinentes ao CFP® e registrar versão, data, vigência e dependências.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
