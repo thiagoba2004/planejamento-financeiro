@@ -46,7 +46,7 @@ h3{font-size:1.18rem;margin:1.25rem 0 .4rem}
 .button.secondary{background:#fff;color:var(--teal)}
 .section-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem;margin:1.4rem 0 2.2rem}
 .resource-card{min-width:0;display:flex;flex-direction:column;gap:.5rem;padding:1.15rem;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);text-decoration:none;color:inherit;box-shadow:0 6px 18px rgba(7,61,65,.035)}
-.resource-card:hover{border-color:#86b9b6;box-shadow:0 12px 28px rgba(7,61,65,.09);transform:translateY(-2px)}
+a.resource-card:hover{border-color:#86b9b6;box-shadow:0 12px 28px rgba(7,61,65,.09);transform:translateY(-2px)}
 .resource-card small{color:var(--amber);font:900 .68rem/1.2 var(--font-main);text-transform:uppercase;letter-spacing:.06em}
 .resource-card strong{color:var(--teal-deep);font:900 1.12rem/1.2 var(--font-display)}
 .resource-card span{color:var(--muted);font-size:.92rem;line-height:1.48}
@@ -101,3 +101,50 @@ textarea{min-height:11rem;resize:vertical}
 .receipt-actions{display:flex;gap:.65rem;justify-content:center;flex-wrap:wrap;margin-top:1rem}
 .small{font-size:.86rem;color:var(--muted)}
 @media(max-width:760px){.site-map-grid,.contact-grid,.form-row{grid-template-columns:1fr}.home-main{min-height:62vh}}
+
+
+/* === Semântica visual de interação === */
+.action-button,.nav-button{
+  min-height:var(--touch);
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  padding:.72rem 1rem;
+  border-radius:999px;
+  font:800 .74rem/1 var(--font-main);
+  text-transform:uppercase;
+  letter-spacing:.035em
+}
+.action-button{
+  border:1px solid var(--teal);
+  background:var(--teal);
+  color:#fff;
+  cursor:pointer
+}
+.action-button:hover{background:var(--teal-bright);border-color:var(--teal-bright)}
+.action-button:disabled{opacity:.65;cursor:wait}
+.nav-button{
+  border:1px solid var(--teal);
+  background:#fff;
+  color:var(--teal);
+  text-decoration:none
+}
+.nav-button::after{content:" →";margin-left:.4rem}
+.nav-button:hover{background:var(--surface-soft);border-color:var(--teal-bright);color:var(--teal-deep)}
+.secondary-link{
+  font-weight:800;
+  text-decoration:underline;
+  text-decoration-thickness:1px;
+  text-underline-offset:.22em
+}
+a.resource-card{cursor:pointer}
+a.resource-card::after{
+  content:"Acessar →";
+  margin-top:auto;
+  padding-top:.25rem;
+  color:var(--teal);
+  font:900 .68rem/1.2 var(--font-main);
+  text-transform:uppercase;
+  letter-spacing:.05em
+}
+article.resource-card{cursor:default}
