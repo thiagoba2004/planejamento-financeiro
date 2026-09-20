@@ -138,13 +138,24 @@ textarea{min-height:11rem;resize:vertical}
   text-underline-offset:.22em
 }
 a.resource-card{cursor:pointer}
-a.resource-card::after{
-  content:"Acessar →";
-  margin-top:auto;
-  padding-top:.25rem;
-  color:var(--teal);
-  font:900 .68rem/1.2 var(--font-main);
-  text-transform:uppercase;
-  letter-spacing:.05em
-}
 article.resource-card{cursor:default}
+
+
+/* === Diferenciação cromática dos cards === */
+a.resource-card{
+  background:#dcebea;
+  border-color:#a7c9c5;
+  border-top:5px solid var(--teal-bright)
+}
+a.resource-card:hover{
+  background:#cfe3e1;
+  border-color:#7eaaa6;
+  border-top-color:var(--teal);
+  box-shadow:0 12px 28px rgba(7,61,65,.11);
+  transform:translateY(-2px)
+}
+article.resource-card{
+  background:var(--surface);
+  border-color:var(--line);
+  border-top:1px solid var(--line)
+}
