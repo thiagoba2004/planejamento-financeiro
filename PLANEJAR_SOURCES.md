@@ -46,3 +46,10 @@ Ler e extrair de forma verificável, no mínimo, o **Programa detalhado vigente*
 - não afirmar que superendividamento “cai na prova” sem localização no programa;
 - não atribuir peso, número de questões ou objetivo de aprendizagem por inferência;
 - não preencher `TRILHA_PROVA` com memória de versões anteriores do CFP®.
+
+## Estado de verificação em 20/09/2026
+
+O hub oficial do 54º Exame foi consultado e aponta para Programa Detalhado, Perfil de Competências, bibliografia, orientações, fórmulas, Manual, Guia e Código de Ética. A Planejar também confirma publicamente a arquitetura de oito módulos vigente desde abril de 2026 e a existência de oito apostilas oficiais alinhadas ao programa.
+
+**Pendência técnica:** os wrappers oficiais do Programa Detalhado e do Perfil de Competências foram localizados, mas o conteúdo integral dos PDFs ainda não foi extraído de modo verificável nesta execução. Até isso ocorrer, a Fase 02 permanece aberta e a TRILHA_PROVA não deve receber objetivos específicos por inferência.
+
