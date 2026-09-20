@@ -1,0 +1,5 @@
+cenario,parte,ativos_recebidos_valor,valor_alvo_cenario,gap_pre_compensacao,compensacao_teorica,caixa_disponivel_compensacao,necessidade_financiamento,ativos_liquidos_recebidos,patrimonio_liquido_recebido,percentual_liquido,maior_ativo,concentracao_maior_ativo,observacoes
+VENDA_50_50,A,249000,249000,0,0,,,,249000,1.0,,,Hipotese financeira 50/50
+VENDA_50_50,B,249000,249000,0,0,,,,249000,1.0,,,Hipotese financeira 50/50
+IMOVEL_A_OUTROS_B,A,360000,249000,111000,111000,0,111000,0,360000,0.0,360000,1.0,Antes da compensacao
+IMOVEL_A_OUTROS_B,B,138000,249000,-111000,111000,,0,80000,138000,0.5797101449,80000,0.5797101449,Antes da compensacao
