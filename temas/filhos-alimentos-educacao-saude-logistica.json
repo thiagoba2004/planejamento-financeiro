@@ -1,0 +1,38 @@
+{
+  "title": "Filhos: alimentos, educação, saúde e logística de convivência",
+  "updated_at": "2026-09-20",
+  "summary": "Metodologia para mapear necessidades dos filhos, mensalizar despesas sazonais, reconciliar transferências e modelar cenários de custeio sem fixar juridicamente alimentos.",
+  "limits": [
+    "não fixa alimentos",
+    "não define guarda",
+    "não define convivência",
+    "não converte pedido em obrigação confirmada",
+    "não presume rateio jurídico"
+  ],
+  "categories": [
+    "alimentação",
+    "moradia",
+    "educação",
+    "saúde",
+    "transporte",
+    "cuidado",
+    "vestuário e higiene",
+    "lazer cultura esporte",
+    "necessidades especiais"
+  ],
+  "formulas": {
+    "monthly_equivalent": "valor esperado no período / número de meses do período",
+    "child_monthly_cost": "soma das despesas mensais equivalentes",
+    "free_cash_after_children": "renda líquida - despesas próprias essenciais - impacto líquido confirmado dos filhos",
+    "provision": "valor esperado / meses até o vencimento"
+  },
+  "scenarios": [
+    "confirmado",
+    "cenário A",
+    "cenário B"
+  ],
+  "sources": [
+    "https://www.bcb.gov.br/meubc/faqs/p/o-que-e-um-orcamento-pessoal",
+    "https://thiagoba2004.github.io/acoes-judiciais/acoes/divorcio-litigioso-partilha-guarda-convivencia-alimentos.html"
+  ]
+}
