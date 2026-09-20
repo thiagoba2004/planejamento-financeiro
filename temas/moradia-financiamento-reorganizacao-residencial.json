@@ -1,0 +1,33 @@
+{
+  "title": "Moradia, financiamento e reorganização residencial",
+  "updated_at": "2026-09-20",
+  "summary": "Metodologia para comparar custo total de moradia, crédito, liquidez e cenários residenciais após uma ruptura conjugal.",
+  "limits": [
+    "não decide direito ao imóvel",
+    "não define permanência",
+    "não determina partilha",
+    "não atribui responsabilidade jurídica"
+  ],
+  "metrics": {
+    "housing_cost_base": "prestação/aluguel + condomínio + IPTU proporcional + seguros + tarifas/encargos + manutenção",
+    "internal_housing_ratio": "custo ampliado da moradia / renda líquida disponível",
+    "post_housing_margin": "renda líquida disponível - custo ampliado - demais despesas essenciais",
+    "reserve_months": "liquidez pós-transição / despesas essenciais mensais"
+  },
+  "scenarios": [
+    "permanência no imóvel",
+    "venda e locação temporária",
+    "locação sem venda imediata",
+    "compra posterior"
+  ],
+  "current_reference": {
+    "sfh_property_value_cap_brl": 2250000,
+    "source": "Resolução CMN nº 5.255/2025"
+  },
+  "sources": [
+    "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?numero=5255&tipo=Resolu%C3%A7%C3%A3o+CMN",
+    "https://www.bcb.gov.br/meubc/faqs/s/emprestimos-e-financiamentos",
+    "https://www.caixa.gov.br/voce/habitacao/perguntas-frequentes-novos-financiamentos/Paginas/default.aspx",
+    "https://www.fgts.gov.br/Paginas/subpaginas/amortizacao_liquidacao.aspx"
+  ]
+}
