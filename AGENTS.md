@@ -164,7 +164,7 @@ Antes de cada publicação, executar varredura de vazamento de governança. A pr
 
 O Site é uma arquitetura pública multipágina. Não pode ser reduzido a uma Home com cards e uma página longa.
 
-**Menu global obrigatório:** Início · CFP® · Gestão Financeira · Casos · Ferramentas · Métricas · Fontes · Fale Conosco.
+**Menu global obrigatório:** Início · CFP® · Conhecimentos · Casos · Ferramentas · Fontes · Fale Conosco.
 
 Regras obrigatórias:
 - o mesmo menu global aparece em todas as páginas;
@@ -174,12 +174,25 @@ Regras obrigatórias:
 - toda página pública possui no rodapé o hiperlink **Mapa do Site**;
 - `mapa-do-site/` reflete as rotas públicas reais;
 - páginas centrais de Menu possuem conteúdo útil, não placeholders;
+- Menus de primeiro nível representam áreas estáveis e transversais; módulos, temas e seções internas não devem subir automaticamente ao Menu global;
+- `Conhecimentos` agrega áreas como Gestão Financeira; `Métricas e indicadores` integra `Ferramentas`;
 - a interface pública não exibe códigos, estados e metadados de governança interna;
 - `SITE_ARCHITECTURE.md` é a fonte da arquitetura;
 - `SITE_STYLE_GUIDE.md` é a fonte da identidade visual;
 - mudanças estruturais exigem auditoria desktop/mobile, links, overflow e navegação.
 
 **Identidade visual:** deve ser exclusiva deste projeto. Reutilizar a estrutura do Classe e Massas não autoriza reutilizar sua paleta, tipografia ou composição.
+
+### 11.1. Semântica de interação
+
+- `<button>` é reservado a ações;
+- `<a href>` é reservado a navegação;
+- ação primária usa `action-button`;
+- navegação destacada usa `nav-button`;
+- link secundário usa `secondary-link`;
+- `a.resource-card` pode responder a hover e deve indicar navegação;
+- `article.resource-card` é informativo e não pode ter comportamento visual que sugira clique;
+- o texto de cada CTA deve descrever destino ou ação de modo específico.
 
 ## 12. Módulo contact-protocol
 
@@ -203,7 +216,7 @@ Regras:
 - cada projeto deve ter Forminit próprio ou isolamento de roteamento comprovado;
 - o canal só é declarado operacional após teste end-to-end real de recebimento + protocolo + e-mail.
 
-**Estado atual:** `MIGRACAO_TECNICA_PENDENTE` de FormSubmit para Forminit + EmailJS.
+**Estado atual:** `E2E_VERIFICADO` com Forminit + EmailJS.
 
 ## 13. Módulo software
 
