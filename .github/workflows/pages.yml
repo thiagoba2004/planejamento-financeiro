@@ -7,6 +7,12 @@ on:
       - "index.html"
       - "assets/**"
       - "temas/**"
+      - "cfp/**"
+      - "gestao-financeira/**"
+      - "casos/**"
+      - "ferramentas/**"
+      - "metricas/**"
+      - "fontes/**"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 
