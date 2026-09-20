@@ -38,7 +38,7 @@
   "site_status": "PUBLICADO_ARQUITETURA_VERIFICADA_CONTATO_NAO_CONFORME_EM_MIGRACAO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "CONCLUIDA",
+  "strategy_status": "BLOQUEADA_POR_MIGRACAO_STACK_CONTATO",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/superendividamento-pf.html",
   "last_deployment": {
