@@ -313,3 +313,15 @@ A ferramenta externa de navegação disponível nesta execução não conseguiu 
 ## 11. Estado final
 
 `CONCLUIDA`
+
+
+## 12. Correção visual posterior
+
+O usuário apontou que a diferenciação anterior era insuficiente porque acrescentava “Acessar →” sem mudança cromática perceptível.
+
+Correção:
+- removida integralmente a expressão “Acessar →” dos cards;
+- cards clicáveis passam a usar fundo verde-azulado claro `#dcebea`, borda `#a7c9c5` e realce superior turquesa;
+- no hover, o fundo muda para `#cfe3e1` e o realce escurece;
+- cards informativos permanecem brancos e neutros;
+- a distinção passa a ser visual, não textual.
