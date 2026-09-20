@@ -1,0 +1,6 @@
+caso,renda_a,renda_b,despesas_filhos_mensalizadas,transferencia_a_para_b,logistica_extra,provisao_sazonal,status
+matricula_anual,8000,7000,3200,0,0,300,CENARIO
+transferencia_interna,9000,6000,4000,2000,0,0,CENARIO
+duas_residencias,8500,7500,3800,0,600,200,CENARIO
+saude_variavel,7000,6500,3500,0,0,450,CENARIO
+objetivo_futuro,6500,5500,4200,0,0,300,CENARIO
