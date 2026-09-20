@@ -276,7 +276,7 @@ Validar dados, cálculos e integração com crédito, patrimônio e superendivid
 - deploy público `35543623086`: **success**.
 
 
-## EA-000004-000010 — Investimentos e reorganização de carteiras — PLANEJADA · CONDICIONAL
+## EA-000004-000010 — Investimentos e reorganização de carteiras — CONCLUÍDA · CONDICIONAL NO CASO CONCRETO
 
 ### FASE 01/06 [F-000004-000010-001] — Inventário e classificação financeira dos investimentos
 Mapear produtos, liquidez, volatilidade, concentração, custos e titularidade formal como dado.  
@@ -301,6 +301,21 @@ Criar casos de concentração, ativos ilíquidos, resgates em momento adverso e 
 ### FASE 06/06 [F-000004-000010-006] — Publicação, auditoria e atualização
 Validar dados de produtos, premissas e dependências tributárias/jurídicas.  
 **Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+### Resultado — EA-000004-000010
+
+- 6/6 fases concluídas;
+- condicionalidade no caso concreto formalizada;
+- inventário de investimentos e template tabular produzidos;
+- liquidez, horizonte e gap estruturados;
+- cenários de manutenção, portabilidade, resgate e recomposição documentados;
+- capacidade, necessidade e tolerância a risco reavaliadas metodologicamente;
+- suitability, diversificação e FGC tratados com fontes vigentes;
+- cinco casos progressivos e matriz SABER/FAZER/DECIDIR;
+- unidade pública em Markdown + HTML + JSON;
+- integração com Conhecimentos, Gestão Financeira, Casos, Ferramentas, Fontes e Mapa do Site;
+- auditoria: 18 HTMLs, 343 hrefs, zero links/âncoras quebrados e zero vazamentos;
+- deploy público `35543991426`: **success**.
 
 
 ## EA-000004-000011 — Seguros, previdência e proteção financeira — PLANEJADA · CONDICIONAL
