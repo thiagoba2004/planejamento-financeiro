@@ -15,10 +15,10 @@
     "phase_total": 3,
     "phase_code": "F-000004-000004-003",
     "phase_name": "Relatório, correções aprovadas e verificação",
-    "status": "AGUARDA_APROVACAO_DAS_CORRECOES"
+    "status": "IMPLEMENTADA_AGUARDA_VERIFICACAO_DEPLOY"
   },
-  "last_completed_milestone": "Fases 01 e 02 concluídas: 11 páginas, 133 links internos e 10 âncoras auditados sem quebra; arquitetura e semântica de interação analisadas.",
-  "next_logical_step": "Decidir se será aplicada a arquitetura recomendada: Início · CFP® · Conhecimentos · Casos · Ferramentas · Fontes · Fale Conosco, com Métricas absorvida por Ferramentas e Gestão Financeira como subárea de Conhecimentos.",
+  "last_completed_milestone": "Arquitetura aprovada aplicada: Conhecimentos no primeiro nível; Gestão Financeira subordinada; Métricas incorporada a Ferramentas; interação visual diferenciada por semântica.",
+  "next_logical_step": "Verificar links, âncoras, classes de interação, consistência do menu global e deploy do GitHub Pages; se aprovado, encerrar EA-000004-000004.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,7 +38,7 @@
   "site_status": "PUBLICADO_CONTATO_E2E_VERIFICADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "AGUARDA_APROVACAO_DAS_CORRECOES",
+  "strategy_status": "IMPLEMENTADA_AGUARDA_VERIFICACAO_DEPLOY",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/superendividamento-pf.html",
   "last_deployment": {
@@ -50,10 +50,9 @@
   "public_menu": [
     "Início",
     "CFP®",
-    "Gestão Financeira",
+    "Conhecimentos",
     "Casos",
     "Ferramentas",
-    "Métricas",
     "Fontes",
     "Fale Conosco"
   ],
@@ -73,7 +72,7 @@
       "notification_recipient": "planejamentofinanceiro2012@gmail.com"
     },
     "emailjs": {
-      "status": "CONFIGURADO_TESTE_E2E_PENDENTE",
+      "status": "E2E_VERIFICADO",
       "service_id": "service_i1a5brn",
       "template_id": "template_hcfqltz",
       "public_key": "pUNgfjly-neqGcOJE",
