@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000001",
   "current_strategy_name": "Compreender o fenômeno do Superendividamento das Pessoas Físicas",
   "current_phase": {
-    "phase_number": 3,
+    "phase_number": 4,
     "phase_total": 8,
-    "phase_code": "F-000004-000001-003",
-    "phase_name": "Causas, mecanismos e sinais",
+    "phase_code": "F-000004-000001-004",
+    "phase_name": "Diagnóstico e métricas",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Fase 02/08 concluída: corpus Planejar classificado, TRILHA_PROVA materialmente mapeada e graus A/B/C de verificação instituídos.",
-  "next_logical_step": "Construir modelo causal multifatorial do superendividamento, separar causa, gatilho, mecanismo, sinal e consequência, e verificar fontes primárias/institucionais para cada bloco.",
+  "last_completed_milestone": "Fase 03/08 concluída: modelo causal multifatorial distingue vulnerabilidade, gatilho, mecanismo, sinais e consequências sem reduzir o fenômeno a uma causa única.",
+  "next_logical_step": "Construir dicionário de métricas CFP® e complementares, com fórmulas, unidades, interpretação, limites, fonte e testes de casos.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
