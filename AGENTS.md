@@ -6,9 +6,9 @@
 **project_name:** `Planejamento Financeiro`  
 **project_id legado:** `planejamento-financeiro`  
 **generated_from_kernel:** `1.4`  
-**generator_release:** `1.8`  
+**generator_release:** `1.9`  
 **repository:** `thiagoba2004/planejamento-financeiro`  
-**modules:** `research`, `publication`, `software`, `data`, `professional-education`
+**modules:** `research`, `publication`, `web-site`, `contact-protocol`, `software`, `data`, `professional-education`, `publication`, `software`, `data`, `professional-education`
 
 ## 1. Missão
 
@@ -160,49 +160,56 @@ Pode permanecer público quando útil ao leitor:
 
 Antes de cada publicação, executar varredura de vazamento de governança. A presença de marcador interno na camada pública bloqueia o deploy.
 
-### 10.2. Arquitetura pública e identidade visual
+## 11. Módulo web-site
 
-O Site Público adota arquitetura multipágina, inspirada no padrão estrutural do Classe e Massas, mas com identidade própria.
+O Site é uma arquitetura pública multipágina. Não pode ser reduzido a uma Home com cards e uma página longa.
 
-**Menu global obrigatório:** Início · CFP® · Gestão Financeira · Casos · Ferramentas · Métricas · Fontes.
+**Menu global obrigatório:** Início · CFP® · Gestão Financeira · Casos · Ferramentas · Métricas · Fontes · Fale Conosco.
+
+Regras obrigatórias:
+- o mesmo menu global aparece em todas as páginas;
+- a página corrente usa `aria-current="page"`;
+- no mobile, o menu permanece acessível em linha horizontal rolável;
+- a Home é institucional e enxuta; não contém catálogo dos Menus nem “Explore o Site”;
+- toda página pública possui no rodapé o hiperlink **Mapa do Site**;
+- `mapa-do-site/` reflete as rotas públicas reais;
+- páginas centrais de Menu possuem conteúdo útil, não placeholders;
+- a interface pública não exibe códigos, estados e metadados de governança interna;
+- `SITE_ARCHITECTURE.md` é a fonte da arquitetura;
+- `SITE_STYLE_GUIDE.md` é a fonte da identidade visual;
+- mudanças estruturais exigem auditoria desktop/mobile, links, overflow e navegação.
+
+**Identidade visual:** deve ser exclusiva deste projeto. Reutilizar a estrutura do Classe e Massas não autoriza reutilizar sua paleta, tipografia ou composição.
+
+## 12. Módulo contact-protocol
+
+O Fale Conosco adota o padrão técnico de referência do Classe e Massas:
+
+```text
+Forminit = recebimento/aceite da submissão e anexos
+EmailJS  = confirmação do protocolo ao e-mail informado
+```
 
 Regras:
-- o menu global deve aparecer em todas as páginas públicas;
-- no mobile, o menu permanece em uma linha horizontal rolável, sempre acessível;
-- a página atual deve possuir destaque por `aria-current="page"`;
-- cada área central deve conter conteúdo útil, não placeholders;
-- a homepage deve apresentar a arquitetura do Site e conduzir às áreas;
-- o Site não pode ser reduzido a uma homepage e uma unidade longa.
+- e-mail institucional: `planejamentofinanceiro2012@gmail.com`;
+- prefixo: `PF-`;
+- `CONTACT_STACK.md` documenta a configuração e o estado;
+- FormSubmit não é stack canônica e a implementação atual deve ser migrada;
+- é proibido substituir Forminit/EmailJS por outro provedor sem decisão expressa e persistida;
+- o protocolo pode ser preparado antes do envio, mas só é **confirmado** após sucesso do Forminit;
+- EmailJS só é acionado após recebimento confirmado;
+- falha no EmailJS não invalida um protocolo já aceito pelo Forminit;
+- a página de confirmação usa `noindex,nofollow` e oferece **Copiar protocolo**;
+- cada projeto deve ter Forminit próprio ou isolamento de roteamento comprovado;
+- o canal só é declarado operacional após teste end-to-end real de recebimento + protocolo + e-mail.
 
-**Identidade exclusiva Planejamento Financeiro:**
-- verde-petróleo como cor estrutural;
-- branco frio e verde muito claro como superfícies;
-- turquesa como interação;
-- âmbar como acento;
-- tipografia predominantemente sans-serif;
-- cards contemporâneos com cantos arredondados;
-- não reutilizar a paleta nem a aparência do Classe e Massas ou do Ações Judiciais.
-
-Os tokens visuais vigentes estão em `assets/style.css`.
-
-### 10.3. Início, Mapa do Site e Fale Conosco
-
-1. A página **Início** é institucional e enxuta. É proibido transformá-la em catálogo, índice ou explicação dos Menus.
-2. O catálogo de navegação deve ficar na página **Mapa do Site**.
-3. Toda página pública deve possuir, no rodapé, hiperlink denominado exatamente **Mapa do Site**.
-4. **Fale Conosco** integra obrigatoriamente o menu global.
-5. O Fale Conosco deve disponibilizar o e-mail institucional `planejamentofinanceiro2012@gmail.com` e formulário protocolado.
-6. O protocolo público usa prefixo `PF-`, data/hora e componente aleatório.
-7. Se o visitante informar e-mail, o formulário deve solicitar o envio automático do protocolo ao endereço informado.
-8. O protocolo só identifica a comunicação; não significa análise, aceite ou resposta.
-9. Mudanças no provedor do formulário devem preservar geração de protocolo, confirmação visual e tentativa de confirmação por e-mail.
-10. A página de confirmação deve ser `noindex,nofollow`.
+**Estado atual:** `MIGRACAO_TECNICA_PENDENTE` de FormSubmit para Forminit + EmailJS.
 
 ## 11. Módulo software
 
 Distinguir `IMPLEMENTADO`, `TESTADO`, `VERSIONADO`, `IMPLANTADO` e `VERIFICADO EM EXECUÇÃO`. Site no repositório não equivale a site publicado.
 
-## 12. Regra específica do CFP®
+## 14. Regra específica do CFP®
 
 O projeto deve manter uma matriz rastreável entre:
 1. fonte oficial vigente;
@@ -214,11 +221,11 @@ O projeto deve manter uma matriz rastreável entre:
 
 Quando programa, regulamento ou material oficial mudar, identificar o impacto nas unidades dependentes antes de marcá-las como atualizadas.
 
-## 13. Interoperabilidade com PRJ-000003
+## 15. Interoperabilidade com PRJ-000003
 
 O superendividamento também pode ser estudado em Ações Judiciais. Este projeto trata prioritariamente do fenômeno financeiro, diagnóstico, prevenção, recuperação e competências profissionais. Questões jurídicas podem ser referenciadas, mas não devem transformar este projeto em fonte jurídica primária.
 
-## 14. Fechamento
+## 16. Fechamento
 
 Antes de declarar etapa concluída, verificar fontes, cálculos, coerência entre prova/prática, persistência, versionamento, publicação quando aplicável e próximo passo lógico.
 

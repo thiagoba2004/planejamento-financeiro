@@ -26,3 +26,12 @@ Fontes não oficiais usadas no Grau B são **corroboração**, nunca substituem 
 
 Uma limitação técnica de acesso não autoriza inventar conteúdo nem atribuir ao documento oficial uma citação que só foi observada no espelho.
 
+
+
+## DEC-20260920-CONTACT-STACK — Stack canônica do Fale Conosco
+
+**Decisão:** a expressão “seguir o mesmo padrão do Fale Conosco do Classe e Massas” inclui a stack técnica **Forminit + EmailJS**.
+
+A implementação FormSubmit criada anteriormente é classificada como divergência técnica. Ela não deve ser tratada como solução final nem receber estado E2E_VERIFICADO.
+
+**Migração obrigatória:** configurar Forminit isolado para `planejamentofinanceiro2012@gmail.com`, configurar EmailJS para confirmação ao remetente e testar o fluxo completo antes do fechamento.

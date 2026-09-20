@@ -7,7 +7,7 @@
   "repository": "thiagoba2004/planejamento-financeiro",
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
-  "generator_release": "1.8",
+  "generator_release": "1.9",
   "current_strategy_code": "EA-000004-000003",
   "current_strategy_name": "Mapa do Site, Início enxuto e Fale Conosco protocolado",
   "current_phase": {
@@ -15,10 +15,10 @@
     "phase_total": 4,
     "phase_code": "F-000004-000003-003",
     "phase_name": "Testes funcionais",
-    "status": "BLOQUEADA_POR_ATIVACAO_EMAIL"
+    "status": "BLOQUEADA_POR_MIGRACAO_STACK_CONTATO"
   },
-  "last_completed_milestone": "Início enxuto, Mapa do Site, Fale Conosco protocolado e deploy público verificados; navegação e geração de protocolo auditadas no código.",
-  "next_logical_step": "Realizar uma submissão de teste pelo navegador, confirmar a ativação recebida em planejamentofinanceiro2012@gmail.com, repetir a submissão com e-mail de retorno e verificar a chegada do protocolo por e-mail; depois fechar a Fase 04/04.",
+  "last_completed_milestone": "Revisão normativa concluída: módulos web-site e contact-protocol herdados do Gerador 1.9; arquitetura/UI formalizadas e divergência FormSubmit identificada.",
+  "next_logical_step": "Migrar o Fale Conosco de FormSubmit para Forminit + EmailJS usando configuração isolada para planejamentofinanceiro2012@gmail.com; depois executar teste end-to-end e concluir a estratégia.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -29,10 +29,13 @@
     "DECISIONS.md",
     "SOURCE_REGISTRY.jsonl",
     "PLANEJAR_SOURCES.md",
-    "COMPETENCY_MATRIX.md"
+    "COMPETENCY_MATRIX.md",
+    "SITE_ARCHITECTURE.md",
+    "SITE_STYLE_GUIDE.md",
+    "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_CONTATO_IMPLEMENTADO_ATIVACAO_EMAIL_PENDENTE",
+  "site_status": "PUBLICADO_ARQUITETURA_VERIFICADA_CONTATO_NAO_CONFORME_EM_MIGRACAO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "CONCLUIDA",
@@ -51,7 +54,18 @@
     "Casos",
     "Ferramentas",
     "Métricas",
-    "Fontes"
+    "Fontes",
+    "Fale Conosco"
   ],
-  "visual_identity": "financeira/formativa: verde-petróleo, fundo frio, turquesa, âmbar; tipografia predominantemente sans-serif"
+  "visual_identity": "financeira/formativa: verde-petróleo, fundo frio, turquesa, âmbar; tipografia predominantemente sans-serif",
+  "contact_protocol": {
+    "status": "MIGRACAO_TECNICA_PENDENTE",
+    "institutional_email": "planejamentofinanceiro2012@gmail.com",
+    "protocol_prefix": "PF",
+    "canonical_stack": {
+      "receipt": "Forminit",
+      "email_confirmation": "EmailJS"
+    },
+    "current_nonconforming_stack": "FormSubmit"
+  }
 }
