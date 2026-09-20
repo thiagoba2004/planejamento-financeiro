@@ -2,5 +2,27 @@
   "title": "Ferramentas",
   "updated_at": "2026-09-20",
   "html": "index.html",
-  "public_path": "ferramentas/index.html"
+  "public_path": "ferramentas/index.html",
+  "items": [
+    {
+      "title": "Métricas e indicadores",
+      "path": "../metricas/index.html"
+    },
+    {
+      "title": "Escada de intervenção",
+      "path": "../temas/superendividamento-pf.html#intervencao"
+    },
+    {
+      "title": "Linha de base pós-ruptura",
+      "path": "../temas/divorcio-transicao-financeira.html#linha-base"
+    },
+    {
+      "title": "Projeção 30/90/365 dias",
+      "path": "../temas/divorcio-transicao-financeira.html#cenarios"
+    },
+    {
+      "title": "Liquidez e reserva de transição",
+      "path": "../temas/divorcio-transicao-financeira.html#liquidez"
+    }
+  ]
 }

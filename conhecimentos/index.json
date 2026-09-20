@@ -1,0 +1,20 @@
+{
+  "title": "Conhecimentos",
+  "updated_at": "2026-09-20",
+  "html": "index.html",
+  "public_path": "conhecimentos/index.html",
+  "items": [
+    {
+      "title": "Gestão Financeira",
+      "path": "../gestao-financeira/index.html"
+    },
+    {
+      "title": "Superendividamento das Pessoas Físicas",
+      "path": "../temas/superendividamento-pf.html"
+    },
+    {
+      "title": "Divórcio: transição financeira",
+      "path": "../temas/divorcio-transicao-financeira.html"
+    }
+  ]
+}

@@ -2,5 +2,16 @@
   "title": "Casos Práticos",
   "updated_at": "2026-09-20",
   "html": "index.html",
-  "public_path": "casos/index.html"
+  "public_path": "casos/index.html",
+  "sections": [
+    {
+      "title": "Superendividamento",
+      "path": "../temas/superendividamento-pf.html#casos"
+    },
+    {
+      "title": "Ruptura conjugal e orçamento de transição",
+      "path": "../temas/divorcio-transicao-financeira.html#casos",
+      "cases": 4
+    }
+  ]
 }
