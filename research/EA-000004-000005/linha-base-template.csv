@@ -1,0 +1,8 @@
+registro_id,unidade,categoria,subcategoria,descricao,valor,frequencia,valor_mensal_equivalente,data_inicio,data_fim,data_base,recorrente,essencial,fonte,status_comprovacao,rotulo_juridico,contraparte,conta_ou_ativo,vencimento,observacoes
+PF-TR-001,A,RECEITA,Salário,,,,,,,,SIM,,,"DADO_AUSENTE",DADO_AUSENTE,,,,
+PF-TR-002,A,DESPESA,Moradia,,,,,,,,SIM,SIM,,"DADO_AUSENTE",DADO_AUSENTE,,,,
+PF-TR-003,B,RECEITA,Salário,,,,,,,,SIM,,,"DADO_AUSENTE",DADO_AUSENTE,,,,
+PF-TR-004,B,DESPESA,Moradia,,,,,,,,SIM,SIM,,"DADO_AUSENTE",DADO_AUSENTE,,,,
+PF-TR-005,FILHOS,DESPESA,Educação,,,,,,,,SIM,SIM,,"DADO_AUSENTE",DADO_AUSENTE,,,,
+PF-TR-006,FAMILIA,PATRIMONIO,Caixa,,,,,,,,NAO,,,"DADO_AUSENTE",DADO_AUSENTE,,,,
+PF-TR-007,FAMILIA,DIVIDA,Financiamento,,,,,,,,SIM,SIM,,"DADO_AUSENTE",DADO_AUSENTE,,,,

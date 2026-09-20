@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000005",
   "current_strategy_name": "Diagnóstico financeiro da ruptura e orçamento de transição",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 3,
     "phase_total": 6,
-    "phase_code": "F-000004-000005-001",
-    "phase_name": "Delimitação e perguntas de diagnóstico",
-    "status": "PLANEJADA"
+    "phase_code": "F-000004-000005-003",
+    "phase_name": "Fluxo de caixa e cenários provisórios",
+    "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Carteira de 10 Estratégias Autônomas criada para as consequências financeiras do divórcio litigioso.",
-  "next_logical_step": "Iniciar EA-000004-000005 pela Fase 01/06 e, em paralelo apenas quando as dependências permitirem, acionar as estratégias especializadas aplicáveis.",
+  "last_completed_milestone": "Fases 01 e 02 da estratégia-base concluídas: escopo/42 perguntas definidos e inventário de dados/linha de base estruturados.",
+  "next_logical_step": "Modelar fluxo de caixa e cenários provisórios de 30, 90 e 365 dias, preservando rótulos jurídicos e evitando dupla contagem.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,7 +38,7 @@
   "site_status": "PUBLICADO_CONHECIMENTOS_CORRIGIDO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "PLANEJADA",
+  "strategy_status": "EM_EXECUCAO",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": null,
   "last_deployment": {
@@ -107,7 +107,7 @@
         "code": "EA-000004-000005",
         "name": "Diagnóstico financeiro da ruptura e orçamento de transição",
         "conditional": false,
-        "status": "PLANEJADA"
+        "status": "EM_EXECUCAO"
       },
       {
         "code": "EA-000004-000006",
