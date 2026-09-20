@@ -2,7 +2,7 @@
 
 ## Estado
 
-**FORMINIT CONFIGURADO / EMAILJS PENDENTE**
+**FORMINIT CONFIGURADO / EMAILJS SERVICE + PUBLIC KEY CONFIGURADOS / TEMPLATE PENDENTE**
 
 O FormSubmit foi removido da camada pública. O frontend já usa a stack canônica Forminit + EmailJS.
 
@@ -67,3 +67,21 @@ Em 20/09/2026, foi criado o formulário isolado do projeto:
 - Self-email notification: **Active**.
 
 O próximo componente pendente da stack é o EmailJS para envio do protocolo ao remetente.
+
+
+## EmailJS Service e Public Key configurados
+
+Em 20/09/2026, foram configurados no projeto Planejamento Financeiro:
+
+- serviço: **Gmail — Planejamento Financeiro**;
+- Service ID: `service_i1a5brn`;
+- conta institucional: `planejamentofinanceiro2012@gmail.com`;
+- Public Key: `pUNgfjly-neqGcOJE`.
+
+A Public Key é um identificador público de cliente usado pelo SDK do EmailJS no navegador. A Private Key não deve ser versionada nem inserida no frontend.
+
+Permanece pendente:
+- criar o template de confirmação de protocolo;
+- obter o Template ID;
+- inserir o Template ID no frontend;
+- executar o teste end-to-end real.

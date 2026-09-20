@@ -7,7 +7,7 @@
     "receipt": "Forminit",
     "email_confirmation": "EmailJS"
   },
-  "status": "FORMINIT_CONFIGURADO_EMAILJS_PENDENTE",
+  "status": "EMAILJS_SERVICE_PUBLIC_KEY_CONFIGURADOS_TEMPLATE_PENDENTE",
   "html": "index.html",
   "forminit": {
     "form_id": "7wcs1ehfwsf",
@@ -15,6 +15,9 @@
     "self_email_notification": "Active"
   },
   "emailjs": {
-    "status": "PENDENTE_CONFIGURACAO"
+    "status": "SERVICE_E_PUBLIC_KEY_CONFIGURADOS_TEMPLATE_PENDENTE",
+    "service_id": "service_i1a5brn",
+    "public_key": "pUNgfjly-neqGcOJE",
+    "connected_account": "planejamentofinanceiro2012@gmail.com"
   }
 }
