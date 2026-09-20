@@ -190,9 +190,10 @@ Regras obrigatórias:
 - ação primária usa `action-button`;
 - navegação destacada usa `nav-button`;
 - link secundário usa `secondary-link`;
-- `a.resource-card` pode responder a hover e deve indicar navegação;
-- `article.resource-card` é informativo e não pode ter comportamento visual que sugira clique;
-- o texto de cada CTA deve descrever destino ou ação de modo específico.
+- `a.resource-card` deve ser diferenciado por cor e pode responder a hover;
+- `article.resource-card` é informativo, deve permanecer cromaticamente neutro e não pode ter comportamento visual que sugira clique;
+- o texto de cada CTA deve descrever destino ou ação de modo específico;
+- não usar textos redundantes como `Acessar →` em cards; a distinção entre card clicável e informativo deve ser cromática e comportamental.
 
 ## 12. Módulo contact-protocol
 
