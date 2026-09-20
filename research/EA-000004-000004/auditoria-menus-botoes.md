@@ -358,3 +358,13 @@ Adicionar `conhecimentos/**` aos gatilhos e `conhecimentos/*.html` ao artefato p
 ### Regra preventiva
 
 Toda nova rota pública deve ser auditada também no workflow/artefato de Pages, e não apenas no repositório.
+
+
+### Verificação do reparo do 404
+
+- commit corretivo: `1716899d8dade339c88dc78b8efac4ac3a3a748e`;
+- workflow GitHub Pages: `35538488279`;
+- resultado: **success**;
+- `conhecimentos/**` incluído em `on.push.paths`;
+- `_site/conhecimentos` criado no build;
+- `conhecimentos/*.html` copiado para o artefato público.
