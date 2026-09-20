@@ -264,3 +264,25 @@ O menu global precisa de racionalização:
 - **Casos** e **Ferramentas** justificam-se como eixos transversais, mas precisam evoluir além do recorte da primeira unidade.
 
 Nenhuma alteração pública foi aplicada nesta auditoria. A Fase 03 aguarda decisão sobre as correções propostas.
+
+
+## 9. Correções aprovadas e implementadas
+
+O usuário aprovou as recomendações estruturais e de interação.
+
+Implementado:
+- Menu global: **Início · CFP® · Conhecimentos · Casos · Ferramentas · Fontes · Fale Conosco**;
+- nova página `conhecimentos/index.html`;
+- Gestão Financeira preservada como subárea de Conhecimentos;
+- Métricas preservada como página, mas subordinada a Ferramentas;
+- Mapa do Site refeito com hierarquia explícita;
+- CTA “Estudar os casos na unidade” alterado para **“Ver casos de Superendividamento”**;
+- “Voltar para Planejamento Financeiro” alterado para **“Voltar ao início”**;
+- botões de ação passaram a usar `action-button`;
+- links de navegação destacados passaram a usar `nav-button`;
+- links secundários passaram a usar `secondary-link`;
+- cards clicáveis agora têm hover e indicação “Acessar →”;
+- cards informativos deixaram de receber hover que sugeria clique;
+- rotas antigas foram preservadas para não quebrar URLs publicadas.
+
+A verificação pós-implementação e o deploy público permanecem como último gate da estratégia.
