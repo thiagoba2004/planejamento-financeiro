@@ -318,7 +318,7 @@ Validar dados de produtos, premissas e dependências tributárias/jurídicas.
 - deploy público `35543991426`: **success**.
 
 
-## EA-000004-000011 — Seguros, previdência e proteção financeira — PLANEJADA · CONDICIONAL
+## EA-000004-000011 — Seguros, previdência e proteção financeira — CONCLUÍDA · CONDICIONAL NO CASO CONCRETO
 
 ### FASE 01/06 [F-000004-000011-001] — Inventário de proteção e previdência
 Mapear seguros, previdência aberta/fechada, coberturas, contribuições, dependentes e beneficiários cadastrados.  
@@ -343,6 +343,21 @@ Treinar decisões de proteção com filhos, ex-cônjuge, previdência e orçamen
 ### FASE 06/06 [F-000004-000011-006] — Publicação, auditoria e atualização
 Verificar fontes dos produtos, limites profissionais e integração com planejamento sucessório e tributário.  
 **Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+### Resultado — EA-000004-000011
+
+- 6/6 fases concluídas;
+- condicionalidade no caso concreto formalizada;
+- inventário de seguros e previdência e template tabular produzidos;
+- necessidades e gap de proteção estruturados;
+- beneficiários e efeitos contratuais tratados com dependências jurídicas/sucessórias explícitas;
+- previdência aberta e fechada diferenciadas metodologicamente;
+- cenários de manter, ajustar, substituir e reforçar documentados;
+- cinco casos progressivos e matriz SABER/FAZER/DECIDIR;
+- unidade pública em Markdown + HTML + JSON;
+- integração com Conhecimentos, Gestão Financeira, Casos, Ferramentas, Fontes e Mapa do Site;
+- auditoria: 19 HTMLs, 372 hrefs, zero links/âncoras quebrados e zero vazamentos;
+- deploy público `35544299674`: **success**.
 
 
 ## EA-000004-000012 — Tributação, declarações e custos de transferência — PLANEJADA
