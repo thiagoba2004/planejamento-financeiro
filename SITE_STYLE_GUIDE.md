@@ -24,10 +24,21 @@ A identidade deve transmitir clareza, formação, organização, cálculo e toma
 ## Componentes
 
 - cards contemporâneos com cantos arredondados;
-- botões em formato pill quando apropriado;
 - métricas em painéis simples;
 - tabelas didáticas;
 - linguagem visual distinta do Ações Judiciais.
+
+## Semântica visual de interação
+
+A aparência deve ajudar o visitante a antecipar o que acontecerá:
+
+- **ação:** botão preenchido (`action-button`), reservado a operações como enviar ou copiar;
+- **navegação destacada:** CTA contornado (`nav-button`) com indicação direcional;
+- **link secundário:** texto sublinhado (`secondary-link`);
+- **card clicável:** `<a class="resource-card">`, com resposta de hover e indicação “Acessar →”;
+- **card informativo:** `<article class="resource-card">`, estático, sem hover que prometa clique.
+
+Nunca trocar `button` por `a` ou vice-versa apenas para obter determinada aparência.
 
 ## Home
 
