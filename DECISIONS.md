@@ -14,3 +14,15 @@ Todo tema deve identificar explicitamente TRILHA_PROVA e TRILHA_PRATICA quando a
 
 ## DEC-000005 — 20/09/2026 — Autonomia diante do projeto jurídico
 Questões jurídicas do superendividamento podem ser referenciadas no PRJ-000003, sem transferir ao Planejamento Financeiro a função de fonte jurídica primária.
+
+## DEC-000006 — 20/09/2026 — Graus de verificação de fontes externas canônicas
+
+Quando uma fonte externa oficial é canônica, mas sua interface impede a extração direta do arquivo, o projeto distingue:
+- **GRAU A:** conteúdo verificado diretamente na fonte canônica;
+- **GRAU B:** fonte oficial identificada/vigente e conteúdo triangulado por reprodução independente coerente;
+- **GRAU C:** fonte apenas identificada, sem verificação material suficiente.
+
+Fontes não oficiais usadas no Grau B são **corroboração**, nunca substituem a fonte canônica e devem ser registradas como `CORROBORACAO_NAO_CANONICA`.
+
+Uma limitação técnica de acesso não autoriza inventar conteúdo nem atribuir ao documento oficial uma citação que só foi observada no espelho.
+
