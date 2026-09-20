@@ -1,0 +1,5 @@
+item,valor_bruto,passivo_vinculado,custos_conversao,valor_liquido
+Imovel,600000,220000,20000,360000
+Veiculo,90000,30000,2000,58000
+Investimento,80000,0,0,80000
+TOTAL,770000,250000,22000,498000

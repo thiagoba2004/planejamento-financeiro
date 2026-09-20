@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000006",
   "current_strategy_name": "Patrimônio, avaliação econômica e liquidez na partilha",
   "current_phase": {
-    "phase_number": 3,
+    "phase_number": 4,
     "phase_total": 6,
-    "phase_code": "F-000004-000006-003",
-    "phase_name": "Métodos de avaliação econômica",
+    "phase_code": "F-000004-000006-004",
+    "phase_name": "Liquidez, indivisibilidade e cenários de partilha",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Fases 01 e 02 da estratégia patrimonial concluídas: fronteira jurídica/financeira definida e inventário patrimonial com qualidade de dados estruturado.",
-  "next_logical_step": "Definir métodos de avaliação econômica por classe de ativo, datas-base, custos de conversão e limites de valuation, com teste reproduzível.",
+  "last_completed_milestone": "Fases 01 a 03 concluídas: escopo, inventário e métodos de avaliação econômica por classe validados.",
+  "next_logical_step": "Comparar cenários econômicos de venda, adjudicação, compensação e manutenção temporária sem convertê-los em recomendação jurídica de partilha.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",

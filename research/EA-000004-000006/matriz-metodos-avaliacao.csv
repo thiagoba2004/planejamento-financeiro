@@ -1,0 +1,11 @@
+categoria,metodo_preferencial,valor_entrada,passivo_vinculado,custos_conversao,data_base,fonte_valor,confianca,camada_liquidez,observacoes
+CAIXA,Saldo comprovado,,,,,,,LIQUIDO_IMEDIATO,
+INVESTIMENTO,Posição ou valor de resgate,,,,,,,,
+IMOVEL,Avaliação técnica ou comparáveis ajustados,,,,,,,,
+VEICULO,Referência de mercado ajustada,,,,,,,,
+FGTS,Saldo comprovado por competência,,,,,,,CONDICIONADO_A_EVENTO,
+PREVIDENCIA,Saldo de resgate/reserva conforme produto,,,,,,,,
+EMPRESA,Avaliação compatível com finalidade e dados,,,,,,,INDIVISIVEL_OU_COMPLEXO,
+ATIVO_DIGITAL,Quantidade x cotação na data/hora-base,,,,,,,,
+RECEBIVEL,Nominal ou valor presente conforme certeza/prazo,,,,,,,CONDICIONADO_A_EVENTO,
+DIVIDA,Saldo para liquidação ou saldo contratual,,,,,,,,
