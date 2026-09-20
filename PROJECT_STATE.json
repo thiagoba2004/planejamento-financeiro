@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000009",
-  "current_strategy_name": "Dívidas, crédito, garantias e contas conjuntas",
+  "current_strategy_code": "EA-000004-000010",
+  "current_strategy_name": "Investimentos e reorganização de carteiras",
   "current_phase": {
-    "phase_number": 6,
+    "phase_number": 1,
     "phase_total": 6,
-    "phase_code": "F-000004-000009-006",
-    "phase_name": "Publicação, auditoria e atualização",
-    "status": "EM_EXECUCAO"
+    "phase_code": "F-000004-000010-001",
+    "phase_name": "Inventário e classificação financeira dos investimentos",
+    "status": "PLANEJADA"
   },
-  "last_completed_milestone": "Fases 01 a 05 da EA-000004-000009 concluídas: inventário, exposição, garantias/inadimplência, controles e competências produzidos.",
-  "next_logical_step": "Auditar a unidade pública de dívidas e crédito, verificar links/governança e confirmar o deploy do GitHub Pages antes de concluir a estratégia.",
+  "last_completed_milestone": "EA-000004-000009 concluída: dívidas, crédito, garantias, contas e controles publicados, integrados, auditados e validados.",
+  "next_logical_step": "Iniciar EA-000004-000010 pela Fase 01/06, inventariando produtos, liquidez, volatilidade, concentração, custos e titularidade formal dos investimentos; por ser estratégia condicional, documentar também eventual NÃO APLICÁVEL se não houver investimentos relevantes.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,18 +35,18 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICACAO_DIVIDAS_CREDITO_EM_AUDITORIA",
+  "site_status": "PUBLICADO_DIVIDAS_CREDITO_GARANTIAS_AUDITADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "PLANEJADA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": null,
   "last_deployment": {
-    "workflow_run_id": 35543306046,
+    "workflow_run_id": 35543623086,
     "attempt": 1,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "public_content_commit": "80b1c7862f7f688877f3e8d2c9d46501fbd7668c"
+    "public_content_commit": "371b802e21dd464839d4df5552556f7f78b5c07b"
   },
   "public_menu": [
     "Início",
@@ -131,7 +131,7 @@
         "code": "EA-000004-000009",
         "name": "Dívidas, crédito, garantias e contas conjuntas",
         "conditional": false,
-        "status": "PLANEJADA"
+        "status": "CONCLUIDA"
       },
       {
         "code": "EA-000004-000010",
