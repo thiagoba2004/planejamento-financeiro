@@ -1,0 +1,3 @@
+obrigacao_id,unidade,data_vencimento,categoria,descricao,valor,recorrente,essencial,consequencia_atraso,adiavel,rotulo_juridico,status_comprovacao,observacoes
+PF-OBR-001,A,,MORADIA,,,SIM,SIM,,,JURIDICO_CONFIRMADO,DADO_AUSENTE,
+PF-OBR-002,A,,FILHOS,,,SIM,SIM,,,DADO_AUSENTE,DADO_AUSENTE,

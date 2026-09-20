@@ -1,0 +1,4 @@
+item_id,unidade,tipo,descricao,valor_bruto,passivo_custo,valor_liquido,camada_liquidez,prazo_dias,rotulo_juridico,status_comprovacao,data_disponibilidade,observacoes
+PF-LIQ-001,A,CAIXA,Conta operacional,,,,L0,0,JURIDICO_CONFIRMADO,DADO_AUSENTE,,
+PF-LIQ-002,A,INVESTIMENTO,Aplicação resgatável,,,,L1,,DADO_AUSENTE,DADO_AUSENTE,,
+PF-LIQ-003,A,ATIVO_VENDA,Ativo condicionado a venda,,,,L3,,CONTROVERTIDO,DADO_AUSENTE,,

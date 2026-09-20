@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000005",
   "current_strategy_name": "Diagnóstico financeiro da ruptura e orçamento de transição",
   "current_phase": {
-    "phase_number": 4,
+    "phase_number": 6,
     "phase_total": 6,
-    "phase_code": "F-000004-000005-004",
-    "phase_name": "Liquidez e reserva de transição",
+    "phase_code": "F-000004-000005-006",
+    "phase_name": "Publicação, auditoria e atualização",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Fases 01 a 03 concluídas: diagnóstico delimitado, linha de base estruturada e cenários de caixa 30/90/365 dias com teste reproduzível.",
-  "next_logical_step": "Dimensionar liquidez e reserva de transição, classificar fontes de caixa por disponibilidade jurídica/econômica e construir calendário de obrigações prioritárias.",
+  "last_completed_milestone": "Fases 01 a 05 concluídas: diagnóstico, dados, cenários, liquidez, casos e competências profissionais consolidados.",
+  "next_logical_step": "Criar unidade pública em Markdown + HTML + JSON, integrar Conhecimentos/Casos/Ferramentas/Mapa do Site, auditar cálculos/links/governança e verificar GitHub Pages.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
