@@ -38,3 +38,13 @@ O ambiente de pesquisa utilizado nesta execução não conseguiu resolver imedia
 ## Conclusão
 
 O gate da Fase 08/08 foi satisfeito. A Estratégia `EA-000004-000001` pode ser encerrada como **CONCLUÍDA**, permanecendo sujeita a atualização quando o CFP®, suas fontes oficiais ou as referências técnicas relevantes mudarem.
+
+## Verificação final após saneamento dos avisos públicos
+
+- Run final do conteúdo saneado: `35522172380`.
+- Estado: `completed/success`.
+- Todas as etapas do job `deploy`: `success`.
+- GitHub registrou `Reported success!`.
+- Environment URL: https://thiagoba2004.github.io/planejamento-financeiro/
+
+Esta é a verificação de deployment correspondente ao conteúdo final que já declara o Site como publicado.
