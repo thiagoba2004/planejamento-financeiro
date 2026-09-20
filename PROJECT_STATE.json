@@ -17,8 +17,8 @@
     "phase_name": "Corpus canônico Planejar e fontes primárias",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Corpus inicial da Planejar inventariado e classificado; fontes oficiais do exame identificadas e fontes institucionais/editoriais separadas por autoridade.",
-  "next_logical_step": "Ler e extrair de forma verificável o Programa detalhado e o Perfil de competências vigentes para fechar a Fase 02 e mapear a TRILHA_PROVA sem inferências.",
+  "last_completed_milestone": "Arquitetura oficial do CFP® 2026 consolidada e corpus ampliado; vínculo de superendividamento à arquitetura de Gestão Financeira registrado sem inventar tópicos específicos de prova.",
+  "next_logical_step": "Obter leitura verificável do Programa Detalhado e do Perfil de Competências vigentes para mapear os tópicos específicos da TRILHA_PROVA e decidir o gate da Fase 02.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
