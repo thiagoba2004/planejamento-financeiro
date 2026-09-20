@@ -15,10 +15,10 @@
     "phase_total": 4,
     "phase_code": "F-000004-000003-003",
     "phase_name": "Testes funcionais",
-    "status": "BLOQUEADA_POR_MIGRACAO_STACK_CONTATO"
+    "status": "EM_EXECUCAO"
   },
   "last_completed_milestone": "Revisão normativa concluída: módulos web-site e contact-protocol herdados do Gerador 1.9; arquitetura/UI formalizadas e divergência FormSubmit identificada.",
-  "next_logical_step": "Migrar o Fale Conosco de FormSubmit para Forminit + EmailJS usando configuração isolada para planejamentofinanceiro2012@gmail.com; depois executar teste end-to-end e concluir a estratégia.",
+  "next_logical_step": "Recuperar stack canônica do Classe e Massas, migrar o Fale Conosco e executar testes técnicos; registrar eventual bloqueio externo de configuração.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,7 +38,7 @@
   "site_status": "PUBLICADO_ARQUITETURA_VERIFICADA_CONTATO_NAO_CONFORME_EM_MIGRACAO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "BLOQUEADA_POR_MIGRACAO_STACK_CONTATO",
+  "strategy_status": "EM_EXECUCAO",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/superendividamento-pf.html",
   "last_deployment": {
