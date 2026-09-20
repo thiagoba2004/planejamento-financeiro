@@ -205,7 +205,7 @@ Regras:
 
 **Estado atual:** `MIGRACAO_TECNICA_PENDENTE` de FormSubmit para Forminit + EmailJS.
 
-## 11. Módulo software
+## 13. Módulo software
 
 Distinguir `IMPLEMENTADO`, `TESTADO`, `VERSIONADO`, `IMPLANTADO` e `VERIFICADO EM EXECUÇÃO`. Site no repositório não equivale a site publicado.
 
