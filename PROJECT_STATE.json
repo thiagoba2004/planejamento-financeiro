@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000007",
-  "current_strategy_name": "Moradia, financiamento e reorganização residencial",
+  "current_strategy_code": "EA-000004-000008",
+  "current_strategy_name": "Filhos: alimentos, educação, saúde e logística de convivência",
   "current_phase": {
-    "phase_number": 6,
+    "phase_number": 1,
     "phase_total": 6,
-    "phase_code": "F-000004-000007-006",
-    "phase_name": "Publicação, auditoria e atualização",
-    "status": "EM_EXECUCAO"
+    "phase_code": "F-000004-000008-001",
+    "phase_name": "Mapa de necessidades dos filhos",
+    "status": "PLANEJADA"
   },
-  "last_completed_milestone": "Fases 01 a 05 da EA-000004-000007 concluídas: diagnóstico, custo total, cenários, liquidez/crédito e competências produzidos.",
-  "next_logical_step": "Auditar a unidade pública de moradia, verificar links/governança e confirmar o deploy do GitHub Pages antes de concluir a estratégia.",
+  "last_completed_milestone": "EA-000004-000007 concluída: moradia, financiamento e reorganização residencial publicados, integrados, auditados e validados.",
+  "next_logical_step": "Iniciar EA-000004-000008 pela Fase 01/06, inventariando alimentação, moradia, educação, saúde, transporte, lazer, cuidado e necessidades especiais dos filhos, sem fixar alimentos juridicamente.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,18 +35,18 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICACAO_MORADIA_EM_AUDITORIA",
+  "site_status": "PUBLICADO_MORADIA_FINANCIAMENTO_REORGANIZACAO_AUDITADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "PLANEJADA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": null,
   "last_deployment": {
-    "workflow_run_id": 35542281964,
+    "workflow_run_id": 35542862117,
     "attempt": 1,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "public_content_commit": "1b14c96d462acd4404dd4428a91b77cfb0be2181"
+    "public_content_commit": "d0ed6c9ce2c14fe7242ceada9f96b2e4d769a573"
   },
   "public_menu": [
     "Início",
@@ -119,7 +119,7 @@
         "code": "EA-000004-000007",
         "name": "Moradia, financiamento e reorganização residencial",
         "conditional": false,
-        "status": "PLANEJADA"
+        "status": "CONCLUIDA"
       },
       {
         "code": "EA-000004-000008",
