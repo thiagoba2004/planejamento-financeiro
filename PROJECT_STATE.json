@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000003",
   "current_strategy_name": "Mapa do Site, Início enxuto e Fale Conosco protocolado",
   "current_phase": {
-    "phase_number": 3,
+    "phase_number": 4,
     "phase_total": 4,
-    "phase_code": "F-000004-000003-003",
-    "phase_name": "Testes funcionais",
-    "status": "TESTE_E2E_PENDENTE"
+    "phase_code": "F-000004-000003-004",
+    "phase_name": "Deploy, auditoria e fechamento",
+    "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "Forminit + EmailJS completamente configurados e publicados no Planejamento Financeiro; deploy 35535075468 concluído com sucesso.",
-  "next_logical_step": "Executar submissão real pelo Fale Conosco com e-mail de retorno e verificar Forminit, protocolo, notificação institucional e entrega do EmailJS.",
+  "last_completed_milestone": "EA-000004-000003 concluída com Fale Conosco E2E_VERIFICADO. Teste real confirmou protocolo PF-20260920-172057-2A2C86, Forminit, EmailJS e entrega efetiva ao destinatário.",
+  "next_logical_step": "Retomar a próxima prioridade do Projeto Planejamento Financeiro conforme o Plano de Fases vigente.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,10 +35,10 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_CONTATO_CONFIGURADO_TESTE_E2E_PENDENTE",
+  "site_status": "PUBLICADO_CONTATO_E2E_VERIFICADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "TESTE_E2E_PENDENTE",
+  "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/superendividamento-pf.html",
   "last_deployment": {
@@ -59,7 +59,7 @@
   ],
   "visual_identity": "financeira/formativa: verde-petróleo, fundo frio, turquesa, âmbar; tipografia predominantemente sans-serif",
   "contact_protocol": {
-    "status": "CONFIGURACAO_COMPLETA_TESTE_E2E_PENDENTE",
+    "status": "E2E_VERIFICADO",
     "institutional_email": "planejamentofinanceiro2012@gmail.com",
     "protocol_prefix": "PF",
     "canonical_stack": {
@@ -79,6 +79,21 @@
       "public_key": "pUNgfjly-neqGcOJE",
       "connected_account": "planejamentofinanceiro2012@gmail.com",
       "template_name": "Confirmação de Protocolo - Planejamento Financeiro"
+    },
+    "last_test": {
+      "timestamp": "2026-09-20T17:21:03-03:00",
+      "protocol": "PF-20260920-172057-2A2C86",
+      "forminit_record": "rS2g1N0yKZb08RwK",
+      "emailjs_history_id": "email_f0nKUDSMlsaED3hqEQNKnsLk",
+      "emailjs_result": "OK",
+      "recipient": "thiagoba2004@yahoo.com.br",
+      "project": "Planejamento Financeiro",
+      "browser": "Chrome / Android",
+      "delivery_to_inbox": "CONFIRMADA",
+      "initial_delivery_folder": "INBOX"
     }
-  }
+  },
+  "non_blocking_debts": [
+    "Apresentação do e-mail: o teste exibiu a marca 'Email sent via EmailJS.com'; avaliar remoção futura se houver suporte do plano/provedor."
+  ]
 }
