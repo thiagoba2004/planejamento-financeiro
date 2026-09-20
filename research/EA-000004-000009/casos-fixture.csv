@@ -1,0 +1,6 @@
+caso,renda_liquida,despesas_essenciais,servico_divida,limites_nao_utilizados,saldo_devedor,custo_total_proposta,prazo_meses,status
+divida_conjunta,12000,7000,2800,15000,95000,,,CENARIO
+garantia_terceiro,9000,6000,1800,5000,60000,,,CENARIO
+cartao_adicional,10000,6500,2200,12000,18000,,,CENARIO
+renegociacao_atual,8000,5500,1800,0,30000,36000,18,CENARIO
+renegociacao_nova,8000,5500,1200,0,30000,43200,36,CENARIO
