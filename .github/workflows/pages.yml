@@ -8,6 +8,7 @@ on:
       - "assets/**"
       - "temas/**"
       - "cfp/**"
+      - "conhecimentos/**"
       - "gestao-financeira/**"
       - "casos/**"
       - "ferramentas/**"
@@ -38,11 +39,12 @@ jobs:
         uses: actions/checkout@v6
       - name: Build public-only artifact
         run: |
-          mkdir -p _site/assets _site/temas _site/cfp _site/gestao-financeira _site/casos _site/ferramentas _site/metricas _site/fontes _site/fale-conosco _site/mapa-do-site
+          mkdir -p _site/assets _site/temas _site/cfp _site/conhecimentos _site/gestao-financeira _site/casos _site/ferramentas _site/metricas _site/fontes _site/fale-conosco _site/mapa-do-site
           cp index.html _site/index.html
           cp -R assets/. _site/assets/
           cp temas/*.html _site/temas/
           cp cfp/*.html _site/cfp/
+          cp conhecimentos/*.html _site/conhecimentos/
           cp gestao-financeira/*.html _site/gestao-financeira/
           cp casos/*.html _site/casos/
           cp ferramentas/*.html _site/ferramentas/

@@ -17,8 +17,8 @@
     "phase_name": "Relatório, correções aprovadas e verificação",
     "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "Correção visual validada: 'Acessar →' removido integralmente; cards clicáveis diferenciados cromaticamente; cards informativos neutros; deploy 35537926107 success.",
-  "next_logical_step": "Prosseguir para a próxima prioridade do Projeto Planejamento Financeiro.",
+  "last_completed_milestone": "Causa do 404 em Conhecimentos identificada: pages.yml não incluía conhecimentos/ no artefato público.",
+  "next_logical_step": "Publicar workflow corrigido e confirmar que conhecimentos/index.html entra no artefato GitHub Pages.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,7 +35,7 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_CARDS_CROMATICAMENTE_DIFERENCIADOS",
+  "site_status": "CORRECAO_PUBLICACAO_CONHECIMENTOS_EM_DEPLOY",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "CONCLUIDA",

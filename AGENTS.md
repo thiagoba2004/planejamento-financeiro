@@ -179,7 +179,9 @@ Regras obrigatórias:
 - a interface pública não exibe códigos, estados e metadados de governança interna;
 - `SITE_ARCHITECTURE.md` é a fonte da arquitetura;
 - `SITE_STYLE_GUIDE.md` é a fonte da identidade visual;
-- mudanças estruturais exigem auditoria desktop/mobile, links, overflow e navegação.
+- mudanças estruturais exigem auditoria desktop/mobile, links, overflow e navegação;
+- toda nova rota pública deve ser incluída explicitamente no workflow de GitHub Pages (`paths`, diretório `_site` e cópia para o artefato) antes de considerar o deploy concluído;
+- auditoria de publicação deve verificar não apenas a existência no repositório, mas a presença da rota no artefato público.
 
 **Identidade visual:** deve ser exclusiva deste projeto. Reutilizar a estrutura do Classe e Massas não autoriza reutilizar sua paleta, tipografia ou composição.
 

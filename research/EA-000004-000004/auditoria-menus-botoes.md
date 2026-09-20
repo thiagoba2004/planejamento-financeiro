@@ -336,3 +336,25 @@ Correção:
 - card informativo: branco/neutro;
 - commit da alteração visual: `09212f0da3d9dabc2f72ab35130f0ad0443ecace`;
 - GitHub Pages workflow `35537926107`: **success**.
+
+
+## 13. Defeito de publicação — Conhecimentos
+
+Após a reorganização do Menu, a rota `conhecimentos/index.html` existia no repositório e os hyperlinks estavam corretos, mas o GitHub Pages retornava 404.
+
+### Causa raiz
+
+O workflow `.github/workflows/pages.yml` usa allowlist explícita de rotas públicas. A nova pasta `conhecimentos/` não havia sido acrescentada a:
+- `on.push.paths`;
+- criação da árvore `_site`;
+- cópia de arquivos HTML para o artefato.
+
+Assim, o workflow podia concluir com **success** enquanto a rota nova permanecia ausente do artefato publicado.
+
+### Correção
+
+Adicionar `conhecimentos/**` aos gatilhos e `conhecimentos/*.html` ao artefato público.
+
+### Regra preventiva
+
+Toda nova rota pública deve ser auditada também no workflow/artefato de Pages, e não apenas no repositório.
