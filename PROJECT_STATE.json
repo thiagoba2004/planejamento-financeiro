@@ -17,8 +17,8 @@
     "phase_name": "Relatório, correções aprovadas e verificação",
     "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "Causa do 404 em Conhecimentos identificada: pages.yml não incluía conhecimentos/ no artefato público.",
-  "next_logical_step": "Publicar workflow corrigido e confirmar que conhecimentos/index.html entra no artefato GitHub Pages.",
+  "last_completed_milestone": "404 de Conhecimentos corrigido na publicação: pages.yml passou a incluir conhecimentos/; workflow 35538488279 concluído com success.",
+  "next_logical_step": "Prosseguir para a próxima prioridade do Projeto Planejamento Financeiro.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,18 +35,18 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "CORRECAO_PUBLICACAO_CONHECIMENTOS_EM_DEPLOY",
+  "site_status": "PUBLICADO_CONHECIMENTOS_CORRIGIDO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/superendividamento-pf.html",
   "last_deployment": {
-    "workflow_run_id": 35537926107,
+    "workflow_run_id": 35538488279,
     "attempt": 1,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "public_content_commit": "09212f0da3d9dabc2f72ab35130f0ad0443ecace"
+    "public_content_commit": "1716899d8dade339c88dc78b8efac4ac3a3a748e"
   },
   "public_menu": [
     "Início",
