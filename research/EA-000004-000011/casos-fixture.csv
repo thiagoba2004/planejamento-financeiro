@@ -1,0 +1,6 @@
+caso,renda_liquida,dividas_prioritarias,necessidades_dependentes,custos_transicao,ativos_liquidos,coberturas_confirmadas,premios_mensais,status
+ex_conjuge_beneficiario,12000,0,250000,30000,80000,200000,350,CENARIO
+prestamista,10000,100000,180000,20000,50000,80000,420,CENARIO
+seguro_coletivo,9000,30000,220000,25000,40000,300000,0,CENARIO
+previdencia_aberta,11000,20000,150000,60000,35000,100000,250,CENARIO
+fundo_pensao,14000,0,300000,40000,70000,200000,300,CENARIO
