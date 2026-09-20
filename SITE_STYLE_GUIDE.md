@@ -35,8 +35,8 @@ A aparência deve ajudar o visitante a antecipar o que acontecerá:
 - **ação:** botão preenchido (`action-button`), reservado a operações como enviar ou copiar;
 - **navegação destacada:** CTA contornado (`nav-button`) com indicação direcional;
 - **link secundário:** texto sublinhado (`secondary-link`);
-- **card clicável:** `<a class="resource-card">`, com resposta de hover e indicação “Acessar →”;
-- **card informativo:** `<article class="resource-card">`, estático, sem hover que prometa clique.
+- **card clicável:** `<a class="resource-card">`, identificado por fundo verde-azulado claro, borda/realce turquesa e resposta de hover;
+- **card informativo:** `<article class="resource-card">`, branco e neutro, estático e sem hover que prometa clique.
 
 Nunca trocar `button` por `a` ou vice-versa apenas para obter determinada aparência.
 
