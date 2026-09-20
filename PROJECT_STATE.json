@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000003",
   "current_strategy_name": "Mapa do Site, Início enxuto e Fale Conosco protocolado",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 3,
     "phase_total": 4,
-    "phase_code": "F-000004-000003-001",
-    "phase_name": "Recuperação do padrão e desenho da correção",
+    "phase_code": "F-000004-000003-003",
+    "phase_name": "Testes funcionais",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Novo pedido de correção da arquitetura pública registrado.",
-  "next_logical_step": "Recuperar o Fale Conosco do Classe e Massas e implantar Mapa do Site, Início enxuto e contato protocolado.",
+  "last_completed_milestone": "Fase 02/04 concluída: Início institucional enxuto, Mapa do Site, Fale Conosco protocolado e menu global atualizado.",
+  "next_logical_step": "Publicar, disparar ativação inicial do FormSubmit, auditar navegação/protocolo e verificar o GitHub Pages.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",

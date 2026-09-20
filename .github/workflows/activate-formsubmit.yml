@@ -1,0 +1,22 @@
+name: Activate FormSubmit endpoint
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/activate-formsubmit.yml"
+
+jobs:
+  activate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Request activation email
+        run: |
+          curl --fail-with-body --silent --show-error \
+            -X POST "https://formsubmit.co/planejamentofinanceiro2012@gmail.com" \
+            -F "Nome=Ativação técnica" \
+            -F "Assunto=Ativação do Fale Conosco" \
+            -F "Mensagem=Solicitação técnica inicial para ativar o formulário do Site Planejamento Financeiro." \
+            -F "Protocolo=PF-ATIVACAO-20260920" \
+            -F "_subject=Ativação do Fale Conosco — Planejamento Financeiro" \
+            -F "_template=table"

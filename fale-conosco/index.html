@@ -1,0 +1,47 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Fale Conosco | Planejamento Financeiro</title><meta name="description" content="Entre em contato com o Planejamento Financeiro."><link rel="stylesheet" href="../assets/style.css"></head><body><header class="site-header"><div class="site-bar"><div class="site-brand"><a href="../index.html">Planejamento Financeiro</a></div><nav class="global-nav" aria-label="Navegação principal"><a href="../index.html">Início</a><a href="../cfp/index.html">CFP®</a><a href="../gestao-financeira/index.html">Gestão Financeira</a><a href="../casos/index.html">Casos</a><a href="../ferramentas/index.html">Ferramentas</a><a href="../metricas/index.html">Métricas</a><a href="../fontes/index.html">Fontes</a><a href="../fale-conosco/index.html" aria-current="page">Fale Conosco</a></nav></div></header><main class="contact-main"><section class="hero"><p class="eyebrow">Contato</p><h1>Fale Conosco</h1><p class="lede">Envie dúvidas, correções, sugestões de conteúdo, temas de estudo ou propostas de colaboração.</p></section>
+<section><p>E-mail institucional: <a href="mailto:planejamentofinanceiro2012@gmail.com">planejamentofinanceiro2012@gmail.com</a>.</p><p>Você pode escrever diretamente por e-mail ou utilizar o formulário abaixo. Quando a submissão for aceita pelo serviço de formulário, será gerado um <strong>número de protocolo</strong>. Se você informar seu e-mail, esse protocolo também será incluído na confirmação automática enviada ao endereço informado.</p></section>
+<section class="contact-grid"><article class="contact-card"><p class="eyebrow">CFP®</p><h2>Dúvida de estudo</h2><p>Envie dúvida sobre conteúdo, organização da preparação ou material oficial.</p></article><article class="contact-card"><p class="eyebrow">CORREÇÃO</p><h2>Ajude a atualizar</h2><p>Informe regra alterada, fonte oficial nova, erro de cálculo ou link quebrado.</p></article><article class="contact-card"><p class="eyebrow">COLABORAÇÃO</p><h2>Sugira temas e casos</h2><p>Proponha novos tópicos, exercícios, casos profissionais ou ferramentas.</p></article></section>
+<section class="warning"><strong>Proteja dados desnecessários.</strong> Não envie senhas, dados bancários, informações médicas ou dados pessoais de terceiros que não sejam necessários à mensagem.</section>
+<section class="contact-form" aria-labelledby="form-title"><p class="eyebrow">Formulário de contato</p><h2 id="form-title">Envie pelo site</h2>
+<form id="contactForm" action="https://formsubmit.co/planejamentofinanceiro2012@gmail.com" method="POST" enctype="multipart/form-data">
+<input type="text" name="_honey" class="honey" tabindex="-1" autocomplete="off">
+<input type="hidden" name="_subject" value="Fale Conosco — Planejamento Financeiro">
+<input type="hidden" name="_template" value="table">
+<input type="hidden" id="nextUrl" name="_next" value="https://thiagoba2004.github.io/planejamento-financeiro/fale-conosco/recebido.html">
+<input type="hidden" id="autoResponse" name="_autoresponse" value="">
+<input type="hidden" id="protocolField" name="Protocolo" value="">
+<input type="hidden" name="_url" value="https://thiagoba2004.github.io/planejamento-financeiro/fale-conosco/index.html">
+<div class="form-row"><div class="field"><label for="nome">Nome ou pseudônimo</label><input id="nome" name="Nome" type="text" autocomplete="name" placeholder="Opcional"></div><div class="field"><label for="email">E-mail para retorno — opcional</label><input id="email" name="email" type="email" autocomplete="email" placeholder="Opcional"></div></div>
+<div class="form-row"><div class="field"><label for="tipo">Tipo de contato</label><select id="tipo" name="Tipo de contato" required><option>Dúvida sobre CFP®</option><option>Dúvida sobre conteúdo</option><option>Correção ou atualização</option><option>Sugestão de tema</option><option>Colaboração</option><option>Outro</option></select></div><div class="field"><label for="assunto">Assunto</label><input id="assunto" name="Assunto" type="text" required></div></div>
+<div class="field"><label for="link">Link relacionado — opcional</label><input id="link" name="Link relacionado" type="url" placeholder="https://"></div>
+<div class="field"><label for="mensagem">Mensagem</label><textarea id="mensagem" name="Mensagem" required></textarea></div>
+<div class="field"><label for="anexo1">Anexo 1 — opcional</label><input id="anexo1" name="Anexo 1" type="file"></div>
+<div class="field"><label for="anexo2">Anexo 2 — opcional</label><input id="anexo2" name="Anexo 2" type="file"></div>
+<div class="field"><label for="anexo3">Anexo 3 — opcional</label><input id="anexo3" name="Anexo 3" type="file"></div>
+<p class="small">O limite do serviço é de 10 MB no total dos anexos. O processamento do formulário é realizado por serviço externo de encaminhamento de mensagens.</p>
+<div id="protocolPreview" class="protocol-info">O protocolo será criado no momento do envio.</div>
+<button class="button" type="submit">Enviar mensagem</button>
+</form></section></main><footer><span>Planejamento Financeiro · 2026</span><span class="footer-sep">•</span><a href="../mapa-do-site/index.html">Mapa do Site</a></footer>
+<script>
+(function(){
+ const form=document.getElementById('contactForm');
+ function pad(v){return String(v).padStart(2,'0')}
+ function protocol(){
+   const n=new Date(), b=new Uint8Array(3);
+   if(window.crypto&&window.crypto.getRandomValues) window.crypto.getRandomValues(b); else for(let i=0;i<3;i++) b[i]=Math.floor(Math.random()*256);
+   const r=Array.from(b,x=>x.toString(16).padStart(2,'0')).join('').toUpperCase();
+   return 'PF-'+n.getFullYear()+pad(n.getMonth()+1)+pad(n.getDate())+'-'+pad(n.getHours())+pad(n.getMinutes())+pad(n.getSeconds())+'-'+r;
+ }
+ form.addEventListener('submit',function(e){
+   const files=['anexo1','anexo2','anexo3'].map(id=>document.getElementById(id));
+   const total=files.reduce((s,x)=>s+(x.files[0]?x.files[0].size:0),0);
+   if(total>10*1024*1024){e.preventDefault();alert('Os anexos ultrapassam o limite total de 10 MB.');return;}
+   const p=protocol();
+   document.getElementById('protocolField').value=p;
+   document.getElementById('autoResponse').value='Recebemos sua mensagem no Site Planejamento Financeiro. Seu protocolo é '+p+'. Guarde este número para identificar o contato enviado.';
+   const hasEmail=document.getElementById('email').value.trim()?'sim':'nao';
+   document.getElementById('nextUrl').value='https://thiagoba2004.github.io/planejamento-financeiro/fale-conosco/recebido.html?protocolo='+encodeURIComponent(p)+'&email='+hasEmail;
+   document.getElementById('protocolPreview').textContent='Protocolo preparado: '+p+'. Conclua o envio para confirmá-lo.';
+ });
+})();
+</script></body></html>
