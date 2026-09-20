@@ -44,3 +44,11 @@ Sincronizar Markdown + HTML + JSON, revisar cálculos, fontes e navegação, e d
 3. **Fase 03/05 — Construção das páginas centrais** — criar e popular as áreas do menu com conteúdo existente e rotas claras.
 4. **Fase 04/05 — Migração e integração do conteúdo atual** — adaptar páginas já publicadas à nova navegação e identidade.
 5. **Fase 05/05 — Auditoria, deploy e verificação pública** — testar navegação, responsividade, ausência de vazamento interno e publicação GitHub Pages.
+
+
+## EA-000004-000003 — Mapa do Site, Início enxuto e Fale Conosco protocolado
+
+1. **Fase 01/04 — Recuperação do padrão e desenho da correção** — recuperar a implementação do Fale Conosco do Classe e Massas e fixar arquitetura.
+2. **Fase 02/04 — Implementação** — retirar catálogo de menus da Início, criar Mapa do Site, inserir Fale Conosco no menu e adaptar protocolo/e-mail.
+3. **Fase 03/04 — Testes funcionais** — testar geração de protocolo, submissão, confirmação, navegação e responsividade.
+4. **Fase 04/04 — Deploy, auditoria e fechamento** — publicar, verificar o GitHub Pages e encerrar a estratégia.
