@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000006",
   "current_strategy_name": "Patrimônio, avaliação econômica e liquidez na partilha",
   "current_phase": {
-    "phase_number": 5,
+    "phase_number": 6,
     "phase_total": 6,
-    "phase_code": "F-000004-000006-005",
-    "phase_name": "Casos, métricas e competências CFP®",
+    "phase_code": "F-000004-000006-006",
+    "phase_name": "Publicação, auditoria e atualização",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Fases 01 a 04 concluídas: inventário, valuation e cenários patrimoniais com liquidez/indivisibilidade estruturados.",
-  "next_logical_step": "Criar casos progressivos e competências sobre valuation, liquidez, concentração, compensação e limites profissionais; depois publicar e auditar.",
+  "last_completed_milestone": "Fases 01 a 05 concluídas: escopo, inventário, valuation, cenários, casos e competências patrimoniais consolidados.",
+  "next_logical_step": "Publicar unidade em Markdown + HTML + JSON, integrar Conhecimentos/Casos/Ferramentas/Mapa do Site, auditar links/cálculos/governança e verificar deploy.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
