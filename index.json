@@ -2,9 +2,11 @@
   "slug": "index",
   "type": "homepage",
   "title": "Planejamento Financeiro",
-  "status": "EM_DESENVOLVIMENTO",
+  "status": "PUBLICACAO_PREPARADA",
   "source_markdown": "index.md",
   "html": "index.html",
   "project_code": "PRJ-000004",
-  "updated_at": "2026-09-20"
+  "featured_strategy": "EA-000004-000001",
+  "updated_at": "2026-09-20",
+  "pages_enabled": false
 }
