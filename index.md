@@ -1,13 +1,15 @@
 # Planejamento Financeiro
 
-Formação profissional baseada no CFP®, com duas trilhas complementares: **passar na prova** e **saber atuar no mercado**.
+Formação profissional baseada no CFP®, integrando preparação para a prova e desenvolvimento de competências para atuação no mercado.
 
 ## Unidade disponível
 
-**EA-000004-000001 — Compreender o fenômeno do Superendividamento das Pessoas Físicas**
+**Superendividamento das Pessoas Físicas**
 
-A unidade possui mapeamento CFP®, 14 competências observáveis, métricas, escada de intervenção, quatro casos progressivos e avaliação de domínio.
+A unidade reúne gestão financeira, métricas, prevenção, intervenção, casos práticos e avaliação de competências.
 
-**Estado técnico do Site:** PUBLICADO no GitHub Pages — https://thiagoba2004.github.io/planejamento-financeiro/
+## Dois eixos complementares
 
-Aprovação em prova e competência profissional são avaliadas separadamente.
+- **Para a prova CFP®:** conteúdo alinhado às fontes oficiais vigentes e aos temas de Gestão Financeira.
+- **Na prática profissional:** diagnóstico, cálculos, comunicação, intervenção e julgamento profissional.
+- **Domínio profissional:** compreender, executar, decidir, comunicar e manter o conhecimento atualizado.

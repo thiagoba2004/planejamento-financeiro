@@ -1,30 +1,16 @@
 # Superendividamento das Pessoas Físicas
 
-**Estratégia:** EA-000004-000001  
-**Projeto:** PRJ-000004 — Planejamento Financeiro  
 **Última revisão:** 20/09/2026  
-**Estado editorial:** UNIDADE CONSOLIDADA — PUBLICADA
 
 Esta unidade estuda endividamento e sobre-endividamento sob a perspectiva do planejamento financeiro, com separação explícita entre preparação para o CFP® e atuação profissional.
 
-## 1. Evidência do CFP® em 2026
+## 1. Fontes do CFP® em 2026
 
 A Planejar confirma para 2026 a estrutura de oito módulos. O **Módulo II é Gestão Financeira** e o 54º Exame, marcado para 18/10/2026, aponta oficialmente para Programa Detalhado, Orientações de Estudo, Lista de Fórmulas e Perfil de Competências.
 
-O Projeto usa três graus:
-- **A — canônico direto:** verificado diretamente em fonte oficial vigente;
-- **B — canônico identificado + conteúdo corroborado:** documento oficial vigente identificado e conteúdo específico triangulado;
-- **P — prática do Projeto:** aplicação profissional fundamentada, sem afirmar que a formulação exata é item de prova.
 
-## 2. TRILHA_PROVA
+## 2. Para a prova CFP®
 
-### Grau A
-- estrutura de oito módulos;
-- Módulo II — Gestão Financeira;
-- maior integração entre teoria e prática no formato vigente;
-- existência e vigência dos materiais oficiais do 54º Exame.
-
-### Grau B
 O corpus triangulado localiza materialmente:
 - gestão de débitos e créditos;
 - níveis de dívida;
@@ -35,7 +21,7 @@ O corpus triangulado localiza materialmente:
 
 Enquanto os bytes oficiais desses documentos específicos não forem extraídos diretamente, o Projeto não reproduz como citação literal da Planejar frases vistas apenas em espelhos documentais.
 
-## 3. TRILHA_PRATICA
+## 3. Na prática profissional
 
 O profissional deve ser capaz de:
 1. montar balanço patrimonial pessoal;
@@ -54,22 +40,22 @@ O profissional deve ser capaz de:
 ## 4. Métricas centrais
 
 ### Patrimônio líquido
-`PL = ATIVOS_TOTAIS - PASSIVOS_TOTAIS`
+`Patrimônio líquido = ativos totais - passivos totais`
 
-### Serviço da dívida sobre renda
-`C02 = SERVICO_MENSAL_DA_DIVIDA / RENDA_LIQUIDA`
+### Comprometimento da renda com dívidas
+`Serviço mensal da dívida / renda líquida`
 
-### Renda após dívida
-`C03 = RENDA_LIQUIDA - SERVICO_MENSAL_DA_DIVIDA`
+### Renda após o serviço da dívida
+`Renda líquida - serviço mensal da dívida`
 
 ### Fluxo livre
-`C04 = RENDA_LIQUIDA - DESPESAS_ESSENCIAIS - SERVICO_MENSAL_DA_DIVIDA`
+`Renda líquida - despesas essenciais - serviço mensal da dívida`
 
 ### Cobertura de despesas por ativos líquidos
-`C01 = ATIVOS_LIQUIDOS / DESPESAS_ESSENCIAIS`
+`Ativos líquidos / despesas essenciais`
 
 ### Solvência
-`SOLVENCIA = ATIVOS_TOTAIS / PASSIVOS_TOTAIS`
+`Ativos totais / passivos totais`
 
 Nenhum índice isolado produz diagnóstico automático. O critério de 50% usado pelo Banco Central em estudo de endividamento de risco é indicador analítico, não corte jurídico nem regra universal do CFP®.
 
@@ -95,28 +81,28 @@ Questões jurídicas, psicológicas, contábeis ou sociais que ultrapassem a com
 
 ## 6. Quatro casos progressivos
 
-### PF-CASO-01 — Deterioração antes da crise
+### Caso 1 — Deterioração antes da crise
 Fluxo ainda positivo, mas poupança cai e crédito começa a substituir caixa. Avalia alerta precoce.
 
-### PF-CASO-02 — Choque de renda
+### Caso 2 — Choque de renda
 Renda cai, C04 se torna negativo e cartão financia despesas recorrentes. Avalia estabilização.
 
-### PF-CASO-03 — Consolidação
+### Caso 3 — Consolidação
 Duas propostas reduzem a parcela em graus diferentes, mas produzem prazos e custos distintos. Avalia trade-offs.
 
-### PF-CASO-04 — Limite profissional
+### Caso 4 — Limite profissional
 Déficit severo, liquidez quase inexistente, múltiplos credores e renegociações frustradas. Avalia encaminhamento jurídico/consumerista sem diagnóstico jurídico pelo planejador.
 
-## 7. Competências
+## 7. Competências desenvolvidas
 
-A unidade foi decomposta em 14 competências observáveis:
-- conceitos e categorias;
+A unidade desenvolve competências em:
+- categorias de endividamento;
 - balanço patrimonial;
-- fluxo e orçamento;
-- liquidez;
-- custo/serviço da dívida;
-- indicadores;
-- causas/mecanismos;
+- fluxo de caixa e orçamento;
+- liquidez e reserva;
+- custo e serviço da dívida;
+- indicadores de pressão financeira;
+- causas e mecanismos;
 - prevenção;
 - estabilização;
 - reestruturação;
@@ -129,12 +115,12 @@ A unidade foi decomposta em 14 competências observáveis:
 
 O Projeto não considera questão objetiva suficiente para comprovar domínio profissional.
 
-- **A1 — conhecimento objetivo:** conceitos e regras;
-- **A2 — cálculo reproduzível:** balanço, fluxo, liquidez e dívida;
-- **A3 — caso profissional:** dados incompletos, interpretação e decisão;
-- **A4 — comunicação/julgamento:** explicar trade-offs, limites e incerteza ao cliente.
+- **Conhecimento:** conceitos e regras;
+- **Cálculo:** balanço, fluxo, liquidez e dívida;
+- **Caso profissional:** dados incompletos, interpretação e decisão;
+- **Comunicação e julgamento:** explicar trade-offs, limites e incerteza ao cliente.
 
-Domínio significa conseguir **SABER + FAZER + DECIDIR + COMUNICAR + ATUALIZAR**.
+Domínio profissional significa compreender, executar, decidir, comunicar e manter o conhecimento atualizado.
 
 ## 9. Limites profissionais
 

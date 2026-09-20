@@ -1,39 +1,24 @@
 {
-  "slug": "superendividamento-pf",
-  "type": "learning-unit",
   "title": "Superendividamento das Pessoas Físicas",
-  "status": "PUBLICADO",
-  "project_code": "PRJ-000004",
-  "strategy_code": "EA-000004-000001",
-  "phase": "08/08",
+  "description": "Unidade de Gestão Financeira sobre endividamento, prevenção, intervenção e recuperação.",
   "updated_at": "2026-09-20",
-  "source_markdown": "temas/superendividamento-pf.md",
-  "html": "temas/superendividamento-pf.html",
-  "tracks": [
-    "TRILHA_PROVA",
-    "TRILHA_PRATICA"
-  ],
-  "evidence_grades": [
-    "A",
-    "B",
-    "P"
-  ],
-  "competency_count": 14,
-  "cases": [
-    "PF-CASO-01",
-    "PF-CASO-02",
-    "PF-CASO-03",
-    "PF-CASO-04"
-  ],
-  "assessments": [
-    "A1_CONHECIMENTO",
-    "A2_CALCULO",
-    "A3_CASO",
-    "A4_COMUNICACAO_JULGAMENTO"
-  ],
-  "review_date": "2026-09-20",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/superendividamento-pf.html",
-  "deployment_run_id": 35521419129,
-  "deployment_attempt": 2,
-  "deployment_status": "SUCCESS"
+  "sections": [
+    "fontes do CFP®",
+    "para a prova CFP®",
+    "na prática profissional",
+    "métricas",
+    "intervenção",
+    "casos",
+    "competências",
+    "avaliação",
+    "limites profissionais",
+    "fontes"
+  ],
+  "focus": [
+    "preparação para o CFP®",
+    "prática profissional"
+  ],
+  "cases": 4,
+  "competencies": 14
 }

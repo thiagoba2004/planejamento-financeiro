@@ -128,6 +128,38 @@ JSON (.json) = representação estruturada
 
 Alterações materiais devem ser sincronizadas nos três artefatos.
 
+### 10.1. Separação entre governança interna e Site Público
+
+O Site Público é orientado ao aluno, profissional e leitor externo. A governança permanece no repositório e **não deve ser exibida na interface pública**.
+
+É proibido publicar na UI, rodapé, cabeçalho, cards, tabelas ou metadados destinados ao navegador:
+
+- códigos internos de projeto, estratégia, fase, pedido, evento, competência, caso ou fonte (`PRJ-*`, `EA-*`, `F-*`, `REQ-*`, `EVT-*`, `PF-COMP-*`, `PF-CASO-*`, `SRC-*`);
+- números de fase, gates, estados editoriais/técnicos e status de workflow;
+- versões de kernel/gerador, IDs de deployment, run, commit, branch ou arquivos de governança;
+- nomes como `PROJECT_STATE`, `REQUEST_LOG`, `STRATEGY_LOG`, `AGENTS` ou equivalentes;
+- rótulos metodológicos internos como graus A/B/P, códigos A1–A4 ou códigos de métricas, quando não forem necessários à compreensão do leitor.
+
+Na camada pública, converter conceitos úteis para linguagem natural, por exemplo:
+
+- `TRILHA_PROVA` → “Para a prova CFP®”;
+- `TRILHA_PRATICA` → “Na prática profissional”;
+- códigos de casos → “Caso 1”, “Caso 2” etc.;
+- códigos de competências → apenas o nome da competência;
+- códigos de métricas → nome e fórmula em linguagem comum.
+
+Pode permanecer público quando útil ao leitor:
+
+- conteúdo material;
+- data de atualização;
+- fontes oficiais;
+- fórmulas;
+- exemplos e casos;
+- critérios de avaliação em linguagem natural;
+- avisos de limites profissionais.
+
+Antes de cada publicação, executar varredura de vazamento de governança. A presença de marcador interno na camada pública bloqueia o deploy.
+
 ## 11. Módulo software
 
 Distinguir `IMPLEMENTADO`, `TESTADO`, `VERSIONADO`, `IMPLANTADO` e `VERIFICADO EM EXECUÇÃO`. Site no repositório não equivale a site publicado.

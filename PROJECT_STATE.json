@@ -17,8 +17,8 @@
     "phase_name": "Publicação, auditoria e atualização",
     "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "Fase 08/08 concluída: unidade sincronizada, auditada e implantada no GitHub Pages; deployment attempt 2 concluído com sucesso.",
-  "next_logical_step": "Estratégia EA-000004-000001 encerrada. Próximo passo do Projeto: definir nova Estratégia Autônoma ou executar manutenção/atualização quando o CFP® ou as fontes técnicas mudarem.",
+  "last_completed_milestone": "Auditoria pós-publicação concluída: camada pública saneada para remover códigos, estados, classificações e metadados de governança interna.",
+  "next_logical_step": "Estratégia concluída; manter auditoria de separação público/interno em futuras publicações ou definir nova Estratégia Autônoma.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
