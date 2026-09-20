@@ -2,21 +2,35 @@
 
 ## Unidade: Superendividamento de Pessoas Físicas
 
-| Dimensão | Estado atual |
+**Estratégia:** EA-000004-000001  
+**Última revisão:** 20/09/2026  
+**Estado:** FASE 07 CONCLUÍDA — MATRIZ GRANULAR DISPONÍVEL
+
+A matriz detalhada está em:
+`research/EA-000004-000001/matriz-cfp-prova-pratica.md`.
+
+## Competências nucleares
+
+| Eixo | Resultado esperado |
 |---|---|
-| **SABER** | compreender endividamento, sobre-endividamento/superendividamento, fluxo de caixa, orçamento, dívida, crédito, liquidez, solvência, custo da dívida e limites profissionais |
-| **FAZER** | coletar dados; elaborar balanço patrimonial pessoal; estruturar fluxo de caixa e orçamento; calcular/analisar índices; mapear dívidas; comparar crédito; construir e testar estratégias de gestão de dívidas |
-| **DECIDIR** | avaliar adequação do nível de dívida; identificar sinais de deterioração; escolher intervenções financeiras; reconhecer quando o problema exige encaminhamento jurídico ou outro especialista |
-| **TRILHA_PROVA** | **ATIVA.** Módulo II — Gestão Financeira confirmado oficialmente; itens 2.8 gestão de débitos/créditos e 2.9 índices financeiros corroborados no programa vigente; sinais de sobre-endividamento e medidas corretivas corroborados nas Orientações de Estudo. Grau B até acesso direto aos bytes oficiais. |
-| **TRILHA_PRATICA** | **ATIVA.** Diagnóstico, comunicação, orçamento, fluxo de caixa, gestão de crédito/dívidas, prevenção, recuperação, limites de atuação e casos. |
-| **FONTES** | Planejar oficial: PF-SRC-000001 a PF-SRC-000017, PF-SRC-000019, PF-SRC-000020 e PF-SRC-000021 conforme pertinência. Corroboração não canônica: PF-REF-000001 e PF-REF-000002. |
-| **AVALIAÇÃO** | questões objetivas mapeadas ao programa; cálculos; casos de diagnóstico; justificativa de intervenção; comunicação e encaminhamento profissional |
-| **ESTADO** | CORPUS_MATERIALMENTE_MAPEADO — FASE SUBSTANTIVA PODE AVANÇAR |
+| **SABER** | distinguir categorias de endividamento; compreender balanço, fluxo, orçamento, liquidez, solvência, crédito, custo da dívida, sinais, intervenção e limites profissionais |
+| **FAZER** | coletar/validar dados; elaborar balanço e fluxo; calcular métricas; inventariar dívidas; comparar propostas; construir cenários; comunicar; monitorar recuperação |
+| **DECIDIR** | priorizar prevenção, estabilização, reestruturação ou encaminhamento; avaliar trade-offs; reconhecer incerteza e limite profissional |
+| **TRILHA_PROVA** | ATIVA — Módulo II Gestão Financeira confirmado oficialmente; conteúdo específico de débitos/créditos, sobre-endividamento, medidas corretivas e índices mantido em Grau B até leitura direta dos bytes oficiais |
+| **TRILHA_PRATICA** | ATIVA — 14 competências observáveis, quatro casos progressivos e avaliação por conhecimento, cálculo, caso e comunicação |
+| **AVALIAÇÃO** | A1 conhecimento objetivo; A2 cálculo reproduzível; A3 caso profissional; A4 comunicação/julgamento |
+
+## Regra de evidência
+
+- **A:** fonte oficial vigente lida diretamente;
+- **B:** fonte oficial vigente identificada + conteúdo específico corroborado;
+- **P:** aplicação profissional do Projeto, sem afirmar formulação literal no programa do exame.
 
 ## Regras
 
 1. Fonte editorial da Planejar não equivale automaticamente a regra de prova.
 2. Espelho não oficial nunca substitui fonte canônica.
-3. “Sobre-endividamento” do material formativo e “superendividamento” como conceito jurídico devem ser relacionados, mas não tratados como sinônimos jurídicos automáticos.
-4. Aprovação em prova e competência profissional continuam sendo trilhas distintas.
-5. Toda elevação de Grau B para Grau A deve ser registrada sem reescrever o histórico.
+3. “Sobre-endividamento” formativo e “superendividamento” jurídico se relacionam, mas não são sinônimos jurídicos automáticos.
+4. Aprovação em prova e competência profissional são trilhas distintas.
+5. Questão objetiva isolada não comprova competência de diagnóstico, comunicação ou julgamento.
+6. Toda elevação de Grau B para Grau A deve ser registrada sem apagar o histórico.
