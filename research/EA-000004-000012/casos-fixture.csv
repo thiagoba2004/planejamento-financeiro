@@ -1,0 +1,6 @@
+caso,valor_fiscal,valor_transferencia,ganho_potencial,aliquota_federal_ilustrativa,tributo_federal_ilustrativo,divida_vinculada,custos_transacao,status
+valor_superior,300000,500000,200000,0.15,30000,0,0,CENARIO
+partilha_desigual,400000,550000,150000,,,0,0,POTENCIAL_INCIDENCIA
+excesso_oneroso_salvador,600000,750000,150000,,,0,0,JURISDICAO_PENDENTE
+venda_caixa,500000,800000,300000,0.15,45000,180000,25000,CENARIO
+dependente_ano_seguinte,0,0,0,,,0,0,REVALIDAR_EXERCICIO_2027
