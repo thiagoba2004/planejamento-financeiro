@@ -1,10 +1,6 @@
 {
   "title": "Planejamento Financeiro",
-  "description": "Formação baseada no CFP® para prova e prática profissional.",
+  "description": "Formação em planejamento financeiro baseada no CFP®, integrando preparação para a prova e prática profissional.",
   "updated_at": "2026-09-20",
-  "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
-  "featured_content": {
-    "title": "Superendividamento das Pessoas Físicas",
-    "url": "temas/superendividamento-pf.html"
-  }
+  "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/"
 }
