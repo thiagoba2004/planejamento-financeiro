@@ -4,6 +4,7 @@
   "html": "index.html",
   "themes": [
     "temas/superendividamento-pf.html",
-    "temas/divorcio-transicao-financeira.html"
+    "temas/divorcio-transicao-financeira.html",
+    "temas/patrimonio-partilha-liquidez.html"
   ]
 }

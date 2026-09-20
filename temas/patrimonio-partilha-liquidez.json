@@ -1,0 +1,30 @@
+{
+  "title": "Patrimônio, avaliação econômica e liquidez na partilha",
+  "updated_at": "2026-09-20",
+  "html": "patrimonio-partilha-liquidez.html",
+  "public_path": "temas/patrimonio-partilha-liquidez.html",
+  "sections": [
+    "Duas classificações",
+    "Valor líquido",
+    "Métodos por classe",
+    "Cenários de alocação",
+    "Métricas",
+    "Exemplo",
+    "Casos",
+    "Para a prova CFP®",
+    "Na prática profissional"
+  ],
+  "formulas": {
+    "valor_liquido": "valor bruto - passivo vinculado - custos de conversão fundamentados",
+    "gap": "valor recebido - valor-alvo do cenário",
+    "liquidez": "ativos líquidos recebidos / patrimônio líquido recebido",
+    "concentracao": "maior ativo / patrimônio líquido recebido",
+    "financiamento_compensacao": "max(0; compensação teórica - caixa disponível)"
+  },
+  "limits": [
+    "não decide comunicabilidade",
+    "não decide meação",
+    "não atribui responsabilidade jurídica por passivos",
+    "não prevê resultado judicial"
+  ]
+}

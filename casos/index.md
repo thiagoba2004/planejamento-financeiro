@@ -3,15 +3,19 @@
 Treino de cálculo, diagnóstico, decisão e comunicação.
 
 ## Superendividamento
-Quatro casos progressivos sobre deterioração financeira, choque de renda, consolidação e limite profissional.
+Quatro casos progressivos.
 
 ## Ruptura conjugal
-Quatro casos sobre:
-- dupla moradia;
-- patrimônio alto e liquidez baixa;
-- cenários jurídicos diferentes;
-- crédito mascarando déficit estrutural.
+Quatro casos sobre orçamento e transição.
 
-[Ver unidade de transição financeira](../temas/divorcio-transicao-financeira.html#casos)
+## Patrimônio e partilha
+Cinco casos sobre:
+- valor bruto versus líquido;
+- datas-base incompatíveis;
+- liquidez desigual;
+- participação societária ilíquida;
+- diferença entre valuation financeiro e método jurídico/pericial.
+
+[Ver casos patrimoniais](../temas/patrimonio-partilha-liquidez.html#casos)
 
 **Última revisão:** 20/09/2026.

@@ -23,6 +23,18 @@
     {
       "title": "Liquidez e reserva de transição",
       "path": "../temas/divorcio-transicao-financeira.html#liquidez"
+    },
+    {
+      "title": "Valor líquido patrimonial",
+      "path": "../temas/patrimonio-partilha-liquidez.html#valor"
+    },
+    {
+      "title": "Métodos de avaliação por classe",
+      "path": "../temas/patrimonio-partilha-liquidez.html#metodos"
+    },
+    {
+      "title": "Gap, liquidez e concentração",
+      "path": "../temas/patrimonio-partilha-liquidez.html#metricas"
     }
   ]
 }
