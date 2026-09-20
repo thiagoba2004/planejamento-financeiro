@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000005",
-  "current_strategy_name": "Diagnóstico financeiro da ruptura e orçamento de transição",
+  "current_strategy_code": "EA-000004-000006",
+  "current_strategy_name": "Patrimônio, avaliação econômica e liquidez na partilha",
   "current_phase": {
-    "phase_number": 6,
+    "phase_number": 1,
     "phase_total": 6,
-    "phase_code": "F-000004-000005-006",
-    "phase_name": "Publicação, auditoria e atualização",
-    "status": "EM_EXECUCAO"
+    "phase_code": "F-000004-000006-001",
+    "phase_name": "Escopo patrimonial e interface jurídica",
+    "status": "PLANEJADA"
   },
-  "last_completed_milestone": "Fases 01 a 05 concluídas: diagnóstico, dados, cenários, liquidez, casos e competências profissionais consolidados.",
-  "next_logical_step": "Criar unidade pública em Markdown + HTML + JSON, integrar Conhecimentos/Casos/Ferramentas/Mapa do Site, auditar cálculos/links/governança e verificar GitHub Pages.",
+  "last_completed_milestone": "EA-000004-000005 concluída: diagnóstico financeiro da ruptura publicado, auditado e validado.",
+  "next_logical_step": "Iniciar EA-000004-000006 pela Fase 01/06, usando o inventário patrimonial e as classificações jurídicas confirmadas do PRJ-000003 como entrada controlada.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,18 +35,18 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_CONHECIMENTOS_CORRIGIDO",
+  "site_status": "PUBLICADO_TRANSICAO_FINANCEIRA_DIVORCIO_AUDITADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "PLANEJADA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": null,
   "last_deployment": {
-    "workflow_run_id": 35538488279,
+    "workflow_run_id": 35541592376,
     "attempt": 1,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "public_content_commit": "1716899d8dade339c88dc78b8efac4ac3a3a748e"
+    "public_content_commit": "e8a0f1c756ee9523478f29227fc32506f7b75a39"
   },
   "public_menu": [
     "Início",
@@ -107,7 +107,7 @@
         "code": "EA-000004-000005",
         "name": "Diagnóstico financeiro da ruptura e orçamento de transição",
         "conditional": false,
-        "status": "EM_EXECUCAO"
+        "status": "CONCLUIDA"
       },
       {
         "code": "EA-000004-000006",

@@ -99,7 +99,7 @@ Auditoria e reorganização de Menus, Botões e Navegação concluída.
 **Regra de dependência:** EA-000004-000005 é a estratégia-base. EA-000004-000006 a EA-000004-000013 usam resultados jurídicos confirmados como premissas quando necessário. EA-000004-000014 integra as estratégias aplicáveis. Estratégias marcadas como condicionais podem ser encerradas como NÃO APLICÁVEL após triagem documentada.
 
 
-## EA-000004-000005 — Diagnóstico financeiro da ruptura e orçamento de transição — PLANEJADA
+## EA-000004-000005 — Diagnóstico financeiro da ruptura e orçamento de transição — CONCLUÍDA
 
 ### FASE 01/06 [F-000004-000005-001] — Delimitação e perguntas de diagnóstico
 Definir eventos financeiros da ruptura, horizonte de transição, unidades familiares, premissas e limites entre dado jurídico e dado financeiro.  
@@ -367,3 +367,16 @@ Definir indicadores, revisões periódicas e casos integrados de decisão profis
 ### FASE 06/06 [F-000004-000014-006] — Publicação, auditoria e atualização
 Publicar a unidade integradora e verificar coerência com todas as estratégias e com o PRJ-000003.  
 **Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+
+### Resultado — EA-000004-000005
+
+- 6/6 fases concluídas;
+- 42 perguntas de diagnóstico e linha de base estruturada;
+- cenários de caixa de 30, 90 e 365 dias com fixture validado;
+- metodologia de liquidez e reserva de transição;
+- quatro casos progressivos e matriz de competências;
+- unidade pública em Markdown + HTML + JSON;
+- integração com Conhecimentos, Casos, Ferramentas e Mapa do Site;
+- auditoria: 13 HTMLs, 200 hrefs, zero quebras internas, zero vazamentos e sem “ACESSAR →”;
+- deploy público `35541592376`: **success**.
