@@ -160,6 +160,31 @@ Pode permanecer público quando útil ao leitor:
 
 Antes de cada publicação, executar varredura de vazamento de governança. A presença de marcador interno na camada pública bloqueia o deploy.
 
+### 10.2. Arquitetura pública e identidade visual
+
+O Site Público adota arquitetura multipágina, inspirada no padrão estrutural do Classe e Massas, mas com identidade própria.
+
+**Menu global obrigatório:** Início · CFP® · Gestão Financeira · Casos · Ferramentas · Métricas · Fontes.
+
+Regras:
+- o menu global deve aparecer em todas as páginas públicas;
+- no mobile, o menu permanece em uma linha horizontal rolável, sempre acessível;
+- a página atual deve possuir destaque por `aria-current="page"`;
+- cada área central deve conter conteúdo útil, não placeholders;
+- a homepage deve apresentar a arquitetura do Site e conduzir às áreas;
+- o Site não pode ser reduzido a uma homepage e uma unidade longa.
+
+**Identidade exclusiva Planejamento Financeiro:**
+- verde-petróleo como cor estrutural;
+- branco frio e verde muito claro como superfícies;
+- turquesa como interação;
+- âmbar como acento;
+- tipografia predominantemente sans-serif;
+- cards contemporâneos com cantos arredondados;
+- não reutilizar a paleta nem a aparência do Classe e Massas ou do Ações Judiciais.
+
+Os tokens visuais vigentes estão em `assets/style.css`.
+
 ## 11. Módulo software
 
 Distinguir `IMPLEMENTADO`, `TESTADO`, `VERSIONADO`, `IMPLANTADO` e `VERIFICADO EM EXECUÇÃO`. Site no repositório não equivale a site publicado.

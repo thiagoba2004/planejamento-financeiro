@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000002",
   "current_strategy_name": "Arquitetura pública e identidade visual do Site Planejamento Financeiro",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 4,
     "phase_total": 5,
-    "phase_code": "F-000004-000002-001",
-    "phase_name": "Arquitetura de informação e identidade visual",
+    "phase_code": "F-000004-000002-004",
+    "phase_name": "Migração e integração do conteúdo atual",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Pedido de reconstrução da arquitetura pública registrado e estratégia autônoma criada.",
-  "next_logical_step": "Definir mapa de navegação, menus, páginas centrais e sistema visual exclusivo; depois implementar, publicar e auditar.",
+  "last_completed_milestone": "Fases 01 a 03 concluídas: arquitetura de informação, identidade visual exclusiva, menu global e páginas centrais implementados.",
+  "next_logical_step": "Auditar todas as rotas, navegação, responsividade e vazamentos internos; publicar via GitHub Pages e verificar o deploy.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",

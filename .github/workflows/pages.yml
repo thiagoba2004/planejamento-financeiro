@@ -30,10 +30,16 @@ jobs:
         uses: actions/checkout@v6
       - name: Build public-only artifact
         run: |
-          mkdir -p _site/assets _site/temas
+          mkdir -p _site/assets _site/temas _site/cfp _site/gestao-financeira _site/casos _site/ferramentas _site/metricas _site/fontes
           cp index.html _site/index.html
           cp -R assets/. _site/assets/
           cp temas/*.html _site/temas/
+          cp cfp/*.html _site/cfp/
+          cp gestao-financeira/*.html _site/gestao-financeira/
+          cp casos/*.html _site/casos/
+          cp ferramentas/*.html _site/ferramentas/
+          cp metricas/*.html _site/metricas/
+          cp fontes/*.html _site/fontes/
           touch _site/.nojekyll
       - name: Setup Pages
         uses: actions/configure-pages@v5
