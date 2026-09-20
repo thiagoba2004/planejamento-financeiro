@@ -325,3 +325,14 @@ Correção:
 - no hover, o fundo muda para `#cfe3e1` e o realce escurece;
 - cards informativos permanecem brancos e neutros;
 - a distinção passa a ser visual, não textual.
+
+
+### Verificação da correção visual
+
+- ocorrências públicas de “Acessar →”: **0**;
+- pseudo-elemento CSS que gerava o texto: **removido**;
+- card clicável: fundo `#dcebea`, borda `#a7c9c5`, realce superior em turquesa;
+- hover do card clicável: fundo `#cfe3e1`;
+- card informativo: branco/neutro;
+- commit da alteração visual: `09212f0da3d9dabc2f72ab35130f0ad0443ecace`;
+- GitHub Pages workflow `35537926107`: **success**.
