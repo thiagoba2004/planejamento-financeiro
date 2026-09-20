@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.8",
-  "current_strategy_code": "EA-000004-000002",
-  "current_strategy_name": "Arquitetura pública e identidade visual do Site Planejamento Financeiro",
+  "current_strategy_code": "EA-000004-000003",
+  "current_strategy_name": "Mapa do Site, Início enxuto e Fale Conosco protocolado",
   "current_phase": {
-    "phase_number": 5,
-    "phase_total": 5,
-    "phase_code": "F-000004-000002-005",
-    "phase_name": "Auditoria, deploy e verificação pública",
-    "status": "CONCLUIDA"
+    "phase_number": 1,
+    "phase_total": 4,
+    "phase_code": "F-000004-000003-001",
+    "phase_name": "Recuperação do padrão e desenho da correção",
+    "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Arquitetura pública multipágina implantada: menu global em todas as páginas, páginas centrais úteis, identidade visual exclusiva, responsividade e ausência de marcadores internos verificadas.",
-  "next_logical_step": "Estratégia de arquitetura concluída. Próximo passo: definir nova Estratégia Autônoma de conteúdo/expansão ou realizar manutenção futura.",
+  "last_completed_milestone": "Novo pedido de correção da arquitetura pública registrado.",
+  "next_logical_step": "Recuperar o Fale Conosco do Classe e Massas e implantar Mapa do Site, Início enxuto e contato protocolado.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
