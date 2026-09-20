@@ -1,0 +1,2 @@
+obrigacao_id,instituicao,modalidade,devedor_formal,coobrigado_ou_garantidor,saldo_devedor,data_base,parcela,vencimento,parcelas_restantes,taxa,cet,garantia,status_adimplencia,pagador_atual,conta_pagamento,debito_automatico,limite_total,limite_disponivel,status_juridico,status_dado,observacoes
+,,,,,,,,,,,,,,,,,,,,,
