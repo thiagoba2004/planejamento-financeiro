@@ -1,0 +1,17 @@
+metric_id,name,formula,unit,formula_status,use,not_proves
+M01,Patrimonio liquido,ATIVOS_TOTAIS-PASSIVOS_TOTAIS,BRL,DEFINICAO_MATEMATICA,Fotografia patrimonial,Capacidade mensal de pagamento
+M02,Liquidez geral operacional,(ATIVOS_CP+REALIZAVEL_LP)/PASSIVOS_TOTAIS,ratio,GRAU_B_ATUAL,Capacidade patrimonial realizavel,Liquidez imediata ou superendividamento juridico
+M03,Indice de poupanca,RESULTADO_DISPONIVEL/RECEITAS,ratio,OFICIAL_HISTORICA_CORROBORADA,Geracao de excedente,Reserva acumulada
+M04,Divida sobre patrimonio,PASSIVOS_TOTAIS/PATRIMONIO_LIQUIDO,ratio,GRAU_B_ATUAL,Alavancagem patrimonial,Pressao mensal
+M05,Liquidez corrente,ATIVOS_CP/PASSIVOS_CP,ratio,OFICIAL_HISTORICA_CORROBORADA,Cobertura de curto prazo,Solvencia de longo prazo
+M06,Coeficiente de investimento,ATIVOS_INVESTIDOS/ATIVOS_TOTAIS,ratio,GRAU_B_ATUAL,Composicao produtiva do patrimonio,Liquidez dos investimentos
+M07,Ativos financeiros sobre ativos,ATIVOS_FINANCEIROS/ATIVOS_TOTAIS,ratio,GRAU_B_ATUAL,Composicao financeira,Liquidez automatica
+M08A,Participacao de renda passiva,RENDA_PASSIVA/RENDA_TOTAL,ratio,PROJETO_OPERACIONAL,Composicao da renda,Independencia financeira plena
+M08B,Cobertura por renda passiva,RENDA_PASSIVA/DESPESAS_TOTAIS,ratio,PROJETO_OPERACIONAL,Cobertura de despesas,Seguranca contra choques
+M09,Custo da divida aproximado,ENCARGOS_ANUAIS/SALDO_MEDIO_DIVIDA,rate,PROJETO_OPERACIONAL,Comparacao de custo,CET oficial se houver contrato
+M10,Solvencia,ATIVOS_TOTAIS/PASSIVOS_TOTAIS,ratio,GRAU_B_ATUAL,Cobertura patrimonial total,Liquidez
+C01,Cobertura de despesas,ATIVOS_LIQUIDOS_CP/DESPESAS_ESSENCIAIS_MENSAIS,months,PROJETO_OPERACIONAL,Amortecedor de liquidez,Regra universal de fundo de emergencia
+C02,Servico da divida sobre renda,SERVICO_DIVIDA/RENDA_LIQUIDA,ratio,PROJETO_OPERACIONAL,Pressao mensal,Corte juridico ou CFP universal
+C03,Renda apos divida,RENDA_LIQUIDA-SERVICO_DIVIDA,BRL,PROJETO_OPERACIONAL,Renda remanescente,Minimo existencial juridico
+C04,Fluxo livre,RENDA_LIQUIDA-DESPESAS_ESSENCIAIS-SERVICO_DIVIDA,BRL,PROJETO_OPERACIONAL,Deficit ou excedente,Diagnostico causal completo
+C05,Divida sobre renda anual,SALDO_TOTAL_DIVIDAS/(RENDA_LIQUIDA*12),ratio,PROJETO_OPERACIONAL,Estoque relativo de divida,Capacidade mensal isolada
