@@ -360,7 +360,7 @@ Verificar fontes dos produtos, limites profissionais e integração com planejam
 - deploy público `35544299674`: **success**.
 
 
-## EA-000004-000012 — Tributação, declarações e custos de transferência — PLANEJADA
+## EA-000004-000012 — Tributação, declarações e custos de transferência — CONCLUÍDA
 
 ### FASE 01/06 [F-000004-000012-001] — Escopo tributário e eventos relevantes
 Identificar eventos potenciais sem presumir incidência: transferências, venda, compensações, rendimentos, dependentes e declarações.  
@@ -385,6 +385,20 @@ Criar casos de ativos com ganho acumulado, imóveis, investimentos e desigualdad
 ### FASE 06/06 [F-000004-000012-006] — Publicação, auditoria e atualização
 Revalidar vigência, jurisdição e necessidade de contador/advogado tributarista.  
 **Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+### Resultado — EA-000004-000012
+
+- 6/6 fases concluídas;
+- escopo de eventos tributários e trava temporal DIRPF formalizados;
+- fontes federais, estaduais, municipais e cartorárias registradas;
+- matriz evento–tributo–declaração–documento produzida;
+- cenários de custo fiscal histórico, valor superior, excesso gratuito/oneroso, venda e diferimento documentados;
+- cálculo reproduzível de ganho potencial e valor líquido pós-transação;
+- cinco casos progressivos e matriz SABER/FAZER/DECIDIR;
+- unidade pública em Markdown + HTML + JSON;
+- integração com Conhecimentos, Gestão Financeira, Casos, Ferramentas, Fontes e Mapa do Site;
+- auditoria: 20 HTMLs, 403 hrefs, zero links/âncoras quebrados e zero vazamentos;
+- deploy público `35544878479`: **success**.
 
 
 ## EA-000004-000013 — Empresas, participações societárias e continuidade de renda — PLANEJADA · CONDICIONAL
