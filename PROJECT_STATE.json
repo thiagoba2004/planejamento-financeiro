@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000012",
   "current_strategy_name": "Tributação, declarações e custos de transferência",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 6,
     "phase_total": 6,
-    "phase_code": "F-000004-000012-001",
-    "phase_name": "Escopo tributário e eventos relevantes",
-    "status": "PLANEJADA"
+    "phase_code": "F-000004-000012-006",
+    "phase_name": "Publicação, auditoria e atualização",
+    "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "EA-000004-000011 concluída: seguros, previdência, beneficiários, gap de proteção e adequação de coberturas publicados, integrados, auditados e validados.",
-  "next_logical_step": "Iniciar EA-000004-000012 pela Fase 01/06, identificando eventos potencialmente tributáveis ou declaratórios — transferências, vendas, compensações, rendimentos, dependentes e custos de transferência — sem presumir incidência antes da validação da fonte oficial vigente e da jurisdição aplicável.",
+  "last_completed_milestone": "Fases 01 a 05 da EA-000004-000012 concluídas: escopo, fontes, matriz tributária, cenários e competências produzidos.",
+  "next_logical_step": "Auditar a unidade pública tributária, verificar links/governança e confirmar o deploy do GitHub Pages antes de concluir a estratégia.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,10 +35,10 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_SEGUROS_PREVIDENCIA_PROTECAO_AUDITADO",
+  "site_status": "PUBLICACAO_TRIBUTACAO_EM_AUDITORIA",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "PLANEJADA",
+  "strategy_status": "EM_EXECUCAO",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": null,
   "last_deployment": {
