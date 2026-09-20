@@ -286,3 +286,30 @@ Implementado:
 - rotas antigas foram preservadas para não quebrar URLs publicadas.
 
 A verificação pós-implementação e o deploy público permanecem como último gate da estratégia.
+
+
+## 10. Verificação final
+
+Após as correções:
+
+- páginas HTML públicas: **12**;
+- links internos verificados: **139**;
+- âncoras verificadas: **13**;
+- destinos internos quebrados: **0**;
+- fragmentos quebrados: **0**;
+- páginas com Menu global divergente: **0**;
+- rótulos antigos remanescentes: **0**;
+- botões HTML reais: **2**, ambos com `action-button`;
+- CTAs de navegação: **3**, todos com `nav-button`;
+- links secundários destacados: **3**, todos com `secondary-link`;
+- links legados com classe `button`: **0**;
+- cards clicáveis: **10**, com hover e indicação “Acessar →”;
+- cards informativos: **16**, sem hover que sugira clique;
+- linguagem pública de estado interno (“em configuração”, “em evolução”, “estrutura escalável”): removida;
+- deploy GitHub Pages `35537032790`: **success**.
+
+A ferramenta externa de navegação disponível nesta execução não conseguiu abrir o domínio GitHub Pages; por isso, a evidência de publicação utilizada é o pipeline do GitHub Pages e o conteúdo versionado auditado.
+
+## 11. Estado final
+
+`CONCLUIDA`
