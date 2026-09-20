@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000001",
   "current_strategy_name": "Compreender o fenômeno do Superendividamento das Pessoas Físicas",
   "current_phase": {
-    "phase_number": 6,
+    "phase_number": 7,
     "phase_total": 8,
-    "phase_code": "F-000004-000001-006",
-    "phase_name": "Casos e julgamento profissional",
+    "phase_code": "F-000004-000001-007",
+    "phase_name": "Mapeamento CFP®: prova e prática",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Fase 05/08 concluída: escada de prevenção, alerta, estabilização, reestruturação, recuperação e encaminhamento externo persistida com limites profissionais.",
-  "next_logical_step": "Criar casos progressivos de endividamento/superendividamento com premissas verificáveis, decisões alternativas, comunicação com cliente, cálculos e gabarito fundamentado.",
+  "last_completed_milestone": "Fase 06/08 concluída: quatro casos progressivos, fixture reproduzível e gabarito fundamentado persistidos, cobrindo cálculo, decisão, comunicação e limites profissionais.",
+  "next_logical_step": "Mapear cada unidade da estratégia às competências CFP®, separando TRILHA_PROVA e TRILHA_PRATICA, atualizar a COMPETENCY_MATRIX e definir formas de avaliação de domínio.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
