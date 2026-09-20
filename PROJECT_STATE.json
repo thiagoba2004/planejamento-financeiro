@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000002",
   "current_strategy_name": "Arquitetura pública e identidade visual do Site Planejamento Financeiro",
   "current_phase": {
-    "phase_number": 4,
+    "phase_number": 5,
     "phase_total": 5,
-    "phase_code": "F-000004-000002-004",
-    "phase_name": "Migração e integração do conteúdo atual",
-    "status": "EM_EXECUCAO"
+    "phase_code": "F-000004-000002-005",
+    "phase_name": "Auditoria, deploy e verificação pública",
+    "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "Fases 01 a 03 concluídas: arquitetura de informação, identidade visual exclusiva, menu global e páginas centrais implementados.",
-  "next_logical_step": "Auditar todas as rotas, navegação, responsividade e vazamentos internos; publicar via GitHub Pages e verificar o deploy.",
+  "last_completed_milestone": "Arquitetura pública multipágina implantada: menu global em todas as páginas, páginas centrais úteis, identidade visual exclusiva, responsividade e ausência de marcadores internos verificadas.",
+  "next_logical_step": "Estratégia de arquitetura concluída. Próximo passo: definir nova Estratégia Autônoma de conteúdo/expansão ou realizar manutenção futura.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -32,16 +32,26 @@
     "COMPETENCY_MATRIX.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_CAMADA_PUBLICA_SANEADA_E_VERIFICADA",
+  "site_status": "PUBLICADO_ARQUITETURA_MULTIPAGINA_VERIFICADA",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/superendividamento-pf.html",
   "last_deployment": {
-    "workflow_run_id": 35522801080,
+    "workflow_run_id": 35523612695,
     "attempt": 1,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE_PUBLIC_LAYER_AUDIT"
-  }
+    "verified_by": "GITHUB_PAGES_PIPELINE_AND_SOURCE_AUDIT"
+  },
+  "public_menu": [
+    "Início",
+    "CFP®",
+    "Gestão Financeira",
+    "Casos",
+    "Ferramentas",
+    "Métricas",
+    "Fontes"
+  ],
+  "visual_identity": "financeira/formativa: verde-petróleo, fundo frio, turquesa, âmbar; tipografia predominantemente sans-serif"
 }
