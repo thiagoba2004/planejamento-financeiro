@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000007",
   "current_strategy_name": "Moradia, financiamento e reorganização residencial",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 6,
     "phase_total": 6,
-    "phase_code": "F-000004-000007-001",
-    "phase_name": "Diagnóstico habitacional",
-    "status": "PLANEJADA"
+    "phase_code": "F-000004-000007-006",
+    "phase_name": "Publicação, auditoria e atualização",
+    "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "EA-000004-000006 concluída: patrimônio, valuation e liquidez na partilha publicados, auditados e validados.",
-  "next_logical_step": "Iniciar EA-000004-000007 pela Fase 01/06, mapeando imóvel atual, financiamento, aluguel, condomínio, seguros, custos de manutenção e alternativas residenciais.",
+  "last_completed_milestone": "Fases 01 a 05 da EA-000004-000007 concluídas: diagnóstico, custo total, cenários, liquidez/crédito e competências produzidos.",
+  "next_logical_step": "Auditar a unidade pública de moradia, verificar links/governança e confirmar o deploy do GitHub Pages antes de concluir a estratégia.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,10 +35,10 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_PATRIMONIO_PARTILHA_LIQUIDEZ_AUDITADO",
+  "site_status": "PUBLICACAO_MORADIA_EM_AUDITORIA",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "PLANEJADA",
+  "strategy_status": "EM_EXECUCAO",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": null,
   "last_deployment": {
