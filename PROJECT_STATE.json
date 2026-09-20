@@ -17,7 +17,7 @@
     "phase_name": "Testes funcionais",
     "status": "BLOQUEADA_POR_CONFIGURACAO_EXTERNA"
   },
-  "last_completed_milestone": "Frontend migrado de FormSubmit para a lógica canônica Forminit + EmailJS; FormSubmit removido da camada pública.",
+  "last_completed_milestone": "Frontend canônico Forminit + EmailJS publicado; FormSubmit removido; deploy verificado. Backend permanece sem configuração autenticada.",
   "next_logical_step": "Criar/configurar Forminit e EmailJS nos painéis autenticados, inserir IDs reais e executar teste end-to-end.",
   "canonical_files": [
     "README.md",
@@ -42,7 +42,7 @@
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/superendividamento-pf.html",
   "last_deployment": {
-    "workflow_run_id": 35525753717,
+    "workflow_run_id": 35527384732,
     "attempt": 1,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE"
