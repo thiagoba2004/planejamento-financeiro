@@ -1,0 +1,12 @@
+{
+  "slug": "superendividamento-pf",
+  "type": "learning-unit",
+  "title": "Superendividamento das Pessoas Físicas",
+  "status": "EM_PESQUISA",
+  "project_code": "PRJ-000004",
+  "strategy_code": "EA-000004-000001",
+  "source_markdown": "temas/superendividamento-pf.md",
+  "html": "temas/superendividamento-pf.html",
+  "tracks": ["TRILHA_PROVA","TRILHA_PRATICA"],
+  "updated_at": "2026-09-20"
+}
