@@ -32,16 +32,17 @@
     "COMPETENCY_MATRIX.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_GITHUB_PAGES_DEPLOY_VERIFICADO",
+  "site_status": "PUBLICADO_GITHUB_PAGES_VERIFICADO_FINAL",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/superendividamento-pf.html",
   "last_deployment": {
-    "workflow_run_id": 35521419129,
-    "attempt": 2,
+    "workflow_run_id": 35522172380,
+    "attempt": 1,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE"
+    "verified_by": "GITHUB_PAGES_PIPELINE_FINAL",
+    "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/"
   }
 }
