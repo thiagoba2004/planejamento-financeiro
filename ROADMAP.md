@@ -153,7 +153,7 @@ Validar cálculos, fontes, premissas e integração com moradia, investimentos, 
 **Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
 
 
-## EA-000004-000007 — Moradia, financiamento e reorganização residencial — PLANEJADA
+## EA-000004-000007 — Moradia, financiamento e reorganização residencial — CONCLUÍDA
 
 ### FASE 01/06 [F-000004-000007-001] — Diagnóstico habitacional
 Mapear imóvel atual, titularidade formal como dado, financiamento, aluguel, condomínio, seguros e custos de manutenção.  
@@ -178,6 +178,19 @@ Criar casos de manutenção do imóvel, venda forçada, aluguel temporário e co
 ### FASE 06/06 [F-000004-000007-006] — Publicação, auditoria e atualização
 Revisar premissas, cálculos e dependências com partilha e crédito.  
 **Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+### Resultado — EA-000004-000007
+
+- 6/6 fases concluídas;
+- diagnóstico habitacional e inventário de dados consolidados;
+- custo total de moradia e custos de transição estruturados;
+- cenários de permanência, venda, locação e compra comparáveis;
+- CET, SFH, FGTS, liquidez e capacidade de financiamento tratados com fontes vigentes;
+- cinco casos progressivos e matriz SABER/FAZER/DECIDIR;
+- unidade pública em Markdown + HTML + JSON;
+- integração com Conhecimentos, Casos, Ferramentas, Fontes e Mapa do Site;
+- auditoria: 15 HTMLs, 257 hrefs, zero links/âncoras quebrados e zero vazamentos;
+- deploy público `35542862117`: **success**.
 
 
 ## EA-000004-000008 — Filhos: alimentos, educação, saúde e logística de convivência — PLANEJADA
