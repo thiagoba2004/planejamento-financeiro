@@ -104,3 +104,23 @@ Em 20/09/2026, foi confirmado o template **Confirmação de Protocolo - Planejam
 - Forminit Form ID: `7wcs1ehfwsf`.
 
 A configuração técnica necessária para o fluxo está completa. O próximo gate é o teste end-to-end real.
+
+
+## Teste real de 20/09/2026
+
+Evidências:
+- protocolo público: `PF-20260920-172057-2A2C86`;
+- registro técnico Forminit: `rS2g1N0yKZb08RwK`;
+- EmailJS History: `email_f0nKUDSMlsaED3hqEQNKnsLk`;
+- resultado EmailJS: **OK**;
+- destinatário: `thiagoba2004@yahoo.com.br`;
+- confirmação recebida efetivamente na Caixa de Entrada do Yahoo Mail;
+- mesmo protocolo preservado entre Site, Forminit e EmailJS.
+
+### Estado final
+
+`E2E_VERIFICADO`
+
+### Dívida não bloqueante
+
+O e-mail exibe a marca “Email sent via EmailJS.com”; avaliar remoção futura apenas se houver suporte do plano/provedor e se for desejável para identidade visual.
