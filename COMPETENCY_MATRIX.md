@@ -4,8 +4,12 @@
 
 | Tema | SABER | FAZER | DECIDIR | TRILHA_PROVA | TRILHA_PRATICA | Fonte canônica | Avaliação | Estado |
 |---|---|---|---|---|---|---|---|---|
-| Superendividamento de PF | Conceitos, fronteiras, causas, sinais e limites profissionais — em pesquisa | Coletar dados, organizar fluxo financeiro, calcular métricas e estruturar diagnóstico — em pesquisa | Priorizar intervenções, reconhecer limites de atuação e decidir quando encaminhar — em pesquisa | PENDENTE_DE_MAPEAMENTO_NO_PROGRAMA_DETALHADO_2026 | EM_CONSTRUCAO | PF-SRC-000001 a PF-SRC-000016, conforme pertinência; vínculo específico ainda em mapeamento | Casos, cálculos, justificativa de decisões e questões quando sustentadas pelo programa | FONTES_INICIAIS_MAPEADAS |
+| Superendividamento de PF | Conceitos, fronteiras, causas, sinais, indicadores e limites profissionais — em pesquisa | Coletar dados; estruturar orçamento e fluxo; inventariar dívidas; calcular métricas; testar sustentabilidade — em pesquisa | Priorizar intervenções; reconhecer limites; decidir quando encaminhar para suporte jurídico ou outro especialista — em pesquisa | **Vínculo à arquitetura do Módulo II — Gestão Financeira: comprovado. Tópicos específicos e objetivos: pendentes de leitura integral do Programa Detalhado/Perfil vigentes.** | **ATIVA — em construção** | PF-SRC-000001 a PF-SRC-000022, conforme pertinência e classe da fonte | Casos, cálculos, explicação do diagnóstico, justificativa de decisões e questões objetivas apenas quando mapeadas ao programa | CORPUS_EM_EXPANSAO |
 
-## Regra
+## Regras
 
-A matriz nunca deve atribuir conteúdo à prova sem fonte oficial vigente. Uma competência prática pode ser relevante ao mercado mesmo quando não houver evidência de cobrança no exame, e o inverso também pode ocorrer.
+1. A matriz nunca deve atribuir conteúdo à prova sem fonte oficial vigente.
+2. `CANONICA_EDITORIAL` sustenta investigação e prática, mas não transforma automaticamente uma afirmação em regra de exame.
+3. Uma competência prática pode ser relevante ao mercado mesmo quando não houver evidência de cobrança na prova.
+4. O inverso também pode ocorrer: conteúdo de prova pode exigir domínio declarativo que, isoladamente, não demonstra competência profissional.
+5. Enquanto os PDFs oficiais vigentes não forem extraídos integralmente, registrar o vínculo à Gestão Financeira como vínculo de arquitetura, não como prova de cada tópico específico.
