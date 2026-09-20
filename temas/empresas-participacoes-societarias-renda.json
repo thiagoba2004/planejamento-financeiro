@@ -1,0 +1,29 @@
+{
+  "title": "Empresas, participações societárias e continuidade de renda",
+  "updated_at": "2026-09-20",
+  "applicability": "CONDICIONAL_NO_CASO_CONCRETO",
+  "summary": "Metodologia para separar empresa, participação societária, renda pessoal, valuation, liquidez, garantias e continuidade financeira.",
+  "distinctions": [
+    "pessoa jurídica",
+    "participação societária",
+    "renda pessoal",
+    "garantias pessoais",
+    "efeito jurídico da partilha"
+  ],
+  "metrics": {
+    "adjusted_business_income": "média de pagamentos recorrentes documentados - itens extraordinários",
+    "business_income_dependency": "renda líquida proveniente da empresa / renda líquida pessoal total",
+    "indicative_equity_value": "valor econômico do capital próprio × percentual econômico aplicável",
+    "business_concentration": "valor indicativo da participação / patrimônio líquido pessoal total"
+  },
+  "valuation_methods": [
+    "patrimonial ajustado",
+    "fluxo de caixa descontado",
+    "múltiplos comparáveis"
+  ],
+  "sources": [
+    "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas",
+    "https://www.cpc.org.br/Arquivos/Documentos/395_CPC_46_rev%2012.pdf",
+    "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/receita-federal-orienta-sobre-os-procedimentos-para-o-recolhimento-do-imposto-de-renda-retido-na-fonte-sobre-lucros-e-dividendos"
+  ]
+}
