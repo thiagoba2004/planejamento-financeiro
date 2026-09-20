@@ -3,6 +3,10 @@
   "updated_at": "2026-09-20",
   "email": "planejamentofinanceiro2012@gmail.com",
   "protocol_prefix": "PF",
-  "provider": "FormSubmit",
+  "providers": {
+    "receipt": "Forminit",
+    "email_confirmation": "EmailJS"
+  },
+  "status": "BACKEND_NAO_CONFIGURADO",
   "html": "index.html"
 }
