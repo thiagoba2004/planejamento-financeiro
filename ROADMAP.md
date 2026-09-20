@@ -64,3 +64,12 @@ Fale Conosco protocolado implantado e verificado end-to-end com Forminit + Email
 - teste real: `PF-20260920-172057-2A2C86`;
 - estado final: `E2E_VERIFICADO`;
 - observação não bloqueante: marca “Email sent via EmailJS.com” visível no rodapé do e-mail.
+
+
+## EA-000004-000004 — Auditoria de Menus, Botões e Navegação
+
+1. **Fase 01/03 — Inventário funcional da interface pública** — mapear todas as rotas, menus, links, botões, pseudo-botões e destinos.
+2. **Fase 02/03 — Análise de coerência e affordance** — verificar se cada Menu tem função própria, se rótulos são necessários, se botões são semanticamente corretos e se elementos visuais prometem interação sem entregá-la.
+3. **Fase 03/03 — Relatório, correções aprovadas e verificação** — registrar achados, aplicar apenas correções justificadas/aprovadas e auditar o Site publicado.
+
+**Gate:** nenhum elemento central de navegação ou ação pode permanecer ambíguo quanto ao que faz.
