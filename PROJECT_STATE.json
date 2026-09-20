@@ -15,10 +15,10 @@
     "phase_total": 8,
     "phase_code": "F-000004-000001-008",
     "phase_name": "Publicação, auditoria e atualização",
-    "status": "BLOQUEADA_POR_HABILITACAO_PAGES"
+    "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "Conteúdo público da Fase 08 consolidado e auditado; build do artefato público concluído com sucesso.",
-  "next_logical_step": "Habilitar GitHub Pages em Settings > Pages > Build and deployment > Source: GitHub Actions; depois reexecutar o workflow e verificar a URL pública.",
+  "last_completed_milestone": "Fase 08/08 concluída: unidade sincronizada, auditada e implantada no GitHub Pages; deployment attempt 2 concluído com sucesso.",
+  "next_logical_step": "Estratégia EA-000004-000001 encerrada. Próximo passo do Projeto: definir nova Estratégia Autônoma ou executar manutenção/atualização quando o CFP® ou as fontes técnicas mudarem.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -32,7 +32,16 @@
     "COMPETENCY_MATRIX.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICACAO_PREPARADA_PAGES_DESABILITADO",
+  "site_status": "PUBLICADO_GITHUB_PAGES_DEPLOY_VERIFICADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
-  "generator_strategy_code": "EA-000002-000006"
+  "generator_strategy_code": "EA-000002-000006",
+  "strategy_status": "CONCLUIDA",
+  "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
+  "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/superendividamento-pf.html",
+  "last_deployment": {
+    "workflow_run_id": 35521419129,
+    "attempt": 2,
+    "status": "SUCCESS",
+    "verified_by": "GITHUB_PAGES_PIPELINE"
+  }
 }

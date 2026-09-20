@@ -2,11 +2,15 @@
   "slug": "index",
   "type": "homepage",
   "title": "Planejamento Financeiro",
-  "status": "PUBLICACAO_PREPARADA",
+  "status": "PUBLICADO",
   "source_markdown": "index.md",
   "html": "index.html",
   "project_code": "PRJ-000004",
   "featured_strategy": "EA-000004-000001",
   "updated_at": "2026-09-20",
-  "pages_enabled": false
+  "pages_enabled": true,
+  "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
+  "deployment_run_id": 35521419129,
+  "deployment_attempt": 2,
+  "deployment_status": "SUCCESS"
 }

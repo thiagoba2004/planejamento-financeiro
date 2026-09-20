@@ -2,7 +2,7 @@
   "slug": "superendividamento-pf",
   "type": "learning-unit",
   "title": "Superendividamento das Pessoas Físicas",
-  "status": "PUBLICACAO_PREPARADA",
+  "status": "PUBLICADO",
   "project_code": "PRJ-000004",
   "strategy_code": "EA-000004-000001",
   "phase": "08/08",
@@ -31,5 +31,9 @@
     "A3_CASO",
     "A4_COMUNICACAO_JULGAMENTO"
   ],
-  "review_date": "2026-09-20"
+  "review_date": "2026-09-20",
+  "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/superendividamento-pf.html",
+  "deployment_run_id": 35521419129,
+  "deployment_attempt": 2,
+  "deployment_status": "SUCCESS"
 }

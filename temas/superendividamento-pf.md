@@ -3,7 +3,7 @@
 **Estratégia:** EA-000004-000001  
 **Projeto:** PRJ-000004 — Planejamento Financeiro  
 **Última revisão:** 20/09/2026  
-**Estado editorial:** UNIDADE CONSOLIDADA — publicação preparada
+**Estado editorial:** UNIDADE CONSOLIDADA — PUBLICADA
 
 Esta unidade estuda endividamento e sobre-endividamento sob a perspectiva do planejamento financeiro, com separação explícita entre preparação para o CFP® e atuação profissional.
 

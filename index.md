@@ -8,6 +8,6 @@ Formação profissional baseada no CFP®, com duas trilhas complementares: **pas
 
 A unidade possui mapeamento CFP®, 14 competências observáveis, métricas, escada de intervenção, quatro casos progressivos e avaliação de domínio.
 
-**Estado técnico do Site:** conteúdo público preparado; implantação no GitHub Pages ainda depende da habilitação do serviço no repositório.
+**Estado técnico do Site:** PUBLICADO no GitHub Pages — https://thiagoba2004.github.io/planejamento-financeiro/
 
 Aprovação em prova e competência profissional são avaliadas separadamente.
