@@ -401,7 +401,7 @@ Revalidar vigência, jurisdição e necessidade de contador/advogado tributarist
 - deploy público `35544878479`: **success**.
 
 
-## EA-000004-000013 — Empresas, participações societárias e continuidade de renda — PLANEJADA · CONDICIONAL
+## EA-000004-000013 — Empresas, participações societárias e continuidade de renda — CONCLUÍDA · CONDICIONAL NO CASO CONCRETO
 
 ### FASE 01/06 [F-000004-000013-001] — Triagem de aplicabilidade e estrutura empresarial
 Identificar empresas, participações, funções, renda, garantias e dependência econômica do negócio.  
@@ -426,6 +426,21 @@ Criar casos de empresa familiar, sócio operacional, renda variável e baixa liq
 ### FASE 06/06 [F-000004-000013-006] — Publicação, auditoria e atualização
 Validar interfaces com partilha jurídica, contabilidade, tributação e valuation profissional.  
 **Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+### Resultado — EA-000004-000013
+
+- 6/6 fases concluídas;
+- condicionalidade no caso concreto formalizada;
+- estrutura empresarial, renda, garantias e dependência econômica mapeadas;
+- qualidade dos dados e separação empresa/pessoa física documentadas;
+- métodos de valuation, normalizações e liquidez societária estruturados;
+- continuidade de renda, concentração e riscos empresariais modelados;
+- cinco casos progressivos e matriz SABER/FAZER/DECIDIR;
+- unidade pública em Markdown + HTML + JSON;
+- integração com Conhecimentos, Gestão Financeira, Casos, Ferramentas, Fontes e Mapa do Site;
+- uma divergência de âncora detectada e corrigida antes do fechamento;
+- auditoria: 21 HTMLs, 431 hrefs, zero links/âncoras quebrados e zero vazamentos;
+- deploy público `35545239892`: **success**.
 
 
 ## EA-000004-000014 — Reconstrução financeira e plano integrado pós-divórcio — PLANEJADA
