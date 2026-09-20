@@ -15,10 +15,10 @@
     "phase_total": 8,
     "phase_code": "F-000004-000001-008",
     "phase_name": "Publicação, auditoria e atualização",
-    "status": "EM_EXECUCAO"
+    "status": "BLOQUEADA_POR_HABILITACAO_PAGES"
   },
-  "last_completed_milestone": "Fase 07/08 concluída: 14 competências observáveis mapeadas entre TRILHA_PROVA e TRILHA_PRATICA, com graus de evidência e quatro camadas de avaliação.",
-  "next_logical_step": "Sincronizar a unidade pública em Markdown + HTML + JSON, revisar fontes/cálculos/navegação, preparar implantação do Site e verificar a publicação.",
+  "last_completed_milestone": "Conteúdo público da Fase 08 consolidado e auditado; build do artefato público concluído com sucesso.",
+  "next_logical_step": "Habilitar GitHub Pages em Settings > Pages > Build and deployment > Source: GitHub Actions; depois reexecutar o workflow e verificar a URL pública.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -32,7 +32,7 @@
     "COMPETENCY_MATRIX.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "ESTRUTURADO_NAO_PUBLICADO",
+  "site_status": "PUBLICACAO_PREPARADA_PAGES_DESABILITADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006"
 }
