@@ -1,0 +1,29 @@
+{
+  "title": "Investimentos e reorganização de carteiras",
+  "updated_at": "2026-09-20",
+  "applicability": "CONDICIONAL_NO_CASO_CONCRETO",
+  "summary": "Metodologia para inventariar investimentos, relacionar liquidez a horizontes, reavaliar perfil de risco e comparar manutenção, portabilidade, resgate e recomposição.",
+  "limits": [
+    "não decide propriedade/comunicabilidade",
+    "não presume tributação",
+    "não usa portabilidade como mudança de titularidade"
+  ],
+  "metrics": {
+    "liquidity_gap": "necessidade de caixa no horizonte - ativos líquidos elegíveis no mesmo horizonte",
+    "asset_weight": "valor do ativo / carteira total",
+    "issuer_weight": "exposição ao emissor ou instituição / carteira total",
+    "short_term_liquidity": "ativos elegíveis para o horizonte / carteira total"
+  },
+  "current_references": {
+    "suitability": "Resolução CVM 30",
+    "portability": "Resolução CVM 210, consolidada",
+    "fgc_ordinary_limit_brl": 250000,
+    "fgc_four_year_cap_brl": 1000000
+  },
+  "sources": [
+    "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol030.html",
+    "https://www.gov.br/investidor/pt-br/investir/antes-de-investir/entenda-as-caracteristicas-dos-investimentos/liquidez",
+    "https://conteudo.cvm.gov.br/legislacao/resolucoes/resol210.html",
+    "https://www.fgc.org.br/sobre-garantia-fgc"
+  ]
+}
