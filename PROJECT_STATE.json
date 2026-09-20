@@ -5,7 +5,7 @@
   "project_alias": "PF",
   "project_id": "planejamento-financeiro",
   "repository": "thiagoba2004/planejamento-financeiro",
-  "status": "EM_IMPLANTACAO",
+  "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.8",
   "current_strategy_code": "EA-000004-000001",
@@ -19,6 +19,20 @@
   },
   "last_completed_milestone": "Projeto inicializado pela Rota A do Gerador de Agents.",
   "next_logical_step": "Definir perguntas de pesquisa e iniciar inventário das fontes oficiais da Planejar antes de produzir conteúdo formativo.",
-  "canonical_files": ["README.md","AGENTS.md","REQUEST_LOG.jsonl","STRATEGY_LOG.jsonl","PROJECT_STATE.json","ROADMAP.md","DECISIONS.md","SOURCE_REGISTRY.jsonl","PLANEJAR_SOURCES.md","COMPETENCY_MATRIX.md"],
-  "updated_at": "2026-09-20"
+  "canonical_files": [
+    "README.md",
+    "AGENTS.md",
+    "REQUEST_LOG.jsonl",
+    "STRATEGY_LOG.jsonl",
+    "PROJECT_STATE.json",
+    "ROADMAP.md",
+    "DECISIONS.md",
+    "SOURCE_REGISTRY.jsonl",
+    "PLANEJAR_SOURCES.md",
+    "COMPETENCY_MATRIX.md"
+  ],
+  "updated_at": "2026-09-20",
+  "site_status": "ESTRUTURADO_NAO_PUBLICADO",
+  "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
+  "generator_strategy_code": "EA-000002-000006"
 }
