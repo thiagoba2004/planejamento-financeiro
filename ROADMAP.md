@@ -75,3 +75,18 @@ Fale Conosco protocolado implantado e verificado end-to-end com Forminit + Email
 **Gate:** nenhum elemento central de navegação ou ação pode permanecer ambíguo quanto ao que faz.
 
 **Implementação aprovada:** Conhecimentos substitui Gestão Financeira no primeiro nível; Métricas integra Ferramentas; semântica visual de ações e navegação diferenciada.
+
+
+## EA-000004-000004 — CONCLUÍDA
+
+Auditoria e reorganização de Menus, Botões e Navegação concluída.
+
+- Menu global final: **Início · CFP® · Conhecimentos · Casos · Ferramentas · Fontes · Fale Conosco**;
+- Gestão Financeira subordinada a Conhecimentos;
+- Métricas e indicadores subordinada a Ferramentas;
+- ações e navegação visualmente diferenciadas;
+- cards clicáveis e informativos diferenciados;
+- 12 páginas HTML auditadas;
+- 139 links internos e 13 âncoras verificados;
+- zero quebra interna;
+- deploy final: workflow `35537032790` — **success**.
