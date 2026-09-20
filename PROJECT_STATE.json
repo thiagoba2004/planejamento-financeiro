@@ -1,0 +1,24 @@
+{
+  "project_code": "PRJ-000004",
+  "project_sequence": 4,
+  "project_name": "Planejamento Financeiro",
+  "project_alias": "PF",
+  "project_id": "planejamento-financeiro",
+  "repository": "thiagoba2004/planejamento-financeiro",
+  "status": "EM_IMPLANTACAO",
+  "kernel_version": "1.4",
+  "generator_release": "1.8",
+  "current_strategy_code": "EA-000004-000001",
+  "current_strategy_name": "Compreender o fenômeno do Superendividamento das Pessoas Físicas",
+  "current_phase": {
+    "phase_number": 1,
+    "phase_total": 8,
+    "phase_code": "F-000004-000001-001",
+    "phase_name": "Delimitação do fenômeno e perguntas de pesquisa",
+    "status": "EM_EXECUCAO"
+  },
+  "last_completed_milestone": "Projeto inicializado pela Rota A do Gerador de Agents.",
+  "next_logical_step": "Definir perguntas de pesquisa e iniciar inventário das fontes oficiais da Planejar antes de produzir conteúdo formativo.",
+  "canonical_files": ["README.md","AGENTS.md","REQUEST_LOG.jsonl","STRATEGY_LOG.jsonl","PROJECT_STATE.json","ROADMAP.md","DECISIONS.md","SOURCE_REGISTRY.jsonl","PLANEJAR_SOURCES.md","COMPETENCY_MATRIX.md"],
+  "updated_at": "2026-09-20"
+}
