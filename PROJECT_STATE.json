@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000010",
-  "current_strategy_name": "Investimentos e reorganização de carteiras",
+  "current_strategy_code": "EA-000004-000011",
+  "current_strategy_name": "Seguros, previdência e proteção financeira",
   "current_phase": {
-    "phase_number": 6,
+    "phase_number": 1,
     "phase_total": 6,
-    "phase_code": "F-000004-000010-006",
-    "phase_name": "Publicação, auditoria e atualização",
-    "status": "EM_EXECUCAO"
+    "phase_code": "F-000004-000011-001",
+    "phase_name": "Inventário de proteção e previdência",
+    "status": "PLANEJADA"
   },
-  "last_completed_milestone": "Fases 01 a 05 da EA-000004-000010 concluídas: inventário, liquidez/horizonte, cenários, perfil de risco e competências produzidos.",
-  "next_logical_step": "Auditar a unidade pública de investimentos, verificar links/governança e confirmar o deploy do GitHub Pages antes de concluir a estratégia.",
+  "last_completed_milestone": "EA-000004-000010 concluída: investimentos, liquidez, suitability, portabilidade, concentração e reorganização de carteiras publicados, integrados, auditados e validados.",
+  "next_logical_step": "Iniciar EA-000004-000011 pela Fase 01/06, inventariando seguros, previdência aberta/fechada, coberturas, contribuições, dependentes e beneficiários cadastrados; por ser estratégia condicional, documentar também eventual NÃO APLICÁVEL no caso concreto.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,18 +35,18 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICACAO_INVESTIMENTOS_EM_AUDITORIA",
+  "site_status": "PUBLICADO_INVESTIMENTOS_REORGANIZACAO_AUDITADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "PLANEJADA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": null,
   "last_deployment": {
-    "workflow_run_id": 35543623086,
+    "workflow_run_id": 35543991426,
     "attempt": 1,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "public_content_commit": "371b802e21dd464839d4df5552556f7f78b5c07b"
+    "public_content_commit": "0a2a63fe180e66af3746cc842a86920ab6ce8da6"
   },
   "public_menu": [
     "Início",
@@ -137,7 +137,7 @@
         "code": "EA-000004-000010",
         "name": "Investimentos e reorganização de carteiras",
         "conditional": true,
-        "status": "PLANEJADA"
+        "status": "CONCLUIDA"
       },
       {
         "code": "EA-000004-000011",
