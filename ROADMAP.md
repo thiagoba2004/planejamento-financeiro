@@ -234,7 +234,7 @@ Validar cálculos, linguagem e integração com a estratégia jurídica de alime
 - deploy público `35543306046`: **success**.
 
 
-## EA-000004-000009 — Dívidas, crédito, garantias e contas conjuntas — PLANEJADA
+## EA-000004-000009 — Dívidas, crédito, garantias e contas conjuntas — CONCLUÍDA
 
 ### FASE 01/06 [F-000004-000009-001] — Inventário de obrigações e acessos
 Mapear empréstimos, financiamentos, cartões, contas conjuntas, débitos automáticos, garantias e acessos financeiros.  
@@ -259,6 +259,21 @@ Criar casos com dívida conjunta, garantia, cartão adicional, financiamento e a
 ### FASE 06/06 [F-000004-000009-006] — Publicação, auditoria e atualização
 Validar dados, cálculos e integração com crédito, patrimônio e superendividamento.  
 **Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+### Resultado — EA-000004-000009
+
+- 6/6 fases concluídas;
+- inventário de empréstimos, financiamentos, cartões, contas, garantias e acessos estruturado;
+- dívida utilizada e exposição contingente separadas;
+- SCR/CCS incorporados como instrumentos de reconciliação;
+- serviço da dívida, comprometimento interno e fluxo livre documentados;
+- cenários de garantia, inadimplência e renegociação estruturados;
+- plano operacional 0–7/30/90 dias persistido;
+- cinco casos progressivos e matriz SABER/FAZER/DECIDIR;
+- unidade pública em Markdown + HTML + JSON;
+- integração com Conhecimentos, Gestão Financeira, Casos, Ferramentas, Fontes e Mapa do Site;
+- auditoria: 17 HTMLs, 314 hrefs, zero links/âncoras quebrados e zero vazamentos;
+- deploy público `35543623086`: **success**.
 
 
 ## EA-000004-000010 — Investimentos e reorganização de carteiras — PLANEJADA · CONDICIONAL
