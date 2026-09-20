@@ -2,9 +2,9 @@
 
 ## Estado
 
-**FRONTEND MIGRADO / BACKEND NÃO CONFIGURADO**
+**FORMINIT CONFIGURADO / EMAILJS PENDENTE**
 
-A implementação pública atual usa **FormSubmit** e foi classificada como não conforme após a revisão do padrão.
+O FormSubmit foi removido da camada pública. O frontend já usa a stack canônica Forminit + EmailJS.
 
 ## Padrão canônico aprovado
 
@@ -25,8 +25,10 @@ A implementação pública atual usa **FormSubmit** e foi classificada como não
 
 ## Configuração exigida antes do teste
 
-- criar Forminit próprio do projeto, com roteamento ao e-mail institucional;
-- registrar `FORM_ID`;
+- Forminit próprio do projeto criado;
+- `FORM_ID`: `7wcs1ehfwsf`;
+- Authentication mode: `Public`;
+- Self-email notification: `Active`;
 - configurar EmailJS para envio ao e-mail informado pelo visitante;
 - registrar `SERVICE_ID`, `TEMPLATE_ID` e chave pública quando aplicável;
 - não reutilizar FORM_ID do Classe e Massas sem comprovar isolamento.
@@ -46,10 +48,22 @@ O canal só pode ser declarado operacional depois de teste real que comprove:
 
 O frontend já segue a lógica Forminit + EmailJS. A ativação pública depende de configuração autenticada nos painéis dos provedores:
 
-- criar um formulário próprio no Forminit, colocá-lo em modo Public e obter o Form ID;
-- registrar o recebimento correspondente ao projeto;
+- Forminit próprio já criado em modo Public, com `FORM_ID 7wcs1ehfwsf`;
+- Self-email notification ativada;
 - criar ou validar serviço/template EmailJS e obter Service ID, Template ID e Public Key;
 - inserir os quatro identificadores no frontend;
 - executar teste end-to-end real.
 
-Enquanto esses identificadores não existirem, o formulário permanece oculto e o e-mail institucional direto continua disponível.
+Enquanto os identificadores do EmailJS não existirem, o formulário permanece oculto e o e-mail institucional direto continua disponível.
+
+
+## Forminit do Planejamento Financeiro criado
+
+Em 20/09/2026, foi criado o formulário isolado do projeto:
+
+- nome: **Fale Conosco — Planejamento Financeiro**;
+- Form ID: `7wcs1ehfwsf`;
+- Authentication mode: **Public**;
+- Self-email notification: **Active**.
+
+O próximo componente pendente da stack é o EmailJS para envio do protocolo ao remetente.

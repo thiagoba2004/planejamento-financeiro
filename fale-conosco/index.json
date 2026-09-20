@@ -7,6 +7,14 @@
     "receipt": "Forminit",
     "email_confirmation": "EmailJS"
   },
-  "status": "BACKEND_NAO_CONFIGURADO",
-  "html": "index.html"
+  "status": "FORMINIT_CONFIGURADO_EMAILJS_PENDENTE",
+  "html": "index.html",
+  "forminit": {
+    "form_id": "7wcs1ehfwsf",
+    "authentication_mode": "Public",
+    "self_email_notification": "Active"
+  },
+  "emailjs": {
+    "status": "PENDENTE_CONFIGURACAO"
+  }
 }

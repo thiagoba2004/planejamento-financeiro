@@ -15,10 +15,10 @@
     "phase_total": 4,
     "phase_code": "F-000004-000003-003",
     "phase_name": "Testes funcionais",
-    "status": "BLOQUEADA_POR_CONFIGURACAO_EXTERNA"
+    "status": "BLOQUEADA_POR_CONFIGURACAO_EMAILJS"
   },
-  "last_completed_milestone": "Frontend canônico Forminit + EmailJS publicado; FormSubmit removido; deploy verificado. Backend permanece sem configuração autenticada.",
-  "next_logical_step": "Criar/configurar Forminit e EmailJS nos painéis autenticados, inserir IDs reais e executar teste end-to-end.",
+  "last_completed_milestone": "Forminit isolado do Planejamento Financeiro criado em conta própria, modo Public, Form ID 7wcs1ehfwsf registrado no frontend; Self-email notification ativa.",
+  "next_logical_step": "Configurar EmailJS (Service ID, Template ID e Public Key), inserir os IDs e executar teste end-to-end.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,10 +35,10 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_CONTATO_FRONTEND_CANONICO_BACKEND_NAO_CONFIGURADO",
+  "site_status": "PUBLICADO_FORMINIT_CONFIGURADO_EMAILJS_PENDENTE",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "BLOQUEADA_POR_CONFIGURACAO_EXTERNA",
+  "strategy_status": "BLOQUEADA_POR_CONFIGURACAO_EMAILJS",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/superendividamento-pf.html",
   "last_deployment": {
@@ -59,13 +59,20 @@
   ],
   "visual_identity": "financeira/formativa: verde-petróleo, fundo frio, turquesa, âmbar; tipografia predominantemente sans-serif",
   "contact_protocol": {
-    "status": "BACKEND_NAO_CONFIGURADO",
+    "status": "FORMINIT_CONFIGURADO_EMAILJS_PENDENTE",
     "institutional_email": "planejamentofinanceiro2012@gmail.com",
     "protocol_prefix": "PF",
     "canonical_stack": {
       "receipt": "Forminit",
       "email_confirmation": "EmailJS"
     },
-    "current_nonconforming_stack": null
+    "forminit": {
+      "form_id": "7wcs1ehfwsf",
+      "authentication_mode": "Public",
+      "self_email_notification": "Active"
+    },
+    "emailjs": {
+      "status": "PENDENTE_CONFIGURACAO"
+    }
   }
 }
