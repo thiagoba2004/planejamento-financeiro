@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000013",
   "current_strategy_name": "Empresas, participações societárias e continuidade de renda",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 6,
     "phase_total": 6,
-    "phase_code": "F-000004-000013-001",
-    "phase_name": "Triagem de aplicabilidade e estrutura empresarial",
-    "status": "PLANEJADA"
+    "phase_code": "F-000004-000013-006",
+    "phase_name": "Publicação, auditoria e atualização",
+    "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "EA-000004-000012 concluída: tributação, declarações e custos de transferência publicados, integrados, auditados e validados.",
-  "next_logical_step": "Iniciar EA-000004-000013 pela Fase 01/06, identificando empresas, participações, funções, renda, garantias e dependência econômica do negócio; por ser estratégia condicional, documentar também eventual NÃO APLICÁVEL no caso concreto.",
+  "last_completed_milestone": "Fases 01 a 05 da EA-000004-000013 concluídas: triagem, qualidade de dados, valuation/liquidez, continuidade de renda e competências produzidos.",
+  "next_logical_step": "Auditar a unidade pública empresarial, corrigir qualquer divergência de links/âncoras, verificar governança e confirmar o deploy do GitHub Pages antes de concluir a estratégia.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,10 +35,10 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_TRIBUTACAO_CUSTOS_TRANSFERENCIA_AUDITADO",
+  "site_status": "PUBLICACAO_EMPRESAS_EM_AUDITORIA",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "PLANEJADA",
+  "strategy_status": "EM_EXECUCAO",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": null,
   "last_deployment": {
