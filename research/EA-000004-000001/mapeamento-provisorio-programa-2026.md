@@ -18,7 +18,7 @@ A Planejar confirma que, desde o 52º Exame (abril de 2026):
 6. a Planejar produziu oito apostilas oficiais para 2026, uma por módulo, declaradas pela própria entidade como alinhadas ao programa detalhado;
 7. o 52º Exame, realizado em 2026, já utilizou a nova estrutura.
 
-Fontes: PF-SRC-000001, PF-SRC-000002, PF-SRC-000003, PF-SRC-000017, PF-SRC-000018, PF-SRC-000019 e PF-SRC-000020.
+Fontes: PF-SRC-000001, PF-SRC-000002, PF-SRC-000003, PF-SRC-000012, PF-SRC-000017, PF-SRC-000019 e PF-SRC-000020.
 
 ## 2. O que ainda NÃO está comprovado pela leitura integral do PDF oficial
 
