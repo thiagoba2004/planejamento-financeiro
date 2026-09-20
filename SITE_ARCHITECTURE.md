@@ -2,19 +2,37 @@
 
 ## Menu global
 
-Início · CFP® · Gestão Financeira · Casos · Ferramentas · Métricas · Fontes · Fale Conosco
+Início · CFP® · Conhecimentos · Casos · Ferramentas · Fontes · Fale Conosco
+
+## Princípio arquitetural
+
+O Menu global representa **áreas estáveis e transversais do Site**. Módulos, temas, métricas ou seções internas de uma unidade não sobem automaticamente para o primeiro nível.
 
 ## Função de cada área
 
 - **Início:** apresentação institucional enxuta; não funciona como catálogo dos Menus.
-- **CFP®:** exame, módulos e materiais oficiais.
-- **Gestão Financeira:** unidades de conhecimento e aplicação.
-- **Casos:** exercícios de julgamento profissional.
-- **Ferramentas:** roteiros de diagnóstico e intervenção.
-- **Métricas:** fórmulas e interpretação.
+- **CFP®:** exame, certificação, estrutura vigente e materiais oficiais.
+- **Conhecimentos:** porta de entrada para as áreas de conhecimento do projeto.
+  - **Gestão Financeira:** subárea de Conhecimentos.
+    - **Superendividamento das Pessoas Físicas:** unidade formativa.
+- **Casos:** biblioteca transversal para treino de diagnóstico, decisão, comunicação e julgamento profissional.
+- **Ferramentas:** biblioteca de instrumentos executáveis e quadros de apoio.
+  - **Métricas e indicadores:** subárea de Ferramentas.
+  - **Escada de intervenção:** ferramenta de apoio à decisão.
+  - evolução prevista: calculadoras, checklists, roteiros, templates e árvores de decisão.
 - **Fontes:** Planejar, Banco Central e demais referências institucionais.
 - **Fale Conosco:** canal protocolado de contato.
 - **Mapa do Site:** índice estrutural acessível pelo rodapé, fora do menu global.
+
+## Regra de interação
+
+- `<button>` executa ação;
+- `<a href>` navega;
+- ação primária usa padrão visual `action-button`;
+- navegação em formato de chamada usa `nav-button`;
+- links secundários usam `secondary-link`;
+- card clicável deve ser um `<a class="resource-card">` e exibir sinal de navegação;
+- card meramente informativo deve permanecer estático, sem hover que sugira clique.
 
 ## Identidade visual
 
