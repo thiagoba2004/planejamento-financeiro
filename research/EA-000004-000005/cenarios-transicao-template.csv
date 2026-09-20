@@ -1,0 +1,7 @@
+scenario_id,unidade,rotulo_juridico,caixa_inicial,entradas_recorrentes_mensais,saidas_base_mensais,transferencias_liquidas_mensais,outras_saidas_recorrentes_mensais,custos_pontuais_0_30,custos_pontuais_31_90,custos_pontuais_91_365,saldo_operacional_mensal,caixa_30,caixa_90,caixa_365,observacoes
+CONFIRMADO,A,JURIDICO_CONFIRMADO,,,,,,,,,,,,,
+CENARIO_A,A,CENARIO_A,,,,,,,,,,,,,
+CENARIO_B,A,CENARIO_B,,,,,,,,,,,,,
+CONFIRMADO,B,JURIDICO_CONFIRMADO,,,,,,,,,,,,,
+CENARIO_A,B,CENARIO_A,,,,,,,,,,,,,
+CENARIO_B,B,CENARIO_B,,,,,,,,,,,,,

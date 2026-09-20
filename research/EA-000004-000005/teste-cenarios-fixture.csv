@@ -1,0 +1,3 @@
+scenario_id,caixa_inicial,entrada_mensal,saida_base_mensal,transferencia_mensal,custo_0_30,custo_31_90,custo_91_365,saida_recorrente_mensal,saldo_operacional_mensal,caixa_30,caixa_90,caixa_365
+A,12000,8000,6000,1000,4000,2000,6000,7000,1000,9000,9000,12000
+B,12000,8000,6000,1500,4000,2000,6000,7500,500,8500,7500,6000

@@ -1,0 +1,2 @@
+evento_id,scenario_id,unidade,data_prevista,janela,categoria,descricao,entrada_saida,valor,recorrente,rotulo_juridico,status_comprovacao,fonte,observacoes
+PF-EVT-001,CONFIRMADO,A,,0_30,TRANSICAO,Exemplo de custo pontual,SAIDA,,NAO,JURIDICO_CONFIRMADO,DADO_AUSENTE,,
