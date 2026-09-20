@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000011",
-  "current_strategy_name": "Seguros, previdência e proteção financeira",
+  "current_strategy_code": "EA-000004-000012",
+  "current_strategy_name": "Tributação, declarações e custos de transferência",
   "current_phase": {
-    "phase_number": 6,
+    "phase_number": 1,
     "phase_total": 6,
-    "phase_code": "F-000004-000011-006",
-    "phase_name": "Publicação, auditoria e atualização",
-    "status": "EM_EXECUCAO"
+    "phase_code": "F-000004-000012-001",
+    "phase_name": "Escopo tributário e eventos relevantes",
+    "status": "PLANEJADA"
   },
-  "last_completed_milestone": "Fases 01 a 05 da EA-000004-000011 concluídas: inventário, necessidades de proteção, beneficiários, adequação e competências produzidos.",
-  "next_logical_step": "Auditar a unidade pública de seguros e previdência, verificar links/governança e confirmar o deploy do GitHub Pages antes de concluir a estratégia.",
+  "last_completed_milestone": "EA-000004-000011 concluída: seguros, previdência, beneficiários, gap de proteção e adequação de coberturas publicados, integrados, auditados e validados.",
+  "next_logical_step": "Iniciar EA-000004-000012 pela Fase 01/06, identificando eventos potencialmente tributáveis ou declaratórios — transferências, vendas, compensações, rendimentos, dependentes e custos de transferência — sem presumir incidência antes da validação da fonte oficial vigente e da jurisdição aplicável.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,18 +35,18 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICACAO_SEGUROS_PREVIDENCIA_EM_AUDITORIA",
+  "site_status": "PUBLICADO_SEGUROS_PREVIDENCIA_PROTECAO_AUDITADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "PLANEJADA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": null,
   "last_deployment": {
-    "workflow_run_id": 35543991426,
+    "workflow_run_id": 35544299674,
     "attempt": 1,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "public_content_commit": "0a2a63fe180e66af3746cc842a86920ab6ce8da6"
+    "public_content_commit": "b7358617ba91b526210825670697b3e43e79a56c"
   },
   "public_menu": [
     "Início",
@@ -143,7 +143,7 @@
         "code": "EA-000004-000011",
         "name": "Seguros, previdência e proteção financeira",
         "conditional": true,
-        "status": "PLANEJADA"
+        "status": "CONCLUIDA"
       },
       {
         "code": "EA-000004-000012",
