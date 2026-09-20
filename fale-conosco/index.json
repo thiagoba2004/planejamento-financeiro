@@ -15,7 +15,7 @@
     "self_email_notification": "Active"
   },
   "emailjs": {
-    "status": "SERVICE_E_PUBLIC_KEY_CONFIGURADOS_TEMPLATE_PENDENTE",
+    "status": "TEMPLATE_EXISTENTE_ID_PENDENTE",
     "service_id": "service_i1a5brn",
     "public_key": "pUNgfjly-neqGcOJE",
     "connected_account": "planejamentofinanceiro2012@gmail.com"
