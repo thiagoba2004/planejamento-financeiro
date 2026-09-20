@@ -1,0 +1,30 @@
+{
+  "title": "Dívidas, crédito, garantias e contas conjuntas",
+  "updated_at": "2026-09-20",
+  "summary": "Metodologia para inventariar obrigações e acessos, reconciliar SCR/CCS e documentos, separar dívida de exposição contingente e comparar cenários de renegociação.",
+  "limits": [
+    "não classifica juridicamente dívida como comum ou particular",
+    "não presume solidariedade",
+    "não prevê execução de garantia",
+    "não autoriza acesso a credencial de terceiro"
+  ],
+  "metrics": {
+    "monthly_debt_service": "soma das parcelas e pagamentos mínimos confirmados no mês",
+    "internal_debt_ratio": "serviço mensal da dívida / renda líquida disponível",
+    "free_cash_after_debt": "renda líquida - despesas essenciais - serviço mensal da dívida - demais obrigações confirmadas"
+  },
+  "controls": [
+    "inventário",
+    "reconciliação SCR/contratos",
+    "calendário de vencimentos",
+    "mapeamento de garantias",
+    "revisão de recorrências",
+    "comparação de CET e custo total"
+  ],
+  "sources": [
+    "https://bcb.gov.br/meubc/faqs/s/relatorio-de-emprestimos-e-financiamentos-scr",
+    "https://www.bcb.gov.br/meubc/faqs/s/emprestimos-e-financiamentos",
+    "https://www.bcb.gov.br/fis/pedjud/asp/servicos_poder_judiciario/introducao.asp?frame=1",
+    "https://www.bcb.gov.br/cidadaniafinanceira/registrato/"
+  ]
+}
