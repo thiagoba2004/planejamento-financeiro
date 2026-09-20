@@ -17,8 +17,8 @@
     "phase_name": "Relatório, correções aprovadas e verificação",
     "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "EA-000004-000004 concluída: nova arquitetura de Menus publicada; semântica visual de interação diferenciada; 12 páginas, 139 links internos e 13 âncoras verificados sem quebra; deploy 35537032790 success.",
-  "next_logical_step": "Abrir a próxima Estratégia Autônoma do Projeto Planejamento Financeiro conforme a prioridade do usuário.",
+  "last_completed_milestone": "Correção visual pós-auditoria: removido 'Acessar →'; cards clicáveis diferenciados por cor, cards informativos mantidos neutros.",
+  "next_logical_step": "Verificar ausência global de 'Acessar →', consistência cromática e deploy GitHub Pages.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,7 +35,7 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_ARQUITETURA_E_INTERACAO_AUDITADAS",
+  "site_status": "PUBLICADO_AJUSTE_CROMATICO_CARDS_AGUARDA_VERIFICACAO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "CONCLUIDA",
