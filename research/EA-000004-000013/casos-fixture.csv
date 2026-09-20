@@ -1,0 +1,6 @@
+caso,capital_social,valor_empresa_indicativo,percentual_participacao,pro_labore_mensal,lucros_mensais_medios,lucros_extraordinarios_mensais,divida_empresa,garantia_pessoal,liquidez_participacao,status
+capital_baixo,50000,1200000,0.50,6000,10000,0,200000,0,BAIXA,CENARIO
+socio_operacional,100000,1800000,0.60,8000,12000,8000,300000,0,BAIXA,CENARIO
+empresa_sem_caixa,200000,1500000,0.50,5000,3000,0,250000,0,MUITO_BAIXA,CENARIO
+garantia_pessoal,150000,1000000,0.40,7000,8000,0,400000,400000,BAIXA,CENARIO
+valuation_judicial,300000,2200000,0.50,10000,15000,0,500000,0,BAIXA,CENARIO
