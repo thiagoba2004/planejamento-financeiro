@@ -1,5 +1,8 @@
 # Mapeamento provisório do programa CFP® 2026 — EA-000004-000001
 
+**SUPERADO POR:** `research/EA-000004-000001/mapeamento-trilha-prova-superendividamento.md` em 20/09/2026.  
+**Função histórica:** preservar o estágio anterior de evidência; não usar como estado corrente.
+
 **Projeto:** PRJ-000004 — Planejamento Financeiro  
 **Estratégia:** EA-000004-000001 — Compreender o fenômeno do Superendividamento das Pessoas Físicas  
 **Fase:** 02/08 — Corpus canônico Planejar e fontes primárias  
