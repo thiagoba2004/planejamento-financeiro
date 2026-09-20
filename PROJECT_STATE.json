@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000006",
-  "current_strategy_name": "Patrimônio, avaliação econômica e liquidez na partilha",
+  "current_strategy_code": "EA-000004-000007",
+  "current_strategy_name": "Moradia, financiamento e reorganização residencial",
   "current_phase": {
-    "phase_number": 6,
+    "phase_number": 1,
     "phase_total": 6,
-    "phase_code": "F-000004-000006-006",
-    "phase_name": "Publicação, auditoria e atualização",
-    "status": "EM_EXECUCAO"
+    "phase_code": "F-000004-000007-001",
+    "phase_name": "Diagnóstico habitacional",
+    "status": "PLANEJADA"
   },
-  "last_completed_milestone": "Fases 01 a 05 concluídas: escopo, inventário, valuation, cenários, casos e competências patrimoniais consolidados.",
-  "next_logical_step": "Publicar unidade em Markdown + HTML + JSON, integrar Conhecimentos/Casos/Ferramentas/Mapa do Site, auditar links/cálculos/governança e verificar deploy.",
+  "last_completed_milestone": "EA-000004-000006 concluída: patrimônio, valuation e liquidez na partilha publicados, auditados e validados.",
+  "next_logical_step": "Iniciar EA-000004-000007 pela Fase 01/06, mapeando imóvel atual, financiamento, aluguel, condomínio, seguros, custos de manutenção e alternativas residenciais.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,18 +35,18 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_TRANSICAO_FINANCEIRA_DIVORCIO_AUDITADO",
+  "site_status": "PUBLICADO_PATRIMONIO_PARTILHA_LIQUIDEZ_AUDITADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "PLANEJADA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": null,
   "last_deployment": {
-    "workflow_run_id": 35541592376,
+    "workflow_run_id": 35542281964,
     "attempt": 1,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "public_content_commit": "e8a0f1c756ee9523478f29227fc32506f7b75a39"
+    "public_content_commit": "1b14c96d462acd4404dd4428a91b77cfb0be2181"
   },
   "public_menu": [
     "Início",
@@ -113,7 +113,7 @@
         "code": "EA-000004-000006",
         "name": "Patrimônio, avaliação econômica e liquidez na partilha",
         "conditional": false,
-        "status": "EM_EXECUCAO"
+        "status": "CONCLUIDA"
       },
       {
         "code": "EA-000004-000007",

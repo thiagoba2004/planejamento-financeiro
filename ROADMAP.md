@@ -126,7 +126,7 @@ Sincronizar artefatos, testar cálculos, fontes e integração com as demais est
 **Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
 
 
-## EA-000004-000006 — Patrimônio, avaliação econômica e liquidez na partilha — PLANEJADA
+## EA-000004-000006 — Patrimônio, avaliação econômica e liquidez na partilha — CONCLUÍDA
 
 ### FASE 01/06 [F-000004-000006-001] — Escopo patrimonial e interface jurídica
 Definir ativos/passivos a inventariar e quais classificações dependem de conclusão do PRJ-000003.  
@@ -380,3 +380,17 @@ Publicar a unidade integradora e verificar coerência com todas as estratégias 
 - integração com Conhecimentos, Casos, Ferramentas e Mapa do Site;
 - auditoria: 13 HTMLs, 200 hrefs, zero quebras internas, zero vazamentos e sem “ACESSAR →”;
 - deploy público `35541592376`: **success**.
+
+
+### Resultado — EA-000004-000006
+
+- 6/6 fases concluídas;
+- fronteira jurídica/financeira formalizada;
+- inventário patrimonial e regras de qualidade de dados;
+- métodos de valuation por classe e fixture de R$ 498 mil líquidos;
+- cenários de venda, alocação, troca, manutenção e diferimento;
+- métricas de gap, liquidez, concentração e financiamento;
+- cinco casos progressivos e matriz de competências;
+- unidade pública em Markdown + HTML + JSON;
+- auditoria: 14 HTMLs, 230 hrefs, zero quebras e zero vazamentos;
+- deploy público `35542281964`: **success**.
