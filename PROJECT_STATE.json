@@ -15,10 +15,10 @@
     "phase_total": 4,
     "phase_code": "F-000004-000003-003",
     "phase_name": "Testes funcionais",
-    "status": "BLOQUEADA_APENAS_POR_TEMPLATE_ID_EMAILJS"
+    "status": "CONFIGURACAO_COMPLETA_TESTE_E2E_PENDENTE"
   },
-  "last_completed_milestone": "Forminit, EmailJS Service, Public Key e template já existem no Planejamento Financeiro; falta apenas registrar o Template ID no frontend.",
-  "next_logical_step": "Obter o Template ID do template já criado, inserir no frontend e executar teste end-to-end.",
+  "last_completed_milestone": "Stack completa configurada no Planejamento Financeiro: Forminit 7wcs1ehfwsf + EmailJS service_i1a5brn/template_hcfqltz + Public Key registrada.",
+  "next_logical_step": "Aguardar deploy e executar submissão real com e-mail de retorno; conferir protocolo, Forminit, notificação institucional e entrega do EmailJS.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,10 +35,10 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_FORMINIT_EMAILJS_SERVICE_PUBLIC_KEY_CONFIGURADOS_TEMPLATE_PENDENTE",
+  "site_status": "PUBLICADO_CONFIGURACAO_CONTATO_COMPLETA_TESTE_E2E_PENDENTE",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "BLOQUEADA_APENAS_POR_TEMPLATE_ID_EMAILJS",
+  "strategy_status": "CONFIGURACAO_COMPLETA_TESTE_E2E_PENDENTE",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/superendividamento-pf.html",
   "last_deployment": {
@@ -59,7 +59,7 @@
   ],
   "visual_identity": "financeira/formativa: verde-petróleo, fundo frio, turquesa, âmbar; tipografia predominantemente sans-serif",
   "contact_protocol": {
-    "status": "FORMINIT_CONFIGURADO_EMAILJS_PENDENTE",
+    "status": "CONFIGURACAO_COMPLETA_TESTE_E2E_PENDENTE",
     "institutional_email": "planejamentofinanceiro2012@gmail.com",
     "protocol_prefix": "PF",
     "canonical_stack": {
@@ -69,13 +69,16 @@
     "forminit": {
       "form_id": "7wcs1ehfwsf",
       "authentication_mode": "Public",
-      "self_email_notification": "Active"
+      "self_email_notification": "Active",
+      "notification_recipient": "planejamentofinanceiro2012@gmail.com"
     },
     "emailjs": {
-      "status": "TEMPLATE_EXISTENTE_ID_PENDENTE",
+      "status": "CONFIGURADO_TESTE_E2E_PENDENTE",
       "service_id": "service_i1a5brn",
+      "template_id": "template_hcfqltz",
       "public_key": "pUNgfjly-neqGcOJE",
-      "connected_account": "planejamentofinanceiro2012@gmail.com"
+      "connected_account": "planejamentofinanceiro2012@gmail.com",
+      "template_name": "Confirmação de Protocolo - Planejamento Financeiro"
     }
   }
 }

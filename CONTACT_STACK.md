@@ -2,7 +2,7 @@
 
 ## Estado
 
-**FORMINIT + EMAILJS SERVICE + PUBLIC KEY + TEMPLATE EXISTENTES / TEMPLATE ID PENDENTE**
+**FORMINIT + EMAILJS CONFIGURADOS / TESTE E2E PENDENTE**
 
 O FormSubmit foi removido da camada pública. O frontend já usa a stack canônica Forminit + EmailJS.
 
@@ -92,3 +92,15 @@ Permanece pendente:
 O usuário informou que o template de confirmação do Planejamento Financeiro **já havia sido criado**.
 
 Portanto, não há pendência de criação de template. Falta apenas obter/registrar o **Template ID** desse template já existente e inseri-lo no frontend antes do teste end-to-end.
+
+
+## EmailJS Template ID configurado
+
+Em 20/09/2026, foi confirmado o template **Confirmação de Protocolo - Planejamento Financeiro**:
+
+- Template ID: `template_hcfqltz`;
+- Service ID: `service_i1a5brn`;
+- Public Key: `pUNgfjly-neqGcOJE`;
+- Forminit Form ID: `7wcs1ehfwsf`.
+
+A configuração técnica necessária para o fluxo está completa. O próximo gate é o teste end-to-end real.
