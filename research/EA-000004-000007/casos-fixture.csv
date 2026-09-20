@@ -1,0 +1,5 @@
+caso,renda_liquida,prestacao_ou_aluguel,condominio,iptu_mensal,seguros_tarifas,manutencao,outros_custos_moradia,liquidez_inicial,custo_transicao,status
+permanencia_imovel,12000,3600,700,250,180,350,0,45000,0,CENARIO
+venda_e_aluguel,12000,2800,550,0,120,200,300,45000,8000,CENARIO
+entrada_alta,14000,0,0,0,0,0,0,180000,160000,CENARIO
+aluguel_temporario,9000,2500,500,0,80,150,250,30000,6000,CENARIO
