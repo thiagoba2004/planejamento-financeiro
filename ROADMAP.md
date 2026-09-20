@@ -193,7 +193,7 @@ Revisar premissas, cálculos e dependências com partilha e crédito.
 - deploy público `35542862117`: **success**.
 
 
-## EA-000004-000008 — Filhos: alimentos, educação, saúde e logística de convivência — PLANEJADA
+## EA-000004-000008 — Filhos: alimentos, educação, saúde e logística de convivência — CONCLUÍDA
 
 ### FASE 01/06 [F-000004-000008-001] — Mapa de necessidades dos filhos
 Inventariar alimentação, moradia, educação, saúde, transporte, lazer, cuidado e necessidades especiais.  
@@ -218,6 +218,20 @@ Treinar coleta de dados, conversa com responsáveis, conflito de prioridades e l
 ### FASE 06/06 [F-000004-000008-006] — Publicação, auditoria e atualização
 Validar cálculos, linguagem e integração com a estratégia jurídica de alimentos/convivência.  
 **Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+### Resultado — EA-000004-000008
+
+- 6/6 fases concluídas;
+- mapa de necessidades dos filhos e estados de dado estruturados;
+- recorrência, periodicidade, previsibilidade e mensalização documentadas;
+- template financeiro de despesas produzido;
+- fluxos por filho, responsável e consolidado modelados sem dupla contagem;
+- reservas, provisões e objetivos futuros estruturados;
+- cinco casos progressivos e matriz SABER/FAZER/DECIDIR;
+- unidade pública em Markdown + HTML + JSON;
+- integração com Conhecimentos, Gestão Financeira, Casos, Ferramentas e Mapa do Site;
+- auditoria: 16 HTMLs, 285 hrefs, zero links/âncoras quebrados e zero vazamentos;
+- deploy público `35543306046`: **success**.
 
 
 ## EA-000004-000009 — Dívidas, crédito, garantias e contas conjuntas — PLANEJADA
