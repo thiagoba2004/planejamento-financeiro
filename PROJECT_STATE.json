@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000001",
   "current_strategy_name": "Compreender o fenômeno do Superendividamento das Pessoas Físicas",
   "current_phase": {
-    "phase_number": 2,
+    "phase_number": 3,
     "phase_total": 8,
-    "phase_code": "F-000004-000001-002",
-    "phase_name": "Corpus canônico Planejar e fontes primárias",
+    "phase_code": "F-000004-000001-003",
+    "phase_name": "Causas, mecanismos e sinais",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "Arquitetura oficial do CFP® 2026 consolidada e corpus ampliado; vínculo de superendividamento à arquitetura de Gestão Financeira registrado sem inventar tópicos específicos de prova.",
-  "next_logical_step": "Obter leitura verificável do Programa Detalhado e do Perfil de Competências vigentes para mapear os tópicos específicos da TRILHA_PROVA e decidir o gate da Fase 02.",
+  "last_completed_milestone": "Fase 02/08 concluída: corpus Planejar classificado, TRILHA_PROVA materialmente mapeada e graus A/B/C de verificação instituídos.",
+  "next_logical_step": "Construir modelo causal multifatorial do superendividamento, separar causa, gatilho, mecanismo, sinal e consequência, e verificar fontes primárias/institucionais para cada bloco.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
