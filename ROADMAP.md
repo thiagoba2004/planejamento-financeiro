@@ -73,3 +73,5 @@ Fale Conosco protocolado implantado e verificado end-to-end com Forminit + Email
 3. **Fase 03/03 — Relatório, correções aprovadas e verificação** — registrar achados, aplicar apenas correções justificadas/aprovadas e auditar o Site publicado.
 
 **Gate:** nenhum elemento central de navegação ou ação pode permanecer ambíguo quanto ao que faz.
+
+**Implementação aprovada:** Conhecimentos substitui Gestão Financeira no primeiro nível; Métricas integra Ferramentas; semântica visual de ações e navegação diferenciada.
