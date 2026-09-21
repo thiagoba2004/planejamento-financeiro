@@ -31,3 +31,6 @@
 - Reserva-alvo e lacuna
 - Estacionamento financeiro temporário
 - Política de não decisão
+
+## Privacidade
+- [Aviso de Privacidade](../privacidade/index.html)
