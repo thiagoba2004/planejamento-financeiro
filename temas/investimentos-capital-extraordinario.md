@@ -1,6 +1,6 @@
 # Investimentos e alocação do capital extraordinário
 
-**Cenário didático:** recebimento de R$ 100.000,00 líquidos e integralmente disponíveis por dano moral trabalhista.
+**Cenário didático:** recebimento de R$ 100.000,00 recebidos em caixa e líquidos das retenções consideradas no cenário por dano moral trabalhista.
 
 ## 1. O capital recebido não é automaticamente capital investível
 
