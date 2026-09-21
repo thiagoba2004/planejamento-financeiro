@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000020",
   "current_strategy_name": "Finanças comportamentais, consumo e governança do patrimônio indenizatório",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 6,
     "phase_total": 6,
-    "phase_code": "F-000004-000020-001",
-    "phase_name": "Diagnóstico comportamental do evento extraordinário",
-    "status": "PLANEJADA"
+    "phase_code": "F-000004-000020-006",
+    "phase_name": "Publicação, auditoria e atualização",
+    "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "EA-000004-000019 concluída em 6/6 fases, publicada e auditada: objetivos, lacunas, aposentadoria/previdência, proteção e casos CFP® estruturados.",
-  "next_logical_step": "Executar a Fase 01/06 da EA-000004-000020 — Diagnóstico comportamental do evento extraordinário.",
+  "last_completed_milestone": "EA-000004-000020 com Fases 01 a 05 concluídas: diagnóstico comportamental, regras de decisão, uso discricionário, governança com terceiros e casos CFP® estruturados.",
+  "next_logical_step": "Executar a Fase 06/06 — Publicação, auditoria e atualização.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
