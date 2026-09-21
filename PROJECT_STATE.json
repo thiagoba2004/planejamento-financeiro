@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000022",
   "current_strategy_name": "Impacto financeiro da indenização trabalhista no diagnóstico e no plano de superendividamento",
   "current_phase": {
-    "phase_number": 5,
+    "phase_number": 6,
     "phase_total": 6,
-    "phase_code": "F-000004-000022-005",
-    "phase_name": "Casos, competências CFP® e interface jurídica",
+    "phase_code": "F-000004-000022-006",
+    "phase_name": "Publicação, auditoria e atualização",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "EA-000004-000022 com Fases 01 a 04 concluídas: linha de base, métricas, cenários e sustentabilidade pós-capital estruturadas.",
-  "next_logical_step": "Executar a Fase 05/06 — Casos, competências CFP® e interface jurídica.",
+  "last_completed_milestone": "EA-000004-000022 com Fases 01 a 05 concluídas: linha de base, métricas, cenários, sustentabilidade e casos/interoperabilidade estruturados.",
+  "next_logical_step": "Executar a Fase 06/06 — Publicação, auditoria e atualização.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
