@@ -124,3 +124,13 @@ Evidências:
 ### Dívida não bloqueante
 
 O e-mail exibe a marca “Email sent via EmailJS.com”; avaliar remoção futura apenas se houver suporte do plano/provedor e se for desejável para identidade visual.
+
+
+## Privacidade e minimização — atualização 21/09/2026
+
+- rota pública: `privacidade/index.html`;
+- o Fale Conosco e a página de recibo apontam para o Aviso de Privacidade;
+- o formulário pode receber nome/pseudônimo, e-mail, assunto, URL, mensagem e até três anexos;
+- anexos são opcionais e o Site orienta minimização/anonimização;
+- o workflow do GitHub Pages inclui explicitamente `privacidade/**`;
+- o estado operacional do canal permanece `E2E_VERIFICADO`.
