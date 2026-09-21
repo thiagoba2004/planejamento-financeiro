@@ -174,10 +174,10 @@ R$ 100.000,00
 - CAIXA_OPERACIONAL
 - DESPESAS_PREVISIVEIS
 - LACUNA_RESERVA
-- OBRIGACOES_URGENTES_CONFIRMADAS
+- OBRIGACOES_URGENTES_NAO_INCLUIDAS_EM_I0_OU_P12
 ```
 
-O resultado ainda não é “valor para investir”: é apenas capital que pode seguir para análise de dívidas, investimentos, objetivos e comportamento.
+A fórmula deve evitar dupla contagem: obrigação já incluída no caixa operacional ou em despesas previsíveis não é subtraída novamente. O resultado ainda não é “valor para investir”: é apenas capital que pode seguir para análise de dívidas, investimentos, objetivos e comportamento.
 
 ## 12. Comunicação profissional
 
