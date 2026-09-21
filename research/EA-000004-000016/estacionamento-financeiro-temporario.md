@@ -32,7 +32,7 @@ Toda alternativa deve ser verificada por:
 | crédito | quem deve o dinheiro ao investidor? |
 | garantia | há FGC ou outra proteção? |
 | concentração | quanto está exposto ao mesmo emissor/conglomerado? |
-| tributação | IR/IOF/isencão dependem do produto e prazo? |
+| tributação | IR/IOF/isenção dependem do produto e prazo? |
 | custos | há taxa de administração, custódia ou outras? |
 | operação | há horário, dia útil, prazo de conversão/liquidação? |
 | simplicidade | o titular entende como acessar o recurso? |
