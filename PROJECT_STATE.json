@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000021",
-  "current_strategy_name": "Plano financeiro integrado e monitoramento pós-indenização",
+  "current_strategy_code": "EA-000004-000014",
+  "current_strategy_name": "Reconstrução financeira e plano integrado pós-divórcio",
   "current_phase": {
-    "phase_number": 6,
+    "phase_number": 1,
     "phase_total": 6,
-    "phase_code": "F-000004-000021-006",
-    "phase_name": "Publicação, auditoria e atualização",
-    "status": "EM_EXECUCAO"
+    "phase_code": "F-000004-000014-001",
+    "phase_name": "Consolidação dos diagnósticos anteriores",
+    "status": "PLANEJADA"
   },
-  "last_completed_milestone": "EA-000004-000021 com Fases 01 a 05 concluídas: consolidação, balanço integrado, plano de alocação, cronograma e monitoramento estruturados.",
-  "next_logical_step": "Executar a Fase 06/06 — Publicação, auditoria e atualização.",
+  "last_completed_milestone": "EA-000004-000021 concluída em 6/6 fases, publicada e auditada; portfólio completo da indenização trabalhista por dano moral encerrado.",
+  "next_logical_step": "Executar a Fase 01/06 da EA-000004-000014 — Consolidação dos diagnósticos anteriores.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,17 +35,17 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-21",
-  "site_status": "PUBLICADO_FINANCAS_COMPORTAMENTAIS_PATRIMONIO_INDENIZATORIO",
+  "site_status": "PUBLICADO_PLANO_FINANCEIRO_INTEGRADO_POS_INDENIZACAO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "PLANEJADA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": null,
   "last_deployment": {
-    "workflow_run_id": 35597667123,
+    "workflow_run_id": 35598686706,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "commit_sha": "4cfa04558cf4323827b050f6ec98c0b2665c21e8"
+    "commit_sha": "cd965baa9274d224808d012a78826d8981d6644c"
   },
   "public_menu": [
     "Início",
@@ -239,7 +239,8 @@
           "conditional": false,
           "status": "PLANEJADA"
         }
-      ]
+      ],
+      "status": "EM_ANDAMENTO"
     },
     {
       "theme": "Recebimento de indenização trabalhista por dano moral — aproximadamente R$ 100.000,00",
@@ -287,7 +288,7 @@
           "code": "EA-000004-000021",
           "name": "Plano financeiro integrado e monitoramento pós-indenização",
           "conditional": false,
-          "status": "PLANEJADA"
+          "status": "CONCLUIDA"
         }
       ],
       "scenario_assumptions": {
@@ -296,7 +297,8 @@
         "liquidity_status": "LIQUIDO_E_INTEGRALMENTE_DISPONIVEL",
         "recurring_income": false,
         "source": "USER_PROVIDED_HYPOTHETICAL"
-      }
+      },
+      "status": "CONCLUIDA"
     },
     {
       "theme": "Impacto da indenização líquida por dano moral trabalhista sobre a repactuação por superendividamento",
@@ -328,7 +330,7 @@
       "status": "CONCLUIDA"
     }
   ],
-  "active_strategy_portfolio": "Recebimento de indenização trabalhista por dano moral — aproximadamente R$ 100.000,00",
+  "active_strategy_portfolio": "Consequências financeiras do divórcio litigioso c/c partilha de bens, guarda, convivência e alimentos",
   "current_scenario_assumptions": {
     "indemnity_origin": "dano moral trabalhista",
     "net_capital_brl": 100000,
