@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000022",
-  "current_strategy_name": "Impacto financeiro da indenização trabalhista no diagnóstico e no plano de superendividamento",
+  "current_strategy_code": "EA-000004-000018",
+  "current_strategy_name": "Investimentos e alocação do capital extraordinário",
   "current_phase": {
-    "phase_number": 6,
+    "phase_number": 1,
     "phase_total": 6,
-    "phase_code": "F-000004-000022-006",
-    "phase_name": "Publicação, auditoria e atualização",
-    "status": "CONCLUIDA"
+    "phase_code": "F-000004-000018-001",
+    "phase_name": "Objetivos, horizonte e perfil de risco",
+    "status": "PLANEJADA"
   },
-  "last_completed_milestone": "EA-000004-000022 concluída em 6/6 fases, publicada e auditada; resultados financeiros entregues à estratégia jurídica EA-000003-000007.",
-  "next_logical_step": "Prosseguir no PRJ-000003 pela EA-000003-000007. Após o fechamento da frente interprojetos, retomar EA-000004-000018 — Investimentos e alocação do capital extraordinário.",
+  "last_completed_milestone": "Frente interprojetos indenização trabalhista × superendividamento concluída: EA-000004-000022 concluída em 6/6 e EA-000003-000007 concluída em 9/9.",
+  "next_logical_step": "Executar a Fase 01/06 da EA-000004-000018 — Objetivos, horizonte e perfil de risco.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,9 +38,9 @@
   "site_status": "PUBLICADO_INDENIZACAO_SUPERENDIVIDAMENTO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "CONCLUIDA",
+  "strategy_status": "PLANEJADA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
-  "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/indenizacao-superendividamento.html",
+  "current_strategy_public_url": null,
   "last_deployment": {
     "workflow_run_id": 35592528330,
     "status": "SUCCESS",
@@ -324,10 +324,11 @@
         "liquidity_status": "LIQUIDO_E_INTEGRALMENTE_DISPONIVEL",
         "recurring_income": false,
         "source": "USER_PROVIDED_HYPOTHETICAL"
-      }
+      },
+      "status": "CONCLUIDA"
     }
   ],
-  "active_strategy_portfolio": "Impacto da indenização líquida por dano moral trabalhista sobre a repactuação por superendividamento",
+  "active_strategy_portfolio": "Recebimento de indenização trabalhista por dano moral — aproximadamente R$ 100.000,00",
   "current_scenario_assumptions": {
     "indemnity_origin": "dano moral trabalhista",
     "net_capital_brl": 100000,
