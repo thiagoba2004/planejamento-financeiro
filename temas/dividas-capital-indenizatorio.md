@@ -1,6 +1,6 @@
 # Dívidas e capital indenizatório: quitar, amortizar, manter ou renegociar?
 
-**Cenário didático:** trabalhador recebeu **R$ 100.000,00 líquidos e integralmente disponíveis** a título de indenização por dano moral do empregador.
+**Cenário didático:** trabalhador recebeu **R$ 100.000,00 recebidos em caixa e líquidos das retenções consideradas no cenário** a título de indenização por dano moral do empregador.
 
 A existência desse capital não significa que toda dívida deva ser quitada. A decisão correta começa por confirmar as obrigações, preservar a liquidez necessária e comparar custo, risco e efeitos sobre o fluxo de caixa.
 
@@ -98,7 +98,9 @@ Se a comparação não puder ser feita de modo confiável, registre **NÃO COMPA
 5. **Renegociação:** parcela menor com prazo maior e soma nominal mais alta.
 6. **Nenhuma dívida confirmada:** a estratégia encerra-se como não aplicável, e o capital segue para as análises seguintes.
 
-## 8. Formação CFP®
+## 8. Aderência ao CFP®
+
+**Classificação: competência/conceito do domínio CFP® com aplicação profissional do Projeto.**
 
 **SABER:** CET, saldo de quitação, custo de oportunidade, garantia e risco de fluxo.  
 **FAZER:** inventariar obrigações, calcular métricas e comparar cenários na mesma data-base.  
