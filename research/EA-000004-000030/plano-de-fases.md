@@ -25,3 +25,15 @@ Revalidar links internos, rotas novas, ausência de vazamento de governança e c
 ## FASE 05/05 [F-000004-000030-005] — Relatório regressivo e estado
 Consolidar achados, corrigir regressões se existirem, registrar o resultado e atualizar o estado do Projeto.
 **Gate:** relatório persistido e estratégia encerrada.
+
+## Estado final da execução
+
+**Estratégia:** CONCLUÍDA em 21/09/2026.  
+**Fases:** 5/5 concluídas.  
+**Achado regressivo:** cinco HTMLs com classificação CFP® não padronizada em relação ao Markdown canônico.  
+**Correção:** aplicada e publicada.  
+**GitHub Pages:** run `35645234961` — **success**.  
+**Commit público final:** `be331d70ee3623e640af492910ab1bd2a57fd548`.  
+**Artefato final:** ID `10659862746`, digest `sha256:1d79283f8b6e19241309af077cec291611a413877a0de5de08dd2c4b31fb655d`.  
+**Relatório:** `research/EA-000004-000030/relatorio-regressivo.md`.
+
