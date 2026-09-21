@@ -103,9 +103,11 @@ valor patrimonial ajustado
 ```
 
 ### Fluxo de caixa descontado
+A ponte abaixo é uma **simplificação do modelo FCFF → Enterprise Value → Equity Value** e não uma fórmula universal de DCF.
+
 ```text
 valor da firma
-= valor presente dos fluxos operacionais
+= valor presente do FCFF projetado
 + valor presente do valor terminal
 ```
 
@@ -113,8 +115,12 @@ Depois, quando aplicável:
 ```text
 valor do capital próprio
 = valor da firma
++ caixa excedente/ativos não operacionais
 − dívida líquida
+− passivos/ajustes econômicos relevantes
 ```
+
+Modelos baseados em FCFE podem chegar diretamente ao valor do capital próprio. Participações, contingências, classes de ações, direitos preferenciais e outros ajustes devem ser tratados conforme o caso.
 
 ### Múltiplos
 Úteis apenas quando existem comparáveis realmente compatíveis.
@@ -159,11 +165,16 @@ Valor elevado não significa disponibilidade de caixa.
 
 Separe renda recorrente de extraordinária.
 
-### Renda empresarial média ajustada
+### Renda empresarial sustentável estimada
+
+Primeiro classifique os pagamentos totais ao sócio em recorrentes e extraordinários; depois normalize pró-labore/distribuições e calcule a média apenas da base sustentável.
+
 ```text
-média de pagamentos recorrentes documentados
-− itens extraordinários
+RENDA_EMPRESARIAL_SUSTENTAVEL_ESTIMADA
+= média dos pagamentos recorrentes normalizados e documentados
 ```
+
+Itens extraordinários devem ser excluídos **antes** da média, para não serem subtraídos duas vezes.
 
 ### Dependência da renda do negócio
 ```text
@@ -218,9 +229,9 @@ A apuração de haveres pode gerar pagamento parcelado e baixa liquidez, mesmo q
 4. dívida empresarial com garantia pessoal;
 5. DCF econômico divergente do método judicial de apuração.
 
-## 15. Para a prova CFP®
+## 15. Aderência ao CFP®
 
-A unidade mobiliza patrimônio, renda, risco, liquidez, concentração, valuation, tributação e planejamento de continuidade.
+**Classificação: aplicação profissional do Projeto apoiada por competências do domínio CFP®.** A unidade mobiliza patrimônio, renda, risco, liquidez, concentração, valuation, tributação e planejamento de continuidade.
 
 ## 16. Na prática profissional
 
