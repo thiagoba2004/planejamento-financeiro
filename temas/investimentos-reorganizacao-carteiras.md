@@ -83,24 +83,28 @@ Após a transição, recompor reserva, revisar perfil, reduzir concentrações m
 ### Ativo controvertido
 Não tratar como reserva confirmada nem pressupor venda ou transferência antes da definição jurídica/operacional.
 
-## 6. Suitability precisa ser reavaliado
+## 6. Diagnóstico de risco e suitability não são a mesma coisa
 
-A Resolução CVM 30 considera:
-- objetivos de investimento;
-- situação financeira;
-- conhecimento necessário para compreender os riscos.
+No planejamento financeiro, use um diagnóstico de risco que separe **capacidade**, **tolerância/disposição** e **necessidade de risco**, além das restrições de horizonte, liquidez, concentração e obrigações.
 
-Após uma ruptura, a **capacidade de risco** pode cair mesmo que a pessoa continue se declarando tolerante ao risco.
+Quando o caso envolver participante sujeito à Resolução CVM 30, o **suitability regulatório** possui deveres próprios e não é substituído automaticamente pelo diagnóstico do planejador. A norma considera, entre outros elementos, objetivos de investimento, situação financeira e conhecimento necessário para compreender os riscos.
 
-## 7. Perfil de risco em cinco dimensões
+Após uma ruptura, a capacidade objetiva pode cair mesmo que a pessoa continue se declarando tolerante ao risco.
 
+## 7. Modelo canônico de risco
+
+### Dimensões pessoais
 - capacidade de risco;
-- necessidade de risco;
-- tolerância a risco;
-- horizonte;
-- necessidade de liquidez.
+- tolerância/disposição;
+- necessidade de risco.
 
-Um perfil cadastral não deve ser usado de forma automática se orçamento, patrimônio e objetivos mudaram.
+### Restrições do plano
+- horizonte;
+- necessidade de liquidez;
+- concentração;
+- obrigações e compromissos.
+
+Um perfil cadastral ou suitability institucional não deve ser usado de forma automática se orçamento, patrimônio e objetivos mudaram.
 
 ## 8. Diversificação e concentração
 
@@ -170,9 +174,9 @@ máx(0; necessidade de caixa − caixa/reserva já disponível)
 4. portabilidade para outra instituição sem mudança de titularidade;
 5. perfil de risco que não reflete a nova capacidade financeira.
 
-## 13. Para a prova CFP®
+## 13. Aderência ao CFP®
 
-A unidade mobiliza investimentos, risco, retorno, liquidez, horizonte, suitability, diversificação e integração com objetivos financeiros.
+**Classificação: competência/conceito do domínio CFP® com aplicação profissional do Projeto.** A unidade mobiliza investimentos, risco, retorno, liquidez, horizonte, diversificação e integração com objetivos financeiros.
 
 ## 14. Na prática profissional
 
@@ -184,6 +188,10 @@ O profissional deve saber:
 - reavaliar capacidade de risco;
 - relacionar carteira a objetivos;
 - reconhecer dependências tributárias e jurídicas.
+
+## Perímetro profissional
+
+Planejamento e análise não equivalem automaticamente a consultoria de valores mobiliários. Recomendações individualizadas, implementação, distribuição ou outras atividades podem exigir enquadramento regulatório próprio. Consulte [Perímetro Profissional e Atividades Reguladas](../conhecimentos/perimetro-profissional.html).
 
 ## Fontes oficiais
 
