@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000016",
-  "current_strategy_name": "Liquidez, reserva de segurança e período de decisão pós-indenização",
+  "current_strategy_code": "EA-000004-000017",
+  "current_strategy_name": "Dívidas, crédito e prioridade de uso do capital indenizatório",
   "current_phase": {
-    "phase_number": 6,
+    "phase_number": 1,
     "phase_total": 6,
-    "phase_code": "F-000004-000016-006",
-    "phase_name": "Publicação, auditoria e atualização",
-    "status": "EM_EXECUCAO"
+    "phase_code": "F-000004-000017-001",
+    "phase_name": "Inventário de dívidas e obrigações",
+    "status": "PLANEJADA"
   },
-  "last_completed_milestone": "EA-000004-000016 Fase 05/06 concluída: seis casos progressivos e competências CFP® produzidos com cálculos de reserva, liquidez, FGC, necessidade imediata de caixa e decisões prematuras.",
-  "next_logical_step": "Concluir a Fase 06/06: auditar a nova rota pública e integrações, verificar o GitHub Pages e, se aprovado, encerrar a EA-000004-000016 e avançar para a EA-000004-000017.",
+  "last_completed_milestone": "EA-000004-000016 concluída em 6/6 fases, publicada e auditada: horizontes 3/6/12, reserva/lacuna, estacionamento temporário, política de não decisão e seis casos CFP®; deploy 35553863507 success.",
+  "next_logical_step": "Iniciar a EA-000004-000017 pela Fase 01/06, inventariando dívidas e obrigações por saldo, CET, parcelas, garantias, vencimentos, multas e impacto no fluxo; se não houver dívidas no caso concreto, documentar a não aplicabilidade sem inventar passivos.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,16 +35,17 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-20",
-  "site_status": "PUBLICADO_EMPRESAS_PARTICIPACOES_RENDA_AUDITADO",
+  "site_status": "PUBLICADO_LIQUIDEZ_RESERVA_POS_INDENIZACAO_AUDITADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "PLANEJADA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
-  "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/liquidez-reserva-pos-indenizacao.html",
+  "current_strategy_public_url": null,
   "last_deployment": {
-    "workflow_run_id": 35552763240,
+    "workflow_run_id": 35553863507,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE"
+    "verified_by": "GITHUB_PAGES_PIPELINE",
+    "commit_sha": "7b37f5f79486d36adbb0c837c646e5097a34cda9"
   },
   "public_menu": [
     "Início",
@@ -256,7 +257,7 @@
           "code": "EA-000004-000016",
           "name": "Liquidez, reserva de segurança e período de decisão pós-indenização",
           "conditional": false,
-          "status": "EM_EXECUCAO"
+          "status": "CONCLUIDA"
         },
         {
           "code": "EA-000004-000017",

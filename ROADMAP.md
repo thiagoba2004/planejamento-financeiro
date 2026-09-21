@@ -541,7 +541,7 @@ Princípios:
 
 **Plano detalhado:** `research/EA-000004-000015/plano-de-fases.md`.
 
-## EA-000004-000016 — Liquidez, reserva de segurança e período de decisão pós-indenização — EM EXECUÇÃO
+## EA-000004-000016 — Liquidez, reserva de segurança e período de decisão pós-indenização — CONCLUÍDA
 
 ### FASE 01/06 [F-000004-000016-001] — Delimitação do horizonte de transição
 **Gate:** escopo e perguntas persistidos.  
@@ -549,25 +549,26 @@ Princípios:
 
 ### FASE 02/06 [F-000004-000016-002] — Reserva de segurança e necessidades imediatas
 **Gate:** dados/fontes necessários registrados e classificados.  
-**Estado:** CONCLUÍDA — fórmula de reserva/lacuna, separação entre emergência e despesas previsíveis, critérios de horizonte e exemplos reproduzíveis documentados; valor concreto permanece DADO_AUSENTE sem renda/despesas/reserva prévia.
+**Estado:** CONCLUÍDA — fórmula de reserva/lacuna, separação entre emergência e despesas previsíveis, critérios de horizonte e exemplos reproduzíveis documentados.
 
 ### FASE 03/06 [F-000004-000016-003] — Estacionamento financeiro temporário
 **Gate:** metodologia e cenários reproduzíveis documentados.  
-**Estado:** CONCLUÍDA — matriz de liquidez, risco, garantia, tributação, custo e operação aplicada a alternativas temporárias; regras atuais do FGC e fontes institucionais verificadas; carteira definitiva expressamente excluída desta fase.
+**Estado:** CONCLUÍDA — matriz de liquidez, risco, garantia, tributação, custo e operação; regras do FGC e fontes institucionais verificadas.
 
 ### FASE 04/06 [F-000004-000016-004] — Política de não decisão e desembolsos iniciais
 **Gate:** intervenções/cenários com limites profissionais explícitos.  
-**Estado:** CONCLUÍDA — decisões classificadas por reversibilidade, teste de desembolso estruturado, limites para compras/terceiros/dívidas/longo prazo e fórmula de capital liberado com trava contra dupla contagem.
+**Estado:** CONCLUÍDA — decisões por reversibilidade, teste de desembolso, limites para compras/terceiros/dívidas/longo prazo e trava contra dupla contagem.
 
 ### FASE 05/06 [F-000004-000016-005] — Casos e competências CFP®
 **Gate:** casos e competências verificáveis produzidos.  
-**Estado:** CONCLUÍDA — seis casos progressivos, cálculos reproduzíveis, competências SABER/FAZER/DECIDIR, avaliação de domínio, comunicação profissional e erros a evitar.
+**Estado:** CONCLUÍDA — seis casos progressivos, cálculos reproduzíveis, competências SABER/FAZER/DECIDIR, avaliação de domínio e comunicação profissional.
 
 ### FASE 06/06 [F-000004-000016-006] — Publicação, auditoria e atualização
 **Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.  
-**Estado:** EM EXECUÇÃO — unidade pública e integrações preparadas; aguardando auditoria do commit e verificação do deploy.
+**Estado:** CONCLUÍDA — Markdown + HTML sincronizados; integrações públicas auditadas sem vazamentos; âncoras verificadas; deploy 35553863507 success no commit 7b37f5f79486d36adbb0c837c646e5097a34cda9; nenhum JSON narrativo.
 
-**Plano detalhado:** `research/EA-000004-000016/plano-de-fases.md`.
+**Plano detalhado:** `research/EA-000004-000016/plano-de-fases.md`.  
+**Auditoria:** `research/EA-000004-000016/auditoria-final-publicacao.md`.
 
 ## EA-000004-000017 — Dívidas, crédito e prioridade de uso do capital indenizatório — PLANEJADA
 
