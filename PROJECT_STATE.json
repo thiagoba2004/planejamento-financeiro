@@ -17,8 +17,8 @@
     "phase_name": "Relatório do Planejador Financeiro do Diabo",
     "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "EA-000004-000023 concluída: auditoria adversarial integral do Site Planejamento Financeiro, com 30 HTMLs públicos inventariados e Relatório do Planejador Financeiro do Diabo consolidado.",
-  "next_logical_step": "Criar ciclo corretivo em Estratégias Autônomas a partir dos achados do Relatório do Planejador Financeiro do Diabo, preservando paridade Markdown–HTML e auditando fórmulas, perímetro regulatório e aderência CFP®.",
+  "last_completed_milestone": "EA-000004-000023 concluída e validada externamente: Relatório do Planejador Financeiro do Diabo persistido e achados sensíveis revalidados em fontes oficiais em 21/09/2026.",
+  "next_logical_step": "Criar ciclo corretivo em Estratégias Autônomas a partir dos achados do Relatório do Planejador Financeiro do Diabo, sem misturar correções quantitativas, regulatórias, CFP®, LGPD e editoriais.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
