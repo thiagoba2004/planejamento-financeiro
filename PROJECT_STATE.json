@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000017",
-  "current_strategy_name": "Dívidas, crédito e prioridade de uso do capital indenizatório",
+  "current_strategy_code": "EA-000004-000018",
+  "current_strategy_name": "Investimentos e alocação do capital extraordinário",
   "current_phase": {
-    "phase_number": 6,
+    "phase_number": 1,
     "phase_total": 6,
-    "phase_code": "F-000004-000017-006",
-    "phase_name": "Publicação, auditoria e atualização",
-    "status": "EM_EXECUCAO"
+    "phase_code": "F-000004-000018-001",
+    "phase_name": "Objetivos, horizonte e perfil de risco",
+    "status": "PLANEJADA"
   },
-  "last_completed_milestone": "EA-000004-000017 com Fases 01 a 05 concluídas: inventário sem passivos inventados; CET/risco; quatro cenários; prioridade entre reserva, dívida e investimento; seis casos e competências CFP®.",
-  "next_logical_step": "Concluir a Fase 06/06 com auditoria dos artefatos e integrações, verificar o deploy público e, se aprovado, encerrar a EA-000004-000017 e avançar para a EA-000004-000018.",
+  "last_completed_milestone": "EA-000004-000017 concluída em 6/6 fases, publicada e auditada: inventário sem passivos inventados, CET/risco, cenários manter/quitar/amortizar/renegociar, prioridade entre reserva/dívida/investimento, seis casos CFP®; deploy 35587960672 success.",
+  "next_logical_step": "Iniciar a EA-000004-000018 pela Fase 01/06 — Objetivos, horizonte e perfil de risco, preservando as premissas de R$ 100.000,00 líquidos e sem presumir objetivos, perfil ou tolerância a risco.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,17 +35,17 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-21",
-  "site_status": "PUBLICACAO_DIVIDAS_CAPITAL_INDENIZATORIO_EM_AUDITORIA",
+  "site_status": "PUBLICADO_DIVIDAS_CAPITAL_INDENIZATORIO_AUDITADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "PLANEJADA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
-  "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/dividas-capital-indenizatorio.html",
+  "current_strategy_public_url": null,
   "last_deployment": {
-    "workflow_run_id": 35553863507,
+    "workflow_run_id": 35587960672,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "commit_sha": "7b37f5f79486d36adbb0c837c646e5097a34cda9"
+    "commit_sha": "927706553da34967772e77959f9b1f49e5d922cb"
   },
   "public_menu": [
     "Início",
@@ -263,7 +263,7 @@
           "code": "EA-000004-000017",
           "name": "Dívidas, crédito e prioridade de uso do capital indenizatório",
           "conditional": true,
-          "status": "EM_EXECUCAO"
+          "status": "CONCLUIDA"
         },
         {
           "code": "EA-000004-000018",
