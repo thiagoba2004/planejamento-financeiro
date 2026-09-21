@@ -43,19 +43,19 @@ Não há ranking universal. Continuidade financeira, filhos, moradia, segurança
 
 ## 5. Cronograma
 
-### 0 a 7 dias
+### 0 a 7 dias — heurística
 Documentar, proteger acessos, mapear caixa e preservar liquidez.
 
-### Até 30 dias
+### Até 30 dias — heurística
 Fechar linha de base, orçamento de transição, moradia, dívidas, filhos e inventários.
 
-### Até 90 dias
+### Até 90 dias — heurística
 Atualizar o plano conforme decisões provisórias, revisar cenários patrimoniais, proteção e objetivos.
 
-### Até 180 dias
+### Até 180 dias — heurística
 Implementar decisões definidas, recalcular patrimônio e fluxo, ajustar carteira e proteção.
 
-### Até 365 dias
+### Até 365 dias — heurística
 Revisão anual completa e nova linha de base.
 
 ## 6. Monitoramento
