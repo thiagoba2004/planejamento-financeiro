@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000014",
-  "current_strategy_name": "Reconstrução financeira e plano integrado pós-divórcio",
+  "current_strategy_code": "EA-000004-000015",
+  "current_strategy_name": "Recebimento da indenização: natureza, documentação, tributação e valor líquido disponível",
   "current_phase": {
     "phase_number": 1,
     "phase_total": 6,
-    "phase_code": "F-000004-000014-001",
-    "phase_name": "Consolidação dos diagnósticos anteriores",
+    "phase_code": "F-000004-000015-001",
+    "phase_name": "Delimitação do evento e perguntas de diagnóstico",
     "status": "PLANEJADA"
   },
-  "last_completed_milestone": "EA-000004-000013 concluída: empresas, participações societárias, valuation, garantias e continuidade de renda publicados, integrados, auditados e validados.",
-  "next_logical_step": "Iniciar EA-000004-000014 pela Fase 01/06, consolidando apenas resultados confirmados das estratégias aplicáveis e decisões jurídicas já definidas; marcar estratégias condicionais não aplicáveis sem criar dados artificiais.",
+  "last_completed_milestone": "Novo portfólio pós-indenização trabalhista criado com sete Estratégias Autônomas, cada uma com Plano de Fases explícito, preservando a EA-000004-000014 como planejada no portfólio anterior.",
+  "next_logical_step": "Iniciar a EA-000004-000015 pela Fase 01/06, delimitando o evento indenizatório, documentos, parcelas, retenções, honorários, disponibilidade e perguntas necessárias para apurar o valor líquido efetivamente utilizável.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -171,5 +171,127 @@
     "json": "CONDITIONAL_ONLY",
     "rule": "Create JSON/JSONL only for structured data with a concrete machine-processing need; do not create JSON as an automatic mirror of Markdown/HTML.",
     "updated_at": "2026-09-20"
-  }
+  },
+  "strategy_portfolios": [
+    {
+      "theme": "Consequências financeiras do divórcio litigioso c/c partilha de bens, guarda, convivência e alimentos",
+      "legal_source_project": "PRJ-000003",
+      "legal_strategy": "EA-000003-000005",
+      "foundational_strategy": "EA-000004-000005",
+      "integrator_strategy": "EA-000004-000014",
+      "strategies": [
+        {
+          "code": "EA-000004-000005",
+          "name": "Diagnóstico financeiro da ruptura e orçamento de transição",
+          "conditional": false,
+          "status": "CONCLUIDA"
+        },
+        {
+          "code": "EA-000004-000006",
+          "name": "Patrimônio, avaliação econômica e liquidez na partilha",
+          "conditional": false,
+          "status": "CONCLUIDA"
+        },
+        {
+          "code": "EA-000004-000007",
+          "name": "Moradia, financiamento e reorganização residencial",
+          "conditional": false,
+          "status": "CONCLUIDA"
+        },
+        {
+          "code": "EA-000004-000008",
+          "name": "Filhos: alimentos, educação, saúde e logística de convivência",
+          "conditional": false,
+          "status": "CONCLUIDA"
+        },
+        {
+          "code": "EA-000004-000009",
+          "name": "Dívidas, crédito, garantias e contas conjuntas",
+          "conditional": false,
+          "status": "CONCLUIDA"
+        },
+        {
+          "code": "EA-000004-000010",
+          "name": "Investimentos e reorganização de carteiras",
+          "conditional": true,
+          "status": "CONCLUIDA"
+        },
+        {
+          "code": "EA-000004-000011",
+          "name": "Seguros, previdência e proteção financeira",
+          "conditional": true,
+          "status": "CONCLUIDA"
+        },
+        {
+          "code": "EA-000004-000012",
+          "name": "Tributação, declarações e custos de transferência",
+          "conditional": false,
+          "status": "CONCLUIDA"
+        },
+        {
+          "code": "EA-000004-000013",
+          "name": "Empresas, participações societárias e continuidade de renda",
+          "conditional": true,
+          "status": "CONCLUIDA"
+        },
+        {
+          "code": "EA-000004-000014",
+          "name": "Reconstrução financeira e plano integrado pós-divórcio",
+          "conditional": false,
+          "status": "PLANEJADA"
+        }
+      ]
+    },
+    {
+      "theme": "Recebimento de indenização trabalhista por dano moral — aproximadamente R$ 100.000,00",
+      "trigger_request": "REQ-20260920-036",
+      "foundational_strategy": "EA-000004-000015",
+      "integrator_strategy": "EA-000004-000021",
+      "strategies": [
+        {
+          "code": "EA-000004-000015",
+          "name": "Recebimento da indenização: natureza, documentação, tributação e valor líquido disponível",
+          "conditional": false,
+          "status": "PLANEJADA"
+        },
+        {
+          "code": "EA-000004-000016",
+          "name": "Liquidez, reserva de segurança e período de decisão pós-indenização",
+          "conditional": false,
+          "status": "PLANEJADA"
+        },
+        {
+          "code": "EA-000004-000017",
+          "name": "Dívidas, crédito e prioridade de uso do capital indenizatório",
+          "conditional": true,
+          "status": "PLANEJADA"
+        },
+        {
+          "code": "EA-000004-000018",
+          "name": "Investimentos e alocação do capital extraordinário",
+          "conditional": false,
+          "status": "PLANEJADA"
+        },
+        {
+          "code": "EA-000004-000019",
+          "name": "Objetivos de vida, aposentadoria, seguros e proteção patrimonial",
+          "conditional": false,
+          "status": "PLANEJADA"
+        },
+        {
+          "code": "EA-000004-000020",
+          "name": "Finanças comportamentais, consumo e governança do patrimônio indenizatório",
+          "conditional": false,
+          "status": "PLANEJADA"
+        },
+        {
+          "code": "EA-000004-000021",
+          "name": "Plano financeiro integrado e monitoramento pós-indenização",
+          "conditional": false,
+          "status": "PLANEJADA"
+        }
+      ]
+    }
+  ],
+  "active_strategy_portfolio": "Recebimento de indenização trabalhista por dano moral — aproximadamente R$ 100.000,00"
 }
