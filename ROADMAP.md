@@ -849,3 +849,14 @@ Princípios:
 - integração em Conhecimentos, Gestão Financeira, Casos, Ferramentas e Mapa do Site;
 - deploy GitHub Pages `35598686706`: **success**;
 - portfólio de indenização trabalhista por dano moral: **CONCLUÍDO**.
+
+## EA-000004-000023 — Auditoria adversarial integral do Site Planejamento Financeiro — EM EXECUÇÃO
+
+1. **Fase 01/06 — Inventário integral e mapa de risco**
+2. **Fase 02/06 — Fontes CFP®, Planejar e enquadramento profissional**
+3. **Fase 03/06 — Cálculos, métricas, premissas e cenários**
+4. **Fase 04/06 — Auditoria temática e cruzada**
+5. **Fase 05/06 — Paridade Markdown–HTML, navegação e atualidade**
+6. **Fase 06/06 — Relatório do Planejador Financeiro do Diabo**
+
+**Plano detalhado:** `research/EA-000004-000023/plano-de-fases.md`.
