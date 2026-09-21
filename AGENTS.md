@@ -90,14 +90,14 @@ Nunca afirmar atualização de programa, regra de certificação, conteúdo ofic
 
 ## 8. Módulo professional-education
 
-Todo tópico formativo deve separar:
+Todo tópico formativo deve separar **aderência ao CFP®** de **aplicação profissional**.
 
-```text
-TRILHA_PROVA
-TRILHA_PRATICA
-```
+Na camada pública, usar obrigatoriamente uma das três categorias de aderência:
+- mapeado diretamente no programa/material oficial vigente;
+- competência ou conceito do domínio CFP®;
+- aplicação profissional desenvolvida pelo Projeto.
 
-A sobreposição é desejável quando real; a confusão é proibida.
+A sobreposição entre preparação para o exame e prática é desejável quando comprovada; a inferência de conteúdo de prova é proibida.
 
 Cada unidade deve declarar:
 - **SABER:** conceitos, regras e fundamentos;
@@ -164,8 +164,8 @@ O Site Público é orientado ao aluno, profissional e leitor externo. A governan
 
 Na camada pública, converter conceitos úteis para linguagem natural, por exemplo:
 
-- `TRILHA_PROVA` → “Para a prova CFP®”;
-- `TRILHA_PRATICA` → “Na prática profissional”;
+- nomenclaturas internas antigas como `TRILHA_PROVA` devem ser convertidas para a taxonomia pública de aderência ao CFP®;
+- `TRILHA_PRATICA` ou equivalentes → “Na prática profissional”, quando útil;
 - códigos de casos → “Caso 1”, “Caso 2” etc.;
 - códigos de competências → apenas o nome da competência;
 - códigos de métricas → nome e fórmula em linguagem comum.
