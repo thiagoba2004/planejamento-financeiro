@@ -657,27 +657,34 @@ Princípios:
 **Plano detalhado:** `research/EA-000004-000019/plano-de-fases.md`.  
 **Auditoria:** `research/EA-000004-000019/auditoria-final-publicacao.md`.
 
-## EA-000004-000020 — Finanças comportamentais, consumo e governança do patrimônio indenizatório — PLANEJADA
+## EA-000004-000020 — Finanças comportamentais, consumo e governança do patrimônio indenizatório — CONCLUÍDA
 
 ### FASE 01/06 [F-000004-000020-001] — Diagnóstico comportamental do evento extraordinário
-**Gate:** escopo e perguntas persistidos.
+**Gate:** escopo e perguntas persistidos.  
+**Estado:** CONCLUÍDA — riscos possíveis e perguntas neutras estruturados sem diagnóstico psicológico.
 
 ### FASE 02/06 [F-000004-000020-002] — Regras de decisão e período de reflexão
-**Gate:** dados/fontes necessários registrados e classificados.
+**Gate:** dados/fontes necessários registrados e classificados.  
+**Estado:** CONCLUÍDA — regras por reversibilidade, custo e incerteza documentadas sem prazo universal inventado.
 
 ### FASE 03/06 [F-000004-000020-003] — Orçamento de uso discricionário
-**Gate:** metodologia e cenários reproduzíveis documentados.
+**Gate:** metodologia e cenários reproduzíveis documentados.  
+**Estado:** CONCLUÍDA — uso discricionário estruturado sem moralização e sem percentual universal.
 
 ### FASE 04/06 [F-000004-000020-004] — Governança familiar e limites com terceiros
-**Gate:** intervenções/cenários com limites profissionais explícitos.
+**Gate:** intervenções/cenários com limites profissionais explícitos.  
+**Estado:** CONCLUÍDA — confidencialidade, pedidos, empréstimos, garantias e decisões compartilhadas documentados sem presumir conflito.
 
 ### FASE 05/06 [F-000004-000020-005] — Casos e competências CFP®
-**Gate:** casos e competências verificáveis produzidos.
+**Gate:** casos e competências verificáveis produzidos.  
+**Estado:** CONCLUÍDA — sete casos e competências SABER/FAZER/DECIDIR produzidos.
 
 ### FASE 06/06 [F-000004-000020-006] — Publicação, auditoria e atualização
-**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.  
+**Estado:** CONCLUÍDA — Markdown + HTML publicados e integrados; superfície alterada auditada; deploy 35597667123 success.
 
-**Plano detalhado:** `research/EA-000004-000020/plano-de-fases.md`.
+**Plano detalhado:** `research/EA-000004-000020/plano-de-fases.md`.  
+**Auditoria:** `research/EA-000004-000020/auditoria-final-publicacao.md`.
 
 ## EA-000004-000021 — Plano financeiro integrado e monitoramento pós-indenização — PLANEJADA
 
@@ -793,3 +800,16 @@ Princípios:
 - publicação em Markdown + HTML;
 - integração em Conhecimentos, Gestão Financeira, Casos, Ferramentas e Mapa do Site;
 - deploy GitHub Pages `35596681727`: **success**.
+
+
+### Resultado — EA-000004-000020
+
+- 6/6 fases concluídas;
+- diagnóstico comportamental estruturado sem rotular a pessoa;
+- regras de decisão por reversibilidade, custo e incerteza;
+- uso discricionário tratado sem moralização;
+- governança familiar e limites com terceiros documentados;
+- sete casos didáticos e competências CFP® produzidos;
+- publicação em Markdown + HTML;
+- integração em Conhecimentos, Gestão Financeira, Casos, Ferramentas e Mapa do Site;
+- deploy GitHub Pages `35597667123`: **success**.
