@@ -2,14 +2,16 @@
 
 **Última revisão:** 20/09/2026  
 
-Esta unidade estuda endividamento e sobre-endividamento sob a perspectiva do planejamento financeiro, com separação explícita entre preparação para o CFP® e atuação profissional.
+Esta unidade estuda endividamento e sobre-endividamento sob a perspectiva do planejamento financeiro, distinguindo aderência ao CFP®, aplicação profissional e conteúdo desenvolvido pelo Projeto.
 
 ## 1. Fontes do CFP® em 2026
 
 A Planejar confirma para 2026 a estrutura de oito módulos. O **Módulo II é Gestão Financeira** e o 54º Exame, marcado para 18/10/2026, aponta oficialmente para Programa Detalhado, Orientações de Estudo, Lista de Fórmulas e Perfil de Competências.
 
 
-## 2. Para a prova CFP®
+## 2. Aderência ao CFP®
+
+**Classificação: competência/conceito do domínio CFP®, com mapeamento específico ainda sustentado por triangulação documental enquanto a leitura direta integral das fontes oficiais não estiver concluída.**
 
 O corpus triangulado localiza materialmente:
 - gestão de débitos e créditos;
