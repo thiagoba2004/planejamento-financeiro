@@ -48,6 +48,8 @@ Segundo a orientação oficial disponível da Receita Federal, a indenização p
 
 A Receita também registra a tese do Tema 370/STJ: não incide IR sobre verba recebida a título de dano moral.
 
+**Composição da verba:** a não incidência aqui tratada refere-se à parcela efetivamente qualificada como dano moral. Se acordo, sentença ou pagamento contiver outras rubricas, cada parcela deve ser classificada separadamente antes de concluir o tratamento tributário.
+
 ### Trava temporal
 
 Se o recebimento ocorreu em 2026:
