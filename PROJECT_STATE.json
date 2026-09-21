@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000018",
-  "current_strategy_name": "Investimentos e alocação do capital extraordinário",
+  "current_strategy_code": "EA-000004-000022",
+  "current_strategy_name": "Impacto financeiro da indenização trabalhista no diagnóstico e no plano de superendividamento",
   "current_phase": {
     "phase_number": 1,
     "phase_total": 6,
-    "phase_code": "F-000004-000018-001",
-    "phase_name": "Objetivos, horizonte e perfil de risco",
+    "phase_code": "F-000004-000022-001",
+    "phase_name": "Linha de base antes e depois da indenização",
     "status": "PLANEJADA"
   },
-  "last_completed_milestone": "EA-000004-000017 concluída em 6/6 fases, publicada e auditada: inventário sem passivos inventados, CET/risco, cenários manter/quitar/amortizar/renegociar, prioridade entre reserva/dívida/investimento, seis casos CFP®; deploy 35587960672 success.",
-  "next_logical_step": "Iniciar a EA-000004-000018 pela Fase 01/06 — Objetivos, horizonte e perfil de risco, preservando as premissas de R$ 100.000,00 líquidos e sem presumir objetivos, perfil ou tolerância a risco.",
+  "last_completed_milestone": "EA-000004-000022 criada como estratégia financeira da frente indenização líquida × superendividamento, com plano de 6 fases e interoperabilidade com EA-000003-000007.",
+  "next_logical_step": "Executar a Fase 01/06 da EA-000004-000022, construindo a linha de base antes/depois da indenização e registrando os dados ausentes sem presumir renda, despesas ou dívidas.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -297,9 +297,37 @@
         "recurring_income": false,
         "source": "USER_PROVIDED_HYPOTHETICAL"
       }
+    },
+    {
+      "theme": "Impacto da indenização líquida por dano moral trabalhista sobre a repactuação por superendividamento",
+      "trigger_request": "REQ-20260921-044",
+      "legal_source_project": "PRJ-000003",
+      "legal_strategy": "EA-000003-000007",
+      "financial_strategy": "EA-000004-000022",
+      "strategies": [
+        {
+          "code": "EA-000004-000022",
+          "name": "Impacto financeiro da indenização trabalhista no diagnóstico e no plano de superendividamento",
+          "conditional": false,
+          "status": "PLANEJADA"
+        }
+      ],
+      "related_existing_strategies": [
+        "EA-000004-000001",
+        "EA-000004-000015",
+        "EA-000004-000016",
+        "EA-000004-000017"
+      ],
+      "scenario_assumptions": {
+        "indemnity_origin": "dano moral trabalhista",
+        "net_capital_brl": 100000,
+        "liquidity_status": "LIQUIDO_E_INTEGRALMENTE_DISPONIVEL",
+        "recurring_income": false,
+        "source": "USER_PROVIDED_HYPOTHETICAL"
+      }
     }
   ],
-  "active_strategy_portfolio": "Recebimento de indenização trabalhista por dano moral — aproximadamente R$ 100.000,00",
+  "active_strategy_portfolio": "Impacto da indenização líquida por dano moral trabalhista sobre a repactuação por superendividamento",
   "current_scenario_assumptions": {
     "indemnity_origin": "dano moral trabalhista",
     "net_capital_brl": 100000,
