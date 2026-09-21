@@ -15,10 +15,10 @@
     "phase_total": 6,
     "phase_code": "F-000004-000022-006",
     "phase_name": "Publicação, auditoria e atualização",
-    "status": "EM_EXECUCAO"
+    "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "EA-000004-000022 com Fases 01 a 05 concluídas: linha de base, métricas, cenários, sustentabilidade e casos/interoperabilidade estruturados.",
-  "next_logical_step": "Executar a Fase 06/06 — Publicação, auditoria e atualização.",
+  "last_completed_milestone": "EA-000004-000022 concluída em 6/6 fases, publicada e auditada; resultados financeiros entregues à estratégia jurídica EA-000003-000007.",
+  "next_logical_step": "Prosseguir no PRJ-000003 pela EA-000003-000007. Após o fechamento da frente interprojetos, retomar EA-000004-000018 — Investimentos e alocação do capital extraordinário.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,17 +35,17 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-21",
-  "site_status": "PUBLICADO_DIVIDAS_CAPITAL_INDENIZATORIO_AUDITADO",
+  "site_status": "PUBLICADO_INDENIZACAO_SUPERENDIVIDAMENTO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "PLANEJADA",
+  "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
-  "current_strategy_public_url": null,
+  "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/indenizacao-superendividamento.html",
   "last_deployment": {
-    "workflow_run_id": 35587960672,
+    "workflow_run_id": 35592528330,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "commit_sha": "927706553da34967772e77959f9b1f49e5d922cb"
+    "commit_sha": "c60f1a1072a42cff59bba1a27fd5a18f83093ec5"
   },
   "public_menu": [
     "Início",
@@ -309,7 +309,7 @@
           "code": "EA-000004-000022",
           "name": "Impacto financeiro da indenização trabalhista no diagnóstico e no plano de superendividamento",
           "conditional": false,
-          "status": "PLANEJADA"
+          "status": "CONCLUIDA"
         }
       ],
       "related_existing_strategies": [
