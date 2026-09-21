@@ -15,10 +15,10 @@
     "phase_total": 6,
     "phase_code": "F-000004-000014-006",
     "phase_name": "Publicação, auditoria e atualização",
-    "status": "EM_EXECUCAO"
+    "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "EA-000004-000014 com Fases 01 a 05 concluídas: consolidação, novo balanço, objetivos, cronograma e monitoramento/casos estruturados.",
-  "next_logical_step": "Executar a Fase 06/06 — Publicação, auditoria e atualização.",
+  "last_completed_milestone": "EA-000004-000014 concluída em 6/6 fases, publicada e auditada; portfólio completo das consequências financeiras do divórcio litigioso encerrado.",
+  "next_logical_step": "Não há Estratégia Autônoma pendente comprovada nos portfólios ativos. Aguardar novo pedido de Estratégia Autônoma, manutenção ou auditoria.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,17 +35,17 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-21",
-  "site_status": "PUBLICADO_PLANO_FINANCEIRO_INTEGRADO_POS_INDENIZACAO",
+  "site_status": "PUBLICADO_PLANO_INTEGRADO_POS_DIVORCIO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "PLANEJADA",
+  "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
-  "current_strategy_public_url": null,
+  "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/reconstrucao-financeira-plano-integrado-pos-divorcio.html",
   "last_deployment": {
-    "workflow_run_id": 35598686706,
+    "workflow_run_id": 35601096194,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "commit_sha": "cd965baa9274d224808d012a78826d8981d6644c"
+    "commit_sha": "d620d75c256c19cbbd1a1193552643d8a16e5fce"
   },
   "public_menu": [
     "Início",
@@ -160,9 +160,10 @@
         "code": "EA-000004-000014",
         "name": "Reconstrução financeira e plano integrado pós-divórcio",
         "conditional": false,
-        "status": "PLANEJADA"
+        "status": "CONCLUIDA"
       }
-    ]
+    ],
+    "status": "CONCLUIDA"
   },
   "artifact_policy": {
     "text_canonical": "Markdown",
@@ -237,10 +238,10 @@
           "code": "EA-000004-000014",
           "name": "Reconstrução financeira e plano integrado pós-divórcio",
           "conditional": false,
-          "status": "PLANEJADA"
+          "status": "CONCLUIDA"
         }
       ],
-      "status": "EM_ANDAMENTO"
+      "status": "CONCLUIDA"
     },
     {
       "theme": "Recebimento de indenização trabalhista por dano moral — aproximadamente R$ 100.000,00",
@@ -330,7 +331,7 @@
       "status": "CONCLUIDA"
     }
   ],
-  "active_strategy_portfolio": "Consequências financeiras do divórcio litigioso c/c partilha de bens, guarda, convivência e alimentos",
+  "active_strategy_portfolio": null,
   "current_scenario_assumptions": {
     "indemnity_origin": "dano moral trabalhista",
     "net_capital_brl": 100000,
