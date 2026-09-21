@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000029",
-  "current_strategy_name": "Aderência CFP®, processo de planejamento financeiro e independência institucional",
+  "current_strategy_code": "EA-000004-000030",
+  "current_strategy_name": "Auditoria regressiva pós-correção do Site Planejamento Financeiro",
   "current_phase": {
-    "phase_number": 6,
-    "phase_total": 6,
-    "phase_code": "F-000004-000029-006",
-    "phase_name": "Auditoria de aderência e publicação",
-    "status": "CONCLUIDA"
+    "phase_number": 1,
+    "phase_total": 5,
+    "phase_code": "F-000004-000030-001",
+    "phase_name": "Estado publicado e inventário de superfície",
+    "status": "EM_EXECUCAO"
   },
   "last_completed_milestone": "Ciclo corretivo do Relatório do Planejador Financeiro do Diabo concluído: 6 Estratégias Autônomas, 32 fases, 25 achados tratados, 33 HTMLs públicos reauditedos e GitHub Pages run 35643562008 concluído com sucesso.",
-  "next_logical_step": "Aguardar nova Estratégia Autônoma ou nova auditoria material; aplicar permanentemente paridade Markdown–HTML, protocolo de métricas, perímetro profissional e taxonomia de aderência CFP®.",
+  "next_logical_step": "Verificar externamente o conteúdo público servido e testar regressões materiais após o ciclo corretivo.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,10 +38,10 @@
     "CFP_ALIGNMENT_PROTOCOL.md"
   ],
   "updated_at": "2026-09-21",
-  "site_status": "CORRECOES_ADVERSARIAIS_PUBLICADAS_E_VERIFICADAS",
+  "site_status": "AUDITORIA_REGRESSIVA_POS_CORRECAO_EM_EXECUCAO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "CONCLUIDA",
+  "strategy_status": "EM_EXECUCAO",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/cfp/index.html",
   "last_deployment": {
