@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000023",
   "current_strategy_name": "Auditoria adversarial integral do Site Planejamento Financeiro",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 6,
     "phase_total": 6,
-    "phase_code": "F-000004-000023-001",
-    "phase_name": "Inventário integral e mapa de risco",
-    "status": "EM_EXECUCAO"
+    "phase_code": "F-000004-000023-006",
+    "phase_name": "Relatório do Planejador Financeiro do Diabo",
+    "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "EA-000004-000014 concluída em 6/6 fases, publicada e auditada; portfólio completo das consequências financeiras do divórcio litigioso encerrado.",
-  "next_logical_step": "Auditar integralmente o corpus público do Site Planejamento Financeiro e produzir o Relatório do Planejador Financeiro do Diabo.",
+  "last_completed_milestone": "EA-000004-000023 concluída: auditoria adversarial integral do Site Planejamento Financeiro, com 30 HTMLs públicos inventariados e Relatório do Planejador Financeiro do Diabo consolidado.",
+  "next_logical_step": "Criar ciclo corretivo em Estratégias Autônomas a partir dos achados do Relatório do Planejador Financeiro do Diabo, preservando paridade Markdown–HTML e auditando fórmulas, perímetro regulatório e aderência CFP®.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,10 +35,10 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-21",
-  "site_status": "PUBLICADO_PLANO_INTEGRADO_POS_DIVORCIO",
+  "site_status": "AUDITADO_ADVERSARIALMENTE_ACHADOS_REQUEREM_CORRECAO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/reconstrucao-financeira-plano-integrado-pos-divorcio.html",
   "last_deployment": {
