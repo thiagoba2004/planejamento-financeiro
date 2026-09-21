@@ -84,7 +84,9 @@ Esse número mede a diferença econômica do cenário. Não determina meação n
 4. patrimônio elevado, baixa disponibilidade;
 5. diferença entre valuation financeiro e método jurídico/pericial.
 
-## 9. Para a prova CFP®
+## 9. Aderência ao CFP®
+
+**Classificação: aplicação profissional do Projeto apoiada por competências do domínio CFP®.**
 
 A unidade mobiliza conceitos de Gestão Financeira como patrimônio, liquidez, dívida, fluxo e decisão financeira. A aplicação à partilha é um contexto profissional do projeto.
 
