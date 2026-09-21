@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000016",
   "current_strategy_name": "Liquidez, reserva de segurança e período de decisão pós-indenização",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 5,
     "phase_total": 6,
-    "phase_code": "F-000004-000016-001",
-    "phase_name": "Delimitação do horizonte de transição",
+    "phase_code": "F-000004-000016-005",
+    "phase_name": "Casos e competências CFP®",
     "status": "PLANEJADA"
   },
-  "last_completed_milestone": "EA-000004-000015 concluída em 6/6 fases, publicada e auditada: capital líquido de R$ 100.000,00 documentado, tratamento declaratório atual registrado, efeito patrimonial incorporado e casos CFP® produzidos.",
-  "next_logical_step": "Iniciar a EA-000004-000016 pela Fase 01/06, delimitando horizonte de transição, necessidades de curto prazo, riscos de renda e decisões que podem aguardar antes de qualquer alocação permanente.",
+  "last_completed_milestone": "EA-000004-000016 avançou até a Fase 04/06: horizontes 3/6/12 meses, reserva e lacuna, estacionamento temporário e política de não decisão/desembolsos foram documentados com fontes institucionais e sem alocação percentual artificial.",
+  "next_logical_step": "Executar a Fase 05/06 da EA-000004-000016, produzindo casos progressivos e competências CFP® para renda estável/instável, reserva insuficiente, necessidade de caixa e decisões prematuras; se o gate for satisfeito, seguir à publicação e auditoria.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,7 +38,7 @@
   "site_status": "PUBLICADO_EMPRESAS_PARTICIPACOES_RENDA_AUDITADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "PLANEJADA",
+  "strategy_status": "EM_EXECUCAO",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": null,
   "last_deployment": {
@@ -256,7 +256,7 @@
           "code": "EA-000004-000016",
           "name": "Liquidez, reserva de segurança e período de decisão pós-indenização",
           "conditional": false,
-          "status": "PLANEJADA"
+          "status": "EM_EXECUCAO"
         },
         {
           "code": "EA-000004-000017",
