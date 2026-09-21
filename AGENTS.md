@@ -118,15 +118,27 @@ Questões objetivas não bastam para competências de comunicação, ética, dia
 
 ## 10. Módulo publication
 
-Todo texto editorial/publicável deve manter:
+Para conteúdo textual/editorial publicável, o padrão é:
 
 ```text
 Markdown (.md) = fonte textual canônica
 HTML (.html) = publicação
-JSON (.json) = representação estruturada
+JSON (.json) = somente quando houver função estruturada real
 ```
 
-Alterações materiais devem ser sincronizadas nos três artefatos.
+**JSON não é terceiro artefato obrigatório.** Não criar `.json` apenas para duplicar texto, título, resumo, seções, caminhos ou metadados que já estejam adequadamente preservados no Markdown e no HTML.
+
+JSON/JSONL deve ser mantido quando houver finalidade objetiva de máquina, como:
+- estado e governança;
+- registros append-only;
+- configuração;
+- datasets, fixtures, catálogos, taxonomias ou schemas;
+- dados consumidos por cálculo, script, automação, API, busca estruturada, filtro ou validação;
+- interoperabilidade comprovada entre projetos.
+
+Antes de criar um JSON, identificar expressamente **qual processo o consome** e **qual dado estruturado ele preserva que o Markdown não atende adequadamente**. Sem finalidade concreta, não criar.
+
+Alterações editoriais devem ser sincronizadas entre Markdown e HTML. JSON existente só precisa ser atualizado quando sua função estruturada exigir.
 
 ### 10.1. Separação entre governança interna e Site Público
 
