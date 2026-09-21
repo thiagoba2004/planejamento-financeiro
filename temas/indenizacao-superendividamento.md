@@ -43,7 +43,9 @@ Se já havia recebível reconhecido: o pagamento não gera novo acréscimo de PL
 
 **Solvência após**
 
-SOLVÊNCIA_APÓS = (ATIVOS_ANTES + 100.000) / PASSIVOS_TOTAIS
+SOLVÊNCIA_APÓS = ATIVOS_TOTAIS_APÓS / PASSIVOS_TOTAIS
+
+`ATIVOS_TOTAIS_APÓS` deve ser reconstruído a partir da linha de base. Se um recebível de R$ 100.000,00 já integrava os ativos antes do pagamento, a entrada em caixa não pode ser somada novamente aos ativos totais.
 
 **Cobertura de despesas**
 
@@ -98,7 +100,7 @@ Renda R$ 8 mil, essenciais R$ 5 mil, dívida mensal cai de R$ 5 mil para R$ 3 mi
 Renda R$ 8 mil, essenciais R$ 5 mil, serviço R$ 3,5 mil. **Premissa do caso:** R$ 70 mil quitam integralmente a obrigação que gerava os R$ 3,5 mil mensais. O serviço depois cai a zero; o fluxo passa de −R$ 500 para +R$ 3 mil e restam R$ 30 mil.
 
 ### Caso 3 — dívida zerada, liquidez pequena
-Renda R$ 6 mil, essenciais R$ 5,5 mil, quitação de R$ 90 mil. O fluxo passa de −R$ 1,5 mil para +R$ 500, mas restam só R$ 10 mil.
+Renda R$ 6 mil, essenciais R$ 5,5 mil, serviço da dívida antes de R$ 2 mil. **Premissa:** R$ 90 mil quitam integralmente a obrigação que gerava esse serviço. O fluxo passa de −R$ 1,5 mil para +R$ 500, e restam R$ 10 mil de liquidez.
 
 ### Caso 4 — capital posterga, mas não resolve
 Renda R$ 7 mil, essenciais R$ 5 mil, serviço cai de R$ 4 mil para R$ 2,5 mil após aplicação de R$ 60 mil. O fluxo continua em −R$ 500. Restam R$ 40 mil, capazes de cobrir matematicamente 80 meses desse déficit, mas o problema estrutural persiste.
@@ -134,6 +136,6 @@ A análise jurídica pertence ao Projeto **Ações Judiciais**.
 
 ## 10. Regra profissional
 
-> O recebimento dos R$ 100.000,00 melhora imediatamente o patrimônio e a liquidez. Só depois de conhecer renda, despesas, dívidas e reserva é possível medir quanto do capital pode ser usado sem transformar uma melhora patrimonial em nova fragilidade financeira.
+> O recebimento dos R$ 100.000,00 melhora imediatamente a liquidez. O efeito incremental sobre o patrimônio líquido depende de o direito já ter sido ou não reconhecido como ativo antes do pagamento. Só depois de conhecer renda, despesas, dívidas e reserva é possível medir quanto do capital pode ser usado sem transformar uma melhora patrimonial em nova fragilidade financeira.
 
 **Última revisão:** 21/09/2026.
