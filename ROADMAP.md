@@ -708,25 +708,46 @@ Princípios:
 **Estratégia jurídica correlata:** EA-000003-000007.  
 **Premissa:** R$ 100.000,00 líquidos e integralmente disponíveis; não tratar como renda recorrente.
 
-## EA-000004-000022 — Impacto financeiro da indenização trabalhista no diagnóstico e no plano de superendividamento — PLANEJADA
+## EA-000004-000022 — Impacto financeiro da indenização trabalhista no diagnóstico e no plano de superendividamento — CONCLUÍDA
 
 ### FASE 01/06 [F-000004-000022-001] — Linha de base antes e depois da indenização
-**Gate:** balanço comparativo e lista de dados ausentes persistidos.
+**Gate:** balanço comparativo e lista de dados ausentes persistidos.  
+**Estado:** CONCLUÍDA — efeito incremental de +R$ 100.000,00, separação estoque × fluxo, dados ausentes e template persistidos.
 
 ### FASE 02/06 [F-000004-000022-002] — Liquidez, solvência e capacidade de pagamento
-**Gate:** fórmulas reproduzíveis e limites de interpretação documentados.
+**Gate:** fórmulas reproduzíveis e limites de interpretação documentados.  
+**Estado:** CONCLUÍDA — liquidez, solvência, DSR, fluxo livre, cobertura e capacidade patrimonial/recorrente separados.
 
 ### FASE 03/06 [F-000004-000022-003] — Cenários de destinação do capital no superendividamento
-**Gate:** cenários comparáveis com mesma data-base e sem dupla contagem.
+**Gate:** cenários comparáveis com mesma data-base e sem dupla contagem.  
+**Estado:** CONCLUÍDA — sete cenários modelados sem percentuais artificiais, com métricas comuns e interface jurídica.
 
 ### FASE 04/06 [F-000004-000022-004] — Sustentabilidade do plano após uso do capital
-**Gate:** matriz de sustentabilidade pós-destinação e gatilhos de alerta concluída.
+**Gate:** matriz de sustentabilidade pós-destinação e gatilhos de alerta concluída.  
+**Estado:** CONCLUÍDA — déficit estrutural, consumo de capital, stress test e classificação operacional de sustentabilidade estruturados.
 
 ### FASE 05/06 [F-000004-000022-005] — Casos, competências CFP® e interface jurídica
-**Gate:** casos verificáveis e protocolo de entrega de premissas à EA-000003-000007 produzidos.
+**Gate:** casos verificáveis e protocolo de entrega de premissas à EA-000003-000007 produzidos.  
+**Estado:** CONCLUÍDA — seis casos progressivos, competências SABER/FAZER/DECIDIR e protocolo de interoperabilidade persistidos.
 
 ### FASE 06/06 [F-000004-000022-006] — Publicação, auditoria e atualização
-**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.  
+**Estado:** CONCLUÍDA — unidade Markdown + HTML publicada e integrada; superfície alterada sem title/H1 ausente, links quebrados ou vazamentos; deploy 35592528330 success.
 
-**Plano detalhado:** `research/EA-000004-000022/plano-de-fases.md`.
+**Plano detalhado:** `research/EA-000004-000022/plano-de-fases.md`.  
+**Auditoria:** `research/EA-000004-000022/auditoria-final-publicacao.md`.
 
+
+
+### Resultado — EA-000004-000022
+
+- 6/6 fases concluídas;
+- R$ 100.000,00 tratados como choque positivo de estoque, não renda recorrente;
+- linha de base antes/depois e métricas de liquidez, solvência e fluxo estruturadas;
+- sete cenários de destinação sem percentuais artificiais;
+- metodologia de sustentabilidade e exaustão do capital;
+- seis casos didáticos e protocolo de interoperabilidade jurídica;
+- publicação em Markdown + HTML;
+- integração em Conhecimentos, Gestão Financeira, Casos, Ferramentas e Mapa do Site;
+- auditoria da superfície alterada aprovada;
+- deploy GitHub Pages `35592528330`: **success**.
