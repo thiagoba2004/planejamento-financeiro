@@ -14,13 +14,20 @@ Sem esses dados, o capital investível permanece **NÃO_CALCULÁVEL**.
 
 Cada parcela deve responder: para quê, quando, quanto, com qual flexibilidade e com qual necessidade de liquidez.
 
-## 3. Perfil de risco em três dimensões
+## 3. Modelo canônico de risco
 
+### Dimensões pessoais
 - capacidade objetiva de suportar perdas;
-- disposição subjetiva para tolerar oscilações;
+- tolerância/disposição subjetiva a oscilações;
 - necessidade de assumir risco para atingir o objetivo.
 
-O suitability da instituição é insumo, não substituto do diagnóstico.
+### Restrições do plano
+- horizonte;
+- necessidade de liquidez;
+- concentração;
+- obrigações e compromissos.
+
+O suitability regulatório de uma instituição possui finalidade e deveres próprios. Não é substituído automaticamente pelo diagnóstico do planejador, nem o substitui em sua função de planejamento.
 
 ## 4. Universo de investimentos
 
@@ -50,15 +57,17 @@ Somente quando horizonte, capacidade, disposição e necessidade de risco susten
 ### Objetivo específico
 A alocação é construída de trás para frente: objetivo → data → valor → flexibilidade → risco aceitável → classes.
 
-## 6. Implementação
+## 6. Implementação dentro do perímetro profissional
 
 - confirmar capital investível;
 - segmentar por objetivo;
-- selecionar classes antes de produtos;
+- analisar classes antes de produtos;
 - registrar limites de concentração;
-- executar gradualmente quando fizer sentido;
+- definir uma política de execução;
 - documentar custo, taxa, prazo e liquidez;
-- rebalancear por calendário e desvio.
+- monitorar desvios e necessidade de rebalanceamento.
+
+A execução de recomendações individualizadas sobre valores mobiliários depende do escopo e do enquadramento regulatório aplicável. Consulte [Perímetro Profissional e Atividades Reguladas](../conhecimentos/perimetro-profissional.html).
 
 ## 7. Casos didáticos
 
@@ -69,9 +78,11 @@ A alocação é construída de trás para frente: objetivo → data → valor �
 5. falsa diversificação por produtos semelhantes;
 6. retorno atraente com liquidez incompatível.
 
-## 8. Para a formação CFP®
+## 8. Aderência ao CFP®
 
-**SABER:** risco, retorno, liquidez, diversificação, suitability e horizonte.
+**Classificação: competência/conceito do domínio CFP® com aplicação profissional do Projeto.**
+
+**SABER:** risco, retorno, liquidez, diversificação, diagnóstico de risco e horizonte.
 
 **FAZER:** mapear objetivos, construir política por blocos, classificar ativos, documentar limites e testar cenários.
 
