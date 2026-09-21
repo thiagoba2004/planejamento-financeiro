@@ -871,3 +871,23 @@ Princípios:
 - nenhuma correção pública aplicada antes do fechamento do diagnóstico;
 - relatório final: `research/relatorio-planejador-financeiro-do-diabo-2026-09-21.md`;
 - estado adversarial: **ACHADOS REQUEREM CORREÇÃO**.
+
+# Ciclo corretivo do Relatório do Planejador Financeiro do Diabo — REQ-20260921-053
+
+## EA-000004-000024 — Paridade canônica Markdown–HTML, rastreabilidade e atualidade editorial — EM EXECUÇÃO
+Plano: `research/EA-000004-000024/plano-de-fases.md`. 5 fases.
+
+## EA-000004-000025 — Fale Conosco, Privacidade e tratamento de dados — PLANEJADA
+Plano: `research/EA-000004-000025/plano-de-fases.md`. 5 fases.
+
+## EA-000004-000026 — Revisão adversarial do capital indenizatório e do plano integrado — PLANEJADA
+Plano: `research/EA-000004-000026/plano-de-fases.md`. 5 fases.
+
+## EA-000004-000027 — Protocolo canônico de métricas, fórmulas e casos reproduzíveis — PLANEJADA
+Plano: `research/EA-000004-000027/plano-de-fases.md`. 6 fases.
+
+## EA-000004-000028 — Perímetro profissional, atividades reguladas, risco e suitability — PLANEJADA
+Plano: `research/EA-000004-000028/plano-de-fases.md`. 5 fases.
+
+## EA-000004-000029 — Aderência CFP®, processo de planejamento financeiro e independência institucional — PLANEJADA
+Plano: `research/EA-000004-000029/plano-de-fases.md`. 6 fases.
