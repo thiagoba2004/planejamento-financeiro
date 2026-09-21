@@ -1,6 +1,6 @@
 # Finanças comportamentais e governança do patrimônio indenizatório
 
-**Cenário didático:** recebimento de R$ 100.000,00 líquidos e integralmente disponíveis por dano moral trabalhista.
+**Cenário didático:** recebimento de R$ 100.000,00 recebidos em caixa e líquidos das retenções consideradas no cenário por dano moral trabalhista.
 
 ## 1. O recebimento não define o comportamento
 
@@ -76,7 +76,9 @@ Não se presume conflito, comunhão patrimonial nem obrigação de compartilhar 
 6. orçamento discricionário consciente;
 7. garantia prestada a terceiro.
 
-## 10. Para a formação CFP®
+## 10. Aderência ao CFP®
+
+**Classificação: competência/conceito do domínio CFP® com aplicação profissional do Projeto.**
 
 **SABER:** vieses, influência social, contabilidade mental, irreversibilidade e diferença entre patrimônio e renda.
 
