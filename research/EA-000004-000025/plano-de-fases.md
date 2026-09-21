@@ -25,3 +25,19 @@ Abranger a página recebida, Mapa do Site e GitHub Pages.
 ## FASE 05/05 [F-000004-000025-005] — Auditoria e publicação
 Testar links, estados, conteúdo estático e deploy.
 **Gate:** canal e privacidade publicados e coerentes.
+
+## Estado final da execução
+
+**Estratégia:** CONCLUÍDA em 21/09/2026.  
+**Fases:** 5/5 concluídas.  
+**Gate final:** satisfeita.  
+**Publicação:** GitHub Pages run `35643562008` — **success**.  
+**Commit público final:** `7b0669e5074a5106eebda87fdb668fe96d529c33`.
+
+### Evidências principais
+- `privacidade/index.md`
+- `privacidade/index.html`
+- `fale-conosco/index.md`
+- `fale-conosco/index.html`
+- `CONTACT_STACK.md`
+
