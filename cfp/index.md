@@ -15,11 +15,15 @@ Dados de edição de prova são perecíveis. Após a realização do exame, a da
 
 - [Planejar — Programa Detalhado](https://www.planejar.org.br/pdf/programa-detalhado-novos-padroes)
 - [Planejar — Perfil de Competências](https://www.planejar.org.br/pdf/perfil-de-competencias-novos-padroes)
-- Planejar — Lista de Fórmulas vigente;
-- Planejar — Orientações de Estudo vigentes;
-- Planejar — Manual da Certificação;
-- Planejar — Código de Ética e melhores práticas aplicáveis;
+- [Planejar — Bibliografia de Referência](https://www.planejar.org.br/pdf/bibliografia-referencia)
+- [Planejar — Lista de Fórmulas](https://www.planejar.org.br/pdf/lista-de-formulas);
+- [Planejar — Orientações de Estudo](https://www.planejar.org.br/pdf/orientacoes-de-estudo);
+- [Planejar — Manual da Certificação](https://www.planejar.org.br/pdf/manual-de-certificacao);
+- [Planejar — Guia de Melhores Práticas](https://www.planejar.org.br/pdf/guia-de-melhores-praticas-novos-padroes);
+- [Planejar — Código de Ética](https://www.planejar.org.br/pdf/codigo-de-etica);
 - [Planejar — 54º Exame](https://www.planejar.org.br/54-exame)
+
+**Status de leitura:** os documentos acima foram identificados no hub oficial vigente; o Projeto preserva no registro de fontes quais foram lidos integralmente e quais permanecem identificados/pendentes de leitura integral. A existência do link não autoriza atribuir objetivo específico ao exame por inferência.
 
 ## Como o Projeto classifica a aderência ao CFP®
 
