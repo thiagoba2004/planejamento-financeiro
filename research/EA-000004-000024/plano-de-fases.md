@@ -25,3 +25,21 @@ Incorporar ao AGENTS/SITE_ARCHITECTURE a paridade semântica obrigatória e o bl
 ## FASE 05/05 [F-000004-000024-005] — Auditoria e publicação
 Recomparar pares, links, títulos, H1, navegação e artefato público.
 **Gate:** paridade e deploy verificados.
+
+## Estado final da execução
+
+**Estratégia:** CONCLUÍDA em 21/09/2026.  
+**Fases:** 5/5 concluídas.  
+**Gate final:** satisfeita.  
+**Publicação:** GitHub Pages run `35643562008` — **success**.  
+**Commit público final:** `7b0669e5074a5106eebda87fdb668fe96d529c33`.
+
+### Evidências principais
+- `AGENTS.md`
+- `SITE_ARCHITECTURE.md`
+- `cfp/index.md`
+- `casos/index.md`
+- `ferramentas/index.md`
+- `fontes/index.md`
+- `research/auditoria-corretiva-planejador-financeiro-do-diabo-2026-09-21.md`
+
