@@ -140,6 +140,16 @@ Antes de criar um JSON, identificar expressamente **qual processo o consome** e 
 
 Alterações editoriais devem ser sincronizadas entre Markdown e HTML. JSON existente só precisa ser atualizado quando sua função estruturada exigir.
 
+### 10.2. Paridade semântica obrigatória
+
+Markdown é a fonte textual canônica e deve ser suficiente para reconstruir o conteúdo substantivo do HTML público. Aparência, componentes e microcopy de interface podem variar; conteúdo técnico, fórmulas, condições, limitações, fontes, datas de verificação, status e avisos profissionais não podem existir apenas no HTML.
+
+Antes de publicar, comparar semanticamente cada par Markdown–HTML alterado. Divergência material bloqueia o deploy.
+
+### 10.3. Auditoria adversarial quantitativa
+
+Nenhuma fórmula, métrica, sequência, cenário ou recomendação é considerada auditada apenas porque a aritmética está correta. Verificar também: data-base, unidade, horizonte, sobreposição de variáveis, valor do dinheiro no tempo, denominadores-limite, qualidade dos dados, premissas implícitas, perímetro regulatório, natureza da fonte, aderência efetiva ao CFP® e coerência com as demais unidades.
+
 ### 10.1. Separação entre governança interna e Site Público
 
 O Site Público é orientado ao aluno, profissional e leitor externo. A governança permanece no repositório e **não deve ser exibida na interface pública**.
@@ -238,6 +248,17 @@ Regras:
 Distinguir `IMPLEMENTADO`, `TESTADO`, `VERSIONADO`, `IMPLANTADO` e `VERIFICADO EM EXECUÇÃO`. Site no repositório não equivale a site publicado.
 
 ## 14. Regra específica do CFP®
+
+Toda afirmação de aderência ao CFP® deve ser classificada, em linguagem pública, como uma destas três categorias:
+1. **mapeado diretamente no programa/material oficial vigente**;
+2. **competência ou conceito pertencente ao domínio CFP®**;
+3. **aplicação profissional desenvolvida pelo Projeto**, sem afirmar que seja objetivo literal da prova.
+
+O Site é projeto independente e não representa institucionalmente Planejar ou FPSB. Em caso de divergência, prevalecem os materiais oficiais vigentes.
+
+### 14.1. Processo profissional e perímetro regulatório
+
+Conteúdo profissional deve distinguir educação financeira, planejamento financeiro, análise/modelagem e atividades reguladas ou especializadas. A certificação CFP® não deve ser tratada como autorização automática para consultoria de valores mobiliários, distribuição, corretagem de seguros, advocacia, contabilidade, atuária ou atividade tributária especializada. O enquadramento depende da atividade efetivamente exercida e das regras aplicáveis.
 
 O projeto deve manter uma matriz rastreável entre:
 1. fonte oficial vigente;
