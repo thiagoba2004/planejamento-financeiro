@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000022",
   "current_strategy_name": "Impacto financeiro da indenização trabalhista no diagnóstico e no plano de superendividamento",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 3,
     "phase_total": 6,
-    "phase_code": "F-000004-000022-001",
-    "phase_name": "Linha de base antes e depois da indenização",
-    "status": "PLANEJADA"
+    "phase_code": "F-000004-000022-003",
+    "phase_name": "Cenários de destinação do capital no superendividamento",
+    "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "EA-000004-000022 criada como estratégia financeira da frente indenização líquida × superendividamento, com plano de 6 fases e interoperabilidade com EA-000003-000007.",
-  "next_logical_step": "Executar a Fase 01/06 da EA-000004-000022, construindo a linha de base antes/depois da indenização e registrando os dados ausentes sem presumir renda, despesas ou dívidas.",
+  "last_completed_milestone": "EA-000004-000022 com Fases 01 e 02 concluídas; linha de base, liquidez, solvência e capacidade de pagamento estruturadas.",
+  "next_logical_step": "Executar a Fase 03/06 — Cenários de destinação do capital no superendividamento.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
