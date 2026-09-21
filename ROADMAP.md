@@ -599,27 +599,34 @@ Princípios:
 **Plano detalhado:** `research/EA-000004-000017/plano-de-fases.md`.  
 **Auditoria:** `research/EA-000004-000017/auditoria-final-publicacao.md`.
 
-## EA-000004-000018 — Investimentos e alocação do capital extraordinário — PLANEJADA
+## EA-000004-000018 — Investimentos e alocação do capital extraordinário — CONCLUÍDA
 
 ### FASE 01/06 [F-000004-000018-001] — Objetivos, horizonte e perfil de risco
-**Gate:** escopo e perguntas persistidos.
+**Gate:** escopo e perguntas persistidos.  
+**Estado:** CONCLUÍDA — capital investível separado do capital total, objetivos/horizonte e capacidade × disposição × necessidade de risco estruturados sem perfil artificial.
 
 ### FASE 02/06 [F-000004-000018-002] — Universo de investimentos e qualidade dos dados
-**Gate:** dados/fontes necessários registrados e classificados.
+**Gate:** dados/fontes necessários registrados e classificados.  
+**Estado:** CONCLUÍDA — classes, riscos, liquidez, garantias, custos, qualidade dos dados e fontes oficiais classificados.
 
 ### FASE 03/06 [F-000004-000018-003] — Política de alocação e cenários
-**Gate:** metodologia e cenários reproduzíveis documentados.
+**Gate:** metodologia e cenários reproduzíveis documentados.  
+**Estado:** CONCLUÍDA — cenários de preservação, equilíbrio, crescimento e objetivo específico estruturados sem percentuais universais.
 
 ### FASE 04/06 [F-000004-000018-004] — Implementação gradual e diversificação
-**Gate:** intervenções/cenários com limites profissionais explícitos.
+**Gate:** intervenções/cenários com limites profissionais explícitos.  
+**Estado:** CONCLUÍDA — ordem de implementação, tranches condicionais, concentração, diversificação econômica e rebalanceamento documentados.
 
 ### FASE 05/06 [F-000004-000018-005] — Casos e competências CFP®
-**Gate:** casos e competências verificáveis produzidos.
+**Gate:** casos e competências verificáveis produzidos.  
+**Estado:** CONCLUÍDA — seis casos didáticos e competências SABER/FAZER/DECIDIR produzidos.
 
 ### FASE 06/06 [F-000004-000018-006] — Publicação, auditoria e atualização
-**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.  
+**Estado:** CONCLUÍDA — Markdown + HTML publicados e integrados; superfície alterada auditada; deploy 35595325611 success.
 
-**Plano detalhado:** `research/EA-000004-000018/plano-de-fases.md`.
+**Plano detalhado:** `research/EA-000004-000018/plano-de-fases.md`.  
+**Auditoria:** `research/EA-000004-000018/auditoria-final-publicacao.md`.
 
 ## EA-000004-000019 — Objetivos de vida, aposentadoria, seguros e proteção patrimonial — PLANEJADA
 
@@ -751,3 +758,17 @@ Princípios:
 - integração em Conhecimentos, Gestão Financeira, Casos, Ferramentas e Mapa do Site;
 - auditoria da superfície alterada aprovada;
 - deploy GitHub Pages `35592528330`: **success**.
+
+
+### Resultado — EA-000004-000018
+
+- 6/6 fases concluídas;
+- capital extraordinário separado de capital efetivamente investível;
+- objetivos, horizonte e perfil de risco tratados sem classificação artificial;
+- universo de investimentos classificado por risco, liquidez, custos, tributação, garantia e adequação;
+- quatro cenários de política de alocação sem carteira-modelo universal;
+- implementação gradual, concentração, diversificação e rebalanceamento documentados;
+- seis casos didáticos e competências CFP® produzidos;
+- publicação em Markdown + HTML;
+- integração em Conhecimentos, Gestão Financeira, Casos, Ferramentas e Mapa do Site;
+- deploy GitHub Pages `35595325611`: **success**.
