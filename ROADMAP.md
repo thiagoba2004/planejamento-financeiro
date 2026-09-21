@@ -909,7 +909,7 @@ Plano: `research/EA-000004-000029/plano-de-fases.md`. 6 fases.
 - commit público final: `7b0669e5074a5106eebda87fdb668fe96d529c33`;
 - auditoria corretiva: `research/auditoria-corretiva-planejador-financeiro-do-diabo-2026-09-21.md`.
 
-## EA-000004-000030 — Auditoria regressiva pós-correção do Site Planejamento Financeiro — EM EXECUÇÃO
+## EA-000004-000030 — Auditoria regressiva pós-correção do Site Planejamento Financeiro — CONCLUÍDA
 
 1. Fase 01/05 — Estado publicado e inventário de superfície
 2. Fase 02/05 — Verificação HTTP do conteúdo servido
@@ -918,3 +918,18 @@ Plano: `research/EA-000004-000029/plano-de-fases.md`. 6 fases.
 5. Fase 05/05 — Relatório regressivo e estado
 
 Plano: `research/EA-000004-000030/plano-de-fases.md`.
+
+
+### Resultado — EA-000004-000030
+
+- 5/5 fases concluídas;
+- artefato real do GitHub Pages auditado;
+- 5 divergências de classificação CFP® entre Markdown e HTML encontradas e corrigidas;
+- 33 HTMLs finais reauditedos;
+- 0 links/âncoras internos quebrados;
+- 0 resíduos adversariais pesquisados;
+- 0 unidades com Aderência ao CFP® sem classificação explícita;
+- 0 cronogramas operacionais pesquisados sem rótulo de heurística;
+- GitHub Pages run `35645234961`: **success**;
+- artefato final `10659862746`, digest `sha256:1d79283f8b6e19241309af077cec291611a413877a0de5de08dd2c4b31fb655d`;
+- relatório: `research/EA-000004-000030/relatorio-regressivo.md`.
