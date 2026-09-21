@@ -521,13 +521,13 @@ Publicar a unidade integradora e verificar coerência com todas as estratégias 
 ## Portfólio — Indenização trabalhista por dano moral — aproximadamente R$ 100.000,00
 
 **Origem:** REQ-20260920-036.  
-**Situação hipotética:** trabalhador recebeu aproximadamente R$ 100.000,00 líquidos e integralmente disponíveis a título de indenização por dano moral de seu empregador.
+**Situação hipotética (redação corrigida pela auditoria adversarial de 21/09/2026):** trabalhador recebeu aproximadamente R$ 100.000,00 em caixa, líquidos das retenções consideradas no cenário, a título de indenização por dano moral do empregador. A disponibilidade econômica para alocação e eventual disponibilidade jurídica devem ser verificadas separadamente.
 
 A frente foi aberta como independente do portfólio do divórcio e, naquele momento, a EA-000004-000014 permaneceu planejada. Após a conclusão do portfólio da indenização, a EA-000004-000014 foi retomada e concluída.
 
 Princípios:
 - não tratar indenização extraordinária como renda recorrente;
-- considerar R$ 100.000,00 como capital líquido e integralmente disponível no cenário;
+- considerar R$ 100.000,00 como valor recebido em caixa e líquido das retenções consideradas no cenário, sem presumir que todo o capital esteja livre para qualquer alocação;
 - preservar documentação de origem e verificar obrigações declaratórias antes de alocar;
 - preservar liquidez para decisões ainda não amadurecidas;
 - separar reserva, dívidas, investimentos, proteção, objetivos e uso discricionário;
