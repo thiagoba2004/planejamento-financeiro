@@ -31,7 +31,7 @@ Renda de cada unidade, despesas já separadas, despesas ainda compartilhadas, ca
 ### Cenários
 Separe valores confirmados de hipóteses. Não preencha dados ausentes silenciosamente.
 
-## 3. Cenários de 30, 90 e 365 dias
+## 3. Cenários de 30, 90 e 365 dias — heurística do Projeto
 
 **Saldo operacional mensal**
 
@@ -79,7 +79,7 @@ Avalie o impacto de um segundo custo de moradia e da mudança sem pressupor alim
 Um imóvel relevante em partilha não paga despesas imediatas se não houver disponibilidade para venda ou uso do valor.
 
 ### Cenários jurídicos diferentes
-Compare como premissas distintas alteram o caixa em 30, 90 e 365 dias sem escolher qual decisão judicial ocorrerá.
+Os horizontes de 30, 90 e 365 dias são uma **heurística operacional adaptável do Projeto**, não prazo universal da Planejar, FPSB ou regulador. Compare como premissas distintas alteram o caixa sem escolher qual decisão judicial ocorrerá.
 
 ### Crédito mascara déficit
 Limite de crédito não é reserva; se despesas recorrentes superam renda, o problema é estrutural antes dos juros.
