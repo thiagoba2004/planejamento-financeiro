@@ -22,6 +22,7 @@ O Menu global representa **áreas estáveis e transversais do Site**. Módulos, 
   - evolução prevista: calculadoras, checklists, roteiros, templates e árvores de decisão.
 - **Fontes:** Planejar, Banco Central e demais referências institucionais.
 - **Fale Conosco:** canal protocolado de contato.
+- **Privacidade:** rota pública de transparência sobre tratamento de dados, acessível pelo Fale Conosco, recibo e rodapé/Mapa; não integra o menu global.
 - **Mapa do Site:** índice estrutural acessível pelo rodapé, fora do menu global.
 
 ## Regra de interação
