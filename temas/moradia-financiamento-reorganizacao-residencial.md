@@ -124,7 +124,7 @@ Esse número serve para diagnosticar o fluxo. Não autoriza concluir, sozinho, q
 
 ## 7. Regras atuais que exigem atualização
 
-A Resolução CMN nº 5.255/2025 elevou para **R$ 2,25 milhões** o limite máximo de avaliação do imóvel nas operações enquadradas no Sistema Financeiro da Habitação (SFH).
+A Resolução CMN nº 5.255/2025, **verificada em 21/09/2026**, elevou para **R$ 2,25 milhões** o limite máximo de avaliação do imóvel nas operações enquadradas no Sistema Financeiro da Habitação (SFH).
 
 Como FAQs e páginas institucionais podem ficar desatualizadas, sempre confira a norma vigente e a operação concreta.
 
