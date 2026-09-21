@@ -516,16 +516,20 @@ Princípios:
 ## EA-000004-000015 — Recebimento da indenização: documentação, tratamento declaratório e incorporação do capital líquido — PLANEJADA
 
 ### FASE 01/06 [F-000004-000015-001] — Delimitação do evento e premissas confirmadas
-**Gate:** escopo e perguntas persistidos.
+**Gate:** escopo e perguntas persistidos.  
+**Estado:** CONCLUÍDA — R$ 100.000,00 líquidos e disponíveis registrados como capital extraordinário; 20 perguntas de diagnóstico persistidas.
 
 ### FASE 02/06 [F-000004-000015-002] — Documentação de origem e trilha patrimonial
-**Gate:** dados/fontes necessários registrados e classificados.
+**Gate:** dados/fontes necessários registrados e classificados.  
+**Estado:** CONCLUÍDA — hierarquia documental, trilha patrimonial, checklist e qualidade documental estruturados.
 
 ### FASE 03/06 [F-000004-000015-003] — Tratamento declaratório e registro fiscal
-**Gate:** metodologia e cenários reproduzíveis documentados.
+**Gate:** metodologia e cenários reproduzíveis documentados.  
+**Estado:** CONCLUÍDA — orientação atual da Receita: dano moral de pessoa física não sofre IR e é informado como rendimento isento/não tributável; fato de 2026 exige revalidação operacional no IRPF 2027.
 
 ### FASE 04/06 [F-000004-000015-004] — Incorporação ao balanço e ponto de partida financeiro
-**Gate:** intervenções/cenários com limites profissionais explícitos.
+**Gate:** intervenções/cenários com limites profissionais explícitos.  
+**Estado:** CONCLUÍDA — efeito incremental de +R$ 100.000,00 registrado; demais variáveis mantidas como DADO_AUSENTE, sem criação de dados artificiais.
 
 ### FASE 05/06 [F-000004-000015-005] — Casos, comunicação e competências CFP®
 **Gate:** casos e competências verificáveis produzidos.
