@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000030",
   "current_strategy_name": "Auditoria regressiva pós-correção do Site Planejamento Financeiro",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 5,
     "phase_total": 5,
-    "phase_code": "F-000004-000030-001",
-    "phase_name": "Estado publicado e inventário de superfície",
-    "status": "EM_EXECUCAO"
+    "phase_code": "F-000004-000030-005",
+    "phase_name": "Relatório regressivo e estado",
+    "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "Ciclo corretivo do Relatório do Planejador Financeiro do Diabo concluído: 6 Estratégias Autônomas, 32 fases, 25 achados tratados, 33 HTMLs públicos reauditedos e GitHub Pages run 35643562008 concluído com sucesso.",
-  "next_logical_step": "Verificar externamente o conteúdo público servido e testar regressões materiais após o ciclo corretivo.",
+  "last_completed_milestone": "EA-000004-000030 concluída: artefato real do GitHub Pages auditado, cinco divergências CFP® encontradas e corrigidas, 33 HTMLs finais sem regressão material residual detectada.",
+  "next_logical_step": "Aguardar nova Estratégia Autônoma; manter auditoria regressiva por artefato como gate após ciclos corretivos amplos.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,18 +38,20 @@
     "CFP_ALIGNMENT_PROTOCOL.md"
   ],
   "updated_at": "2026-09-21",
-  "site_status": "AUDITORIA_REGRESSIVA_POS_CORRECAO_EM_EXECUCAO",
+  "site_status": "AUDITORIA_REGRESSIVA_APROVADA_E_PUBLICADA",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
-  "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/cfp/index.html",
+  "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "last_deployment": {
-    "workflow_run_id": 35643562008,
+    "workflow_run_id": 35645234961,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE",
-    "commit_sha": "7b0669e5074a5106eebda87fdb668fe96d529c33",
-    "completed_at": "2026-09-21T19:15:16Z"
+    "verified_by": "GITHUB_PAGES_PIPELINE_AND_ARTIFACT_AUDIT",
+    "commit_sha": "be331d70ee3623e640af492910ab1bd2a57fd548",
+    "completed_at": "2026-09-21T19:31:37Z",
+    "artifact_id": 10659862746,
+    "artifact_digest": "sha256:1d79283f8b6e19241309af077cec291611a413877a0de5de08dd2c4b31fb655d"
   },
   "public_menu": [
     "Início",
