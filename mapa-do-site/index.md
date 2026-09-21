@@ -2,35 +2,51 @@
 
 Índice das áreas públicas do Site Planejamento Financeiro.
 
+## Início
+- [Início](../index.html)
+
+## CFP®
+- [CFP®](../cfp/index.html)
+
 ## Conhecimentos
-- Gestão Financeira
-- Superendividamento das Pessoas Físicas
-- Divórcio: diagnóstico financeiro da ruptura e orçamento de transição
-- Patrimônio, avaliação econômica e liquidez na partilha
-- Indenização trabalhista: capital líquido e ponto de partida financeiro
-- Liquidez e reserva pós-indenização
+- [Conhecimentos](../conhecimentos/index.html)
+- [Processo de Planejamento Financeiro](../conhecimentos/processo-planejamento-financeiro.html)
+- [Perímetro Profissional e Atividades Reguladas](../conhecimentos/perimetro-profissional.html)
+- [Gestão Financeira](../gestao-financeira/index.html)
+- [Superendividamento das Pessoas Físicas](../temas/superendividamento-pf.html)
+- [Divórcio: diagnóstico financeiro da ruptura](../temas/divorcio-transicao-financeira.html)
+- [Patrimônio, avaliação e liquidez na partilha](../temas/patrimonio-partilha-liquidez.html)
+- [Moradia, financiamento e reorganização residencial](../temas/moradia-financiamento-reorganizacao-residencial.html)
+- [Filhos: alimentos, educação, saúde e logística](../temas/filhos-alimentos-educacao-saude-logistica.html)
+- [Dívidas, crédito, garantias e contas conjuntas](../temas/dividas-credito-garantias-contas-conjuntas.html)
+- [Investimentos e reorganização de carteiras](../temas/investimentos-reorganizacao-carteiras.html)
+- [Seguros, previdência e proteção financeira](../temas/seguros-previdencia-protecao-financeira.html)
+- [Tributação, declarações e custos de transferência](../temas/tributacao-declaracoes-custos-transferencia.html)
+- [Empresas, participações societárias e continuidade de renda](../temas/empresas-participacoes-societarias-renda.html)
+- [Reconstrução financeira pós-divórcio](../temas/reconstrucao-financeira-plano-integrado-pos-divorcio.html)
+- [Indenização trabalhista: capital líquido](../temas/indenizacao-trabalhista-capital-liquido.html)
+- [Liquidez e reserva pós-indenização](../temas/liquidez-reserva-pos-indenizacao.html)
+- [Dívidas e capital indenizatório](../temas/dividas-capital-indenizatorio.html)
+- [Indenização e superendividamento](../temas/indenizacao-superendividamento.html)
+- [Investimentos e capital extraordinário](../temas/investimentos-capital-extraordinario.html)
+- [Objetivos, aposentadoria e proteção](../temas/objetivos-aposentadoria-protecao-capital-extraordinario.html)
+- [Finanças comportamentais](../temas/financas-comportamentais-patrimonio-indenizatorio.html)
+- [Plano financeiro integrado pós-indenização](../temas/plano-financeiro-integrado-pos-indenizacao.html)
 
 ## Casos
-- Superendividamento
-- Transição financeira no divórcio
-- Patrimônio e partilha
-- Capital indenizatório trabalhista
-- Liquidez e reserva pós-indenização
+- [Casos Práticos](../casos/index.html)
 
 ## Ferramentas
-- Métricas e indicadores
-- Escada de intervenção
-- Linha de base pós-ruptura
-- Projeção 30/90/365 dias
-- Liquidez e reserva de transição
-- Valor líquido patrimonial
-- Métodos de avaliação por classe
-- Gap, liquidez e concentração
-- Linha de base da indenização
-- Sequência pós-indenização
-- Reserva-alvo e lacuna
-- Estacionamento financeiro temporário
-- Política de não decisão
+- [Ferramentas](../ferramentas/index.html)
+- [Métricas e indicadores](../metricas/index.html)
+
+## Fontes
+- [Fontes](../fontes/index.html)
+
+## Fale Conosco
+- [Fale Conosco](../fale-conosco/index.html)
 
 ## Privacidade
 - [Aviso de Privacidade](../privacidade/index.html)
+
+**Última revisão:** 21/09/2026.
