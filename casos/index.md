@@ -1,31 +1,45 @@
 # Casos Práticos
 
-Treino de cálculo, diagnóstico, decisão e comunicação.
+Biblioteca transversal para treino de cálculo, diagnóstico, decisão, comunicação e julgamento profissional.
 
 ## Superendividamento
-Quatro casos progressivos.
+Quatro casos progressivos: deterioração antes da crise; choque de renda; comparação de consolidação; limite profissional.
 
-## Ruptura conjugal
-Quatro casos sobre orçamento e transição.
+## Divórcio e transição financeira
+Casos sobre dupla moradia, patrimônio alto com baixa liquidez, cenários jurídicos diferentes e crédito mascarando déficit.
 
 ## Patrimônio e partilha
-Cinco casos sobre:
-- valor bruto versus líquido;
-- datas-base incompatíveis;
-- liquidez desigual;
-- participação societária ilíquida;
-- diferença entre valuation financeiro e método jurídico/pericial.
+Casos sobre valor bruto x líquido, datas-base, liquidez desigual, empresa sem caixa e valuation x perícia.
 
-[Ver casos patrimoniais](../temas/patrimonio-partilha-liquidez.html#casos)
+## Moradia
+Casos sobre permanência com baixa folga, venda atrasada, entrada elevada, aluguel temporário e regra regulatória desatualizada.
 
-## Indenização trabalhista: capital líquido
-Cinco casos sobre capital x renda, documentação de origem, declaração, dados ausentes e sequência antes do investimento.
+## Filhos
+Casos sobre matrícula anual, transferências internas, duas residências, saúde variável e objetivos futuros.
 
-[Ver casos do capital indenizatório](../temas/indenizacao-trabalhista-capital-liquido.html#casos)
+## Dívidas, crédito e garantias
+Casos sobre dívida controvertida, garantia, cartão adicional, renegociação e conciliação com SCR.
 
-## Liquidez e reserva pós-indenização
-Seis casos sobre reserva suficiente/insuficiente, renda instável, despesas previsíveis, necessidade imediata de caixa, compra relevante e limites do FGC.
+## Investimentos
+Casos sobre concentração, liquidez x volatilidade, resgate de curto prazo, portabilidade e mudança de capacidade de risco.
 
-[Ver casos de liquidez e reserva](../temas/liquidez-reserva-pos-indenizacao.html#casos)
+## Seguros e previdência
+Casos sobre beneficiário, prestamista, seguro coletivo, previdência aberta e fundo de pensão.
 
-**Última revisão:** 20/09/2026.
+## Tributação
+Casos sobre ganho de capital, partilha desigual, ITIV/ITBI, exercício da DIRPF e valor líquido pós-transação.
+
+## Empresas
+Casos sobre capital social x valuation, sócio operacional, empresa sem liquidez pessoal, garantia e método judicial.
+
+## Reconstrução pós-divórcio
+Casos integrados de patrimônio, alimentos, moradia, venda, dívida, carteira e empresa.
+
+## Capital extraordinário por indenização
+Abrange os casos das unidades de documentação, reserva, dívidas, superendividamento, investimentos, objetivos/proteção, comportamento e plano integrado.
+
+### Padrão de reprodutibilidade
+Todo caso quantitativo deve explicitar, quando aplicável:
+**inputs → data-base → fórmula → intervenção → resultado → interpretação → limitações**.
+
+**Última revisão:** 21/09/2026.
