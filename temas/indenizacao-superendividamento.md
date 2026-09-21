@@ -124,7 +124,9 @@ Não conclui:
 
 A análise jurídica pertence ao Projeto **Ações Judiciais**.
 
-## 9. Para a formação CFP®
+## 9. Aderência ao CFP®
+
+**Classificação: aplicação profissional do Projeto apoiada por competências do domínio CFP®.**
 
 **SABER:** estoque x fluxo, liquidez, solvência, serviço da dívida, custo e reserva.  
 **FAZER:** construir linha de base, simular cenários, calcular fluxo pós-intervenção e documentar incertezas.  
