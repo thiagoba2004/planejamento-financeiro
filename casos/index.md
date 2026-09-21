@@ -18,4 +18,9 @@ Cinco casos sobre:
 
 [Ver casos patrimoniais](../temas/patrimonio-partilha-liquidez.html#casos)
 
+## Indenização trabalhista: capital líquido
+Cinco casos sobre capital x renda, documentação de origem, declaração, dados ausentes e sequência antes do investimento.
+
+[Ver casos do capital indenizatório](../temas/indenizacao-trabalhista-capital-liquido.html#casos)
+
 **Última revisão:** 20/09/2026.
