@@ -541,25 +541,31 @@ Princípios:
 
 **Plano detalhado:** `research/EA-000004-000015/plano-de-fases.md`.
 
-## EA-000004-000016 — Liquidez, reserva de segurança e período de decisão pós-indenização — PLANEJADA
+## EA-000004-000016 — Liquidez, reserva de segurança e período de decisão pós-indenização — EM EXECUÇÃO
 
 ### FASE 01/06 [F-000004-000016-001] — Delimitação do horizonte de transição
-**Gate:** escopo e perguntas persistidos.
+**Gate:** escopo e perguntas persistidos.  
+**Estado:** CONCLUÍDA — horizontes de 3, 6 e 12 meses, quatro caixas conceituais e 28 perguntas de diagnóstico persistidos sem criar percentuais artificiais.
 
 ### FASE 02/06 [F-000004-000016-002] — Reserva de segurança e necessidades imediatas
-**Gate:** dados/fontes necessários registrados e classificados.
+**Gate:** dados/fontes necessários registrados e classificados.  
+**Estado:** CONCLUÍDA — fórmula de reserva/lacuna, separação entre emergência e despesas previsíveis, critérios de horizonte e exemplos reproduzíveis documentados; valor concreto permanece DADO_AUSENTE sem renda/despesas/reserva prévia.
 
 ### FASE 03/06 [F-000004-000016-003] — Estacionamento financeiro temporário
-**Gate:** metodologia e cenários reproduzíveis documentados.
+**Gate:** metodologia e cenários reproduzíveis documentados.  
+**Estado:** CONCLUÍDA — matriz de liquidez, risco, garantia, tributação, custo e operação aplicada a alternativas temporárias; regras atuais do FGC e fontes institucionais verificadas; carteira definitiva expressamente excluída desta fase.
 
 ### FASE 04/06 [F-000004-000016-004] — Política de não decisão e desembolsos iniciais
-**Gate:** intervenções/cenários com limites profissionais explícitos.
+**Gate:** intervenções/cenários com limites profissionais explícitos.  
+**Estado:** CONCLUÍDA — decisões classificadas por reversibilidade, teste de desembolso estruturado, limites para compras/terceiros/dívidas/longo prazo e fórmula de capital liberado com trava contra dupla contagem.
 
 ### FASE 05/06 [F-000004-000016-005] — Casos e competências CFP®
-**Gate:** casos e competências verificáveis produzidos.
+**Gate:** casos e competências verificáveis produzidos.  
+**Estado:** PLANEJADA.
 
 ### FASE 06/06 [F-000004-000016-006] — Publicação, auditoria e atualização
-**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.  
+**Estado:** PLANEJADA.
 
 **Plano detalhado:** `research/EA-000004-000016/plano-de-fases.md`.
 
