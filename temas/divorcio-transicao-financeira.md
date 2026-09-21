@@ -84,7 +84,9 @@ Compare como premissas distintas alteram o caixa em 30, 90 e 365 dias sem escolh
 ### Crédito mascara déficit
 Limite de crédito não é reserva; se despesas recorrentes superam renda, o problema é estrutural antes dos juros.
 
-## 7. Para a prova CFP®
+## 7. Aderência ao CFP®
+
+**Classificação: aplicação profissional do Projeto apoiada por competências do domínio CFP®.**
 
 Gestão Financeira integra o formato vigente do CFP®. Esta unidade aplica conceitos de orçamento, fluxo de caixa, liquidez, dívida, cenários e decisão financeira.
 
