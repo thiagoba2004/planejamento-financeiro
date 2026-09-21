@@ -56,7 +56,7 @@ Conta operacional, poupança, CDB com liquidez diária, Tesouro Selic e fundos c
 
 ## 5. FGC: proteção não é ausência de risco
 
-A fonte oficial do FGC informa garantia ordinária de até **R$ 250.000,00 por CPF/CNPJ por instituição ou conglomerado**, para créditos elegíveis, e teto global de **R$ 1.000.000,00 em quatro anos**, nas condições do regulamento.
+A fonte oficial do FGC, **verificada em 21/09/2026**, informa garantia ordinária de até **R$ 250.000,00 por CPF/CNPJ por instituição ou conglomerado**, para créditos elegíveis, e teto global de **R$ 1.000.000,00 em quatro anos**, nas condições do regulamento.
 
 O limite não significa que qualquer produto tenha FGC nem constitui recomendação de concentração.
 
