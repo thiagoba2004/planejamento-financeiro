@@ -1,20 +1,23 @@
 # Plano financeiro integrado pós-indenização
 
-**Cenário didático:** recebimento de R$ 100.000,00 líquidos e integralmente disponíveis por dano moral trabalhista.
+**Cenário didático:** recebimento de R$ 100.000,00 recebidos em caixa e líquidos das retenções consideradas no cenário por dano moral trabalhista.
 
 ## 1. O que está confirmado
 
 - o capital líquido recebido é de R$ 100.000,00;
-- o valor é integralmente disponível;
+- o valor foi recebido em caixa e é líquido das retenções consideradas no cenário;
+- a disponibilidade econômica para alocação depende de reserva, compromissos, dívidas e objetivos; eventual disponibilidade jurídica deve ser verificada separadamente;
 - o recebimento não é renda recorrente;
-- o efeito patrimonial imediato é aumento de R$ 100.000,00 nos ativos líquidos;
+- o efeito imediato sobre caixa é +R$ 100.000,00; o efeito sobre o patrimônio líquido depende de o direito à indenização já ter sido reconhecido anteriormente;
 - demais dados pessoais e financeiros permanecem dependentes do caso concreto.
 
 ## 2. A regra de ouro
 
 Os R$ 100.000,00 não devem ser simultaneamente contados como reserva, quitação, investimento, objetivo, proteção e consumo.
 
-R$ 100.000,00 = continuidade + reserva + dívidas + objetivos/proteção + investimentos + uso discricionário + saldo não alocado.
+R$ 100.000,00 = continuidade + reserva + dívidas + objetivos + capital de proteção (se houver) + investimentos + uso discricionário + saldo não alocado.
+
+**Prêmios recorrentes de seguros não são bucket de capital:** pertencem ao fluxo de caixa recorrente. Custos pontuais de contratação, se existirem, devem ser registrados separadamente.
 
 ## 3. Ordem de decisão
 
@@ -45,7 +48,7 @@ No cenário atual, como os dados pessoais permanecem ausentes:
 
 ATIVOS_LIQUIDOS_APOS = ATIVOS_LIQUIDOS_ANTES + 100.000
 
-PATRIMONIO_LIQUIDO_APOS = PATRIMONIO_LIQUIDO_ANTES + 100.000
+O patrimônio líquido só aumenta em R$ 100.000,00 no recebimento se o direito à indenização ainda não estava reconhecido como ativo. Se já existia recebível reconhecido, ocorre conversão de recebível em caixa, sem novo aumento de patrimônio líquido.
 
 RENDA_RECORRENTE_APOS = RENDA_RECORRENTE_ANTES
 
@@ -62,8 +65,8 @@ Reserva calculada por despesas, horizonte e estabilidade da renda.
 ### Dívidas
 Somente após confirmação de saldo, CET, garantias e efeito no fluxo.
 
-### Objetivos e proteção
-Somente para metas e gaps documentados.
+### Objetivos e capital de proteção
+Somente para metas e eventual capital de proteção documentado. Prêmios recorrentes de seguros permanecem no fluxo mensal.
 
 ### Investimentos
 Somente sobre o capital residual realmente investível.
