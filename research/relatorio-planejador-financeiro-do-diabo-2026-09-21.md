@@ -773,3 +773,20 @@ Uma fórmula pode estar certa e ainda ensinar errado se:
 Por isso, o Relatório conclui:
 
 **ESTADO FINAL: ACHADOS REQUEREM CORREÇÃO.**
+
+
+# 31. Validação final em fontes oficiais
+
+Em 21/09/2026, os achados mais sensíveis foram novamente confrontados com fontes oficiais ou institucionais vigentes:
+
+- **CVM — Resolução 19:** confirma que consultoria de valores mobiliários envolve orientação, recomendação e aconselhamento profissional, independente e individualizado; a própria norma exclui o planejador financeiro quando sua atuação não envolve essa atividade regulada.
+- **CVM — Resolução 30:** permanece como norma de adequação de produtos, serviços e operações ao perfil do cliente.
+- **Susep — corretores:** a orientação oficial vigente exige habilitação técnica e registro para atuar como corretor de seguros.
+- **FPSB — Financial Planning Process:** confirma processo colaborativo e iterativo, com definição de relação e escopo, competências, conflitos de interesse, coleta de dados, análise, recomendações, implementação e revisão.
+- **FGC:** confirma os limites de até R$ 250 mil por CPF/CNPJ por instituição ou conglomerado e teto global de R$ 1 milhão em quatro anos, nas condições do regulamento.
+- **Banco Central / SFH:** confirma a elevação do teto do valor do imóvel no SFH para R$ 2,25 milhões.
+- **Sefaz/BA — ITD:** confirma as alíquotas de doação de 3%, 3,5% e 4% para os fatos alcançados pela regra atual.
+- **Receita Federal — Tema 370/STJ:** confirma a não incidência do IR sobre verba recebida a título de dano moral por pessoa física, inclusive a delimitação referente à reclamação trabalhista.
+- **Lei nº 14.803/2024:** confirma a possibilidade de opção pelo regime tributário previdenciário até a obtenção do benefício ou a requisição do primeiro resgate, conforme os requisitos legais.
+
+A validação externa **não altera o estado do relatório**: os achados continuam requerendo correção, e os pontos classificados como sólidos permaneceram confirmados.
