@@ -82,7 +82,9 @@ Antes de substituir, compare subscrição, carências, exclusões, custo e conti
 6. prêmio cabe no capital, mas não no fluxo;
 7. PGBL ou VGBL exigem diagnóstico fiscal e de objetivo.
 
-## 10. Para a formação CFP®
+## 10. Aderência ao CFP®
+
+**Classificação: competência/conceito do domínio CFP® com aplicação profissional do Projeto.**
 
 **SABER:** objetivos, gaps, aposentadoria, previdência e transferência de risco.
 
