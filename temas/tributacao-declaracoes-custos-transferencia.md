@@ -87,7 +87,7 @@ Quando houver excesso sem compensação:
 
 ### Exemplo jurisdicional: Bahia
 
-A SEFAZ/BA informa atualmente, para doações:
+A SEFAZ/BA, **verificada em 21/09/2026**, informa atualmente, para doações:
 - 3% até R$ 200 mil;
 - 3,5% acima de R$ 200 mil até R$ 300 mil;
 - 4% acima de R$ 300 mil.
