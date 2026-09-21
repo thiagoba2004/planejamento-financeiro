@@ -908,3 +908,13 @@ Plano: `research/EA-000004-000029/plano-de-fases.md`. 6 fases.
 - GitHub Pages run `35643562008`: **success**;
 - commit público final: `7b0669e5074a5106eebda87fdb668fe96d529c33`;
 - auditoria corretiva: `research/auditoria-corretiva-planejador-financeiro-do-diabo-2026-09-21.md`.
+
+## EA-000004-000030 — Auditoria regressiva pós-correção do Site Planejamento Financeiro — EM EXECUÇÃO
+
+1. Fase 01/05 — Estado publicado e inventário de superfície
+2. Fase 02/05 — Verificação HTTP do conteúdo servido
+3. Fase 03/05 — Regressão semântica e quantitativa
+4. Fase 04/05 — Navegação, privacidade e integridade editorial
+5. Fase 05/05 — Relatório regressivo e estado
+
+Plano: `research/EA-000004-000030/plano-de-fases.md`.
