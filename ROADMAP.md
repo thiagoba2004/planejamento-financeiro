@@ -33,7 +33,7 @@ Relacionar conteúdo às fontes e competências, separando TRILHA_PROVA e TRILHA
 **Gate:** matriz de competência e avaliação de domínio.
 
 ### FASE 08/08 [F-000004-000001-008] — Publicação, auditoria e atualização
-Sincronizar Markdown + HTML + JSON, revisar cálculos, fontes e navegação, e definir rotina de atualização.  
+Sincronizar Markdown + HTML; JSON apenas quando houver função estruturada real, revisar cálculos, fontes e navegação, e definir rotina de atualização.  
 **Gate:** unidade formativa publicável e rastreável.
 
 
@@ -187,7 +187,7 @@ Revisar premissas, cálculos e dependências com partilha e crédito.
 - cenários de permanência, venda, locação e compra comparáveis;
 - CET, SFH, FGTS, liquidez e capacidade de financiamento tratados com fontes vigentes;
 - cinco casos progressivos e matriz SABER/FAZER/DECIDIR;
-- unidade pública em Markdown + HTML + JSON;
+- unidade pública em Markdown + HTML; JSON apenas quando houver função estruturada real;
 - integração com Conhecimentos, Casos, Ferramentas, Fontes e Mapa do Site;
 - auditoria: 15 HTMLs, 257 hrefs, zero links/âncoras quebrados e zero vazamentos;
 - deploy público `35542862117`: **success**.
@@ -228,7 +228,7 @@ Validar cálculos, linguagem e integração com a estratégia jurídica de alime
 - fluxos por filho, responsável e consolidado modelados sem dupla contagem;
 - reservas, provisões e objetivos futuros estruturados;
 - cinco casos progressivos e matriz SABER/FAZER/DECIDIR;
-- unidade pública em Markdown + HTML + JSON;
+- unidade pública em Markdown + HTML; JSON apenas quando houver função estruturada real;
 - integração com Conhecimentos, Gestão Financeira, Casos, Ferramentas e Mapa do Site;
 - auditoria: 16 HTMLs, 285 hrefs, zero links/âncoras quebrados e zero vazamentos;
 - deploy público `35543306046`: **success**.
@@ -270,7 +270,7 @@ Validar dados, cálculos e integração com crédito, patrimônio e superendivid
 - cenários de garantia, inadimplência e renegociação estruturados;
 - plano operacional 0–7/30/90 dias persistido;
 - cinco casos progressivos e matriz SABER/FAZER/DECIDIR;
-- unidade pública em Markdown + HTML + JSON;
+- unidade pública em Markdown + HTML; JSON apenas quando houver função estruturada real;
 - integração com Conhecimentos, Gestão Financeira, Casos, Ferramentas, Fontes e Mapa do Site;
 - auditoria: 17 HTMLs, 314 hrefs, zero links/âncoras quebrados e zero vazamentos;
 - deploy público `35543623086`: **success**.
@@ -312,7 +312,7 @@ Validar dados de produtos, premissas e dependências tributárias/jurídicas.
 - capacidade, necessidade e tolerância a risco reavaliadas metodologicamente;
 - suitability, diversificação e FGC tratados com fontes vigentes;
 - cinco casos progressivos e matriz SABER/FAZER/DECIDIR;
-- unidade pública em Markdown + HTML + JSON;
+- unidade pública em Markdown + HTML; JSON apenas quando houver função estruturada real;
 - integração com Conhecimentos, Gestão Financeira, Casos, Ferramentas, Fontes e Mapa do Site;
 - auditoria: 18 HTMLs, 343 hrefs, zero links/âncoras quebrados e zero vazamentos;
 - deploy público `35543991426`: **success**.
@@ -354,7 +354,7 @@ Verificar fontes dos produtos, limites profissionais e integração com planejam
 - previdência aberta e fechada diferenciadas metodologicamente;
 - cenários de manter, ajustar, substituir e reforçar documentados;
 - cinco casos progressivos e matriz SABER/FAZER/DECIDIR;
-- unidade pública em Markdown + HTML + JSON;
+- unidade pública em Markdown + HTML; JSON apenas quando houver função estruturada real;
 - integração com Conhecimentos, Gestão Financeira, Casos, Ferramentas, Fontes e Mapa do Site;
 - auditoria: 19 HTMLs, 372 hrefs, zero links/âncoras quebrados e zero vazamentos;
 - deploy público `35544299674`: **success**.
@@ -395,7 +395,7 @@ Revalidar vigência, jurisdição e necessidade de contador/advogado tributarist
 - cenários de custo fiscal histórico, valor superior, excesso gratuito/oneroso, venda e diferimento documentados;
 - cálculo reproduzível de ganho potencial e valor líquido pós-transação;
 - cinco casos progressivos e matriz SABER/FAZER/DECIDIR;
-- unidade pública em Markdown + HTML + JSON;
+- unidade pública em Markdown + HTML; JSON apenas quando houver função estruturada real;
 - integração com Conhecimentos, Gestão Financeira, Casos, Ferramentas, Fontes e Mapa do Site;
 - auditoria: 20 HTMLs, 403 hrefs, zero links/âncoras quebrados e zero vazamentos;
 - deploy público `35544878479`: **success**.
@@ -436,7 +436,7 @@ Validar interfaces com partilha jurídica, contabilidade, tributação e valuati
 - métodos de valuation, normalizações e liquidez societária estruturados;
 - continuidade de renda, concentração e riscos empresariais modelados;
 - cinco casos progressivos e matriz SABER/FAZER/DECIDIR;
-- unidade pública em Markdown + HTML + JSON;
+- unidade pública em Markdown + HTML; JSON apenas quando houver função estruturada real;
 - integração com Conhecimentos, Gestão Financeira, Casos, Ferramentas, Fontes e Mapa do Site;
 - uma divergência de âncora detectada e corrigida antes do fechamento;
 - auditoria: 21 HTMLs, 431 hrefs, zero links/âncoras quebrados e zero vazamentos;
@@ -477,7 +477,7 @@ Publicar a unidade integradora e verificar coerência com todas as estratégias 
 - cenários de caixa de 30, 90 e 365 dias com fixture validado;
 - metodologia de liquidez e reserva de transição;
 - quatro casos progressivos e matriz de competências;
-- unidade pública em Markdown + HTML + JSON;
+- unidade pública em Markdown + HTML; JSON apenas quando houver função estruturada real;
 - integração com Conhecimentos, Casos, Ferramentas e Mapa do Site;
 - auditoria: 13 HTMLs, 200 hrefs, zero quebras internas, zero vazamentos e sem “ACESSAR →”;
 - deploy público `35541592376`: **success**.
@@ -492,6 +492,6 @@ Publicar a unidade integradora e verificar coerência com todas as estratégias 
 - cenários de venda, alocação, troca, manutenção e diferimento;
 - métricas de gap, liquidez, concentração e financiamento;
 - cinco casos progressivos e matriz de competências;
-- unidade pública em Markdown + HTML + JSON;
+- unidade pública em Markdown + HTML; JSON apenas quando houver função estruturada real;
 - auditoria: 14 HTMLs, 230 hrefs, zero quebras e zero vazamentos;
 - deploy público `35542281964`: **success**.
