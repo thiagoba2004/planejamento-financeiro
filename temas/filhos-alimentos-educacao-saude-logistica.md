@@ -128,7 +128,9 @@ Não existe percentual universal de reserva adequado para todos os filhos. O val
 4. despesa de saúde variável e histórico curto;
 5. objetivo futuro concorrendo com caixa insuficiente.
 
-## 11. Para a prova CFP®
+## 11. Aderência ao CFP®
+
+**Classificação: aplicação profissional do Projeto apoiada por competências do domínio CFP®.**
 
 A unidade mobiliza Gestão Financeira: orçamento, fluxo, provisões, liquidez, objetivos, coleta de dados, análise de alternativas e comunicação. O contexto de divórcio e filhos é aplicação profissional do projeto.
 
