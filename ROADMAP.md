@@ -628,27 +628,34 @@ Princípios:
 **Plano detalhado:** `research/EA-000004-000018/plano-de-fases.md`.  
 **Auditoria:** `research/EA-000004-000018/auditoria-final-publicacao.md`.
 
-## EA-000004-000019 — Objetivos de vida, aposentadoria, seguros e proteção patrimonial — PLANEJADA
+## EA-000004-000019 — Objetivos de vida, aposentadoria, seguros e proteção patrimonial — CONCLUÍDA
 
 ### FASE 01/06 [F-000004-000019-001] — Mapa de objetivos e prioridades
-**Gate:** escopo e perguntas persistidos.
+**Gate:** escopo e perguntas persistidos.  
+**Estado:** CONCLUÍDA — categorias, prioridades, prazos, flexibilidade e estados de dados estruturados sem atribuir finalidade fictícia ao capital.
 
 ### FASE 02/06 [F-000004-000019-002] — Capital necessário e lacunas
-**Gate:** dados/fontes necessários registrados e classificados.
+**Gate:** dados/fontes necessários registrados e classificados.  
+**Estado:** CONCLUÍDA — capital disponível, gap por objetivo, cobertura, atualização temporal e trava contra dupla contagem documentados.
 
 ### FASE 03/06 [F-000004-000019-003] — Aposentadoria e previdência
-**Gate:** metodologia e cenários reproduzíveis documentados.
+**Gate:** metodologia e cenários reproduzíveis documentados.  
+**Estado:** CONCLUÍDA — gap de renda/patrimônio e comparação entre previdência fechada, PGBL, VGBL e investimentos ordinários estruturados com regra tributária atualizada.
 
 ### FASE 04/06 [F-000004-000019-004] — Seguros e proteção financeira
-**Gate:** intervenções/cenários com limites profissionais explícitos.
+**Gate:** intervenções/cenários com limites profissionais explícitos.  
+**Estado:** CONCLUÍDA — inventário, gap de proteção, capital pontual × prêmio recorrente e decisões manter/ajustar/substituir/reforçar documentados.
 
 ### FASE 05/06 [F-000004-000019-005] — Casos e competências CFP®
-**Gate:** casos e competências verificáveis produzidos.
+**Gate:** casos e competências verificáveis produzidos.  
+**Estado:** CONCLUÍDA — sete casos didáticos e competências SABER/FAZER/DECIDIR produzidos.
 
 ### FASE 06/06 [F-000004-000019-006] — Publicação, auditoria e atualização
-**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.  
+**Estado:** CONCLUÍDA — Markdown + HTML publicados e integrados; superfície alterada auditada; deploy 35596681727 success.
 
-**Plano detalhado:** `research/EA-000004-000019/plano-de-fases.md`.
+**Plano detalhado:** `research/EA-000004-000019/plano-de-fases.md`.  
+**Auditoria:** `research/EA-000004-000019/auditoria-final-publicacao.md`.
 
 ## EA-000004-000020 — Finanças comportamentais, consumo e governança do patrimônio indenizatório — PLANEJADA
 
@@ -772,3 +779,17 @@ Princípios:
 - publicação em Markdown + HTML;
 - integração em Conhecimentos, Gestão Financeira, Casos, Ferramentas e Mapa do Site;
 - deploy GitHub Pages `35595325611`: **success**.
+
+
+### Resultado — EA-000004-000019
+
+- 6/6 fases concluídas;
+- mapa de objetivos e prioridades estruturado sem inventar metas pessoais;
+- capital disponível para objetivos e lacunas modelados sem dupla contagem;
+- aposentadoria e previdência comparadas sem presumir superioridade de veículo;
+- PGBL, VGBL e previdência fechada tratados com fontes oficiais e regra tributária atualizada;
+- gap de proteção e sustentabilidade de prêmios recorrentes documentados;
+- sete casos didáticos e competências CFP® produzidos;
+- publicação em Markdown + HTML;
+- integração em Conhecimentos, Gestão Financeira, Casos, Ferramentas e Mapa do Site;
+- deploy GitHub Pages `35596681727`: **success**.
