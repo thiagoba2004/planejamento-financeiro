@@ -570,22 +570,27 @@ Princípios:
 **Plano detalhado:** `research/EA-000004-000016/plano-de-fases.md`.  
 **Auditoria:** `research/EA-000004-000016/auditoria-final-publicacao.md`.
 
-## EA-000004-000017 — Dívidas, crédito e prioridade de uso do capital indenizatório — PLANEJADA
+## EA-000004-000017 — Dívidas, crédito e prioridade de uso do capital indenizatório — EM EXECUÇÃO
 
 ### FASE 01/06 [F-000004-000017-001] — Inventário de dívidas e obrigações
-**Gate:** escopo e perguntas persistidos.
+**Gate:** escopo e perguntas persistidos.  
+**Estado:** CONCLUÍDA — inventário auditável, hierarquia documental, 28 perguntas e template CSV persistidos; existência de dívidas mantida como DADO_AUSENTE, nunca convertida em saldo zero.
 
 ### FASE 02/06 [F-000004-000017-002] — Custo efetivo e risco financeiro
-**Gate:** dados/fontes necessários registrados e classificados.
+**Gate:** dados/fontes necessários registrados e classificados.  
+**Estado:** CONCLUÍDA — CET, saldo de quitação, comprometimento de renda, alívio de fluxo, risco e custo de oportunidade estruturados com fórmulas reproduzíveis e fontes do Banco Central.
 
 ### FASE 03/06 [F-000004-000017-003] — Cenários de quitação, amortização e manutenção
-**Gate:** metodologia e cenários reproduzíveis documentados.
+**Gate:** metodologia e cenários reproduzíveis documentados.  
+**Estado:** CONCLUÍDA — quatro cenários comparáveis (manter, quitar, amortizar e renegociar/portar) documentados com travas contra decisão sem dados.
 
 ### FASE 04/06 [F-000004-000017-004] — Prioridade entre reserva, dívida e investimento
-**Gate:** intervenções/cenários com limites profissionais explícitos.
+**Gate:** intervenções/cenários com limites profissionais explícitos.  
+**Estado:** CONCLUÍDA — regra de precedência entre liquidez, dívida e investimento, matriz qualitativa, trava contra dupla contagem e limites profissionais persistidos.
 
 ### FASE 05/06 [F-000004-000017-005] — Casos e competências CFP®
-**Gate:** casos e competências verificáveis produzidos.
+**Gate:** casos e competências verificáveis produzidos.  
+**Estado:** PLANEJADA — próxima fase lógica após conclusão dos quatro primeiros gates.
 
 ### FASE 06/06 [F-000004-000017-006] — Publicação, auditoria e atualização
 **Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
