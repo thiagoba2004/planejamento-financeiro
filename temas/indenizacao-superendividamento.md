@@ -37,7 +37,7 @@ Dado ausente permanece **DADO_AUSENTE**.
 
 **Patrimônio líquido após**
 
-Se a indenização ainda não estava reconhecida como ativo: PL_APÓS = PL_ANTES + 100.000
+Se a indenização ainda não estava reconhecida como ativo, o patrimônio líquido aumenta em R$ 100.000,00 no reconhecimento/recebimento, conforme a linha de base
 
 Se já havia recebível reconhecido: o pagamento não gera novo acréscimo de PL; apenas altera a composição dos ativos.
 
