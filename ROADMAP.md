@@ -874,20 +874,37 @@ Princípios:
 
 # Ciclo corretivo do Relatório do Planejador Financeiro do Diabo — REQ-20260921-053
 
-## EA-000004-000024 — Paridade canônica Markdown–HTML, rastreabilidade e atualidade editorial — EM EXECUÇÃO
+## EA-000004-000024 — Paridade canônica Markdown–HTML, rastreabilidade e atualidade editorial — CONCLUÍDA
 Plano: `research/EA-000004-000024/plano-de-fases.md`. 5 fases.
 
-## EA-000004-000025 — Fale Conosco, Privacidade e tratamento de dados — PLANEJADA
+## EA-000004-000025 — Fale Conosco, Privacidade e tratamento de dados — CONCLUÍDA
 Plano: `research/EA-000004-000025/plano-de-fases.md`. 5 fases.
 
-## EA-000004-000026 — Revisão adversarial do capital indenizatório e do plano integrado — PLANEJADA
+## EA-000004-000026 — Revisão adversarial do capital indenizatório e do plano integrado — CONCLUÍDA
 Plano: `research/EA-000004-000026/plano-de-fases.md`. 5 fases.
 
-## EA-000004-000027 — Protocolo canônico de métricas, fórmulas e casos reproduzíveis — PLANEJADA
+## EA-000004-000027 — Protocolo canônico de métricas, fórmulas e casos reproduzíveis — CONCLUÍDA
 Plano: `research/EA-000004-000027/plano-de-fases.md`. 6 fases.
 
-## EA-000004-000028 — Perímetro profissional, atividades reguladas, risco e suitability — PLANEJADA
+## EA-000004-000028 — Perímetro profissional, atividades reguladas, risco e suitability — CONCLUÍDA
 Plano: `research/EA-000004-000028/plano-de-fases.md`. 5 fases.
 
-## EA-000004-000029 — Aderência CFP®, processo de planejamento financeiro e independência institucional — PLANEJADA
+## EA-000004-000029 — Aderência CFP®, processo de planejamento financeiro e independência institucional — CONCLUÍDA
 Plano: `research/EA-000004-000029/plano-de-fases.md`. 6 fases.
+
+
+### Resultado — ciclo corretivo do Planejador Financeiro do Diabo
+
+- 6 Estratégias Autônomas concluídas;
+- 32/32 fases concluídas;
+- 25 achados do relatório tratados;
+- 33 HTMLs públicos reauditedos tecnicamente;
+- paridade semântica Markdown–HTML instituída como regra;
+- Aviso de Privacidade criado e Fale Conosco alinhado ao estado E2E;
+- premissa dos R$ 100 mil corrigida para separar caixa, disponibilidade econômica e disponibilidade jurídica;
+- reconhecimento patrimonial, reserva, gaps, serviço da dívida, runway, valuation e renda empresarial revisados;
+- perímetro CVM/Susep e modelo canônico de risco publicados;
+- taxonomia pública de aderência CFP® e unidade de Processo de Planejamento Financeiro publicadas;
+- GitHub Pages run `35643562008`: **success**;
+- commit público final: `7b0669e5074a5106eebda87fdb668fe96d529c33`;
+- auditoria corretiva: `research/auditoria-corretiva-planejador-financeiro-do-diabo-2026-09-21.md`.
