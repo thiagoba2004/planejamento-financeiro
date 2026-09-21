@@ -495,3 +495,174 @@ Publicar a unidade integradora e verificar coerência com todas as estratégias 
 - unidade pública em Markdown + HTML; JSON apenas quando houver função estruturada real;
 - auditoria: 14 HTMLs, 230 hrefs, zero quebras e zero vazamentos;
 - deploy público `35542281964`: **success**.
+
+
+## Portfólio — Indenização trabalhista por dano moral — aproximadamente R$ 100.000,00
+
+**Origem:** REQ-20260920-036.  
+**Situação hipotética:** trabalhador recebeu aproximadamente R$ 100.000,00 a título de indenização por dano moral de seu empregador.
+
+A frente é independente do portfólio do divórcio e não altera o estado histórico da EA-000004-000014, que permanece planejada. A nova frente passa a ser prioritária a partir da EA-000004-000015.
+
+Princípios:
+- não tratar indenização extraordinária como renda recorrente;
+- não presumir que o valor nominal é integralmente líquido e disponível;
+- verificar natureza jurídica, documentação, tributação e obrigações antes de alocar;
+- preservar liquidez para decisões ainda não amadurecidas;
+- separar reserva, dívidas, investimentos, proteção, objetivos e uso discricionário;
+- incorporar finanças comportamentais para prevenir dissipação do capital;
+- integrar tudo em plano monitorável.
+
+## EA-000004-000015 — Recebimento da indenização: natureza, documentação, tributação e valor líquido disponível — PLANEJADA
+
+### FASE 01/06 [F-000004-000015-001] — Delimitação do evento e perguntas de diagnóstico
+**Gate:** escopo e perguntas persistidos.
+
+### FASE 02/06 [F-000004-000015-002] — Documentação jurídica, fiscal e financeira
+**Gate:** dados/fontes necessários registrados e classificados.
+
+### FASE 03/06 [F-000004-000015-003] — Tributação e obrigações declaratórias
+**Gate:** metodologia e cenários reproduzíveis documentados.
+
+### FASE 04/06 [F-000004-000015-004] — Valor líquido e disponibilidade financeira
+**Gate:** intervenções/cenários com limites profissionais explícitos.
+
+### FASE 05/06 [F-000004-000015-005] — Casos, comunicação e competências CFP®
+**Gate:** casos e competências verificáveis produzidos.
+
+### FASE 06/06 [F-000004-000015-006] — Publicação, auditoria e atualização
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+**Plano detalhado:** `research/EA-000004-000015/plano-de-fases.md`.
+
+## EA-000004-000016 — Liquidez, reserva de segurança e período de decisão pós-indenização — PLANEJADA
+
+### FASE 01/06 [F-000004-000016-001] — Delimitação do horizonte de transição
+**Gate:** escopo e perguntas persistidos.
+
+### FASE 02/06 [F-000004-000016-002] — Reserva de segurança e necessidades imediatas
+**Gate:** dados/fontes necessários registrados e classificados.
+
+### FASE 03/06 [F-000004-000016-003] — Estacionamento financeiro temporário
+**Gate:** metodologia e cenários reproduzíveis documentados.
+
+### FASE 04/06 [F-000004-000016-004] — Política de não decisão e desembolsos iniciais
+**Gate:** intervenções/cenários com limites profissionais explícitos.
+
+### FASE 05/06 [F-000004-000016-005] — Casos e competências CFP®
+**Gate:** casos e competências verificáveis produzidos.
+
+### FASE 06/06 [F-000004-000016-006] — Publicação, auditoria e atualização
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+**Plano detalhado:** `research/EA-000004-000016/plano-de-fases.md`.
+
+## EA-000004-000017 — Dívidas, crédito e prioridade de uso do capital indenizatório — PLANEJADA
+
+### FASE 01/06 [F-000004-000017-001] — Inventário de dívidas e obrigações
+**Gate:** escopo e perguntas persistidos.
+
+### FASE 02/06 [F-000004-000017-002] — Custo efetivo e risco financeiro
+**Gate:** dados/fontes necessários registrados e classificados.
+
+### FASE 03/06 [F-000004-000017-003] — Cenários de quitação, amortização e manutenção
+**Gate:** metodologia e cenários reproduzíveis documentados.
+
+### FASE 04/06 [F-000004-000017-004] — Prioridade entre reserva, dívida e investimento
+**Gate:** intervenções/cenários com limites profissionais explícitos.
+
+### FASE 05/06 [F-000004-000017-005] — Casos e competências CFP®
+**Gate:** casos e competências verificáveis produzidos.
+
+### FASE 06/06 [F-000004-000017-006] — Publicação, auditoria e atualização
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+**Plano detalhado:** `research/EA-000004-000017/plano-de-fases.md`.
+
+## EA-000004-000018 — Investimentos e alocação do capital extraordinário — PLANEJADA
+
+### FASE 01/06 [F-000004-000018-001] — Objetivos, horizonte e perfil de risco
+**Gate:** escopo e perguntas persistidos.
+
+### FASE 02/06 [F-000004-000018-002] — Universo de investimentos e qualidade dos dados
+**Gate:** dados/fontes necessários registrados e classificados.
+
+### FASE 03/06 [F-000004-000018-003] — Política de alocação e cenários
+**Gate:** metodologia e cenários reproduzíveis documentados.
+
+### FASE 04/06 [F-000004-000018-004] — Implementação gradual e diversificação
+**Gate:** intervenções/cenários com limites profissionais explícitos.
+
+### FASE 05/06 [F-000004-000018-005] — Casos e competências CFP®
+**Gate:** casos e competências verificáveis produzidos.
+
+### FASE 06/06 [F-000004-000018-006] — Publicação, auditoria e atualização
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+**Plano detalhado:** `research/EA-000004-000018/plano-de-fases.md`.
+
+## EA-000004-000019 — Objetivos de vida, aposentadoria, seguros e proteção patrimonial — PLANEJADA
+
+### FASE 01/06 [F-000004-000019-001] — Mapa de objetivos e prioridades
+**Gate:** escopo e perguntas persistidos.
+
+### FASE 02/06 [F-000004-000019-002] — Capital necessário e lacunas
+**Gate:** dados/fontes necessários registrados e classificados.
+
+### FASE 03/06 [F-000004-000019-003] — Aposentadoria e previdência
+**Gate:** metodologia e cenários reproduzíveis documentados.
+
+### FASE 04/06 [F-000004-000019-004] — Seguros e proteção financeira
+**Gate:** intervenções/cenários com limites profissionais explícitos.
+
+### FASE 05/06 [F-000004-000019-005] — Casos e competências CFP®
+**Gate:** casos e competências verificáveis produzidos.
+
+### FASE 06/06 [F-000004-000019-006] — Publicação, auditoria e atualização
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+**Plano detalhado:** `research/EA-000004-000019/plano-de-fases.md`.
+
+## EA-000004-000020 — Finanças comportamentais, consumo e governança do patrimônio indenizatório — PLANEJADA
+
+### FASE 01/06 [F-000004-000020-001] — Diagnóstico comportamental do evento extraordinário
+**Gate:** escopo e perguntas persistidos.
+
+### FASE 02/06 [F-000004-000020-002] — Regras de decisão e período de reflexão
+**Gate:** dados/fontes necessários registrados e classificados.
+
+### FASE 03/06 [F-000004-000020-003] — Orçamento de uso discricionário
+**Gate:** metodologia e cenários reproduzíveis documentados.
+
+### FASE 04/06 [F-000004-000020-004] — Governança familiar e limites com terceiros
+**Gate:** intervenções/cenários com limites profissionais explícitos.
+
+### FASE 05/06 [F-000004-000020-005] — Casos e competências CFP®
+**Gate:** casos e competências verificáveis produzidos.
+
+### FASE 06/06 [F-000004-000020-006] — Publicação, auditoria e atualização
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+**Plano detalhado:** `research/EA-000004-000020/plano-de-fases.md`.
+
+## EA-000004-000021 — Plano financeiro integrado e monitoramento pós-indenização — PLANEJADA
+
+### FASE 01/06 [F-000004-000021-001] — Consolidação dos diagnósticos anteriores
+**Gate:** escopo e perguntas persistidos.
+
+### FASE 02/06 [F-000004-000021-002] — Balanço antes e depois da indenização
+**Gate:** dados/fontes necessários registrados e classificados.
+
+### FASE 03/06 [F-000004-000021-003] — Plano de alocação do valor líquido
+**Gate:** metodologia e cenários reproduzíveis documentados.
+
+### FASE 04/06 [F-000004-000021-004] — Cronograma de implementação
+**Gate:** intervenções/cenários com limites profissionais explícitos.
+
+### FASE 05/06 [F-000004-000021-005] — Monitoramento e gatilhos de revisão
+**Gate:** casos e competências verificáveis produzidos.
+
+### FASE 06/06 [F-000004-000021-006] — Publicação, auditoria e atualização
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+**Plano detalhado:** `research/EA-000004-000021/plano-de-fases.md`.
