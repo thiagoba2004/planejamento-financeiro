@@ -443,31 +443,52 @@ Validar interfaces com partilha jurídica, contabilidade, tributação e valuati
 - deploy público `35545239892`: **success**.
 
 
-## EA-000004-000014 — Reconstrução financeira e plano integrado pós-divórcio — PLANEJADA
+## EA-000004-000014 — Reconstrução financeira e plano integrado pós-divórcio — CONCLUÍDA
 
 ### FASE 01/06 [F-000004-000014-001] — Consolidação dos diagnósticos anteriores
 Reunir resultados confirmados das estratégias aplicáveis e decisões jurídicas já definidas.  
-**Gate:** escopo e perguntas persistidos.
+**Gate:** escopo e perguntas persistidos.  
+**Estado:** CONCLUÍDA — estratégias financeiras e interface jurídica consolidadas sem presumir decisão judicial.
 
 ### FASE 02/06 [F-000004-000014-002] — Novo balanço patrimonial e fluxo sustentável
 Reconstruir patrimônio líquido, renda, despesas, reservas, dívidas e capacidade de poupança.  
-**Gate:** dados/fontes necessários registrados e classificados.
+**Gate:** dados/fontes necessários registrados e classificados.  
+**Estado:** CONCLUÍDA — balanço, fluxo, poupança e reserva estruturados com valores ausentes mantidos como não calculáveis.
 
 ### FASE 03/06 [F-000004-000014-003] — Objetivos e prioridades pós-divórcio
 Redefinir moradia, filhos, carreira, educação, investimentos, aposentadoria e proteção.  
-**Gate:** metodologia e cenários reproduzíveis documentados.
+**Gate:** metodologia e cenários reproduzíveis documentados.  
+**Estado:** CONCLUÍDA — prioridades estruturadas por valor, prazo, essencialidade, flexibilidade, liquidez e dependência jurídica.
 
 ### FASE 04/06 [F-000004-000014-004] — Plano de ação e cronograma
 Transformar prioridades em ações sequenciadas, metas, responsáveis, prazos e gatilhos de revisão.  
-**Gate:** intervenções/cenários com limites profissionais explícitos.
+**Gate:** intervenções/cenários com limites profissionais explícitos.  
+**Estado:** CONCLUÍDA — cronograma 0/30/90/180/365 dias, responsáveis e dependências documentados.
 
 ### FASE 05/06 [F-000004-000014-005] — Monitoramento, casos e competências CFP®
 Definir indicadores, revisões periódicas e casos integrados de decisão profissional.  
-**Gate:** casos e competências verificáveis produzidos.
+**Gate:** casos e competências verificáveis produzidos.  
+**Estado:** CONCLUÍDA — indicadores, gatilhos, periodicidades, sete casos e competências SABER/FAZER/DECIDIR produzidos.
 
 ### FASE 06/06 [F-000004-000014-006] — Publicação, auditoria e atualização
 Publicar a unidade integradora e verificar coerência com todas as estratégias e com o PRJ-000003.  
-**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.  
+**Estado:** CONCLUÍDA — unidade publicada, integrações concluídas, auditoria global de 30 HTMLs realizada, três H1 ausentes corrigidos e deploy `35601096194` com success.
+
+
+### Resultado — EA-000004-000014
+
+- 6/6 fases concluídas;
+- resultados das EA-000004-000005 a EA-000004-000013 integrados;
+- interface jurídica com PRJ-000003 / EA-000003-000005 preservada sem converter dossiê em decisão judicial;
+- novo balanço patrimonial e fluxo sustentável estruturados;
+- prioridades pós-divórcio e cronograma 0/30/90/180/365 dias documentados;
+- indicadores, gatilhos, sete casos e competências CFP® produzidos;
+- unidade pública em Markdown + HTML;
+- integração com Conhecimentos, Gestão Financeira, Casos, Ferramentas e Mapa do Site;
+- auditoria global: 30 HTMLs, zero páginas sem title, três H1 ausentes detectados e corrigidos, zero links internos com destino inexistente, zero vazamentos e zero rótulos redundantes “ACESSAR”;
+- deploy final `35601096194`: **success**;
+- portfólio do divórcio litigioso: **CONCLUÍDO**.
 
 
 ### Resultado — EA-000004-000005
@@ -502,7 +523,7 @@ Publicar a unidade integradora e verificar coerência com todas as estratégias 
 **Origem:** REQ-20260920-036.  
 **Situação hipotética:** trabalhador recebeu aproximadamente R$ 100.000,00 líquidos e integralmente disponíveis a título de indenização por dano moral de seu empregador.
 
-A frente é independente do portfólio do divórcio e não altera o estado histórico da EA-000004-000014, que permanece planejada. A nova frente passa a ser prioritária a partir da EA-000004-000015.
+A frente foi aberta como independente do portfólio do divórcio e, naquele momento, a EA-000004-000014 permaneceu planejada. Após a conclusão do portfólio da indenização, a EA-000004-000014 foi retomada e concluída.
 
 Princípios:
 - não tratar indenização extraordinária como renda recorrente;
