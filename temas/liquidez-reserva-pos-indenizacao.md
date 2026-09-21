@@ -1,10 +1,10 @@
 # Liquidez e reserva pós-indenização: o que fazer antes de investir
 
-**Cenário didático:** trabalhador recebeu **R$ 100.000,00 líquidos e integralmente disponíveis** a título de indenização por dano moral do empregador.
+**Cenário didático:** trabalhador recebeu **R$ 100.000,00 recebidos em caixa e líquidos das retenções consideradas no cenário** a título de indenização por dano moral do empregador.
 
 A pergunta desta etapa não é “qual investimento rende mais?”, mas quanto desse capital precisa continuar líquido enquanto renda, despesas, reserva, compromissos e objetivos são esclarecidos.
 
-## 1. O capital está líquido; isso não significa que está livre
+## 1. O capital foi recebido em caixa; isso não significa que esteja livre para qualquer alocação
 
 Separe quatro funções:
 1. caixa operacional;
@@ -25,18 +25,18 @@ Em 12 meses, inclua impostos, seguros, educação, manutenção e compromissos c
 Defina:
 - **E** = despesa essencial mensal;
 - **H** = meses de cobertura;
-- **R0** = reserva líquida já existente;
-- **P12** = despesas previsíveis dos próximos 12 meses;
-- **I0** = caixa operacional imediato;
+- **R0_ELEGIVEL** = reserva já existente que efetivamente pode cobrir emergências sem dupla contagem;
+- **DESPESAS_PREVISIVEIS_FORA_DE_E** = despesas extraordinárias/previsíveis que não já estejam embutidas na despesa essencial mensal;
+- **CAIXA_OPERACIONAL_NAO_INCLUIDO_NA_RESERVA** = caixa de giro imediato separado da reserva;
 - **C** = R$ 100.000,00.
 
 ```text
 RESERVA_ALVO = E × H
-LACUNA_RESERVA = máximo(0 ; RESERVA_ALVO - R0)
-CAPITAL_REMANESCENTE = C - I0 - P12 - LACUNA_RESERVA
+LACUNA_RESERVA = máximo(0 ; RESERVA_ALVO - R0_ELEGIVEL)
+CAPITAL_REMANESCENTE = C - CAIXA_OPERACIONAL_NAO_INCLUIDO_NA_RESERVA - DESPESAS_PREVISIVEIS_FORA_DE_E - LACUNA_RESERVA - OUTROS_COMPROMISSOS_CONFIRMADOS
 ```
 
-O Portal do Investidor/CVM apresenta 6 a 12 meses de gastos como referência educacional e ressalta que o valor exato depende da estabilidade e do tipo de renda e de quantas pessoas contribuem para a renda familiar. A faixa não é regra automática.
+Os buckets devem ser mutuamente exclusivos: uma mesma despesa não pode aparecer em **E × H** e novamente nas despesas previsíveis. O Portal do Investidor/CVM apresenta 6 a 12 meses de gastos como referência educacional e ressalta que o valor exato depende da estabilidade e do tipo de renda e de quantas pessoas contribuem para a renda familiar. A faixa não é regra automática.
 
 ## 4. Estacionamento financeiro temporário
 
