@@ -123,7 +123,9 @@ A regra material de não incidência está confirmada, mas a operacionalização
 ### Caso 5 — Pressão para investir imediatamente
 A pergunta “onde invisto amanhã?” deve ser precedida por diagnóstico de liquidez, dívida, objetivos e risco.
 
-## 10. Competências CFP®
+## 10. Aderência ao CFP®
+
+**Classificação: aplicação profissional do Projeto apoiada por competências do domínio CFP®.**
 
 A unidade mobiliza:
 
