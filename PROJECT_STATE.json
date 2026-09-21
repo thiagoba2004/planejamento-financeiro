@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000018",
   "current_strategy_name": "Investimentos e alocação do capital extraordinário",
   "current_phase": {
-    "phase_number": 3,
+    "phase_number": 6,
     "phase_total": 6,
-    "phase_code": "F-000004-000018-003",
-    "phase_name": "Política de alocação e cenários",
+    "phase_code": "F-000004-000018-006",
+    "phase_name": "Publicação, auditoria e atualização",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "EA-000004-000018 com Fases 01 e 02 concluídas: diagnóstico sem perfil artificial e universo de investimentos classificado.",
-  "next_logical_step": "Executar a Fase 03/06 — Política de alocação e cenários.",
+  "last_completed_milestone": "EA-000004-000018 com Fases 01 a 05 concluídas: diagnóstico, universo, política de alocação, implementação e casos/competências estruturados.",
+  "next_logical_step": "Executar a Fase 06/06 — Publicação, auditoria e atualização.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
