@@ -145,7 +145,8 @@ Após as correções:
 - 0 headings públicos residuais “Para a prova CFP®” / “Para a formação CFP®” nas unidades auditadas;
 - rota de Privacidade presente;
 - páginas de Processo de Planejamento Financeiro e Perímetro Profissional presentes;
-- workflow do Pages inclui `privacidade/**`.
+- workflow do Pages inclui `privacidade/**`;
+- integridade do `STRATEGY_LOG.jsonl` normalizada: **227 eventos e 0 `event_id` duplicados** após correção de duas duplicidades históricas.
 
 ## 5. Verificação de publicação
 
