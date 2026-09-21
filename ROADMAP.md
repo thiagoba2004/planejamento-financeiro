@@ -700,3 +700,33 @@ Princípios:
 - integração pública concluída;
 - auditoria técnica aprovada;
 - deploy GitHub Pages `35552763240`: **success**.
+
+## Frente interprojetos — Indenização trabalhista líquida × Superendividamento
+
+**Origem:** REQ-20260921-044.  
+**Integração:** PRJ-000004 ↔ PRJ-000003.  
+**Estratégia jurídica correlata:** EA-000003-000007.  
+**Premissa:** R$ 100.000,00 líquidos e integralmente disponíveis; não tratar como renda recorrente.
+
+## EA-000004-000022 — Impacto financeiro da indenização trabalhista no diagnóstico e no plano de superendividamento — PLANEJADA
+
+### FASE 01/06 [F-000004-000022-001] — Linha de base antes e depois da indenização
+**Gate:** balanço comparativo e lista de dados ausentes persistidos.
+
+### FASE 02/06 [F-000004-000022-002] — Liquidez, solvência e capacidade de pagamento
+**Gate:** fórmulas reproduzíveis e limites de interpretação documentados.
+
+### FASE 03/06 [F-000004-000022-003] — Cenários de destinação do capital no superendividamento
+**Gate:** cenários comparáveis com mesma data-base e sem dupla contagem.
+
+### FASE 04/06 [F-000004-000022-004] — Sustentabilidade do plano após uso do capital
+**Gate:** matriz de sustentabilidade pós-destinação e gatilhos de alerta concluída.
+
+### FASE 05/06 [F-000004-000022-005] — Casos, competências CFP® e interface jurídica
+**Gate:** casos verificáveis e protocolo de entrega de premissas à EA-000003-000007 produzidos.
+
+### FASE 06/06 [F-000004-000022-006] — Publicação, auditoria e atualização
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+
+**Plano detalhado:** `research/EA-000004-000022/plano-de-fases.md`.
+
