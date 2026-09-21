@@ -1,0 +1,11 @@
+campo,valor,status,observacao
+origem,Indenização por dano moral trabalhista,CONFIRMADO,
+capital_liquido_brl,100000,CONFIRMADO,Integralmente disponível
+renda_recorrente,false,CONFIRMADO,Capital extraordinário
+patrimonio_financeiro_anterior,,DADO_AUSENTE,
+dividas_totais,,DADO_AUSENTE,
+renda_liquida_mensal,,DADO_AUSENTE,
+despesa_essencial_mensal,,DADO_AUSENTE,
+reserva_previa,,DADO_AUSENTE,
+objetivos,,DADO_AUSENTE,
+perfil_risco,,DADO_AUSENTE,
