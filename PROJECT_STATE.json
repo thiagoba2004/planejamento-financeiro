@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000019",
   "current_strategy_name": "Objetivos de vida, aposentadoria, seguros e proteção patrimonial",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 5,
     "phase_total": 6,
-    "phase_code": "F-000004-000019-001",
-    "phase_name": "Mapa de objetivos e prioridades",
-    "status": "PLANEJADA"
+    "phase_code": "F-000004-000019-005",
+    "phase_name": "Casos e competências CFP®",
+    "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "EA-000004-000018 concluída em 6/6 fases, publicada e auditada: objetivos, perfil de risco, universo, alocação, implementação e casos CFP® estruturados.",
-  "next_logical_step": "Executar a Fase 01/06 da EA-000004-000019 — Mapa de objetivos e prioridades.",
+  "last_completed_milestone": "EA-000004-000019 com Fases 01 a 04 concluídas: objetivos, gaps, aposentadoria/previdência e proteção financeira estruturados.",
+  "next_logical_step": "Executar a Fase 05/06 — Casos e competências CFP®.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
