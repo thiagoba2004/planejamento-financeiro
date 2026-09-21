@@ -686,7 +686,7 @@ Princípios:
 **Plano detalhado:** `research/EA-000004-000020/plano-de-fases.md`.  
 **Auditoria:** `research/EA-000004-000020/auditoria-final-publicacao.md`.
 
-## EA-000004-000021 — Plano financeiro integrado e monitoramento pós-indenização — PLANEJADA
+## EA-000004-000021 — Plano financeiro integrado e monitoramento pós-indenização — CONCLUÍDA
 
 ### FASE 01/06 [F-000004-000021-001] — Consolidação dos diagnósticos anteriores
 **Gate:** escopo e perguntas persistidos.
@@ -813,3 +813,18 @@ Princípios:
 - publicação em Markdown + HTML;
 - integração em Conhecimentos, Gestão Financeira, Casos, Ferramentas e Mapa do Site;
 - deploy GitHub Pages `35597667123`: **success**.
+
+
+### Resultado — EA-000004-000021
+
+- 6/6 fases concluídas;
+- diagnósticos das estratégias EA-000004-000015 a EA-000004-000020 integrados;
+- interface com EA-000004-000022 preservada;
+- balanço antes/depois e livro de alocação reconciliável;
+- plano condicional sem percentuais artificiais;
+- cronograma 0/30/90/180/365 dias;
+- painel de monitoramento e gatilhos de revisão;
+- publicação em Markdown + HTML;
+- integração em Conhecimentos, Gestão Financeira, Casos, Ferramentas e Mapa do Site;
+- deploy GitHub Pages `35598686706`: **success**;
+- portfólio de indenização trabalhista por dano moral: **CONCLUÍDO**.
