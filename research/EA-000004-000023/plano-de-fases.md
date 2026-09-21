@@ -29,3 +29,18 @@ Comparar fonte canônica e publicação, checar links, títulos, datas, estados,
 ## FASE 06/06 [F-000004-000023-006] — Relatório do Planejador Financeiro do Diabo
 Consolidar achados por prioridade, página, natureza e risco, registrar pontos que resistiram ao ataque e propor mudanças metodológicas permanentes.
 **Gate:** relatório final publicado no repositório, sem alterar previamente o corpus auditado.
+
+## Estado final
+
+**Estratégia: CONCLUÍDA.**
+
+- Fase 01/06 — Inventário integral e mapa de risco: **CONCLUÍDA**.
+- Fase 02/06 — Fontes CFP®, Planejar e enquadramento profissional: **CONCLUÍDA**.
+- Fase 03/06 — Cálculos, métricas, premissas e cenários: **CONCLUÍDA**.
+- Fase 04/06 — Auditoria temática e cruzada: **CONCLUÍDA**.
+- Fase 05/06 — Paridade Markdown–HTML, navegação e atualidade: **CONCLUÍDA**.
+- Fase 06/06 — Relatório do Planejador Financeiro do Diabo: **CONCLUÍDA**.
+
+**Evidência:** `research/relatorio-planejador-financeiro-do-diabo-2026-09-21.md`.
+
+**Decisão de preservação:** nenhum texto público foi corrigido durante a auditoria, para que o diagnóstico original permanecesse verificável antes do ciclo corretivo.
