@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000020",
-  "current_strategy_name": "Finanças comportamentais, consumo e governança do patrimônio indenizatório",
+  "current_strategy_code": "EA-000004-000021",
+  "current_strategy_name": "Plano financeiro integrado e monitoramento pós-indenização",
   "current_phase": {
-    "phase_number": 6,
+    "phase_number": 1,
     "phase_total": 6,
-    "phase_code": "F-000004-000020-006",
-    "phase_name": "Publicação, auditoria e atualização",
-    "status": "EM_EXECUCAO"
+    "phase_code": "F-000004-000021-001",
+    "phase_name": "Consolidação dos diagnósticos anteriores",
+    "status": "PLANEJADA"
   },
-  "last_completed_milestone": "EA-000004-000020 com Fases 01 a 05 concluídas: diagnóstico comportamental, regras de decisão, uso discricionário, governança com terceiros e casos CFP® estruturados.",
-  "next_logical_step": "Executar a Fase 06/06 — Publicação, auditoria e atualização.",
+  "last_completed_milestone": "EA-000004-000020 concluída em 6/6 fases, publicada e auditada: comportamento, regras de decisão, uso discricionário, governança com terceiros e casos CFP® estruturados.",
+  "next_logical_step": "Executar a Fase 01/06 da EA-000004-000021 — Consolidação dos diagnósticos anteriores.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,17 +35,17 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-21",
-  "site_status": "PUBLICADO_OBJETIVOS_APOSENTADORIA_PROTECAO",
+  "site_status": "PUBLICADO_FINANCAS_COMPORTAMENTAIS_PATRIMONIO_INDENIZATORIO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "PLANEJADA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": null,
   "last_deployment": {
-    "workflow_run_id": 35596681727,
+    "workflow_run_id": 35597667123,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "commit_sha": "ffe2d1ed07682b1f872743db883acd2d1454f22d"
+    "commit_sha": "4cfa04558cf4323827b050f6ec98c0b2665c21e8"
   },
   "public_menu": [
     "Início",
@@ -281,7 +281,7 @@
           "code": "EA-000004-000020",
           "name": "Finanças comportamentais, consumo e governança do patrimônio indenizatório",
           "conditional": false,
-          "status": "PLANEJADA"
+          "status": "CONCLUIDA"
         },
         {
           "code": "EA-000004-000021",
