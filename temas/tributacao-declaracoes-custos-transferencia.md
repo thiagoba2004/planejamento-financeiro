@@ -182,7 +182,9 @@ Manter o ativo e postergar a transação pode alterar liquidez, risco e imposto 
 4. dependente após divórcio com fato ocorrido em 2026;
 5. venda de patrimônio cujo valor nominal difere muito do caixa líquido.
 
-## 13. Para a prova CFP®
+## 13. Aderência ao CFP®
+
+**Classificação: competência/conceito do domínio CFP® com aplicação profissional do Projeto.**
 
 A unidade mobiliza tributação, patrimônio, investimentos, previdência, fluxo de caixa e decisão com base em valor líquido.
 
