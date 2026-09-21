@@ -11,4 +11,7 @@ Ferramentas para transformar dados em diagnóstico financeiro.
 - [Métodos de avaliação por classe](../temas/patrimonio-partilha-liquidez.html#metodos)
 - [Gap, liquidez e concentração](../temas/patrimonio-partilha-liquidez.html#metricas)
 
+- [Linha de base da indenização](../temas/indenizacao-trabalhista-capital-liquido.html#balanco)
+- [Sequência de decisão pós-indenização](../temas/indenizacao-trabalhista-capital-liquido.html#sequencia)
+
 **Última revisão:** 20/09/2026.
