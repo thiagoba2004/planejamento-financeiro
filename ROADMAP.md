@@ -500,31 +500,31 @@ Publicar a unidade integradora e verificar coerência com todas as estratégias 
 ## Portfólio — Indenização trabalhista por dano moral — aproximadamente R$ 100.000,00
 
 **Origem:** REQ-20260920-036.  
-**Situação hipotética:** trabalhador recebeu aproximadamente R$ 100.000,00 a título de indenização por dano moral de seu empregador.
+**Situação hipotética:** trabalhador recebeu aproximadamente R$ 100.000,00 líquidos e integralmente disponíveis a título de indenização por dano moral de seu empregador.
 
 A frente é independente do portfólio do divórcio e não altera o estado histórico da EA-000004-000014, que permanece planejada. A nova frente passa a ser prioritária a partir da EA-000004-000015.
 
 Princípios:
 - não tratar indenização extraordinária como renda recorrente;
-- não presumir que o valor nominal é integralmente líquido e disponível;
-- verificar natureza jurídica, documentação, tributação e obrigações antes de alocar;
+- considerar R$ 100.000,00 como capital líquido e integralmente disponível no cenário;
+- preservar documentação de origem e verificar obrigações declaratórias antes de alocar;
 - preservar liquidez para decisões ainda não amadurecidas;
 - separar reserva, dívidas, investimentos, proteção, objetivos e uso discricionário;
 - incorporar finanças comportamentais para prevenir dissipação do capital;
 - integrar tudo em plano monitorável.
 
-## EA-000004-000015 — Recebimento da indenização: natureza, documentação, tributação e valor líquido disponível — PLANEJADA
+## EA-000004-000015 — Recebimento da indenização: documentação, tratamento declaratório e incorporação do capital líquido — PLANEJADA
 
-### FASE 01/06 [F-000004-000015-001] — Delimitação do evento e perguntas de diagnóstico
+### FASE 01/06 [F-000004-000015-001] — Delimitação do evento e premissas confirmadas
 **Gate:** escopo e perguntas persistidos.
 
-### FASE 02/06 [F-000004-000015-002] — Documentação jurídica, fiscal e financeira
+### FASE 02/06 [F-000004-000015-002] — Documentação de origem e trilha patrimonial
 **Gate:** dados/fontes necessários registrados e classificados.
 
-### FASE 03/06 [F-000004-000015-003] — Tributação e obrigações declaratórias
+### FASE 03/06 [F-000004-000015-003] — Tratamento declaratório e registro fiscal
 **Gate:** metodologia e cenários reproduzíveis documentados.
 
-### FASE 04/06 [F-000004-000015-004] — Valor líquido e disponibilidade financeira
+### FASE 04/06 [F-000004-000015-004] — Incorporação ao balanço e ponto de partida financeiro
 **Gate:** intervenções/cenários com limites profissionais explícitos.
 
 ### FASE 05/06 [F-000004-000015-005] — Casos, comunicação e competências CFP®
