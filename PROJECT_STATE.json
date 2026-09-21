@@ -32,7 +32,10 @@
     "COMPETENCY_MATRIX.md",
     "SITE_ARCHITECTURE.md",
     "SITE_STYLE_GUIDE.md",
-    "CONTACT_STACK.md"
+    "CONTACT_STACK.md",
+    "METRICS_PROTOCOL.md",
+    "PROFESSIONAL_SCOPE.md",
+    "CFP_ALIGNMENT_PROTOCOL.md"
   ],
   "updated_at": "2026-09-21",
   "site_status": "CICLO_CORRETIVO_ADVERSARIAL_EM_EXECUCAO",
@@ -295,9 +298,11 @@
       "scenario_assumptions": {
         "indemnity_origin": "dano moral trabalhista",
         "net_capital_brl": 100000,
-        "liquidity_status": "LIQUIDO_E_INTEGRALMENTE_DISPONIVEL",
+        "liquidity_status": "RECEBIDO_EM_CAIXA_LIQUIDO_DAS_RETENCOES_CONSIDERADAS",
         "recurring_income": false,
-        "source": "USER_PROVIDED_HYPOTHETICAL"
+        "source": "USER_PROVIDED_HYPOTHETICAL",
+        "economic_availability": "A_VERIFICAR_CONFORME_RESERVA_COMPROMISSOS_DIVIDAS_E_OBJETIVOS",
+        "legal_availability": "A_VERIFICAR_QUANDO_HOUVER_VINCULO_OBRIGACAO_OU_PROCESSO_RELEVANTE"
       },
       "status": "CONCLUIDA"
     },
@@ -324,9 +329,11 @@
       "scenario_assumptions": {
         "indemnity_origin": "dano moral trabalhista",
         "net_capital_brl": 100000,
-        "liquidity_status": "LIQUIDO_E_INTEGRALMENTE_DISPONIVEL",
+        "liquidity_status": "RECEBIDO_EM_CAIXA_LIQUIDO_DAS_RETENCOES_CONSIDERADAS",
         "recurring_income": false,
-        "source": "USER_PROVIDED_HYPOTHETICAL"
+        "source": "USER_PROVIDED_HYPOTHETICAL",
+        "economic_availability": "A_VERIFICAR_CONFORME_RESERVA_COMPROMISSOS_DIVIDAS_E_OBJETIVOS",
+        "legal_availability": "A_VERIFICAR_QUANDO_HOUVER_VINCULO_OBRIGACAO_OU_PROCESSO_RELEVANTE"
       },
       "status": "CONCLUIDA"
     }
@@ -335,8 +342,10 @@
   "current_scenario_assumptions": {
     "indemnity_origin": "dano moral trabalhista",
     "net_capital_brl": 100000,
-    "liquidity_status": "LIQUIDO_E_INTEGRALMENTE_DISPONIVEL",
+    "liquidity_status": "RECEBIDO_EM_CAIXA_LIQUIDO_DAS_RETENCOES_CONSIDERADAS",
     "recurring_income": false,
-    "source": "USER_PROVIDED_HYPOTHETICAL"
+    "source": "USER_PROVIDED_HYPOTHETICAL",
+    "economic_availability": "A_VERIFICAR_CONFORME_RESERVA_COMPROMISSOS_DIVIDAS_E_OBJETIVOS",
+    "legal_availability": "A_VERIFICAR_QUANDO_HOUVER_VINCULO_OBRIGACAO_OU_PROCESSO_RELEVANTE"
   }
 }
