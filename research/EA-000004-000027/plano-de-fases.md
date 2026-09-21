@@ -29,3 +29,18 @@ Padronizar inputs → fórmula → intervenção → resultado → interpretaç�
 ## FASE 06/06 [F-000004-000027-006] — Auditoria matemática
 Validar cálculos, limites, unidades, dupla contagem e paridade Markdown/HTML.
 **Gate:** auditoria quantitativa aprovada.
+
+## Estado final da execução
+
+**Estratégia:** CONCLUÍDA em 21/09/2026.  
+**Fases:** 6/6 concluídas.  
+**Gate final:** satisfeita.  
+**Publicação:** GitHub Pages run `35643562008` — **success**.  
+**Commit público final:** `7b0669e5074a5106eebda87fdb668fe96d529c33`.
+
+### Evidências principais
+- `METRICS_PROTOCOL.md`
+- `temas/objetivos-aposentadoria-protecao-capital-extraordinario.md`
+- `temas/dividas-credito-garantias-contas-conjuntas.md`
+- `temas/empresas-participacoes-societarias-renda.md`
+
