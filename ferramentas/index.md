@@ -1,3 +1,157 @@
-Organizar para decidir # Ferramentas Use roteiros simples para transformar dados dispersos em um diagnóstico financeiro estruturado. **Metodologia do Site:** salvo quando houver fonte externa específica, métricas, escadas, buckets e cronogramas desta biblioteca são ferramentas didáticas adaptáveis — não percentuais ou prazos universais da Planejar, FPSB ou reguladores. ## Biblioteca de ferramentas [DiagnósticoMétricas e indicadoresFórmulas para patrimônio, liquidez, comprometimento da renda, fluxo e solvência, sempre acompanhadas de interpretação.](../metricas/index.html)[DecisãoEscada de intervençãoPrevenção, alerta, estabilização, reestruturação, recuperação e encaminhamento profissional.](../temas/superendividamento-pf.html#intervencao)[TransiçãoLinha de base pós-rupturaSepare situação anterior, situação atual e cenários sem preencher dados ausentes.](../temas/divorcio-transicao-financeira.html#linha-base)[CenáriosProjeção 30/90/365 diasCompare fluxos confirmados e condicionais com premissas visíveis.](../temas/divorcio-transicao-financeira.html#cenarios)[LiquidezReserva de transiçãoClassifique disponibilidade real e dimensione caixa pelo fluxo, não por regra fixa.](../temas/divorcio-transicao-financeira.html#liquidez)[PatrimônioValor líquido patrimonialSepare valor bruto, passivo vinculado e custos fundamentados.](../temas/patrimonio-partilha-liquidez.html#valor)[AvaliaçãoMétodos por classe de ativoEscolha a referência econômica compatível com cada tipo de patrimônio.](../temas/patrimonio-partilha-liquidez.html#metodos)[CenáriosGap, liquidez e concentraçãoMeça assimetrias patrimoniais sem transformar hipótese financeira em conclusão jurídica.](../temas/patrimonio-partilha-liquidez.html#metricas)[MoradiaCusto total de ocupaçãoCompare prestação ou aluguel com encargos, manutenção e custos ligados à localização.](../temas/moradia-financiamento-reorganizacao-residencial.html#custo-total)[CenáriosPermanecer, vender, alugar ou comprarCompare liquidez, reversibilidade, crédito e custos de transição.](../temas/moradia-financiamento-reorganizacao-residencial.html#cenarios)[DiagnósticoComprometimento e reserva pós-moradiaUse renda líquida e despesas essenciais para medir sustentabilidade financeira.](../temas/moradia-financiamento-reorganizacao-residencial.html#metricas)[FilhosMapa de necessidadesOrganize alimentação, educação, saúde, transporte, cuidado e demais categorias.](../temas/filhos-alimentos-educacao-saude-logistica.html#necessidades)[ProvisãoMensalização de despesas sazonaisTransforme eventos anuais ou semestrais previsíveis em necessidade mensal de caixa.](../temas/filhos-alimentos-educacao-saude-logistica.html#mensalizacao)[FluxoVisão por filho, responsável e famíliaReconcilie pagamentos e transferências sem dupla contagem.](../temas/filhos-alimentos-educacao-saude-logistica.html#fluxos)[ObjetivosProvisões, reservas e metas futurasSepare necessidades correntes, eventos previsíveis e objetivos de longo prazo.](../temas/filhos-alimentos-educacao-saude-logistica.html#reservas)[DívidasInventário de obrigaçõesOrganize contratos, saldos, vencimentos, garantias, pagadores e status jurídico.](../temas/dividas-credito-garantias-contas-conjuntas.html#inventario)[ConferênciaSCR e CCSUse relatórios do Banco Central para localizar lacunas e reconciliar documentos.](../temas/dividas-credito-garantias-contas-conjuntas.html#scr-ccs)[FluxoServiço da dívidaMeça parcelas confirmadas, comprometimento interno e fluxo livre após dívidas.](../temas/dividas-credito-garantias-contas-conjuntas.html#metricas)[CréditoComparação de renegociaçãoCompare CET, prazo, custo total, garantias e efeito sobre a reserva.](../temas/dividas-credito-garantias-contas-conjuntas.html#renegociacao)[InvestimentosInventário de carteiraRegistre posição, titularidade formal, liquidez, custos, riscos e data-base.](../temas/investimentos-reorganizacao-carteiras.html#inventario)[LiquidezGap por horizonteCompare necessidade de caixa com ativos elegíveis no mesmo prazo.](../temas/investimentos-reorganizacao-carteiras.html#gap)[RiscoConcentração e diversificaçãoMeça exposições por emissor, instituição, classe, moeda e vencimento.](../temas/investimentos-reorganizacao-carteiras.html#diversificacao)[PerfilReavaliação de suitabilityRevise objetivos, situação financeira, conhecimento, horizonte e capacidade de risco.](../temas/investimentos-reorganizacao-carteiras.html#suitability)[ProteçãoInventário de seguros e previdênciaOrganize contratos, beneficiários, capital, prêmio, contribuições e regulamentos.](../temas/seguros-previdencia-protecao-financeira.html#inventario)[DiagnósticoGap de proteçãoCompare necessidades com ativos líquidos, coberturas e benefícios confirmados.](../temas/seguros-previdencia-protecao-financeira.html#gap)[ContratosRevisão de beneficiáriosCheque efeitos contratuais e jurídicos antes de qualquer alteração.](../temas/seguros-previdencia-protecao-financeira.html#beneficiarios)[DecisãoManter, ajustar, substituir ou reforçarCompare continuidade, carências, custos e objetivo da proteção.](../temas/seguros-previdencia-protecao-financeira.html#adequacao)[TributaçãoRoteiro evento → impostoIdentifique natureza jurídica, competência, fonte vigente e obrigação antes de calcular.](../temas/tributacao-declaracoes-custos-transferencia.html#ordem)[FederalGanho potencial de capitalCompare valor de transferência e custo fiscal antes de usar o GCAP.](../temas/tributacao-declaracoes-custos-transferencia.html#ganho)[DeclaraçãoTrava ano-calendário × exercícioEvite reaproveitar automaticamente regras anuais da DIRPF.](../temas/tributacao-declaracoes-custos-transferencia.html#dirpf)[DecisãoValor líquido pós-transaçãoDesconte dívida, tributos confirmados, emolumentos e custos operacionais.](../temas/tributacao-declaracoes-custos-transferencia.html#liquido)[EmpresasMapa societárioOrganize CNPJ, QSA, percentuais, funções, renda, garantias e dependência do negócio.](../temas/empresas-participacoes-societarias-renda.html#estrutura)[DadosQualidade da informação empresarialSepare contabilidade regular, balancetes, informações não documentadas e dados divergentes.](../temas/empresas-participacoes-societarias-renda.html#qualidade)[ValuationMétodos e normalizaçõesCompare patrimonial ajustado, fluxo descontado e múltiplos com premissas explícitas.](../temas/empresas-participacoes-societarias-renda.html#valuation)[RendaContinuidade e dependência empresarialSepare pró-labore, distribuições recorrentes e itens extraordinários.](../temas/empresas-participacoes-societarias-renda.html#continuidade)[IntegraçãoNovo balanço pós-divórcioReconstrua ativos, passivos, fluxo livre e reserva com dados confirmados.](../temas/reconstrucao-financeira-plano-integrado-pos-divorcio.html#balanco)[PrioridadesMapa de objetivos pós-divórcioMoradia, filhos, segurança, carreira e longo prazo sob dependências explícitas.](../temas/reconstrucao-financeira-plano-integrado-pos-divorcio.html#prioridades)[ExecuçãoCronograma 0/30/90/180/365Sequencie ações conforme maturidade jurídica e financeira.](../temas/reconstrucao-financeira-plano-integrado-pos-divorcio.html#cronograma)[MonitoramentoIndicadores e gatilhosAcompanhe fluxo, reserva, moradia, dívidas, liquidez e eventos jurídicos relevantes.](../temas/reconstrucao-financeira-plano-integrado-pos-divorcio.html#monitoramento)[Capital extraordinárioLinha de base da indenizaçãoRegistre R$ 100 mil como acréscimo patrimonial sem transformá-lo em renda recorrente nem inventar os demais dados.](../temas/indenizacao-trabalhista-capital-liquido.html#balanco)[SequenciamentoOrdem de decisão pós-indenizaçãoLiquidez, dívidas, investimentos, objetivos, comportamento e plano integrado.](../temas/indenizacao-trabalhista-capital-liquido.html#sequencia)[ReservaReserva-alvo e lacunaCalcule a necessidade de segurança sem confundir despesas previsíveis com emergência.](../temas/liquidez-reserva-pos-indenizacao.html#reserva)[LiquidezMatriz de estacionamento temporárioCompare liquidez, carência, risco, garantia, tributação, custo e operação.](../temas/liquidez-reserva-pos-indenizacao.html#estacionamento)[DecisãoTeste de reversibilidadeIdentifique quais decisões podem ser executadas agora e quais dependem de diagnóstico.](../temas/liquidez-reserva-pos-indenizacao.html#nao-decisao)[DívidasInventário pós-indenizaçãoConfirme obrigação, saldo de quitação, CET, garantias e documento-fonte.](../temas/dividas-capital-indenizatorio.html#inventario)[CenáriosManter × quitar × amortizar × renegociarCompare alternativas na mesma data-base e sem sacrificar liquidez essencial.](../temas/dividas-capital-indenizatorio.html#cenarios)[DecisãoCusto de oportunidade comparávelEvite comparar CET com rentabilidade bruta em horizontes e riscos diferentes.](../temas/dividas-capital-indenizatorio.html#oportunidade)[SuperendividamentoEstoque × fluxo após indenizaçãoSepare melhora patrimonial de renda recorrente.](../temas/indenizacao-superendividamento.html#estoque-fluxo)[CenáriosDestinação do capitalCompare preservação, reserva, quitação, amortização, entrada e combinações.](../temas/indenizacao-superendividamento.html#cenarios)[SustentabilidadeTeste de exaustão do capitalVerifique se o plano corrige o fluxo ou apenas posterga o déficit.](../temas/indenizacao-superendividamento.html#sustentabilidade)[InvestimentosCapital investívelSepare reserva, compromissos e dívidas antes da carteira.](../temas/investimentos-capital-extraordinario.html#capital)[PerfilCapacidade × disposição × necessidadeEvite reduzir suitability a um único rótulo.](../temas/investimentos-capital-extraordinario.html#perfil)[AlocaçãoCenários por funçãoPreservação, equilíbrio, crescimento e objetivo específico sem carteira universal.](../temas/investimentos-capital-extraordinario.html#cenarios)[ImplementaçãoConcentração e rebalanceamentoDocumente limites, execução e revisão da política.](../temas/investimentos-capital-extraordinario.html#implementacao)[ObjetivosMapa de prioridadesRegistre valor, prazo, flexibilidade e função de cada meta.](../temas/objetivos-aposentadoria-protecao-capital-extraordinario.html#objetivos)[LacunasGap por objetivoMeça o que falta sem usar a mesma parcela do capital duas vezes.](../temas/objetivos-aposentadoria-protecao-capital-extraordinario.html#gaps)[AposentadoriaGap previdenciárioSepare aporte extraordinário de poupança recorrente.](../temas/objetivos-aposentadoria-protecao-capital-extraordinario.html#aposentadoria)[ProteçãoGap de proteçãoCompare necessidades, ativos, coberturas e capacidade recorrente de pagar prêmios.](../temas/objetivos-aposentadoria-protecao-capital-extraordinario.html#protecao)[ComportamentoMatriz de riscos comportamentaisInvestigue vieses por perguntas neutras, sem rotular a pessoa.](../temas/financas-comportamentais-patrimonio-indenizatorio.html#riscos)[DecisãoTeste de reversibilidadeQuanto maior o custo de desfazer, maior a exigência de revisão.](../temas/financas-comportamentais-patrimonio-indenizatorio.html#regras)[ConsumoUso discricionário conscienteSepare consumo de reserva e objetivos sem moralizar o gasto.](../temas/financas-comportamentais-patrimonio-indenizatorio.html#consumo)[GovernançaPedidos e garantias a terceirosRegistre valor, risco, finalidade e impacto sobre o plano.](../temas/financas-comportamentais-patrimonio-indenizatorio.html#terceiros)[IntegraçãoEquação de reconciliaçãoGaranta que cada real ocupe uma única função no plano.](../temas/plano-financeiro-integrado-pos-indenizacao.html#regra)[AlocaçãoCamadas de decisãoContinuidade, segurança, dívidas, objetivos, investimentos e uso discricionário.](../temas/plano-financeiro-integrado-pos-indenizacao.html#alocacao)[ExecuçãoCronograma 0/30/90/180/365Organize dependências sem transformar datas em obrigação de investir.](../temas/plano-financeiro-integrado-pos-indenizacao.html#cronograma)[MonitoramentoPainel e gatilhos de revisãoAcompanhe capital, reserva, fluxo, dívidas, objetivos e eventos de revisão.](../temas/plano-financeiro-integrado-pos-indenizacao.html#monitoramento) ## Escada de intervenção *Prevenção* — **Antes do problema** Orçamento, reserva, controle do crédito e cenários. *Alerta* — **Sinais precoces** Queda de poupança, uso crescente de reserva e aumento do serviço da dívida. *Estabilização* — **Interromper o déficit** Proteger despesas essenciais e evitar que novo crédito apenas adie o problema. *Reestruturação* — **Comparar alternativas** CET, custo total, prazo, garantias e impacto no fluxo. *Recuperação* — **Reconstruir margem** Liquidez, poupança e acompanhamento de recaídas. *Encaminhamento* — **Reconhecer limites** Acionar especialidade jurídica, psicológica, contábil ou social quando necessário.
+Organizar para decidir
+
+# Ferramentas
+
+Use roteiros simples para transformar dados dispersos em um diagnóstico financeiro estruturado.
+
+**Metodologia do Site:** salvo quando houver fonte externa específica, métricas, escadas, buckets e cronogramas desta biblioteca são ferramentas didáticas adaptáveis — não percentuais ou prazos universais da Planejar, FPSB ou reguladores.
+
+## Biblioteca de ferramentas
+
+- *Diagnóstico* — [**Métricas e indicadores**](../metricas/index.html): Fórmulas para patrimônio, liquidez, comprometimento da renda, fluxo e solvência, sempre acompanhadas de interpretação.
+
+- *Decisão* — [**Escada de intervenção**](../temas/superendividamento-pf.html#intervencao): Prevenção, alerta, estabilização, reestruturação, recuperação e encaminhamento profissional.
+
+- *Transição* — [**Linha de base pós-ruptura**](../temas/divorcio-transicao-financeira.html#linha-base): Separe situação anterior, situação atual e cenários sem preencher dados ausentes.
+
+- *Cenários* — [**Projeção 30/90/365 dias**](../temas/divorcio-transicao-financeira.html#cenarios): Compare fluxos confirmados e condicionais com premissas visíveis.
+
+- *Liquidez* — [**Reserva de transição**](../temas/divorcio-transicao-financeira.html#liquidez): Classifique disponibilidade real e dimensione caixa pelo fluxo, não por regra fixa.
+
+- *Patrimônio* — [**Valor líquido patrimonial**](../temas/patrimonio-partilha-liquidez.html#valor): Separe valor bruto, passivo vinculado e custos fundamentados.
+
+- *Avaliação* — [**Métodos por classe de ativo**](../temas/patrimonio-partilha-liquidez.html#metodos): Escolha a referência econômica compatível com cada tipo de patrimônio.
+
+- *Cenários* — [**Gap, liquidez e concentração**](../temas/patrimonio-partilha-liquidez.html#metricas): Meça assimetrias patrimoniais sem transformar hipótese financeira em conclusão jurídica.
+
+- *Moradia* — [**Custo total de ocupação**](../temas/moradia-financiamento-reorganizacao-residencial.html#custo-total): Compare prestação ou aluguel com encargos, manutenção e custos ligados à localização.
+
+- *Cenários* — [**Permanecer, vender, alugar ou comprar**](../temas/moradia-financiamento-reorganizacao-residencial.html#cenarios): Compare liquidez, reversibilidade, crédito e custos de transição.
+
+- *Diagnóstico* — [**Comprometimento e reserva pós-moradia**](../temas/moradia-financiamento-reorganizacao-residencial.html#metricas): Use renda líquida e despesas essenciais para medir sustentabilidade financeira.
+
+- *Filhos* — [**Mapa de necessidades**](../temas/filhos-alimentos-educacao-saude-logistica.html#necessidades): Organize alimentação, educação, saúde, transporte, cuidado e demais categorias.
+
+- *Provisão* — [**Mensalização de despesas sazonais**](../temas/filhos-alimentos-educacao-saude-logistica.html#mensalizacao): Transforme eventos anuais ou semestrais previsíveis em necessidade mensal de caixa.
+
+- *Fluxo* — [**Visão por filho, responsável e família**](../temas/filhos-alimentos-educacao-saude-logistica.html#fluxos): Reconcilie pagamentos e transferências sem dupla contagem.
+
+- *Objetivos* — [**Provisões, reservas e metas futuras**](../temas/filhos-alimentos-educacao-saude-logistica.html#reservas): Separe necessidades correntes, eventos previsíveis e objetivos de longo prazo.
+
+- *Dívidas* — [**Inventário de obrigações**](../temas/dividas-credito-garantias-contas-conjuntas.html#inventario): Organize contratos, saldos, vencimentos, garantias, pagadores e status jurídico.
+
+- *Conferência* — [**SCR e CCS**](../temas/dividas-credito-garantias-contas-conjuntas.html#scr-ccs): Use relatórios do Banco Central para localizar lacunas e reconciliar documentos.
+
+- *Fluxo* — [**Serviço da dívida**](../temas/dividas-credito-garantias-contas-conjuntas.html#metricas): Meça parcelas confirmadas, comprometimento interno e fluxo livre após dívidas.
+
+- *Crédito* — [**Comparação de renegociação**](../temas/dividas-credito-garantias-contas-conjuntas.html#renegociacao): Compare CET, prazo, custo total, garantias e efeito sobre a reserva.
+
+- *Investimentos* — [**Inventário de carteira**](../temas/investimentos-reorganizacao-carteiras.html#inventario): Registre posição, titularidade formal, liquidez, custos, riscos e data-base.
+
+- *Liquidez* — [**Gap por horizonte**](../temas/investimentos-reorganizacao-carteiras.html#gap): Compare necessidade de caixa com ativos elegíveis no mesmo prazo.
+
+- *Risco* — [**Concentração e diversificação**](../temas/investimentos-reorganizacao-carteiras.html#diversificacao): Meça exposições por emissor, instituição, classe, moeda e vencimento.
+
+- *Perfil* — [**Reavaliação de suitability**](../temas/investimentos-reorganizacao-carteiras.html#suitability): Revise objetivos, situação financeira, conhecimento, horizonte e capacidade de risco.
+
+- *Proteção* — [**Inventário de seguros e previdência**](../temas/seguros-previdencia-protecao-financeira.html#inventario): Organize contratos, beneficiários, capital, prêmio, contribuições e regulamentos.
+
+- *Diagnóstico* — [**Gap de proteção**](../temas/seguros-previdencia-protecao-financeira.html#gap): Compare necessidades com ativos líquidos, coberturas e benefícios confirmados.
+
+- *Contratos* — [**Revisão de beneficiários**](../temas/seguros-previdencia-protecao-financeira.html#beneficiarios): Cheque efeitos contratuais e jurídicos antes de qualquer alteração.
+
+- *Decisão* — [**Manter, ajustar, substituir ou reforçar**](../temas/seguros-previdencia-protecao-financeira.html#adequacao): Compare continuidade, carências, custos e objetivo da proteção.
+
+- *Tributação* — [**Roteiro evento → imposto**](../temas/tributacao-declaracoes-custos-transferencia.html#ordem): Identifique natureza jurídica, competência, fonte vigente e obrigação antes de calcular.
+
+- *Federal* — [**Ganho potencial de capital**](../temas/tributacao-declaracoes-custos-transferencia.html#ganho): Compare valor de transferência e custo fiscal antes de usar o GCAP.
+
+- *Declaração* — [**Trava ano-calendário × exercício**](../temas/tributacao-declaracoes-custos-transferencia.html#dirpf): Evite reaproveitar automaticamente regras anuais da DIRPF.
+
+- *Decisão* — [**Valor líquido pós-transação**](../temas/tributacao-declaracoes-custos-transferencia.html#liquido): Desconte dívida, tributos confirmados, emolumentos e custos operacionais.
+
+- *Empresas* — [**Mapa societário**](../temas/empresas-participacoes-societarias-renda.html#estrutura): Organize CNPJ, QSA, percentuais, funções, renda, garantias e dependência do negócio.
+
+- *Dados* — [**Qualidade da informação empresarial**](../temas/empresas-participacoes-societarias-renda.html#qualidade): Separe contabilidade regular, balancetes, informações não documentadas e dados divergentes.
+
+- *Valuation* — [**Métodos e normalizações**](../temas/empresas-participacoes-societarias-renda.html#valuation): Compare patrimonial ajustado, fluxo descontado e múltiplos com premissas explícitas.
+
+- *Renda* — [**Continuidade e dependência empresarial**](../temas/empresas-participacoes-societarias-renda.html#continuidade): Separe pró-labore, distribuições recorrentes e itens extraordinários.
+
+- *Integração* — [**Novo balanço pós-divórcio**](../temas/reconstrucao-financeira-plano-integrado-pos-divorcio.html#balanco): Reconstrua ativos, passivos, fluxo livre e reserva com dados confirmados.
+
+- *Prioridades* — [**Mapa de objetivos pós-divórcio**](../temas/reconstrucao-financeira-plano-integrado-pos-divorcio.html#prioridades): Moradia, filhos, segurança, carreira e longo prazo sob dependências explícitas.
+
+- *Execução* — [**Cronograma 0/30/90/180/365**](../temas/reconstrucao-financeira-plano-integrado-pos-divorcio.html#cronograma): Sequencie ações conforme maturidade jurídica e financeira.
+
+- *Monitoramento* — [**Indicadores e gatilhos**](../temas/reconstrucao-financeira-plano-integrado-pos-divorcio.html#monitoramento): Acompanhe fluxo, reserva, moradia, dívidas, liquidez e eventos jurídicos relevantes.
+
+- *Capital extraordinário* — [**Linha de base da indenização**](../temas/indenizacao-trabalhista-capital-liquido.html#balanco): Registre R$ 100 mil como acréscimo patrimonial sem transformá-lo em renda recorrente nem inventar os demais dados.
+
+- *Sequenciamento* — [**Ordem de decisão pós-indenização**](../temas/indenizacao-trabalhista-capital-liquido.html#sequencia): Liquidez, dívidas, investimentos, objetivos, comportamento e plano integrado.
+
+- *Reserva* — [**Reserva-alvo e lacuna**](../temas/liquidez-reserva-pos-indenizacao.html#reserva): Calcule a necessidade de segurança sem confundir despesas previsíveis com emergência.
+
+- *Liquidez* — [**Matriz de estacionamento temporário**](../temas/liquidez-reserva-pos-indenizacao.html#estacionamento): Compare liquidez, carência, risco, garantia, tributação, custo e operação.
+
+- *Decisão* — [**Teste de reversibilidade**](../temas/liquidez-reserva-pos-indenizacao.html#nao-decisao): Identifique quais decisões podem ser executadas agora e quais dependem de diagnóstico.
+
+- *Dívidas* — [**Inventário pós-indenização**](../temas/dividas-capital-indenizatorio.html#inventario): Confirme obrigação, saldo de quitação, CET, garantias e documento-fonte.
+
+- *Cenários* — [**Manter × quitar × amortizar × renegociar**](../temas/dividas-capital-indenizatorio.html#cenarios): Compare alternativas na mesma data-base e sem sacrificar liquidez essencial.
+
+- *Decisão* — [**Custo de oportunidade comparável**](../temas/dividas-capital-indenizatorio.html#oportunidade): Evite comparar CET com rentabilidade bruta em horizontes e riscos diferentes.
+
+- *Superendividamento* — [**Estoque × fluxo após indenização**](../temas/indenizacao-superendividamento.html#estoque-fluxo): Separe melhora patrimonial de renda recorrente.
+
+- *Cenários* — [**Destinação do capital**](../temas/indenizacao-superendividamento.html#cenarios): Compare preservação, reserva, quitação, amortização, entrada e combinações.
+
+- *Sustentabilidade* — [**Teste de exaustão do capital**](../temas/indenizacao-superendividamento.html#sustentabilidade): Verifique se o plano corrige o fluxo ou apenas posterga o déficit.
+
+- *Investimentos* — [**Capital investível**](../temas/investimentos-capital-extraordinario.html#capital): Separe reserva, compromissos e dívidas antes da carteira.
+
+- *Perfil* — [**Capacidade × disposição × necessidade**](../temas/investimentos-capital-extraordinario.html#perfil): Evite reduzir suitability a um único rótulo.
+
+- *Alocação* — [**Cenários por função**](../temas/investimentos-capital-extraordinario.html#cenarios): Preservação, equilíbrio, crescimento e objetivo específico sem carteira universal.
+
+- *Implementação* — [**Concentração e rebalanceamento**](../temas/investimentos-capital-extraordinario.html#implementacao): Documente limites, execução e revisão da política.
+
+- *Objetivos* — [**Mapa de prioridades**](../temas/objetivos-aposentadoria-protecao-capital-extraordinario.html#objetivos): Registre valor, prazo, flexibilidade e função de cada meta.
+
+- *Lacunas* — [**Gap por objetivo**](../temas/objetivos-aposentadoria-protecao-capital-extraordinario.html#gaps): Meça o que falta sem usar a mesma parcela do capital duas vezes.
+
+- *Aposentadoria* — [**Gap previdenciário**](../temas/objetivos-aposentadoria-protecao-capital-extraordinario.html#aposentadoria): Separe aporte extraordinário de poupança recorrente.
+
+- *Proteção* — [**Gap de proteção**](../temas/objetivos-aposentadoria-protecao-capital-extraordinario.html#protecao): Compare necessidades, ativos, coberturas e capacidade recorrente de pagar prêmios.
+
+- *Comportamento* — [**Matriz de riscos comportamentais**](../temas/financas-comportamentais-patrimonio-indenizatorio.html#riscos): Investigue vieses por perguntas neutras, sem rotular a pessoa.
+
+- *Decisão* — [**Teste de reversibilidade**](../temas/financas-comportamentais-patrimonio-indenizatorio.html#regras): Quanto maior o custo de desfazer, maior a exigência de revisão.
+
+- *Consumo* — [**Uso discricionário consciente**](../temas/financas-comportamentais-patrimonio-indenizatorio.html#consumo): Separe consumo de reserva e objetivos sem moralizar o gasto.
+
+- *Governança* — [**Pedidos e garantias a terceiros**](../temas/financas-comportamentais-patrimonio-indenizatorio.html#terceiros): Registre valor, risco, finalidade e impacto sobre o plano.
+
+- *Integração* — [**Equação de reconciliação**](../temas/plano-financeiro-integrado-pos-indenizacao.html#regra): Garanta que cada real ocupe uma única função no plano.
+
+- *Alocação* — [**Camadas de decisão**](../temas/plano-financeiro-integrado-pos-indenizacao.html#alocacao): Continuidade, segurança, dívidas, objetivos, investimentos e uso discricionário.
+
+- *Execução* — [**Cronograma 0/30/90/180/365**](../temas/plano-financeiro-integrado-pos-indenizacao.html#cronograma): Organize dependências sem transformar datas em obrigação de investir.
+
+- *Monitoramento* — [**Painel e gatilhos de revisão**](../temas/plano-financeiro-integrado-pos-indenizacao.html#monitoramento): Acompanhe capital, reserva, fluxo, dívidas, objetivos e eventos de revisão.
+
+## Escada de intervenção
+
+- *Prevenção* — **Antes do problema**: Orçamento, reserva, controle do crédito e cenários.
+
+- *Alerta* — **Sinais precoces**: Queda de poupança, uso crescente de reserva e aumento do serviço da dívida.
+
+- *Estabilização* — **Interromper o déficit**: Proteger despesas essenciais e evitar que novo crédito apenas adie o problema.
+
+- *Reestruturação* — **Comparar alternativas**: CET, custo total, prazo, garantias e impacto no fluxo.
+
+- *Recuperação* — **Reconstruir margem**: Liquidez, poupança e acompanhamento de recaídas.
+
+- *Encaminhamento* — **Reconhecer limites**: Acionar especialidade jurídica, psicológica, contábil ou social quando necessário.
 
 **Última sincronização semântica com o HTML público:** 21/09/2026.
