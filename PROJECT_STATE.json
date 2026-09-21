@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000024",
-  "current_strategy_name": "Paridade canônica Markdown–HTML, rastreabilidade e atualidade editorial",
+  "current_strategy_code": "EA-000004-000029",
+  "current_strategy_name": "Aderência CFP®, processo de planejamento financeiro e independência institucional",
   "current_phase": {
-    "phase_number": 1,
-    "phase_total": 5,
-    "phase_code": "F-000004-000024-001",
-    "phase_name": "Inventário de divergências",
-    "status": "EM_EXECUCAO"
+    "phase_number": 6,
+    "phase_total": 6,
+    "phase_code": "F-000004-000029-006",
+    "phase_name": "Auditoria de aderência e publicação",
+    "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "EA-000004-000023 concluída e validada externamente: Relatório do Planejador Financeiro do Diabo persistido e achados sensíveis revalidados em fontes oficiais em 21/09/2026.",
-  "next_logical_step": "Executar EA-000004-000024 a EA-000004-000029 e reauditar integralmente o Site.",
+  "last_completed_milestone": "Ciclo corretivo do Relatório do Planejador Financeiro do Diabo concluído: 6 Estratégias Autônomas, 32 fases, 25 achados tratados, 33 HTMLs públicos reauditedos e GitHub Pages run 35643562008 concluído com sucesso.",
+  "next_logical_step": "Aguardar nova Estratégia Autônoma ou nova auditoria material; aplicar permanentemente paridade Markdown–HTML, protocolo de métricas, perímetro profissional e taxonomia de aderência CFP®.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,17 +38,18 @@
     "CFP_ALIGNMENT_PROTOCOL.md"
   ],
   "updated_at": "2026-09-21",
-  "site_status": "CICLO_CORRETIVO_ADVERSARIAL_EM_EXECUCAO",
+  "site_status": "CORRECOES_ADVERSARIAIS_PUBLICADAS_E_VERIFICADAS",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
-  "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/temas/reconstrucao-financeira-plano-integrado-pos-divorcio.html",
+  "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/cfp/index.html",
   "last_deployment": {
-    "workflow_run_id": 35601096194,
+    "workflow_run_id": 35643562008,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "commit_sha": "d620d75c256c19cbbd1a1193552643d8a16e5fce"
+    "commit_sha": "7b0669e5074a5106eebda87fdb668fe96d529c33",
+    "completed_at": "2026-09-21T19:15:16Z"
   },
   "public_menu": [
     "Início",
