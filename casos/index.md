@@ -23,4 +23,9 @@ Cinco casos sobre capital x renda, documentação de origem, declaração, dados
 
 [Ver casos do capital indenizatório](../temas/indenizacao-trabalhista-capital-liquido.html#casos)
 
+## Liquidez e reserva pós-indenização
+Seis casos sobre reserva suficiente/insuficiente, renda instável, despesas previsíveis, necessidade imediata de caixa, compra relevante e limites do FGC.
+
+[Ver casos de liquidez e reserva](../temas/liquidez-reserva-pos-indenizacao.html#casos)
+
 **Última revisão:** 20/09/2026.

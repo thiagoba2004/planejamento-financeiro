@@ -13,5 +13,8 @@ Ferramentas para transformar dados em diagnóstico financeiro.
 
 - [Linha de base da indenização](../temas/indenizacao-trabalhista-capital-liquido.html#balanco)
 - [Sequência de decisão pós-indenização](../temas/indenizacao-trabalhista-capital-liquido.html#sequencia)
+- [Reserva-alvo e lacuna](../temas/liquidez-reserva-pos-indenizacao.html#reserva)
+- [Estacionamento financeiro temporário](../temas/liquidez-reserva-pos-indenizacao.html#estacionamento)
+- [Política de não decisão](../temas/liquidez-reserva-pos-indenizacao.html#nao-decisao)
 
 **Última revisão:** 20/09/2026.

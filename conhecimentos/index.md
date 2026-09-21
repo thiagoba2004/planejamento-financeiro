@@ -10,5 +10,6 @@ Orçamento, crédito, endividamento, liquidez, solvência, diagnóstico e tomada
 - [Divórcio: diagnóstico financeiro da ruptura e orçamento de transição](../temas/divorcio-transicao-financeira.html)
 - [Patrimônio, avaliação econômica e liquidez na partilha](../temas/patrimonio-partilha-liquidez.html)
 - [Indenização trabalhista: capital líquido e ponto de partida financeiro](../temas/indenizacao-trabalhista-capital-liquido.html)
+- [Liquidez e reserva pós-indenização](../temas/liquidez-reserva-pos-indenizacao.html)
 
 **Última revisão:** 20/09/2026.

@@ -8,12 +8,14 @@
 - Divórcio: diagnóstico financeiro da ruptura e orçamento de transição
 - Patrimônio, avaliação econômica e liquidez na partilha
 - Indenização trabalhista: capital líquido e ponto de partida financeiro
+- Liquidez e reserva pós-indenização
 
 ## Casos
 - Superendividamento
 - Transição financeira no divórcio
 - Patrimônio e partilha
 - Capital indenizatório trabalhista
+- Liquidez e reserva pós-indenização
 
 ## Ferramentas
 - Métricas e indicadores
@@ -26,3 +28,6 @@
 - Gap, liquidez e concentração
 - Linha de base da indenização
 - Sequência pós-indenização
+- Reserva-alvo e lacuna
+- Estacionamento financeiro temporário
+- Política de não decisão

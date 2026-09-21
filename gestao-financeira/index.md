@@ -6,3 +6,4 @@ Consulte a versão HTML pública para a navegação e os recursos disponíveis n
 
 ## Unidade aplicada
 - [Indenização trabalhista: capital líquido e ponto de partida financeiro](../temas/indenizacao-trabalhista-capital-liquido.html)
+- [Liquidez e reserva pós-indenização](../temas/liquidez-reserva-pos-indenizacao.html)

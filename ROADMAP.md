@@ -561,11 +561,11 @@ Princípios:
 
 ### FASE 05/06 [F-000004-000016-005] — Casos e competências CFP®
 **Gate:** casos e competências verificáveis produzidos.  
-**Estado:** PLANEJADA.
+**Estado:** CONCLUÍDA — seis casos progressivos, cálculos reproduzíveis, competências SABER/FAZER/DECIDIR, avaliação de domínio, comunicação profissional e erros a evitar.
 
 ### FASE 06/06 [F-000004-000016-006] — Publicação, auditoria e atualização
 **Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.  
-**Estado:** PLANEJADA.
+**Estado:** EM EXECUÇÃO — unidade pública e integrações preparadas; aguardando auditoria do commit e verificação do deploy.
 
 **Plano detalhado:** `research/EA-000004-000016/plano-de-fases.md`.
 
