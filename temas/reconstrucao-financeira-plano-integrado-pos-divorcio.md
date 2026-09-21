@@ -81,7 +81,9 @@ Gatilhos de revisão incluem decisões judiciais relevantes, alterações de ali
 6. carteira de investimentos fica incompatível com nova realidade;
 7. empresa concentra patrimônio e renda.
 
-## 8. Para a formação CFP®
+## 8. Aderência ao CFP®
+
+**Classificação: aplicação profissional do Projeto apoiada por competências do domínio CFP®.**
 
 **SABER:** integrar patrimônio, fluxo, crédito, investimentos, proteção e tributação.
 
