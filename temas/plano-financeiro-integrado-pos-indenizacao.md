@@ -79,16 +79,16 @@ Somente sobre capital efetivamente livre, sem moralização do consumo.
 ### Imediato
 Documentar, preservar liquidez e evitar decisões irreversíveis sem diagnóstico.
 
-### Até 30 dias
+### Até 30 dias — heurística
 Fechar linha de base, reserva, dívidas, objetivos, seguros/previdência e perguntas comportamentais.
 
-### Até 90 dias
+### Até 90 dias — heurística
 Tomar decisões de dívida, concluir diagnóstico de investimentos e aprovar alocação.
 
-### Até 180 dias
+### Até 180 dias — heurística
 Implementar, registrar custos e reconstruir o balanço pós-decisões.
 
-### Até 365 dias
+### Até 365 dias — heurística
 Revisão anual completa.
 
 ## 8. Painel de monitoramento
