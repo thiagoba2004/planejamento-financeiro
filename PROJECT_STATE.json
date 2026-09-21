@@ -164,5 +164,12 @@
         "status": "PLANEJADA"
       }
     ]
+  },
+  "artifact_policy": {
+    "text_canonical": "Markdown",
+    "public_text": "HTML when published",
+    "json": "CONDITIONAL_ONLY",
+    "rule": "Create JSON/JSONL only for structured data with a concrete machine-processing need; do not create JSON as an automatic mirror of Markdown/HTML.",
+    "updated_at": "2026-09-20"
   }
 }
