@@ -513,7 +513,7 @@ Princípios:
 - incorporar finanças comportamentais para prevenir dissipação do capital;
 - integrar tudo em plano monitorável.
 
-## EA-000004-000015 — Recebimento da indenização: documentação, tratamento declaratório e incorporação do capital líquido — PLANEJADA
+## EA-000004-000015 — Recebimento da indenização: documentação, tratamento declaratório e incorporação do capital líquido — CONCLUÍDA
 
 ### FASE 01/06 [F-000004-000015-001] — Delimitação do evento e premissas confirmadas
 **Gate:** escopo e perguntas persistidos.  
@@ -532,10 +532,12 @@ Princípios:
 **Estado:** CONCLUÍDA — efeito incremental de +R$ 100.000,00 registrado; demais variáveis mantidas como DADO_AUSENTE, sem criação de dados artificiais.
 
 ### FASE 05/06 [F-000004-000015-005] — Casos, comunicação e competências CFP®
-**Gate:** casos e competências verificáveis produzidos.
+**Gate:** casos e competências verificáveis produzidos.  
+**Estado:** CONCLUÍDA — cinco casos progressivos, comunicação profissional, competências CFP® e regra de passagem para as estratégias seguintes.
 
 ### FASE 06/06 [F-000004-000015-006] — Publicação, auditoria e atualização
-**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
+**Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.  
+**Estado:** CONCLUÍDA — unidade publicada em Markdown + HTML, integrada em Gestão Financeira, Conhecimentos, Casos, Ferramentas, Fontes e Mapa do Site; 22 HTMLs e 463 hrefs auditados sem links/âncoras quebrados ou vazamentos; nenhum JSON narrativo; deploy 35552763240 success.
 
 **Plano detalhado:** `research/EA-000004-000015/plano-de-fases.md`.
 
@@ -670,3 +672,17 @@ Princípios:
 **Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.
 
 **Plano detalhado:** `research/EA-000004-000021/plano-de-fases.md`.
+
+
+### Resultado — EA-000004-000015
+
+- 6/6 fases concluídas;
+- R$ 100.000,00 tratados como capital líquido extraordinário e não recorrente;
+- documentação de origem e trilha patrimonial estruturadas;
+- orientação fiscal atual de não incidência do IR registrada com trava temporal para o exercício 2027;
+- acréscimo patrimonial incorporado sem inventar dados ausentes;
+- cinco casos e competências CFP® produzidos;
+- publicação em Markdown + HTML, sem JSON narrativo;
+- integração pública concluída;
+- auditoria técnica aprovada;
+- deploy GitHub Pages `35552763240`: **success**.
