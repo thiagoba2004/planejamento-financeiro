@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000019",
-  "current_strategy_name": "Objetivos de vida, aposentadoria, seguros e proteção patrimonial",
+  "current_strategy_code": "EA-000004-000020",
+  "current_strategy_name": "Finanças comportamentais, consumo e governança do patrimônio indenizatório",
   "current_phase": {
-    "phase_number": 5,
+    "phase_number": 1,
     "phase_total": 6,
-    "phase_code": "F-000004-000019-005",
-    "phase_name": "Casos e competências CFP®",
-    "status": "EM_EXECUCAO"
+    "phase_code": "F-000004-000020-001",
+    "phase_name": "Diagnóstico comportamental do evento extraordinário",
+    "status": "PLANEJADA"
   },
-  "last_completed_milestone": "EA-000004-000019 com Fases 01 a 04 concluídas: objetivos, gaps, aposentadoria/previdência e proteção financeira estruturados.",
-  "next_logical_step": "Executar a Fase 05/06 — Casos e competências CFP®.",
+  "last_completed_milestone": "EA-000004-000019 concluída em 6/6 fases, publicada e auditada: objetivos, lacunas, aposentadoria/previdência, proteção e casos CFP® estruturados.",
+  "next_logical_step": "Executar a Fase 01/06 da EA-000004-000020 — Diagnóstico comportamental do evento extraordinário.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,17 +35,17 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-21",
-  "site_status": "PUBLICADO_INVESTIMENTOS_CAPITAL_EXTRAORDINARIO",
+  "site_status": "PUBLICADO_OBJETIVOS_APOSENTADORIA_PROTECAO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "PLANEJADA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": null,
   "last_deployment": {
-    "workflow_run_id": 35595325611,
+    "workflow_run_id": 35596681727,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "commit_sha": "948e7e047aedad08b6253af1388869f209050e21"
+    "commit_sha": "ffe2d1ed07682b1f872743db883acd2d1454f22d"
   },
   "public_menu": [
     "Início",
@@ -275,7 +275,7 @@
           "code": "EA-000004-000019",
           "name": "Objetivos de vida, aposentadoria, seguros e proteção patrimonial",
           "conditional": false,
-          "status": "PLANEJADA"
+          "status": "CONCLUIDA"
         },
         {
           "code": "EA-000004-000020",
