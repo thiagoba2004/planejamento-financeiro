@@ -71,16 +71,21 @@ Assinaturas e débitos recorrentes também precisam ser identificados.
 
 ## 5. Métricas de fluxo
 
-### Serviço mensal da dívida
+### Caixa mínimo contratual x serviço planejado da dívida
+
+O pagamento mínimo exigido em determinado mês não deve ser confundido automaticamente com serviço sustentável da dívida, especialmente em cartão rotativo.
 
 ```text
-soma das parcelas e pagamentos mínimos confirmados no mês
+CAIXA_MINIMO_CONTRATUAL = soma dos pagamentos mínimos/parcela exigidos no mês
+SERVICO_PLANEJADO_DA_DIVIDA = valor efetivamente previsto no plano para amortizar/servir a dívida de forma sustentável
 ```
+
+Quando houver rotativo ou saldo financiado, registre também o valor necessário para evitar ou encerrar o financiamento rotativo, quando conhecido.
 
 ### Comprometimento financeiro interno
 
 ```text
-serviço mensal da dívida ÷ renda líquida disponível
+serviço planejado da dívida ÷ renda líquida disponível
 ```
 
 ### Fluxo livre depois das dívidas
@@ -88,7 +93,7 @@ serviço mensal da dívida ÷ renda líquida disponível
 ```text
 renda líquida
 − despesas essenciais
-− serviço mensal da dívida
+− serviço planejado da dívida
 − demais obrigações confirmadas
 ```
 
@@ -137,14 +142,14 @@ A proposta B pode ter parcela menor e ainda assim custar mais no total.
 
 ## 9. Plano de transição
 
-### Primeiros 7 dias
+### Primeiros 7 dias — heurística operacional do Projeto
 - consolidar contas, cartões e dívidas;
 - conferir vencimentos;
 - identificar débitos automáticos e recorrências;
 - preservar documentos;
 - regularizar acessos do próprio titular.
 
-### Até 30 dias
+### Até 30 dias — heurística operacional do Projeto
 - reconciliar SCR, contratos e extratos;
 - atualizar saldos;
 - mapear garantias;
@@ -152,7 +157,7 @@ A proposta B pode ter parcela menor e ainda assim custar mais no total.
 - calcular serviço da dívida;
 - projetar 90 dias.
 
-### Até 90 dias
+### Até 90 dias — heurística operacional do Projeto
 - revisar dívidas de maior custo e risco;
 - obter propostas formais;
 - comparar CET e custo total;
@@ -180,9 +185,9 @@ O planejamento deve tratar apenas acessos do próprio cliente ou formalmente aut
 4. renegociação com parcela menor e custo total maior;
 5. SCR indicando compromisso ausente da planilha inicial.
 
-## 12. Para a prova CFP®
+## 12. Aderência ao CFP®
 
-A unidade mobiliza Gestão Financeira e gestão de débitos/créditos: inventário, CET, fluxo, custo, risco, comparação de alternativas e tomada de decisão.
+**Classificação: competência/conceito do domínio CFP®.** A unidade mobiliza Gestão Financeira e gestão de débitos/créditos: inventário, CET, fluxo, custo, risco, comparação de alternativas e tomada de decisão.
 
 ## 13. Na prática profissional
 
