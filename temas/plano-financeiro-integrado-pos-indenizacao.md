@@ -107,7 +107,9 @@ Monitorar:
 
 Revisar quando houver mudança relevante de renda, desemprego, nova dívida, compra relevante, novo capital, novo dependente, alteração de objetivo, evento de saúde, mudança de seguro, alteração judicial/negocial de dívida, mudança tributária material ou decisão relevante envolvendo terceiros.
 
-## 10. Para a formação CFP®
+## 10. Aderência ao CFP®
+
+**Classificação: aplicação profissional do Projeto apoiada por competências do domínio CFP®.**
 
 **SABER:** integrar fluxo, estoque, crédito, investimentos, proteção e comportamento.
 
