@@ -48,3 +48,13 @@ Tipografia:
 - corpo e navegação: Arial/Helvetica.
 
 A identidade deve comunicar clareza, formação, cálculo e decisão, sem reproduzir a aparência do Classe e Massas ou do Ações Judiciais.
+
+
+## Paridade editorial e rastreabilidade
+
+- Markdown é fonte canônica substantiva; HTML é artefato público.
+- Toda informação técnica, fórmula, condição, limite, fonte, data/status e aviso profissional presente no HTML deve existir também no Markdown correspondente.
+- A página pública pode resumir detalhes de governança interna, mas não pode inventar conteúdo técnico ausente da fonte canônica.
+- Regras perecíveis (exame, tributação, limites regulatórios, FGC, SFH, previdência) devem expor data de verificação quando material.
+- Fontes sensíveis devem permitir identificar órgão/autoria, documento, versão/data, status e link recuperável.
+- Divergência material Markdown–HTML bloqueia publicação.
