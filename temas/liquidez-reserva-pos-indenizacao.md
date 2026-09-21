@@ -79,7 +79,9 @@ O saldo depois de caixa, despesas previsíveis, lacuna de reserva e obrigações
 5. Compra de R$ 60 mil com dados incompletos.
 6. FGC não elimina outros riscos.
 
-## 9. Formação CFP®
+## 9. Aderência ao CFP®
+
+**Classificação: competência/conceito do domínio CFP® com aplicação profissional do Projeto.**
 
 **SABER:** liquidez, reserva, previsibilidade, carência, risco e proteção institucional.  
 **FAZER:** calcular reserva e lacuna, separar caixas e comparar alternativas.  
