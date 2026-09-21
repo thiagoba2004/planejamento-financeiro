@@ -1,6 +1,6 @@
 # Indenização trabalhista: capital líquido e ponto de partida financeiro
 
-**Cenário didático:** trabalhador recebeu **R$ 100.000,00 líquidos e integralmente disponíveis** a título de indenização por dano moral do empregador.
+**Cenário didático:** trabalhador recebeu **R$ 100.000,00 recebidos em caixa e líquidos das retenções consideradas no cenário** a título de indenização por dano moral do empregador.
 
 ## 1. Regra de entrada
 
@@ -36,7 +36,7 @@ Preservar, quando aplicável:
 - documentos de honorários e despesas;
 - cópia da declaração fiscal e recibo de entrega.
 
-A trilha deve permitir explicar futuramente por que o patrimônio aumentou R$ 100.000,00.
+A trilha deve permitir explicar a origem do caixa e identificar se o direito à indenização já havia sido reconhecido como ativo antes do pagamento, evitando dupla contagem patrimonial.
 
 ## 4. Tratamento atual do IR
 
@@ -65,7 +65,12 @@ rendimentos futuros = tributação própria do investimento ou operação
 
 CAIXA_APÓS = CAIXA_ANTES + R$ 100.000,00
 
-PATRIMÔNIO_LÍQUIDO_APÓS = PATRIMÔNIO_LÍQUIDO_ANTES + R$ 100.000,00
+O efeito sobre o patrimônio líquido depende da linha de base:
+
+- se nenhum direito/recebível referente à indenização havia sido reconhecido no balanço anterior, o recebimento pode representar aumento de R$ 100.000,00 no patrimônio líquido;
+- se o direito já estava reconhecido como ativo, o pagamento pode apenas converter **recebível em caixa**, elevando liquidez sem novo aumento do patrimônio líquido.
+
+Nunca some novamente ao patrimônio um valor já reconhecido como ativo.
 
 Ainda permanecem DADO_AUSENTE:
 - renda mensal;
@@ -82,7 +87,9 @@ Ainda permanecem DADO_AUSENTE:
 |---|---|
 | origem | indenização por dano moral trabalhista |
 | capital líquido | R$ 100.000,00 |
-| liquidez | integral |
+| caixa recebido | R$ 100.000,00 |
+| disponibilidade econômica para alocação | depende de reserva, compromissos, dívidas e objetivos |
+| disponibilidade jurídica | verificar quando houver obrigação, vínculo ou processo relevante |
 | renda recorrente | não |
 | tributação da origem | não incide IR, segundo regra atual |
 | declaração | isento/não tributável; revalidar exercício aplicável |
@@ -111,7 +118,7 @@ Saldo bancário não substitui sentença, acordo, extrato e comprovantes.
 A regra material de não incidência está confirmada, mas a operacionalização no IRPF 2027 deve ser revalidada.
 
 ### Caso 4 — Dados financeiros ausentes
-É possível registrar +R$ 100.000,00 no patrimônio, mas não definir carteira sem renda, despesas, dívidas, reserva, objetivos e perfil.
+É possível registrar a entrada de R$ 100.000,00 no caixa; o efeito incremental no patrimônio líquido depende de o direito já ter sido ou não reconhecido anteriormente. A carteira continua não calculável sem renda, despesas, dívidas, reserva, objetivos e perfil.
 
 ### Caso 5 — Pressão para investir imediatamente
 A pergunta “onde invisto amanhã?” deve ser precedida por diagnóstico de liquidez, dívida, objetivos e risco.
@@ -137,7 +144,7 @@ A unidade mobiliza:
 
 Formulação adequada:
 
-> Os R$ 100.000,00 já são capital líquido e disponível. Antes de definir o destino, precisamos preservar a documentação de origem, confirmar a forma declaratória aplicável, registrar o acréscimo patrimonial e levantar os dados que determinarão reserva, dívidas, objetivos e investimentos.
+> Os R$ 100.000,00 foram recebidos em caixa e são líquidos das retenções consideradas no cenário. Antes de definir o destino, precisamos preservar a documentação de origem, confirmar a forma declaratória aplicável, registrar o acréscimo patrimonial e levantar os dados que determinarão reserva, dívidas, objetivos e investimentos.
 
 Evite:
 - “Como é indenização, nunca precisa declarar.”
