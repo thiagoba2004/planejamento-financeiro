@@ -9,8 +9,8 @@ Todo material oficial pertinente disponibilizado pela Planejar integra o corpus 
 ## DEC-000003 — 20/09/2026 — Unidade formativa por competência
 Cada unidade deve registrar SABER, FAZER, DECIDIR, FONTE e AVALIAÇÃO.
 
-## DEC-000004 — 20/09/2026 — Separação prova/prática
-Todo tema deve identificar explicitamente TRILHA_PROVA e TRILHA_PRATICA quando ambas existirem.
+## DEC-000004 — 20/09/2026 — Separação prova/prática — SUPERADA EM 21/09/2026
+A finalidade dupla permanece, mas a nomenclatura pública `TRILHA_PROVA` deixa de ser obrigatória. A partir da auditoria adversarial, todo tema deve classificar a aderência ao CFP® como: **mapeado diretamente**, **competência/conceito do domínio** ou **aplicação profissional do Projeto**. A prática profissional deve ser tratada separadamente quando material.
 
 ## DEC-000005 — 20/09/2026 — Autonomia diante do projeto jurídico
 Questões jurídicas do superendividamento podem ser referenciadas no PRJ-000003, sem transferir ao Planejamento Financeiro a função de fonte jurídica primária.
@@ -35,3 +35,7 @@ Uma limitação técnica de acesso não autoriza inventar conteúdo nem atribuir
 A implementação FormSubmit criada anteriormente é classificada como divergência técnica. Ela não deve ser tratada como solução final nem receber estado E2E_VERIFICADO.
 
 **Migração obrigatória:** configurar Forminit isolado para `planejamentofinanceiro2012@gmail.com`, configurar EmailJS para confirmação ao remetente e testar o fluxo completo antes do fechamento.
+
+
+## DEC-000011 — 21/09/2026 — Taxonomia pública de aderência ao CFP®
+Nenhum conteúdo deve ser apresentado como objetivo de prova apenas por afinidade temática. Aderência ao exame exige fonte oficial vigente; competências de domínio e aplicações do Projeto devem ser rotuladas como tais.
