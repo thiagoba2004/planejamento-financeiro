@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000015",
-  "current_strategy_name": "Recebimento da indenização: documentação, tratamento declaratório e incorporação do capital líquido",
+  "current_strategy_code": "EA-000004-000016",
+  "current_strategy_name": "Liquidez, reserva de segurança e período de decisão pós-indenização",
   "current_phase": {
-    "phase_number": 5,
+    "phase_number": 1,
     "phase_total": 6,
-    "phase_code": "F-000004-000015-005",
-    "phase_name": "Casos, comunicação e competências CFP®",
+    "phase_code": "F-000004-000016-001",
+    "phase_name": "Delimitação do horizonte de transição",
     "status": "PLANEJADA"
   },
-  "last_completed_milestone": "Fases 01 a 04 da EA-000004-000015 concluídas: premissas do capital líquido, trilha documental, tratamento declaratório e incorporação ao balanço persistidos.",
-  "next_logical_step": "Executar a Fase 05/06, criando casos progressivos e competências CFP® sobre capital extraordinário líquido, documentação de origem, declaração, distinção capital x renda e incorporação patrimonial.",
+  "last_completed_milestone": "EA-000004-000015 concluída em 6/6 fases, publicada e auditada: capital líquido de R$ 100.000,00 documentado, tratamento declaratório atual registrado, efeito patrimonial incorporado e casos CFP® produzidos.",
+  "next_logical_step": "Iniciar a EA-000004-000016 pela Fase 01/06, delimitando horizonte de transição, necessidades de curto prazo, riscos de renda e decisões que podem aguardar antes de qualquer alocação permanente.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,15 +38,13 @@
   "site_status": "PUBLICADO_EMPRESAS_PARTICIPACOES_RENDA_AUDITADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "PLANEJADA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": null,
   "last_deployment": {
-    "workflow_run_id": 35545239892,
-    "attempt": 1,
+    "workflow_run_id": 35552763240,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE",
-    "public_content_commit": "2ce4bdae7fbfac80f8ac798bc4613a65e945f878"
+    "verified_by": "GITHUB_PAGES_PIPELINE"
   },
   "public_menu": [
     "Início",
@@ -252,7 +250,7 @@
           "code": "EA-000004-000015",
           "name": "Recebimento da indenização: documentação, tratamento declaratório e incorporação do capital líquido",
           "conditional": false,
-          "status": "PLANEJADA"
+          "status": "CONCLUIDA"
         },
         {
           "code": "EA-000004-000016",
