@@ -44,13 +44,13 @@ Um ativo pode ter alta liquidez operacional e ainda sofrer risco de mercado.
 
 Organize necessidades por prazo:
 
-### 0–30 dias
+### 0–30 dias — heurística
 Despesas essenciais, mudança, caução, vencimentos e custos confirmados.
 
-### 31–90 dias
+### 31–90 dias — heurística
 Estabilização de moradia, sazonalidades e ajustes de dívida.
 
-### 91–365 dias
+### 91–365 dias — heurística
 Recomposição da reserva, despesas anuais e objetivos de médio prazo.
 
 ### Acima de 1 ano
