@@ -151,10 +151,10 @@ Após as correções:
 
 O último ajuste público do ciclo está associado ao commit `7b0669e5074a5106eebda87fdb668fe96d529c33`, que disparou o GitHub Pages run **35643562008**.
 
-**Estado no momento da criação deste relatório:** aguardando conclusão do pipeline. O ciclo só deve ser marcado como publicado após `Deploy to GitHub Pages = success`.
+**Estado final:** o GitHub Pages run **35643562008**, associado ao commit público `7b0669e5074a5106eebda87fdb668fe96d529c33`, foi concluído com **success**. O job `deploy` e todas as etapas — inclusive `Build public-only artifact`, `Upload Pages artifact` e `Deploy to GitHub Pages` — foram concluídos com sucesso.
 
 ## 6. Estado material
 
-As correções do Relatório do Planejador Financeiro do Diabo estão **implementadas e reauditadas no repositório**.
+As correções do Relatório do Planejador Financeiro do Diabo estão **implementadas, reauditadas e publicadas pelo pipeline do GitHub Pages**.
 
-A única gate ainda aberta é a confirmação do deployment final do GitHub Pages.
+**ESTADO FINAL: CICLO CORRETIVO CONCLUÍDO, REAUDITADO E PUBLICADO.**
