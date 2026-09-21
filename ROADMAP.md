@@ -570,7 +570,7 @@ Princípios:
 **Plano detalhado:** `research/EA-000004-000016/plano-de-fases.md`.  
 **Auditoria:** `research/EA-000004-000016/auditoria-final-publicacao.md`.
 
-## EA-000004-000017 — Dívidas, crédito e prioridade de uso do capital indenizatório — EM EXECUÇÃO
+## EA-000004-000017 — Dívidas, crédito e prioridade de uso do capital indenizatório — CONCLUÍDA
 
 ### FASE 01/06 [F-000004-000017-001] — Inventário de dívidas e obrigações
 **Gate:** escopo e perguntas persistidos.  
@@ -594,9 +594,10 @@ Princípios:
 
 ### FASE 06/06 [F-000004-000017-006] — Publicação, auditoria e atualização
 **Gate:** artefatos sincronizados, cálculos/fontes auditados e estado atualizado.  
-**Estado:** EM EXECUÇÃO — unidade em Markdown + HTML e integrações públicas preparadas; auditoria e deploy em verificação.
+**Estado:** CONCLUÍDA — Markdown + HTML publicados e integrados; 24 HTMLs e 513 links auditados, com zero links internos quebrados, zero vazamentos de governança e zero ocorrências de “ACESSAR →”; âncoras verificadas; deploy 35587960672 success no commit 927706553da34967772e77959f9b1f49e5d922cb; nenhum JSON narrativo.
 
-**Plano detalhado:** `research/EA-000004-000017/plano-de-fases.md`.
+**Plano detalhado:** `research/EA-000004-000017/plano-de-fases.md`.  
+**Auditoria:** `research/EA-000004-000017/auditoria-final-publicacao.md`.
 
 ## EA-000004-000018 — Investimentos e alocação do capital extraordinário — PLANEJADA
 
