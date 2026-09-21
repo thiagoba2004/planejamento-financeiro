@@ -29,3 +29,19 @@ Inserir aviso discreto de que o Site é projeto independente e não representa P
 ## FASE 06/06 [F-000004-000029-006] — Auditoria de aderência e publicação
 Revisar seções “Para a prova/Formação CFP®”, template de unidade, fontes e links.
 **Gate:** aderência CFP® classificada e auditada.
+
+## Estado final da execução
+
+**Estratégia:** CONCLUÍDA em 21/09/2026.  
+**Fases:** 6/6 concluídas.  
+**Gate final:** satisfeita.  
+**Publicação:** GitHub Pages run `35643562008` — **success**.  
+**Commit público final:** `7b0669e5074a5106eebda87fdb668fe96d529c33`.
+
+### Evidências principais
+- `CFP_ALIGNMENT_PROTOCOL.md`
+- `COMPETENCY_MATRIX.md`
+- `conhecimentos/processo-planejamento-financeiro.md`
+- `cfp/index.md`
+- `templates/UNIDADE_DE_APRENDIZAGEM.md`
+
