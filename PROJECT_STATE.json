@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000018",
-  "current_strategy_name": "Investimentos e alocação do capital extraordinário",
+  "current_strategy_code": "EA-000004-000019",
+  "current_strategy_name": "Objetivos de vida, aposentadoria, seguros e proteção patrimonial",
   "current_phase": {
-    "phase_number": 6,
+    "phase_number": 1,
     "phase_total": 6,
-    "phase_code": "F-000004-000018-006",
-    "phase_name": "Publicação, auditoria e atualização",
-    "status": "EM_EXECUCAO"
+    "phase_code": "F-000004-000019-001",
+    "phase_name": "Mapa de objetivos e prioridades",
+    "status": "PLANEJADA"
   },
-  "last_completed_milestone": "EA-000004-000018 com Fases 01 a 05 concluídas: diagnóstico, universo, política de alocação, implementação e casos/competências estruturados.",
-  "next_logical_step": "Executar a Fase 06/06 — Publicação, auditoria e atualização.",
+  "last_completed_milestone": "EA-000004-000018 concluída em 6/6 fases, publicada e auditada: objetivos, perfil de risco, universo, alocação, implementação e casos CFP® estruturados.",
+  "next_logical_step": "Executar a Fase 01/06 da EA-000004-000019 — Mapa de objetivos e prioridades.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,17 +35,17 @@
     "CONTACT_STACK.md"
   ],
   "updated_at": "2026-09-21",
-  "site_status": "PUBLICADO_INDENIZACAO_SUPERENDIVIDAMENTO",
+  "site_status": "PUBLICADO_INVESTIMENTOS_CAPITAL_EXTRAORDINARIO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "PLANEJADA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": null,
   "last_deployment": {
-    "workflow_run_id": 35592528330,
+    "workflow_run_id": 35595325611,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE",
-    "commit_sha": "c60f1a1072a42cff59bba1a27fd5a18f83093ec5"
+    "commit_sha": "948e7e047aedad08b6253af1388869f209050e21"
   },
   "public_menu": [
     "Início",
@@ -269,7 +269,7 @@
           "code": "EA-000004-000018",
           "name": "Investimentos e alocação do capital extraordinário",
           "conditional": false,
-          "status": "PLANEJADA"
+          "status": "CONCLUIDA"
         },
         {
           "code": "EA-000004-000019",
