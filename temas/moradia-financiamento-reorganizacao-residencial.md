@@ -141,7 +141,9 @@ Antes de uma decisão de moradia, modele situações como:
 - aumento de deslocamento;
 - variação prevista pelo indexador do contrato.
 
-## 9. Para a prova CFP®
+## 9. Aderência ao CFP®
+
+**Classificação: aplicação profissional do Projeto apoiada por competências do domínio CFP®.**
 
 A unidade mobiliza Gestão Financeira: orçamento, crédito, dívida, liquidez, patrimônio, decisão e comparação de alternativas. A aplicação ao divórcio é contexto profissional desta unidade.
 
