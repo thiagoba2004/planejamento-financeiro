@@ -18,7 +18,7 @@ No atendimento individual, aplique esta unidade quando houver:
 
 Se não houver instrumento nem necessidade relevante, registre **NÃO APLICÁVEL NO CASO**.
 
-## 2. Faça o inventário antes de recomendar alterações
+## 2. Faça o inventário antes de analisar alterações
 
 ### Seguros
 Registre:
@@ -85,13 +85,14 @@ necessidade bruta de proteção
 ```
 
 ```text
-gap de proteção
-= necessidade bruta
-− ativos líquidos juridicamente disponíveis
-− coberturas e benefícios confirmados
+gap de proteção em uma data-base comum
+= necessidade equivalente
+− ativos efetivamente disponíveis para o risco
+− coberturas equivalentes
+− benefícios equivalentes
 ```
 
-Não existe múltiplo universal de renda que substitua o diagnóstico.
+Não existe múltiplo universal de renda que substitua o diagnóstico. Benefícios mensais futuros e capital à vista não devem ser somados/subtraídos sem equivalência temporal; quando isso não for apropriado, modele necessidades e recursos por período.
 
 ## 4. Evite dupla contagem
 
@@ -138,7 +139,7 @@ Podem existir, conforme elegibilidade:
 
 A contribuição do patrocinador pode alterar significativamente o valor econômico da permanência no plano.
 
-## 8. Quatro caminhos de adequação
+## 8. Quatro caminhos de análise
 
 ### Manter
 Quando cobertura, custo e objetivo continuam adequados.
@@ -154,13 +155,19 @@ Quando existe gap de proteção material e o orçamento comporta nova cobertura.
 
 **Não cancele primeiro para analisar depois.**
 
+## Perímetro profissional
+
+O planejamento pode identificar necessidade, comparar coberturas e organizar cenários. **Intermediar seguros é atividade regulada** e a atuação como corretor exige habilitação e registro conforme Susep/CNSP. Consulte [Perímetro Profissional e Atividades Reguladas](../conhecimentos/perimetro-profissional.html).
+
 ## 9. Métricas úteis
 
 ### Gap de proteção
 
 ```text
-necessidade de proteção
-− ativos/coberturas/benefícios confirmados
+necessidade equivalente na data-base
+− ativos disponíveis
+− coberturas equivalentes
+− benefícios equivalentes
 ```
 
 ### Custo de proteção
@@ -185,9 +192,9 @@ Esses indicadores não possuem percentuais universais de aprovação.
 4. resgate de previdência aberta para custear a transição;
 5. participante de fundo de pensão diante de possível desligamento do patrocinador.
 
-## 11. Para a prova CFP®
+## 11. Aderência ao CFP®
 
-A unidade mobiliza gestão de riscos, seguros, previdência complementar, proteção de dependentes, fluxo de caixa e planejamento de longo prazo.
+**Classificação: competência/conceito do domínio CFP® com aplicação profissional do Projeto.** A unidade mobiliza gestão de riscos, seguros, previdência complementar, proteção de dependentes, fluxo de caixa e planejamento de longo prazo.
 
 ## 12. Na prática profissional
 
