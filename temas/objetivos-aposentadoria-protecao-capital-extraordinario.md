@@ -1,6 +1,6 @@
 # Objetivos de vida, aposentadoria e proteção após capital extraordinário
 
-**Cenário didático:** recebimento de R$ 100.000,00 líquidos e integralmente disponíveis por dano moral trabalhista.
+**Cenário didático:** recebimento de R$ 100.000,00 recebidos em caixa e líquidos das retenções consideradas no cenário por dano moral trabalhista.
 
 ## 1. O dinheiro precisa de função antes de produto
 
@@ -16,7 +16,13 @@ Sem esses dados, o valor permanece **NÃO_CALCULÁVEL**.
 
 ## 3. Lacuna de cada objetivo
 
-GAP_OBJETIVO = VALOR_ALVO - RECURSOS_JA_DESTINADOS - APORTES_FUTUROS_PROJETADOS
+A lacuna só pode ser calculada depois de trazer objetivo, recursos atuais e aportes futuros para a **mesma data-base**.
+
+Exemplo em valor futuro na data do objetivo:
+
+GAP_OBJETIVO_FUTURO = VALOR_ALVO_FUTURO - VALOR_FUTURO_DOS_RECURSOS_JA_DESTINADOS - VALOR_FUTURO_DOS_APORTES_PROJETADOS
+
+Alternativamente, todos os fluxos podem ser trazidos a valor presente. A metodologia deve declarar inflação, retorno líquido, custos/tributação materiais, momento dos aportes e se os valores são nominais ou reais.
 
 Cada objetivo deve registrar valor, prazo, prioridade, flexibilidade e necessidade de liquidez.
 
@@ -44,7 +50,12 @@ Podem ser adequados conforme objetivo, prazo, custos, tributação, liquidez e p
 
 A necessidade de proteção pode incluir vida, invalidez/incapacidade, saúde, dívidas, dependentes e patrimônio.
 
-GAP_PROTECAO = NECESSIDADE_BRUTA - ATIVOS_LIQUIDOS - COBERTURAS_CONFIRMADAS - BENEFICIOS_CONFIRMADOS
+Não some capital à vista e benefícios futuros sem equivalência temporal. Use apenas ativos efetivamente disponíveis para o risco e uma destas abordagens:
+
+1. converter necessidades, coberturas e benefícios para uma mesma data-base; ou
+2. construir um mapa de necessidades e recursos por período.
+
+GAP_PROTECAO_DATA_BASE = NECESSIDADE_EQUIVALENTE - ATIVOS_DISPONIVEIS_PARA_O_RISCO - COBERTURAS_EQUIVALENTES - BENEFICIOS_EQUIVALENTES
 
 Não existe múltiplo universal de renda para substituir o cálculo.
 
