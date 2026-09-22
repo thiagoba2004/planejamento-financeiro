@@ -140,6 +140,16 @@ Use roteiros simples para transformar dados dispersos em um diagnóstico finance
 
 - *Monitoramento* — [**Painel e gatilhos de revisão**](../temas/plano-financeiro-integrado-pos-indenizacao.html#monitoramento): Acompanhe capital, reserva, fluxo, dívidas, objetivos e eventos de revisão.
 
+- *Unidade econômica* — [**Base correta de renda e despesas**](../temas/superendividamento-pf.html#metricas): Separe renda própria, transferências, rateios e pagamentos diretos antes de calcular comprometimento e fluxo.
+
+- *Governança* — [**Gate jurídico-financeiro**](../temas/indenizacao-superendividamento.html#cenarios): Distinga simulação financeira de execução quando houver processo, garantia ou controvérsia jurídica material.
+
+- *Contingência* — [**Liquidez em ruptura urgente**](../temas/divorcio-transicao-financeira.html#liquidez): Reorganize caixa, vencimentos e custos essenciais quando uma decisão jurídica confirmada altera a transição.
+
+- *Moradia* — [**Sobreposição de custos na mudança urgente**](../temas/moradia-financiamento-reorganizacao-residencial.html#custo-total): Modele aluguel, caução, mudança, utilidades e obrigações do imóvel anterior.
+
+- *Filhos* — [**Quatro estados dos alimentos no fluxo**](../temas/filhos-alimentos-educacao-saude-logistica.html#cenarios): Diferencie obrigação confirmada, pagamento voluntário, pedido e cenário.
+
 ## Escada de intervenção
 
 - *Prevenção* — **Antes do problema**: Orçamento, reserva, controle do crédito e cenários.
