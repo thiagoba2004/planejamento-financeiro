@@ -15,3 +15,11 @@ Integrar Notícias, Artigos e Observatório ao Site Planejamento Financeiro sem 
 6. **Fase 06/06 [F-000004-000035-006] — Auditoria regressiva e fechamento**.
 
 **Gate de não redundância:** áreas estáveis de conhecimento continuam sendo a base formativa; as novas camadas tratam mudança temporal, análise autoral e síntese sistêmica cumulativa.
+## Estado de execução — 22/09/2026
+
+- Fase 01/06 — CONCLUÍDA — `inventario-sobreposicao-semantica.md`.
+- Fase 02/06 — CONCLUÍDA — `decisao-arquitetura-editorial.md`.
+- Fase 03/06 — EM EXECUÇÃO — aguarda entregas de EA-000004-000036, EA-000004-000037 e EA-000004-000038.
+- Fases 04–06 — PENDENTES.
+
+**Dependência do Gerador:** EA-000002-000008 CONCLUÍDA; Gerador 1.11 propagado ao AGENTS local.
