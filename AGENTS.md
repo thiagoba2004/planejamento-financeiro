@@ -6,7 +6,7 @@
 **project_name:** `Planejamento Financeiro`  
 **project_id legado:** `planejamento-financeiro`  
 **generated_from_kernel:** `1.4`  
-**generator_release:** `1.11`  
+**generator_release:** `1.13`  
 **repository:** `thiagoba2004/planejamento-financeiro`  
 **modules:** `research`, `publication`, `web-site`, `contact-protocol`, `software`, `data`, `professional-education`, `publication`, `software`, `data`, `professional-education`
 
@@ -320,3 +320,12 @@ Antes de declarar etapa concluída, verificar fontes, cálculos, coerência entr
 ## Padrão editorial Coleção → Detalhe
 
 Para Notícias, Artigos e Observatório públicos, a página da seção é um índice/arquivo. Cada conteúdo integral deve possuir página própria; o título do item é o hiperlink principal, acompanhado de metadados e resumo curto. É proibido acumular múltiplos conteúdos integrais na página de índice quando os itens têm autonomia editorial.
+
+
+## 13. Escala tipográfica responsiva
+
+- Títulos devem ser apenas moderadamente maiores que o texto corrente; evitar escala de display como padrão.
+- No Site Planejamento Financeiro, a faixa canônica de `h1` é aproximadamente `1,55rem–1,90rem`, com Home em `1,75rem–2,10rem`; no mobile, `h1` fica em torno de `1,60rem` e o título da Home em torno de `1,75rem`.
+- `h2` fica aproximadamente em `1,25rem–1,50rem` e `h3` em torno de `1,08rem`.
+- A Home deve empilhar seus blocos estruturais no mobile e não pode produzir overflow horizontal geral.
+- Toda alteração de CSS estrutural exige teste das páginas Início, CFP®, Conhecimentos e de pelo menos uma página de conteúdo em larguras móveis representativas.

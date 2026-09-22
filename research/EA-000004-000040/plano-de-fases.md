@@ -3,9 +3,9 @@
 **Status:** EM EXECUÇÃO
 
 ## Plano de Fases
-1. **Fase 01/04 [F-000004-000040-001] — Diagnóstico visual e de conteúdo** — EM EXECUÇÃO.
-2. **Fase 02/04 [F-000004-000040-002] — Correção de Home e escala tipográfica** — PENDENTE.
-3. **Fase 03/04 [F-000004-000040-003] — Auditoria responsiva e regressiva** — PENDENTE.
+1. **Fase 01/04 [F-000004-000040-001] — Diagnóstico visual e de conteúdo** — CONCLUÍDA.
+2. **Fase 02/04 [F-000004-000040-002] — Correção de Home e escala tipográfica** — CONCLUÍDA.
+3. **Fase 03/04 [F-000004-000040-003] — Auditoria responsiva e regressiva** — EM EXECUÇÃO.
 4. **Fase 04/04 [F-000004-000040-004] — Deploy, verificação e fechamento** — PENDENTE.
 
 ## Evidência inicial

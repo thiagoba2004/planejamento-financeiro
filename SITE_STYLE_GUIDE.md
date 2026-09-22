@@ -19,7 +19,13 @@ A identidade deve transmitir clareza, formação, organização, cálculo e toma
 ## Tipografia
 
 - títulos: Trebuchet MS / Arial;
-- corpo e navegação: Arial / Helvetica.
+- corpo e navegação: Arial / Helvetica;
+- corpo base próximo de `1rem`;
+- `h1`: aproximadamente `1,55rem–1,90rem`; no mobile, cerca de `1,60rem`;
+- `h1` da Home: aproximadamente `1,75rem–2,10rem`; no mobile, cerca de `1,75rem`;
+- `h2`: aproximadamente `1,25rem–1,50rem`;
+- `h3`: aproximadamente `1,08rem`;
+- títulos devem estabelecer hierarquia sem assumir escala de display. A regra do Projeto é que fiquem **apenas moderadamente maiores que o texto corrente**.
 
 ## Componentes
 
@@ -44,9 +50,18 @@ Nunca trocar `button` por `a` ou vice-versa apenas para obter determinada aparê
 
 Institucional e enxuta. Não contém catálogo dos Menus nem bloco “Explore o Site”.
 
+- composição principal em uma coluna;
+- avisos específicos de CFP®, fontes ou independência institucional devem permanecer nas páginas contextualmente adequadas quando já estiverem disponíveis ali, evitando duplicação desnecessária na Home;
+- nenhum bloco lateral pode provocar corte ou overflow no mobile.
+
 ## Mobile
 
 Menu global horizontal rolável, item atual identificável, cards em coluna única e ausência de overflow geral.
+
+- testar ao menos larguras de 360 px, 390 px e 412 px;
+- conteúdo estrutural da Home deve empilhar verticalmente;
+- exceções de overflow ficam restritas a componentes deliberadamente roláveis, como navegação horizontal ou tabelas;
+- títulos não podem ocupar a viewport como elemento dominante nem forçar corte lateral.
 
 ## Diferenciação
 
