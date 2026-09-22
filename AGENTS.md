@@ -6,7 +6,7 @@
 **project_name:** `Planejamento Financeiro`  
 **project_id legado:** `planejamento-financeiro`  
 **generated_from_kernel:** `1.4`  
-**generator_release:** `1.9`  
+**generator_release:** `1.11`  
 **repository:** `thiagoba2004/planejamento-financeiro`  
 **modules:** `research`, `publication`, `web-site`, `contact-protocol`, `software`, `data`, `professional-education`, `publication`, `software`, `data`, `professional-education`
 
@@ -86,7 +86,12 @@ Nunca afirmar atualização de programa, regra de certificação, conteúdo ofic
 - priorizar Planejar e demais fontes institucionais/primárias adequadas;
 - distinguir fonte canônica, fonte complementar, interpretação e hipótese;
 - registrar data de consulta e versão quando o conteúdo puder mudar;
-- não reconstruir critérios de prova ou certificação de memória quando a fonte oficial puder ser consultada.
+- não reconstruir critérios de prova ou certificação de memória quando a fonte oficial puder ser consultada;
+- para Notícias e Observatório, separar cadência de busca de gatilho de publicação;
+- monitorar por padrão apenas temas já cobertos pelo Site, salvo decisão expressa de expansão;
+- registrar janela temporal, descritores, fontes prioritárias, data de corte e critérios de relevância em monitoramento recorrente;
+- no Observatório, aplicar ciclo de horizon scanning: detectar → filtrar → priorizar → avaliar → disseminar → acompanhar;
+- usar lógica de evidência viva quando conclusões puderem mudar, com data da última busca, versão/data da síntese e registro do que mudou.
 
 ## 8. Módulo professional-education
 
@@ -140,6 +145,13 @@ Antes de criar um JSON, identificar expressamente **qual processo o consome** e 
 
 Alterações editoriais devem ser sincronizadas entre Markdown e HTML. JSON existente só precisa ser atualizado quando sua função estruturada exigir.
 
+Quando forem publicados conteúdos editoriais transversais:
+- **Notícias** tratam fatos e mudanças verificáveis em CFP®, regulação, dados, mercados, práticas e temas já cobertos, com fonte e data;
+- **Artigos** tratam análise crítica/autoral, distinguindo evidência, inferência, opinião técnica, implicações e limites profissionais;
+- **Observatório** trata pesquisa cumulativa, mudanças regulatórias/metodológicas/científicas, sinais, relações e lacunas;
+- cada conteúdo possui função editorial primária e deve evitar duplicação com Conhecimentos, Casos, Ferramentas ou Fontes;
+- buscas semanais, mensais, trimestrais, semestrais e anuais podem coexistir, mas publicação depende de materialidade.
+
 ### 10.2. Paridade semântica obrigatória
 
 Markdown é a fonte textual canônica e deve ser suficiente para reconstruir o conteúdo substantivo do HTML público. Aparência, componentes e microcopy de interface podem variar; conteúdo técnico, fórmulas, condições, limitações, fontes, datas de verificação, status e avisos profissionais não podem existir apenas no HTML.
@@ -186,7 +198,11 @@ Antes de cada publicação, executar varredura de vazamento de governança. A pr
 
 O Site é uma arquitetura pública multipágina. Não pode ser reduzido a uma Home com cards e uma página longa.
 
-**Menu global obrigatório:** Início · CFP® · Conhecimentos · Casos · Ferramentas · Fontes · Fale Conosco.
+**Menu global obrigatório vigente:** Início · CFP® · Conhecimentos · Casos · Ferramentas · Fontes · Fale Conosco.
+
+**Arquitetura editorial planejada:** `EDITORIAL_HUB` com rótulo **Publicações**, contendo Notícias, Artigos e Observatório. O hub só entra no menu público após existir conteúdo real nas páginas centrais, rotas auditadas e workflow do GitHub Pages atualizado.
+
+**Menu futuro após o gate de conteúdo:** Início · CFP® · Conhecimentos · Casos · Ferramentas · Fontes · Publicações · Fale Conosco.
 
 Regras obrigatórias:
 - o mesmo menu global aparece em todas as páginas;
@@ -196,6 +212,10 @@ Regras obrigatórias:
 - toda página pública possui no rodapé o hiperlink **Mapa do Site**;
 - `mapa-do-site/` reflete as rotas públicas reais;
 - páginas centrais de Menu possuem conteúdo útil, não placeholders;
+- Publicações não substitui áreas estáveis: Notícias = mudança factual; Artigos = análise autoral; Observatório = síntese sistêmica cumulativa;
+- as rotas planejadas são `/publicacoes/`, `/publicacoes/noticias/`, `/publicacoes/artigos/` e `/publicacoes/observatorio/`;
+- o Mapa do Site deve expor as três subáreas quando públicas, mesmo agrupadas sob o hub;
+- Notícias devem apontar para a unidade formativa afetada quando houver; Artigos e Observatório usam referências cruzadas e não duplicação;
 - Menus de primeiro nível representam áreas estáveis e transversais; módulos, temas e seções internas não devem subir automaticamente ao Menu global;
 - `Conhecimentos` agrega áreas como Gestão Financeira; `Métricas e indicadores` integra `Ferramentas`;
 - a interface pública não exibe códigos, estados e metadados de governança interna;
