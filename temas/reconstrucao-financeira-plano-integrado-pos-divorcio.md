@@ -32,6 +32,18 @@ O plano também pode ser necessário **antes do divórcio**, quando já existe s
 - separe solvência, liquidez e fluxo;
 - reabra o plano sempre que uma definição jurídica alterar renda, despesas, patrimônio ou responsabilidade por passivos.
 
+### Contingência financeira em contexto de medida protetiva
+
+Se houver medida protetiva, afastamento do lar ou obrigação provisória confirmada, o plano entra em modo de contingência:
+- priorizar liquidez e despesas essenciais;
+- atualizar moradia e custos de deslocamento;
+- incorporar apenas obrigações alimentares vigentes como fluxo confirmado;
+- manter pedidos e valores incertos como cenários;
+- registrar recursos legitimamente acessíveis e movimentações relevantes;
+- evitar decisões patrimoniais irreversíveis sem a validação jurídica necessária.
+
+O planejador mede consequências financeiras; não avalia risco de violência nem define a medida jurídica.
+
 ## 3. Áreas integradas
 
 - orçamento de transição;
