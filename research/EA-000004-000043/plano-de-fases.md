@@ -22,3 +22,13 @@ Verificar todas as páginas públicas, CSS, semântica HTML, estados hover/foco/
 
 ### FASE 05/05 [F-000004-000043-005] — Deploy, verificação e fechamento
 Confirmar GitHub Pages, registrar relatório final e sincronizar PROJECT_STATE, REQUEST_LOG e STRATEGY_LOG.
+
+## Estado final
+
+**CONCLUÍDA — 5/5 fases.**
+
+- 40/40 páginas públicas aprovadas;
+- ação primária em verde-petróleo com hover verde profundo;
+- navegação destacada, retorno simples e cards com papéis visuais próprios;
+- identidade verde/turquesa/âmbar preservada;
+- GitHub Pages run **35795241625 — success**.
