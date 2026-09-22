@@ -38,13 +38,16 @@ A identidade deve transmitir clareza, formação, organização, cálculo e toma
 
 A aparência deve ajudar o visitante a antecipar o que acontecerá:
 
-- **ação:** botão preenchido (`action-button`), reservado a operações como enviar ou copiar;
-- **navegação destacada:** CTA contornado (`nav-button`) com indicação direcional;
-- **link secundário:** texto sublinhado (`secondary-link`);
+- **ação primária real:** botão preenchido `action-button` em verde-petróleo `#0c555a`, com texto branco;
+- **hover/foco da ação primária:** verde profundo `#073d41`, preservando texto branco;
+- **navegação destacada:** CTA contornado `nav-button`, com superfície clara e indicação direcional;
+- **link secundário/retorno simples:** texto sublinhado `secondary-link`;
 - **card clicável:** `<a class="resource-card">`, identificado por fundo verde-azulado claro, borda/realce turquesa e resposta de hover;
 - **card informativo:** `<article class="resource-card">`, branco e neutro, estático e sem hover que prometa clique.
 
 Nunca trocar `button` por `a` ou vice-versa apenas para obter determinada aparência.
+
+A classe genérica `.button` não integra o padrão público: ação, navegação destacada e link secundário possuem classes próprias. O turquesa `#14787d` permanece cor de interação e realce, mas não substitui a variante profunda no hover da ação primária.
 
 ## Home
 
