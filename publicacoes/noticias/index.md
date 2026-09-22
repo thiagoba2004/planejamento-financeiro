@@ -1,25 +1,18 @@
 # Notícias
 
-Atualizações selecionadas por materialidade para planejamento financeiro e formação profissional. O Site não funciona como feed de mercado: fatos sem consequência estrutural podem ser apenas monitorados.
+Atualizações selecionadas por materialidade para planejamento financeiro e formação profissional.
 
-## Susep cria grupo de trabalho para analisar impactos da Reforma Tributária
+## Publicadas
 
-**21/09/2026 · Superintendência de Seguros Privados**
+### [Susep cria grupo de trabalho para analisar impactos da Reforma Tributária](susep-grupo-trabalho-reforma-tributaria-2026-09-21.html)
 
-A Susep anunciou a constituição de grupo de trabalho para analisar impactos da Reforma Tributária no mercado supervisionado. O fato é relevante para o acompanhamento de seguros, previdência e tributação, mas possui caráter preparatório.
+**21/09/2026 · Seguros · Previdência · Tributação**
 
-**Não há, por esse anúncio isolado, mudança automática de regra aplicável aos produtos ou às decisões de planejamento.** O ponto de interesse é o resultado futuro do trabalho e eventual produção normativa ou orientação oficial.
-
-Fonte: https://www.gov.br/susep/pt-br/central-de-conteudos/noticias/2026/setembro/susep-constitui-grupo-de-trabalho-para-analisar-impactos-da-reforma-tributaria-no-mercado-supervisionado
+O grupo de trabalho é relevante para acompanhamento regulatório, mas possui caráter preparatório: o anúncio, isoladamente, não altera automaticamente regras de produtos nem decisões de planejamento.
 
 ## Em monitoramento
 
-### Boletim da Susep com dados do setor supervisionado até julho de 2026
-Os dados oficiais podem alimentar séries e análises do Observatório, mas não são convertidos automaticamente em notícia ou recomendação.
+- **Boletim da Susep com dados do setor supervisionado até julho de 2026:** potencial insumo para séries e análises do Observatório.
+- **Consulta pública sobre sustentabilidade no setor de seguros:** acompanhar eventual resultado normativo e conexão com proteção, risco e produtos supervisionados.
 
-Fonte: https://www.gov.br/susep/pt-br/central-de-conteudos/noticias/2026/setembro/susep-publica-boletim-com-dados-do-setor-supervisionado-ate-julho-de-2026
-
-### Consulta pública sobre sustentabilidade no setor de seguros
-A proposta permanece em desenvolvimento. O Site acompanhará eventual resultado normativo e sua relação com proteção, risco e produtos supervisionados.
-
-Fonte: https://www.gov.br/susep/pt-br/central-de-conteudos/noticias/2026/setembro/susep-coloca-em-consulta-publica-proposta-de-atualizacao-das-regras-de-sustentabilidade-do-setor-de-seguros
+A página Notícias funciona como índice; cada notícia efetivamente publicada possui URL própria.

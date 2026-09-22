@@ -7,12 +7,18 @@
   "repository": "thiagoba2004/planejamento-financeiro",
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
-  "generator_release": "1.11",
-  "current_strategy_code": null,
-  "current_strategy_name": null,
-  "current_phase": null,
-  "last_completed_milestone": "EA-000004-000035 concluída: hub Publicações com Notícias, Artigos e Observatório publicado, auditado e implantado.",
-  "next_logical_step": "Modo operacional editorial: alimentar Notícias, Artigos e Observatório conforme seus protocolos e abrir nova Estratégia Autônoma somente quando surgir demanda material nova.",
+  "generator_release": "1.12",
+  "current_strategy_code": "EA-000004-000039",
+  "current_strategy_name": "Arquitetura Coleção → Detalhe nas Publicações",
+  "current_phase": {
+    "phase_number": 2,
+    "phase_total": 4,
+    "phase_code": "F-000004-000039-002",
+    "phase_name": "Refatoração de índices e conteúdos individuais",
+    "status": "EM_EXECUCAO"
+  },
+  "last_completed_milestone": "EA-000004-000039 Fase 01/04 concluída: inventário e desenho das rotas individuais.",
+  "next_logical_step": "Concluir refatoração de índices/detalhes; auditar rotas, mapa, paridade e deploy.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -379,7 +385,16 @@
     "navigation_mode": "EDITORIAL_HUB",
     "hub_label": "Publicações",
     "public_status": "IMPLEMENTADO_E_VERIFICADO",
-    "status": "CONCLUIDA"
+    "status": "CONCLUIDA",
+    "collection_detail_pattern": {
+      "status": "EM_IMPLEMENTACAO",
+      "collection_pages": [
+        "/publicacoes/noticias/",
+        "/publicacoes/artigos/",
+        "/publicacoes/observatorio/"
+      ],
+      "title_is_primary_link": true
+    }
   },
   "last_concluded_strategy_code": "EA-000004-000035",
   "last_concluded_strategy_name": "Reorganização editorial e arquitetura de navegação do Site Planejamento Financeiro"

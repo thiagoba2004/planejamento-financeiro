@@ -315,3 +315,8 @@ A EA-000004-000005 é fundacional. A EA-000004-000014 é integradora. Estratégi
 Antes de declarar etapa concluída, verificar fontes, cálculos, coerência entre prova/prática, persistência, versionamento, publicação quando aplicável e próximo passo lógico.
 
 > **Nunca obrigar o usuário a pagar novamente, com tempo, energia ou recursos, por falha de memória, persistência, continuidade, planejamento ou verificação do Modelo de IA.**
+
+
+## Padrão editorial Coleção → Detalhe
+
+Para Notícias, Artigos e Observatório públicos, a página da seção é um índice/arquivo. Cada conteúdo integral deve possuir página própria; o título do item é o hiperlink principal, acompanhado de metadados e resumo curto. É proibido acumular múltiplos conteúdos integrais na página de índice quando os itens têm autonomia editorial.

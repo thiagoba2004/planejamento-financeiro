@@ -69,3 +69,12 @@ A identidade deve comunicar clareza, formação, cálculo e decisão, sem reprod
 - Rotas públicas: `/publicacoes/`, `/publicacoes/noticias/`, `/publicacoes/artigos/` e `/publicacoes/observatorio/`.
 - Conhecimentos, Casos e Ferramentas continuam como áreas estáveis; as novas camadas não as duplicam.
 - O Mapa do Site expõe as três subáreas públicas.
+
+
+## Padrão Coleção → Detalhe — 22/09/2026
+
+- `/publicacoes/noticias/`, `/publicacoes/artigos/` e `/publicacoes/observatorio/` são páginas de **coleção/índice**.
+- Cada item publicado possui página individual própria na mesma subpasta.
+- O título do item é o hiperlink principal; data, tema e resumo curto orientam a escolha.
+- Sinais ainda em monitoramento podem aparecer resumidos sem serem tratados como publicação autônoma.
+- Markdown e HTML seguem a mesma granularidade.
