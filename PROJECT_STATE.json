@@ -8,17 +8,17 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.11",
-  "current_strategy_code": "EA-000004-000035",
-  "current_strategy_name": "Reorganização editorial e arquitetura de navegação do Site Planejamento Financeiro",
+  "current_strategy_code": "EA-000004-000036",
+  "current_strategy_name": "Notícias de planejamento financeiro dos temas cobertos pelo Site",
   "current_phase": {
-    "phase_number": 3,
+    "phase_number": 5,
     "phase_total": 6,
-    "phase_code": "F-000004-000035-003",
-    "phase_name": "Integração das estratégias filhas",
+    "phase_code": "F-000004-000036-005",
+    "phase_name": "Piloto",
     "status": "EM_EXECUCAO"
   },
   "last_completed_milestone": "EA-000004-000035 Fases 01 e 02 concluídas: inventário semântico e decisão EDITORIAL_HUB/Publicações.",
-  "next_logical_step": "Executar EA-000004-000036 — Notícias de planejamento financeiro dos temas cobertos pelo Site; produzir escopo, protocolo, cadência, modelo e piloto antes da implementação pública do hub.",
+  "next_logical_step": "Executar piloto atual de Notícias com fontes oficiais recentes; classificar achados e decidir o que merece publicação.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
