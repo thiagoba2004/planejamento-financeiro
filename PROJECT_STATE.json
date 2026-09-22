@@ -8,11 +8,17 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.12",
-  "current_strategy_code": null,
-  "current_strategy_name": null,
-  "current_phase": null,
-  "last_completed_milestone": "EA-000004-000039 concluída: Notícias, Artigos e Observatório usam índice/coleção com títulos hiperlinkados e páginas individuais.",
-  "next_logical_step": "Modo operacional editorial sob o padrão Coleção → Detalhe; novos itens devem entrar no índice e possuir página individual própria.",
+  "current_strategy_code": "EA-000004-000040",
+  "current_strategy_name": "Revisão da Home, tipografia e responsividade",
+  "current_phase": {
+    "phase_number": 1,
+    "phase_total": 4,
+    "phase_code": "F-000004-000040-001",
+    "phase_name": "Diagnóstico visual e de conteúdo",
+    "status": "EM_EXECUCAO"
+  },
+  "last_completed_milestone": "EA-000004-000040 aberta após evidência visual de overflow mobile e escala tipográfica excessiva.",
+  "next_logical_step": "Corrigir CSS e Home; auditar o corpus HTML em viewport mobile e publicar.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
