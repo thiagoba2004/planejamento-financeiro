@@ -31,6 +31,21 @@ custo-base
 
 Custos de mudança, caução, mobília e sobreposição temporária entre duas moradias devem ser separados como custos de transição.
 
+### Mudança urgente e sobreposição de moradia
+
+Quando uma decisão ou medida jurídica confirmada exige mudança rápida, modele o impacto sem discutir o mérito da medida:
+- aluguel/hospedagem temporária;
+- caução;
+- mudança e equipamentos mínimos;
+- utilidades;
+- transporte adicional;
+- eventual prestação/condomínio do imóvel anterior ainda exigível;
+- custos dos filhos em duas residências.
+
+`CUSTO_TRANSICAO = custos pontuais + sobreposição temporária de custos recorrentes`
+
+Afastamento ou mudança não extingue automaticamente financiamento, titularidade ou partilha. Essas premissas permanecem jurídicas.
+
 ## 2. Financiamento: compare o contrato inteiro
 
 A taxa de juros não resume o custo do crédito. O **Custo Efetivo Total (CET)** reúne encargos e despesas da operação e deve ser considerado na comparação entre propostas.
@@ -165,4 +180,4 @@ O profissional deve saber:
 - [CAIXA — Perguntas frequentes para novos financiamentos habitacionais](https://www.caixa.gov.br/voce/habitacao/perguntas-frequentes-novos-financiamentos/Paginas/default.aspx)
 - [FGTS — Amortização, liquidação e pagamento de prestações](https://www.fgts.gov.br/Paginas/subpaginas/amortizacao_liquidacao.aspx)
 
-**Última revisão:** 20/09/2026.
+**Última revisão:** 21/09/2026.
