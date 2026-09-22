@@ -348,3 +348,11 @@ Para Notícias, Artigos e Observatório públicos, a página da seção é um í
 - O índice do Observatório apresenta **temas**, não versões técnicas.
 - Para o Observatório de Planejamento Financeiro, a unidade temática deve organizar, quando aplicável: **Em síntese; Evidências e premissas atuais; Implicações para o planejamento; Mapa de interdependências; O que mudou desde a última atualização; Questões em aberto; Fontes principais; Conteúdos relacionados**.
 - “Questões em aberto” descreve lacunas substantivas e pode ser pública; monitoramento, fila editorial e gatilhos permanecem internos.
+
+
+### Padrão transversal do botão ENVIAR MENSAGEM
+
+- todo botão público **ENVIAR MENSAGEM** deve incluir `submit-button`;
+- `submit-button` é sempre oval/pílula (`border-radius:999px`), nunca retangular;
+- no Planejamento Financeiro, a cor permanece verde-petróleo;
+- não aplicar essa forma automaticamente a todos os demais botões.
