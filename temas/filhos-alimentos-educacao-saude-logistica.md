@@ -85,6 +85,16 @@ Enquanto houver questão jurídica pendente, mantenha:
 
 Cada cenário deve usar as mesmas despesas-base e indicar claramente quais valores dependem de definição jurídica.
 
+### Alimentos provisórios/provisionais: quatro estados
+
+Para o fluxo de caixa, diferencie:
+1. **confirmado e exigível** — decisão/acordo vigente;
+2. **pago voluntariamente e observado** — fluxo factual, sem transformá-lo em obrigação definitiva;
+3. **pedido/requerido** — expectativa, não fluxo garantido;
+4. **cenário** — hipótese de planejamento.
+
+Quando um valor provisório/provisional for confirmado, recalcule imediatamente fluxo livre, reserva, custo de moradia, serviço da dívida e provisões dos filhos. Se vigência ou valor estiverem juridicamente incertos, mantenha cenários paralelos.
+
 ## 7. Logística de convivência também custa
 
 Diferentes arranjos podem alterar:
