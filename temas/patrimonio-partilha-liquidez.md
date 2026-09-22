@@ -116,4 +116,4 @@ O profissional deve saber:
 - comparar cenários sem prever resultado judicial;
 - comunicar valor e incerteza de forma separada.
 
-**Última revisão:** 20/09/2026.
+**Última revisão:** 21/09/2026.
