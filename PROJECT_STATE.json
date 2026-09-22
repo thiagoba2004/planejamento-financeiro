@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000039",
   "current_strategy_name": "Arquitetura Coleção → Detalhe nas Publicações",
   "current_phase": {
-    "phase_number": 2,
+    "phase_number": 4,
     "phase_total": 4,
-    "phase_code": "F-000004-000039-002",
-    "phase_name": "Refatoração de índices e conteúdos individuais",
+    "phase_code": "F-000004-000039-004",
+    "phase_name": "Deploy, verificação e fechamento",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "EA-000004-000039 Fase 01/04 concluída: inventário e desenho das rotas individuais.",
-  "next_logical_step": "Concluir refatoração de índices/detalhes; auditar rotas, mapa, paridade e deploy.",
+  "last_completed_milestone": "EA-000004-000039 Fases 01-03 concluídas: arquitetura Coleção → Detalhe implementada e auditada sem falhas.",
+  "next_logical_step": "Confirmar conclusão do GitHub Pages run 35740393931; então fechar EA-000004-000039 e sincronizar o perfil do Gerador 1.12.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -387,7 +387,7 @@
     "public_status": "IMPLEMENTADO_E_VERIFICADO",
     "status": "CONCLUIDA",
     "collection_detail_pattern": {
-      "status": "EM_IMPLEMENTACAO",
+      "status": "IMPLEMENTADO_AGUARDA_DEPLOY",
       "collection_pages": [
         "/publicacoes/noticias/",
         "/publicacoes/artigos/",
