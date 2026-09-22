@@ -6,7 +6,7 @@
 **project_name:** `Planejamento Financeiro`  
 **project_id legado:** `planejamento-financeiro`  
 **generated_from_kernel:** `1.4`  
-**generator_release:** `1.13`  
+**generator_release:** `1.14`  
 **repository:** `thiagoba2004/planejamento-financeiro`  
 **modules:** `research`, `publication`, `web-site`, `contact-protocol`, `software`, `data`, `professional-education`, `publication`, `software`, `data`, `professional-education`
 

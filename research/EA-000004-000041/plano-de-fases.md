@@ -1,6 +1,6 @@
 # EA-000004-000041 — Separação entre monitoramento interno e Site Público
 
-**Status:** EM EXECUÇÃO
+**Status:** CONCLUÍDA
 
 ## Plano de Fases
 1. **Fase 01/03 [F-000004-000041-001] — Inventário de estados internos expostos** — CONCLUÍDA.
@@ -9,3 +9,8 @@
 
 ## Regra
 Monitoramento, triagem, critérios editoriais e gatilhos de revisão pertencem à governança interna. O Site Público exibe apenas conteúdos efetivamente publicados e informações substantivas úteis ao leitor.
+
+
+## Fechamento
+
+GitHub Pages run `35753271968` concluído com `success`. Estados editoriais internos foram removidos da UI pública e preservados em documento interno de pesquisa.
