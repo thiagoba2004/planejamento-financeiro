@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000031",
   "current_strategy_name": "Integração das superveniências jurídicas do Projeto Ações Judiciais no Planejamento Financeiro",
   "current_phase": {
-    "phase_number": 4,
+    "phase_number": 5,
     "phase_total": 6,
-    "phase_code": "F-000004-000031-004",
-    "phase_name": "Frente de contingência em ruptura familiar protegida",
+    "phase_code": "F-000004-000031-005",
+    "phase_name": "Integração pública, casos e aderência CFP®",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "EA-000004-000033 concluída: gate jurídico-financeiro integrado às decisões sobre capital indenizatório e superendividamento.",
-  "next_logical_step": "Executar a EA-000004-000034: mapear eventos críticos, liquidez de emergência, moradia/duplicação de custos e filhos/alimentos provisórios ou provisionais.",
+  "last_completed_milestone": "EA-000004-000032, EA-000004-000033 e EA-000004-000034 concluídas e entregues à integradora EA31.",
+  "next_logical_step": "Integrar as três frentes em Casos e Ferramentas, revisar aderência CFP® e então executar auditoria regressiva global e verificação do GitHub Pages.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -361,7 +361,7 @@
       {
         "code": "EA-000004-000034",
         "name": "Planejamento financeiro de contingência em ruptura familiar com medidas protetivas",
-        "status": "EM_EXECUCAO"
+        "status": "CONCLUIDA"
       }
     ],
     "status": "EM_EXECUCAO"
