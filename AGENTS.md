@@ -231,9 +231,10 @@ Regras obrigatórias:
 
 - `<button>` é reservado a ações;
 - `<a href>` é reservado a navegação;
-- ação primária usa `action-button`;
+- ação primária usa `action-button`, com verde-petróleo `#0c555a` e hover/foco verde profundo `#073d41`;
 - navegação destacada usa `nav-button`;
-- link secundário usa `secondary-link`;
+- link secundário ou retorno simples usa `secondary-link`;
+- a classe genérica `.button` é vedada na superfície pública por misturar funções distintas;
 - `a.resource-card` deve ser diferenciado por cor e pode responder a hover;
 - `article.resource-card` é informativo, deve permanecer cromaticamente neutro e não pode ter comportamento visual que sugira clique;
 - o texto de cada CTA deve descrever destino ou ação de modo específico;
