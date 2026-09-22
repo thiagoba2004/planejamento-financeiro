@@ -8,17 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.11",
-  "current_strategy_code": "EA-000004-000038",
-  "current_strategy_name": "Observatório de planejamento financeiro e conhecimento profissional",
-  "current_phase": {
-    "phase_number": 7,
-    "phase_total": 7,
-    "phase_code": "F-000004-000038-007",
-    "phase_name": "Integração, publicação e auditoria",
-    "status": "EM_EXECUCAO"
-  },
-  "last_completed_milestone": "EA-000004-000038 Fases 01-06 concluídas e reconciliadas com artefatos persistidos.",
-  "next_logical_step": "Integrar Notícias, Artigos e Observatório sob o hub Publicações; implementar rotas públicas, atualizar menu/Mapa do Site, auditar e publicar.",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000004-000035 concluída: hub Publicações com Notícias, Artigos e Observatório publicado, auditado e implantado.",
+  "next_logical_step": "Modo operacional editorial: alimentar Notícias, Artigos e Observatório conforme seus protocolos e abrir nova Estratégia Autônoma somente quando surgir demanda material nova.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,20 +32,19 @@
     "CFP_ALIGNMENT_PROTOCOL.md"
   ],
   "updated_at": "2026-09-22",
-  "site_status": "INTEGRACAO_AJ_PF_PUBLICADA_E_AUDITADA",
+  "site_status": "ARQUITETURA_EDITORIAL_PUBLICACOES_PUBLICADA_E_AUDITADA",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "last_deployment": {
-    "workflow_run_id": 35676806642,
+    "workflow_run_id": 35729180230,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE_AND_ARTIFACT_AUDIT",
-    "commit_sha": "efffbd4f604a28eafd81ebad321095d428129408",
-    "completed_at": "2026-09-22T01:43:50Z",
-    "artifact_id": 10673705963,
-    "artifact_digest": "sha256:8a12811d7695d7e11096f092d5b6697d6e5f8fafc5ed57e5964bdb8b73867955"
+    "verified_by": "GITHUB_PAGES_PIPELINE_AND_REPOSITORY_AUDIT",
+    "commit_sha": "564775f06979052de485134f958011bece91aa11",
+    "completed_at": "2026-09-22T12:46:27Z",
+    "note": "Build public-only artifact, Upload Pages artifact e Deploy to GitHub Pages concluídos com success; auditoria: 37 HTMLs, 900 hrefs, zero falhas."
   },
   "public_menu": [
     "Início",
@@ -59,6 +52,7 @@
     "Conhecimentos",
     "Casos",
     "Ferramentas",
+    "Publicações",
     "Fontes",
     "Fale Conosco"
   ],
@@ -384,7 +378,9 @@
     ],
     "navigation_mode": "EDITORIAL_HUB",
     "hub_label": "Publicações",
-    "public_status": "NAO_IMPLEMENTADO",
-    "status": "EM_EXECUCAO"
-  }
+    "public_status": "IMPLEMENTADO_E_VERIFICADO",
+    "status": "CONCLUIDA"
+  },
+  "last_concluded_strategy_code": "EA-000004-000035",
+  "last_concluded_strategy_name": "Reorganização editorial e arquitetura de navegação do Site Planejamento Financeiro"
 }
