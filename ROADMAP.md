@@ -933,3 +933,16 @@ Plano: `research/EA-000004-000030/plano-de-fases.md`.
 - GitHub Pages run `35645234961`: **success**;
 - artefato final `10659862746`, digest `sha256:1d79283f8b6e19241309af077cec291611a413877a0de5de08dd2c4b31fb655d`;
 - relatório: `research/EA-000004-000030/relatorio-regressivo.md`.
+
+## Programa integrado — superveniências jurídicas AJ → PF
+
+**Estratégia integradora:** EA-000004-000031 — Integração das superveniências jurídicas do Projeto Ações Judiciais no Planejamento Financeiro.
+
+**Fonte jurídica de controle:** PRJ-000003 — Ações Judiciais, com destaque para a auditoria adversarial EA-000003-000019 e para o cluster sobre separação de fato, renda do cônjuge e patrimônio.
+
+### Estratégias derivadas
+- EA-000004-000032 — Separação de fato e unidade econômica no planejamento financeiro.
+- EA-000004-000033 — Gate jurídico-financeiro no superendividamento e uso de capital indenizatório.
+- EA-000004-000034 — Planejamento financeiro de contingência em ruptura familiar com medidas protetivas.
+
+**Regra de dependência:** EA31 coordena e integra. EA32, EA33 e EA34 tratam objetos materiais distintos. Nenhuma correção pública deve ser aplicada por simples inferência jurídica; as frentes financeiras importam apenas premissas jurídicas verificadas e preservam os limites profissionais do planejador.
