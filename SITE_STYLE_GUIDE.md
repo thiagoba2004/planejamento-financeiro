@@ -69,3 +69,13 @@ Menu global horizontal rolável, item atual identificável, cards em coluna úni
 ## Diferenciação
 
 Não reutilizar a paleta, tipografia ou linguagem editorial do Classe e Massas ou do Ações Judiciais.
+
+
+### Botão ENVIAR MENSAGEM — padrão transversal
+
+O botão real **ENVIAR MENSAGEM** usa a classe adicional `submit-button` e deve ser sempre **oval/pílula**, nunca retangular:
+
+- `border-radius: 999px`;
+- mantém a cor primária financeira verde-petróleo;
+- a forma é compartilhada com os demais Sites, sem importar suas paletas;
+- continua sendo `<button type="submit">`.
