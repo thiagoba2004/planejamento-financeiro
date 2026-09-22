@@ -8,6 +8,9 @@
   --teal-bright:#14787d;
   --teal-deep:#073d41;
   --amber:#c88a2b;
+  --action-primary:var(--teal);
+  --action-primary-hover:var(--teal-deep);
+  --action-primary-text:#fff;
   --line:#c9d9d7;
   --font-main:Arial,Helvetica,sans-serif;
   --font-display:"Trebuchet MS",Arial,Helvetica,sans-serif;
@@ -42,9 +45,6 @@ h3{font-size:1.08rem;line-height:1.28;margin:1.25rem 0 .4rem}
 .hero{padding:0 0 2.1rem;border-bottom:1px solid var(--line)}
 .hero::after{content:"";display:block;width:5rem;height:.4rem;background:var(--amber);border-radius:999px;margin-top:1.4rem}
 .hero-actions{display:flex;gap:.65rem;flex-wrap:wrap;margin-top:1.25rem}
-.button{min-height:var(--touch);display:inline-flex;align-items:center;justify-content:center;padding:.72rem 1rem;border-radius:999px;border:1px solid var(--teal);background:var(--teal);color:#fff;text-decoration:none;font:800 .74rem/1 var(--font-main);text-transform:uppercase;letter-spacing:.035em}
-.button:hover{background:var(--teal-bright);border-color:var(--teal-bright);color:#fff}
-.button.secondary{background:#fff;color:var(--teal)}
 .section-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1rem;margin:1.4rem 0 2.2rem}
 .resource-card{min-width:0;display:flex;flex-direction:column;gap:.5rem;padding:1.15rem;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);text-decoration:none;color:inherit;box-shadow:0 6px 18px rgba(7,61,65,.035)}
 a.resource-card:hover{border-color:#86b9b6;box-shadow:0 12px 28px rgba(7,61,65,.09);transform:translateY(-2px)}
@@ -117,13 +117,13 @@ textarea{min-height:11rem;resize:vertical}
   letter-spacing:.035em
 }
 .action-button{
-  border:1px solid var(--teal);
-  background:var(--teal);
-  color:#fff;
+  border:1px solid var(--action-primary);
+  background:var(--action-primary);
+  color:var(--action-primary-text);
   cursor:pointer
 }
-.action-button:hover{background:var(--teal-bright);border-color:var(--teal-bright)}
-.action-button:disabled{opacity:.65;cursor:wait}
+.action-button:hover,.action-button:focus-visible{background:var(--action-primary-hover);border-color:var(--action-primary-hover);color:var(--action-primary-text)}
+.action-button:disabled{background:var(--action-primary);border-color:var(--action-primary);color:var(--action-primary-text);opacity:.62;cursor:wait}
 .nav-button{
   border:1px solid var(--teal);
   background:#fff;
