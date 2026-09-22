@@ -1,6 +1,6 @@
 # EA-000004-000036 — Notícias de planejamento financeiro dos temas cobertos pelo Site
 
-**Status:** PLANEJADA  
+**Status:** EM EXECUÇÃO  
 **Objetivo:** instituir monitoramento periódico de fatos, regras, dados e desenvolvimentos relevantes aos assuntos já incluídos no Site.
 
 ## Plano de Fases
