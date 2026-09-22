@@ -15,4 +15,7 @@
 ## Deploy
 GitHub Actions run `35740393931`.
 
-No momento desta auditoria, Checkout, Build public-only artifact, Setup Pages e Upload Pages artifact estavam concluídos com sucesso; a etapa final Deploy to GitHub Pages permanecia em execução. O fechamento depende de sua conclusão.
+No momento desta auditoria, Checkout, Build public-only artifact, Setup Pages e Upload Pages artifact estavam concluídos com sucesso; a etapa final Deploy to GitHub Pages concluiu com **success**. Estratégia liberada para fechamento.
+
+
+**Resultado final do deploy:** `success` — run `35740393931`.

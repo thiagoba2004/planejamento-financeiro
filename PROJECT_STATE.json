@@ -8,17 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.12",
-  "current_strategy_code": "EA-000004-000039",
-  "current_strategy_name": "Arquitetura Coleção → Detalhe nas Publicações",
-  "current_phase": {
-    "phase_number": 4,
-    "phase_total": 4,
-    "phase_code": "F-000004-000039-004",
-    "phase_name": "Deploy, verificação e fechamento",
-    "status": "EM_EXECUCAO"
-  },
-  "last_completed_milestone": "EA-000004-000039 Fases 01-03 concluídas: arquitetura Coleção → Detalhe implementada e auditada sem falhas.",
-  "next_logical_step": "Confirmar conclusão do GitHub Pages run 35740393931; então fechar EA-000004-000039 e sincronizar o perfil do Gerador 1.12.",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000004-000039 concluída: Notícias, Artigos e Observatório usam índice/coleção com títulos hiperlinkados e páginas individuais.",
+  "next_logical_step": "Modo operacional editorial sob o padrão Coleção → Detalhe; novos itens devem entrar no índice e possuir página individual própria.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,19 +32,19 @@
     "CFP_ALIGNMENT_PROTOCOL.md"
   ],
   "updated_at": "2026-09-22",
-  "site_status": "ARQUITETURA_EDITORIAL_PUBLICACOES_PUBLICADA_E_AUDITADA",
+  "site_status": "PUBLICACOES_COLECAO_DETALHE_PUBLICADAS_E_AUDITADAS",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "last_deployment": {
-    "workflow_run_id": 35729180230,
+    "workflow_run_id": 35740393931,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE_AND_REPOSITORY_AUDIT",
-    "commit_sha": "564775f06979052de485134f958011bece91aa11",
-    "completed_at": "2026-09-22T12:46:27Z",
-    "note": "Build public-only artifact, Upload Pages artifact e Deploy to GitHub Pages concluídos com success; auditoria: 37 HTMLs, 900 hrefs, zero falhas."
+    "verified_by": "GITHUB_PAGES_PIPELINE_AND_COLLECTION_DETAIL_AUDIT",
+    "commit_sha": "86e122e709f39c5eec99ac3bd694329171c19cab",
+    "completed_at": "2026-09-22T14:29:51Z",
+    "note": "Coleção → Detalhe: 3 índices, 3 detalhes, 222 links verificados, zero falhas."
   },
   "public_menu": [
     "Início",
@@ -387,7 +381,7 @@
     "public_status": "IMPLEMENTADO_E_VERIFICADO",
     "status": "CONCLUIDA",
     "collection_detail_pattern": {
-      "status": "IMPLEMENTADO_AGUARDA_DEPLOY",
+      "status": "IMPLEMENTADO_E_VERIFICADO",
       "collection_pages": [
         "/publicacoes/noticias/",
         "/publicacoes/artigos/",
@@ -396,6 +390,6 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000004-000035",
-  "last_concluded_strategy_name": "Reorganização editorial e arquitetura de navegação do Site Planejamento Financeiro"
+  "last_concluded_strategy_code": "EA-000004-000039",
+  "last_concluded_strategy_name": "Arquitetura Coleção → Detalhe nas Publicações"
 }
