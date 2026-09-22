@@ -23,6 +23,15 @@ RESERVA_MESES = RESERVA_LIQUIDA / DESPESA_ESSENCIAL_MENSAL
 
 Sem os dados do caso, os valores permanecem NÃO_CALCULÁVEIS.
 
+### Unidade econômica antes do divórcio formal
+
+O plano também pode ser necessário **antes do divórcio**, quando já existe separação de fato. Nessa situação:
+- não some automaticamente a renda do outro cônjuge;
+- identifique transferências e rateios efetivos;
+- mantenha patrimônio comum ainda não partilhado como contingente/cenário;
+- separe solvência, liquidez e fluxo;
+- reabra o plano sempre que uma definição jurídica alterar renda, despesas, patrimônio ou responsabilidade por passivos.
+
 ## 3. Áreas integradas
 
 - orçamento de transição;
