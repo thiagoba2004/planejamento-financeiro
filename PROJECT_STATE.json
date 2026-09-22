@@ -8,17 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": "EA-000004-000043",
-  "current_strategy_name": "Auditoria e harmonização semântica da interface do Site Planejamento Financeiro",
-  "current_phase": {
-    "phase_number": 5,
-    "phase_total": 5,
-    "phase_code": "F-000004-000043-005",
-    "phase_name": "Deploy, verificação e fechamento",
-    "status": "EM_EXECUCAO"
-  },
-  "last_completed_milestone": "EA-000004-000042 concluída: Observatório público reorganizado por tema, data de atualização e estado atual do conhecimento; deploy verificado.",
-  "next_logical_step": "Confirmar GitHub Pages e concluir FASE 05/05 da EA-000004-000043.",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000004-000043 concluída: 40/40 páginas públicas aprovadas na auditoria de semântica visual; ações, navegação destacada, links secundários e cards harmonizados; deploy verificado.",
+  "next_logical_step": "Modo operacional. A interface usa ação primária em verde-petróleo com hover verde profundo, navegação contornada, retornos textuais e cards financeiros diferenciados.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -45,12 +39,12 @@
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "last_deployment": {
-    "workflow_run_id": 35756538672,
+    "workflow_run_id": 35795241625,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE_AND_OBSERVATORY_AUDIT",
-    "commit_sha": "2f9aeadb55aa5a2427208b7415fd1428725569d4",
+    "verified_by": "GITHUB_PAGES_PIPELINE_AND_INTERFACE_AUDIT",
+    "commit_sha": "05d440ef6740b8185b5d7427a7fe706a3e1a0208",
     "completed_at": "2026-09-22",
-    "note": "Observatório: 7 arquivos auditados, 8 seções obrigatórias, 185 links internos e zero falhas."
+    "note": "EA-000004-000043: harmonização semântica da interface financeira; 40/40 HTMLs aprovados."
   },
   "public_menu": [
     "Início",
@@ -396,12 +390,7 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000004-000042",
-  "last_concluded_strategy_name": "Arquitetura pública do Observatório de Planejamento Financeiro",
-  "current_strategy": {
-    "strategy_code": "EA-000004-000043",
-    "strategy_name": "Auditoria e harmonização semântica da interface do Site Planejamento Financeiro",
-    "plan_ref": "research/EA-000004-000043/plano-de-fases.md",
-    "status": "EM_EXECUCAO"
-  }
+  "last_concluded_strategy_code": "EA-000004-000043",
+  "last_concluded_strategy_name": "Auditoria e harmonização semântica da interface do Site Planejamento Financeiro",
+  "current_strategy": null
 }
