@@ -1,6 +1,6 @@
 # EA-000004-000038 — Observatório de planejamento financeiro e conhecimento profissional
 
-**Status:** PLANEJADA  
+**Status:** EM EXECUÇÃO  
 **Objetivo:** instituir pesquisa cumulativa, leitura estruturada e visão sistêmica dos assuntos já abordados, acompanhando mudanças regulatórias, metodológicas, científicas e profissionais.
 
 ## Plano de Fases
