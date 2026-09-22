@@ -8,17 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": "EA-000004-000042",
-  "current_strategy_name": "Arquitetura pública do Observatório de Planejamento Financeiro",
-  "current_phase": {
-    "phase_number": 3,
-    "phase_total": 4,
-    "phase_code": "F-000004-000042-003",
-    "phase_name": "Auditoria estrutural e de linguagem pública",
-    "status": "EM_EXECUCAO"
-  },
-  "last_completed_milestone": "EA-000004-000042 Fases 01-02 concluídas: Snapshot removido e Observatório de Planejamento Financeiro reorganizado por tema.",
-  "next_logical_step": "Auditar linguagem pública, links, paridade Markdown/HTML e ausência de versionamento técnico; depois publicar e fechar.",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000004-000042 concluída: Observatório público reorganizado por tema, data de atualização e estado atual do conhecimento; deploy verificado.",
+  "next_logical_step": "Modo operacional: novas unidades do Observatório devem seguir a arquitetura pública por tema e manter versionamento técnico somente na governança interna.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,19 +32,19 @@
     "CFP_ALIGNMENT_PROTOCOL.md"
   ],
   "updated_at": "2026-09-22",
-  "site_status": "ESTADOS_EDITORIAIS_INTERNOS_REMOVIDOS_DA_UI_PUBLICA",
+  "site_status": "OBSERVATORIO_PUBLICO_ESTRUTURADO_E_VERIFICADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "last_deployment": {
-    "workflow_run_id": 35753271968,
+    "workflow_run_id": 35756538672,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE_AND_INTERNAL_STATE_LEAK_AUDIT",
-    "commit_sha": "fbc357092b6bc9affc60f7ef2aac53737c982d8a",
+    "verified_by": "GITHUB_PAGES_PIPELINE_AND_OBSERVATORY_AUDIT",
+    "commit_sha": "2f9aeadb55aa5a2427208b7415fd1428725569d4",
     "completed_at": "2026-09-22",
-    "note": "Estados internos removidos da camada pública; 6 arquivos editoriais críticos auditados; zero ocorrências proibidas."
+    "note": "Observatório: 7 arquivos auditados, 8 seções obrigatórias, 185 links internos e zero falhas."
   },
   "public_menu": [
     "Início",
@@ -396,6 +390,6 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000004-000041",
-  "last_concluded_strategy_name": "Separação entre monitoramento interno e Site Público"
+  "last_concluded_strategy_code": "EA-000004-000042",
+  "last_concluded_strategy_name": "Arquitetura pública do Observatório de Planejamento Financeiro"
 }
