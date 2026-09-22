@@ -8,17 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.13",
-  "current_strategy_code": "EA-000004-000040",
-  "current_strategy_name": "Revisão da Home, tipografia e responsividade",
-  "current_phase": {
-    "phase_number": 3,
-    "phase_total": 4,
-    "phase_code": "F-000004-000040-003",
-    "phase_name": "Auditoria responsiva e regressiva",
-    "status": "EM_EXECUCAO"
-  },
-  "last_completed_milestone": "EA-000004-000040 Fases 01-02 concluídas: escala tipográfica e Home corrigidas no código.",
-  "next_logical_step": "Auditar Home, CFP®, Conhecimentos e amostra de conteúdo; verificar overflow, hierarquia e links; então publicar.",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000004-000040 concluída: Home corrigida, títulos reduzidos, auditoria aprovada e deploy GitHub Pages com success.",
+  "next_logical_step": "Modo operacional sob o padrão do Gerador 1.13; novas mudanças visuais devem preservar escala tipográfica moderada e ausência de overflow mobile.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,19 +32,19 @@
     "CFP_ALIGNMENT_PROTOCOL.md"
   ],
   "updated_at": "2026-09-22",
-  "site_status": "PUBLICACOES_COLECAO_DETALHE_PUBLICADAS_E_AUDITADAS",
+  "site_status": "HOME_TIPOGRAFIA_RESPONSIVA_PUBLICADA_E_AUDITADA",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
   "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "last_deployment": {
-    "workflow_run_id": 35740393931,
+    "workflow_run_id": 35747406857,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE_AND_COLLECTION_DETAIL_AUDIT",
-    "commit_sha": "86e122e709f39c5eec99ac3bd694329171c19cab",
-    "completed_at": "2026-09-22T14:29:51Z",
-    "note": "Coleção → Detalhe: 3 índices, 3 detalhes, 222 links verificados, zero falhas."
+    "verified_by": "GITHUB_PAGES_PIPELINE_AND_RESPONSIVE_CODE_AUDIT",
+    "commit_sha": "eb28582015016949ae5f4e857ec622e8a3702858",
+    "completed_at": "2026-09-22",
+    "note": "Home e tipografia corrigidas; pipeline completo success; verificador HTTP externo não acessou github.io."
   },
   "public_menu": [
     "Início",
@@ -396,6 +390,6 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000004-000039",
-  "last_concluded_strategy_name": "Arquitetura Coleção → Detalhe nas Publicações"
+  "last_concluded_strategy_code": "EA-000004-000040",
+  "last_concluded_strategy_name": "Revisão da Home, tipografia e responsividade"
 }
