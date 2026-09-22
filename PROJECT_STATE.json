@@ -15,10 +15,10 @@
     "phase_total": 6,
     "phase_code": "F-000004-000031-006",
     "phase_name": "Auditoria regressiva, deploy e fechamento",
-    "status": "EM_EXECUCAO"
+    "status": "CONCLUIDA"
   },
-  "last_completed_milestone": "EA-000004-000032, EA-000004-000033 e EA-000004-000034 concluídas e entregues à integradora EA31.",
-  "next_logical_step": "Auditar todo o corpus público, validar links/âncoras/paridade e verificar o workflow final de GitHub Pages antes de encerrar a EA31.",
+  "last_completed_milestone": "EA-000004-000031 concluída: superveniências AJ integradas ao PF por EA32–EA34; 33 HTMLs do artefato publicado auditados, 808 hrefs, 267 âncoras e zero regressão material residual.",
+  "next_logical_step": "Aguardar nova Estratégia Autônoma; manter como regra de atualização cruzada que superveniências jurídicas materiais do PRJ-000003 sejam triadas por impacto financeiro antes de alterar o PRJ-000004.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -38,20 +38,20 @@
     "CFP_ALIGNMENT_PROTOCOL.md"
   ],
   "updated_at": "2026-09-21",
-  "site_status": "AUDITORIA_REGRESSIVA_APROVADA_E_PUBLICADA",
+  "site_status": "INTEGRACAO_AJ_PF_PUBLICADA_E_AUDITADA",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "CONCLUIDA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "last_deployment": {
-    "workflow_run_id": 35645234961,
+    "workflow_run_id": 35676806642,
     "status": "SUCCESS",
     "verified_by": "GITHUB_PAGES_PIPELINE_AND_ARTIFACT_AUDIT",
-    "commit_sha": "be331d70ee3623e640af492910ab1bd2a57fd548",
-    "completed_at": "2026-09-21T19:31:37Z",
-    "artifact_id": 10659862746,
-    "artifact_digest": "sha256:1d79283f8b6e19241309af077cec291611a413877a0de5de08dd2c4b31fb655d"
+    "commit_sha": "efffbd4f604a28eafd81ebad321095d428129408",
+    "completed_at": "2026-09-22T01:43:50Z",
+    "artifact_id": 10673705963,
+    "artifact_digest": "sha256:8a12811d7695d7e11096f092d5b6697d6e5f8fafc5ed57e5964bdb8b73867955"
   },
   "public_menu": [
     "Início",
@@ -364,7 +364,7 @@
         "status": "CONCLUIDA"
       }
     ],
-    "status": "EM_EXECUCAO"
+    "status": "CONCLUIDA"
   },
   "current_scenario_assumptions": {
     "indemnity_origin": "dano moral trabalhista",
