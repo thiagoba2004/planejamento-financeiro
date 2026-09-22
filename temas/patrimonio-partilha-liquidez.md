@@ -18,6 +18,22 @@ Um bem pode ser comunicável e ilíquido. Um bem particular pode ser relevante p
 
 Custos só entram quando realmente aplicáveis e tecnicamente documentados.
 
+### Patrimônio pendente de definição
+
+Quando a participação econômica do cliente ainda depender de partilha, meação ou outra conclusão jurídica, não contabilize o valor líquido integral como patrimônio individual definitivo.
+
+Use a sequência:
+
+`valor líquido do bem = valor bruto − passivo vinculado − custos de conversão aplicáveis`
+
+Depois, somente se houver percentual juridicamente confirmado:
+
+`valor atribuível ao cliente = valor líquido do bem × percentual confirmado`
+
+Sem confirmação, o valor deve permanecer como **patrimônio contingente/cenário**, separado de caixa e de liquidez disponível.
+
+Em apartamento ou veículo financiado, registre valor de mercado, saldo devedor, gravame, prestação, quem paga, uso atual e liquidez.
+
 ## 3. Data-base
 
 Compare ativos e passivos em datas compatíveis. Não some silenciosamente:
