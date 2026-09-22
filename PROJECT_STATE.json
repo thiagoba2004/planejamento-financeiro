@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000043",
   "current_strategy_name": "Auditoria e harmonização semântica da interface do Site Planejamento Financeiro",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 5,
     "phase_total": 5,
-    "phase_code": "F-000004-000043-001",
-    "phase_name": "Registro, inventário e matriz de componentes",
+    "phase_code": "F-000004-000043-005",
+    "phase_name": "Deploy, verificação e fechamento",
     "status": "EM_EXECUCAO"
   },
   "last_completed_milestone": "EA-000004-000042 concluída: Observatório público reorganizado por tema, data de atualização e estado atual do conhecimento; deploy verificado.",
-  "next_logical_step": "Executar FASE 01/05 da EA-000004-000043: inventário e matriz de componentes.",
+  "next_logical_step": "Confirmar GitHub Pages e concluir FASE 05/05 da EA-000004-000043.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
