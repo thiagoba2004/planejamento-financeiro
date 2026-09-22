@@ -5,20 +5,20 @@
   "project_alias": "PF",
   "project_id": "planejamento-financeiro",
   "repository": "thiagoba2004/planejamento-financeiro",
-  "status": "OPERACIONAL",
+  "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
-  "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000031",
-  "current_strategy_name": "Integração das superveniências jurídicas do Projeto Ações Judiciais no Planejamento Financeiro",
+  "generator_release": "1.11",
+  "current_strategy_code": "EA-000004-000035",
+  "current_strategy_name": "Reorganização editorial e arquitetura de navegação do Site Planejamento Financeiro",
   "current_phase": {
-    "phase_number": 6,
+    "phase_number": 3,
     "phase_total": 6,
-    "phase_code": "F-000004-000031-006",
-    "phase_name": "Auditoria regressiva, deploy e fechamento",
-    "status": "CONCLUIDA"
+    "phase_code": "F-000004-000035-003",
+    "phase_name": "Integração das estratégias filhas",
+    "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "EA-000004-000031 concluída: superveniências AJ integradas ao PF por EA32–EA34; 33 HTMLs do artefato publicado auditados, 808 hrefs, 267 âncoras e zero regressão material residual.",
-  "next_logical_step": "Aguardar nova Estratégia Autônoma; manter como regra de atualização cruzada que superveniências jurídicas materiais do PRJ-000003 sejam triadas por impacto financeiro antes de alterar o PRJ-000004.",
+  "last_completed_milestone": "EA-000004-000035 Fases 01 e 02 concluídas: inventário semântico e decisão EDITORIAL_HUB/Publicações.",
+  "next_logical_step": "Executar EA-000004-000036 — Notícias de planejamento financeiro dos temas cobertos pelo Site; produzir escopo, protocolo, cadência, modelo e piloto antes da implementação pública do hub.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -37,7 +37,7 @@
     "PROFESSIONAL_SCOPE.md",
     "CFP_ALIGNMENT_PROTOCOL.md"
   ],
-  "updated_at": "2026-09-21",
+  "updated_at": "2026-09-22",
   "site_status": "INTEGRACAO_AJ_PF_PUBLICADA_E_AUDITADA",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
@@ -374,5 +374,17 @@
     "source": "USER_PROVIDED_HYPOTHETICAL",
     "economic_availability": "A_VERIFICAR_CONFORME_RESERVA_COMPROMISSOS_DIVIDAS_E_OBJETIVOS",
     "legal_availability": "A_VERIFICAR_QUANDO_HOUVER_VINCULO_OBRIGACAO_OU_PROCESSO_RELEVANTE"
+  },
+  "editorial_program": {
+    "integrator": "EA-000004-000035",
+    "children": [
+      "EA-000004-000036",
+      "EA-000004-000037",
+      "EA-000004-000038"
+    ],
+    "navigation_mode": "EDITORIAL_HUB",
+    "hub_label": "Publicações",
+    "public_status": "NAO_IMPLEMENTADO",
+    "status": "EM_EXECUCAO"
   }
 }
