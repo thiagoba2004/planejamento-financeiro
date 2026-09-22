@@ -63,6 +63,19 @@ Permite identificar dupla contagem e insuficiência global.
 
 Uma transferência entre responsáveis é saída para um e entrada para outro, mas **não cria renda familiar nova**.
 
+### Renda do outro responsável e transferências
+
+A renda integral do outro genitor não deve ser incorporada automaticamente ao orçamento individual do cliente.
+
+Diferencie:
+- renda própria do cliente;
+- transferência efetivamente recebida;
+- pagamento direto de escola, saúde ou outra despesa pelo outro responsável;
+- rateio de despesas;
+- renda do outro responsável apenas como dado contextual, quando materialmente relevante.
+
+Se o outro responsável paga uma despesa diretamente, isso reduz a parcela efetivamente suportada pelo cliente, mas não vira renda própria do cliente.
+
 ## 6. Cenários de custeio
 
 Enquanto houver questão jurídica pendente, mantenha:
