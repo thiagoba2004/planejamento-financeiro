@@ -75,6 +75,20 @@ Não trate como reserva:
 - patrimônio de filhos;
 - ativos sem hipótese atual de resgate.
 
+### Contingência financeira em ruptura protegida
+
+Quando uma medida protetiva, afastamento do lar ou outra decisão jurídica confirmada exigir reorganização urgente, o planejamento deve mudar de prioridade: primeiro continuidade financeira, liquidez, moradia, saúde, transporte e despesas dos filhos; depois decisões patrimoniais menos urgentes.
+
+O planejador não avalia a existência de violência nem recomenda a medida jurídica. Ele usa o evento confirmado como premissa para:
+- mapear recursos legitimamente acessíveis;
+- identificar vencimentos essenciais;
+- projetar custo de mudança e sobreposição de moradias;
+- separar obrigação alimentar confirmada de pedido ou cenário;
+- documentar movimentações relevantes;
+- preservar reversibilidade até que as definições jurídicas se estabilizem.
+
+Preservar acesso legítimo a recursos próprios não significa ocultar, dissipar ou retirar patrimônio de terceiros.
+
 ## 5. Filhos e dupla contagem
 
 Despesas dos filhos devem ser identificadas separadamente e depois atribuídas às unidades conforme pagamentos realmente existentes ou cenários explícitos.
@@ -132,6 +146,9 @@ Use:
 
 - Planejar — materiais oficiais do CFP® e Gestão Financeira;
 - Banco Central do Brasil — orçamento pessoal e educação financeira;
-- Ações Judiciais — dossiê jurídico de divórcio litigioso, usado apenas para premissas jurídicas verificadas.
+- Ações Judiciais — dossiê jurídico de divórcio litigioso, usado apenas para premissas jurídicas verificadas;
+- Lei nº 15.411/2026 — atualização do art. 12-C da Lei Maria da Penha;
+- Lei nº 15.412/2026 — medidas protetivas cíveis e alimentos provisórios/provisionais;
+- Lei nº 14.713/2023 — guarda e art. 699-A do CPC.
 
 **Última revisão:** 21/09/2026.
