@@ -2,7 +2,7 @@
 
 ## Menu global
 
-Início · CFP® · Conhecimentos · Casos · Ferramentas · Fontes · Fale Conosco
+Início · CFP® · Conhecimentos · Casos · Ferramentas · Publicações · Fontes · Fale Conosco
 
 ## Princípio arquitetural
 
@@ -20,6 +20,7 @@ O Menu global representa **áreas estáveis e transversais do Site**. Módulos, 
   - **Métricas e indicadores:** subárea de Ferramentas.
   - **Escada de intervenção:** ferramenta de apoio à decisão.
   - evolução prevista: calculadoras, checklists, roteiros, templates e árvores de decisão.
+- **Publicações:** hub editorial transversal em `/publicacoes/`, com **Notícias** (o que mudou), **Artigos** (como interpretar e problematizar) e **Observatório** (como o estado cumulativo do conhecimento se conecta, evolui e exige revalidação).
 - **Fontes:** Planejar, Banco Central e demais referências institucionais.
 - **Fale Conosco:** canal protocolado de contato.
 - **Privacidade:** rota pública de transparência sobre tratamento de dados, acessível pelo Fale Conosco, recibo e rodapé/Mapa; não integra o menu global.
@@ -59,3 +60,12 @@ A identidade deve comunicar clareza, formação, cálculo e decisão, sem reprod
 - Regras perecíveis (exame, tributação, limites regulatórios, FGC, SFH, previdência) devem expor data de verificação quando material.
 - Fontes sensíveis devem permitir identificar órgão/autoria, documento, versão/data, status e link recuperável.
 - Divergência material Markdown–HTML bloqueia publicação.
+
+
+## Arquitetura editorial transversal — implementada em 22/09/2026
+
+- Modo de navegação: `EDITORIAL_HUB`.
+- Rótulo global: **Publicações**.
+- Rotas públicas: `/publicacoes/`, `/publicacoes/noticias/`, `/publicacoes/artigos/` e `/publicacoes/observatorio/`.
+- Conhecimentos, Casos e Ferramentas continuam como áreas estáveis; as novas camadas não as duplicam.
+- O Mapa do Site expõe as três subáreas públicas.
