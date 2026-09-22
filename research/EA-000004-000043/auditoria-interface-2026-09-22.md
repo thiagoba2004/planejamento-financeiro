@@ -53,4 +53,4 @@ O Planejamento Financeiro não recebeu botões vermelhos, azul-marinho ou estét
 
 **APROVADO NO CÓDIGO.**
 
-A próxima etapa é confirmar o pipeline do GitHub Pages e fechar a estratégia.
+GitHub Pages confirmado: run **35795241625 — success**. Estratégia encerrada.
