@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000031",
   "current_strategy_name": "Integração das superveniências jurídicas do Projeto Ações Judiciais no Planejamento Financeiro",
   "current_phase": {
-    "phase_number": 5,
+    "phase_number": 6,
     "phase_total": 6,
-    "phase_code": "F-000004-000031-005",
-    "phase_name": "Integração pública, casos e aderência CFP®",
+    "phase_code": "F-000004-000031-006",
+    "phase_name": "Auditoria regressiva, deploy e fechamento",
     "status": "EM_EXECUCAO"
   },
   "last_completed_milestone": "EA-000004-000032, EA-000004-000033 e EA-000004-000034 concluídas e entregues à integradora EA31.",
-  "next_logical_step": "Integrar as três frentes em Casos e Ferramentas, revisar aderência CFP® e então executar auditoria regressiva global e verificação do GitHub Pages.",
+  "next_logical_step": "Auditar todo o corpus público, validar links/âncoras/paridade e verificar o workflow final de GitHub Pages antes de encerrar a EA31.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
