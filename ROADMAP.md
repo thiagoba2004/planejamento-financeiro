@@ -946,3 +946,13 @@ Plano: `research/EA-000004-000030/plano-de-fases.md`.
 - EA-000004-000034 — Planejamento financeiro de contingência em ruptura familiar com medidas protetivas.
 
 **Regra de dependência:** EA31 coordena e integra. EA32, EA33 e EA34 tratam objetos materiais distintos. Nenhuma correção pública deve ser aplicada por simples inferência jurídica; as frentes financeiras importam apenas premissas jurídicas verificadas e preservam os limites profissionais do planejador.
+## Programa editorial — Atualidade, Análise e Observação — PLANEJADO
+
+**Dependência transversal:** EA-000002-000008 no PRJ-000002 — Gerador de Agents.
+
+- **EA-000004-000035 — Reorganização editorial e arquitetura de navegação do Site Planejamento Financeiro.** Estratégia integradora; 6 fases.
+- **EA-000004-000036 — Notícias de planejamento financeiro dos temas cobertos pelo Site.** 6 fases; cadências semanal, mensal, trimestral, semestral e anual.
+- **EA-000004-000037 — Artigos críticos de planejamento financeiro.** 6 fases; análise autoral com evidência, contraditório técnico e limites profissionais.
+- **EA-000004-000038 — Observatório de planejamento financeiro e conhecimento profissional.** 7 fases; pesquisa cumulativa, visão sistêmica, horizon scanning e evidência viva.
+
+**Regra de execução:** nenhuma alteração pública de menu/rotas antes da conclusão das fases normativas pertinentes da EA-000002-000008.
