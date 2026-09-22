@@ -286,4 +286,20 @@ Treine cálculo, diagnóstico, decisão e comunicação em situações progressi
 
 [Ver plano integrado pós-indenização](../temas/plano-financeiro-integrado-pos-indenizacao.html)
 
+## Casos integrados — superveniências jurídicas e planejamento financeiro
+
+- *Caso 1* — **Casado, mas separado de fato**: Estado civil permanece casado, porém renda e despesas já operam em unidades econômicas distintas. O diagnóstico não soma automaticamente a renda do outro cônjuge.
+
+- *Caso 2* — **Separação de fato sob o mesmo teto**: Coabitação temporária exige reconciliar quem paga moradia, alimentação, filhos e contas sem presumir caixa único.
+
+- *Caso 3* — **Capital extraordinário durante repactuação**: O planejador simula quitar, amortizar, reservar e investir, mas o gate jurídico-financeiro fica AMARELO até validação da execução.
+
+- *Caso 4* — **Dívida fora do plano, dentro do fluxo**: Financiamento ou obrigação juridicamente excluída da repactuação continua consumindo caixa e precisa entrar no teste de sustentabilidade.
+
+- *Caso 5* — **Mudança urgente de moradia**: Decisão/medida jurídica confirmada exige projetar caução, aluguel, mudança, deslocamento e eventual sobreposição com o imóvel anterior.
+
+- *Caso 6* — **Alimentos provisórios confirmados versus apenas requeridos**: O primeiro altera o fluxo confirmado; o segundo permanece cenário.
+
+[Ver transição financeira](../temas/divorcio-transicao-financeira.html) · [Ver indenização e superendividamento](../temas/indenizacao-superendividamento.html) · [Ver plano integrado pós-divórcio](../temas/reconstrucao-financeira-plano-integrado-pos-divorcio.html)
+
 **Última sincronização semântica com o HTML público:** 21/09/2026.
