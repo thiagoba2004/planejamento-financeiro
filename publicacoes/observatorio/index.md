@@ -8,4 +8,4 @@ Pesquisa cumulativa, interdependências e sinais capazes de alterar premissas, m
 
 **Snapshot 0.1 · data de corte: 22/09/2026**
 
-Síntese das conclusões estáveis, sinais regulatórios em monitoramento, lacunas de evidência e interdependências entre caixa, patrimônio, dívidas, objetivos, investimentos, proteção, previdência e tributação.
+Síntese das conclusões consolidadas, lacunas de evidência e interdependências entre caixa, patrimônio, dívidas, objetivos, investimentos, proteção, previdência e tributação.

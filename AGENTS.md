@@ -329,3 +329,12 @@ Para Notícias, Artigos e Observatório públicos, a página da seção é um í
 - `h2` fica aproximadamente em `1,25rem–1,50rem` e `h3` em torno de `1,08rem`.
 - A Home deve empilhar seus blocos estruturais no mobile e não pode produzir overflow horizontal geral.
 - Toda alteração de CSS estrutural exige teste das páginas Início, CFP®, Conhecimentos e de pelo menos uma página de conteúdo em larguras móveis representativas.
+
+
+## 14. Estados editoriais internos não são conteúdo público
+
+- Rótulos como **“Em monitoramento”**, “fila editorial”, “pendente”, “gatilho de revisão”, “critério editorial”, “triagem” e equivalentes pertencem à governança interna.
+- Itens ainda não aprovados como notícia, artigo ou unidade do Observatório não devem aparecer no Site Público como pré-publicação.
+- O Site Público exibe somente conteúdo editorial já publicado e informações substantivas úteis ao leitor.
+- Monitoramento, horizon scanning, gatilhos e critérios de materialidade permanecem em arquivos internos de pesquisa/governança.
+- A auditoria de publicação deve procurar e bloquear a exposição desses estados internos.

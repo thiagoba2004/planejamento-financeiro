@@ -8,11 +8,17 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.13",
-  "current_strategy_code": null,
-  "current_strategy_name": null,
-  "current_phase": null,
-  "last_completed_milestone": "EA-000004-000040 concluída: Home corrigida, títulos reduzidos, auditoria aprovada e deploy GitHub Pages com success.",
-  "next_logical_step": "Modo operacional sob o padrão do Gerador 1.13; novas mudanças visuais devem preservar escala tipográfica moderada e ausência de overflow mobile.",
+  "current_strategy_code": "EA-000004-000041",
+  "current_strategy_name": "Separação entre monitoramento interno e Site Público",
+  "current_phase": {
+    "phase_number": 3,
+    "phase_total": 3,
+    "phase_code": "F-000004-000041-003",
+    "phase_name": "Auditoria, deploy e fechamento",
+    "status": "EM_EXECUCAO"
+  },
+  "last_completed_milestone": "EA-000004-000041 Fases 01-02 concluídas: estados internos removidos da camada pública e regra preventiva adicionada.",
+  "next_logical_step": "Auditar o Site Público e confirmar o deploy do GitHub Pages.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
