@@ -8,17 +8,17 @@
   "status": "OPERACIONAL",
   "kernel_version": "1.4",
   "generator_release": "1.9",
-  "current_strategy_code": "EA-000004-000030",
-  "current_strategy_name": "Auditoria regressiva pós-correção do Site Planejamento Financeiro",
+  "current_strategy_code": "EA-000004-000031",
+  "current_strategy_name": "Integração das superveniências jurídicas do Projeto Ações Judiciais no Planejamento Financeiro",
   "current_phase": {
-    "phase_number": 5,
-    "phase_total": 5,
-    "phase_code": "F-000004-000030-005",
-    "phase_name": "Relatório regressivo e estado",
-    "status": "CONCLUIDA"
+    "phase_number": 2,
+    "phase_total": 6,
+    "phase_code": "F-000004-000031-002",
+    "phase_name": "Frente separação de fato e unidade econômica",
+    "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "EA-000004-000030 concluída: artefato real do GitHub Pages auditado, cinco divergências CFP® encontradas e corrigidas, 33 HTMLs finais sem regressão material residual detectada.",
-  "next_logical_step": "Aguardar nova Estratégia Autônoma; manter auditoria regressiva por artefato como gate após ciclos corretivos amplos.",
+  "last_completed_milestone": "EA-000004-000031 Fase 01 concluída: impacto cruzado AJ→PF confirmado e decomposto nas estratégias EA32, EA33 e EA34.",
+  "next_logical_step": "Executar a EA-000004-000032, começando pelo modelo de unidade econômica e linha do tempo; depois avançar para renda/transferências/rateios, patrimônio e filhos.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -41,7 +41,7 @@
   "site_status": "AUDITORIA_REGRESSIVA_APROVADA_E_PUBLICADA",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "CONCLUIDA",
+  "strategy_status": "EM_EXECUCAO",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "last_deployment": {
@@ -341,7 +341,31 @@
       "status": "CONCLUIDA"
     }
   ],
-  "active_strategy_portfolio": null,
+  "active_strategy_portfolio": {
+    "theme": "Superveniências jurídicas do Projeto Ações Judiciais com repercussão financeira",
+    "trigger_request": "REQ-20260921-057",
+    "legal_source_project": "PRJ-000003",
+    "legal_audit_strategy": "EA-000003-000019",
+    "integrator_strategy": "EA-000004-000031",
+    "strategies": [
+      {
+        "code": "EA-000004-000032",
+        "name": "Separação de fato e unidade econômica no planejamento financeiro",
+        "status": "EM_EXECUCAO"
+      },
+      {
+        "code": "EA-000004-000033",
+        "name": "Gate jurídico-financeiro no superendividamento e uso de capital indenizatório",
+        "status": "PLANEJADA"
+      },
+      {
+        "code": "EA-000004-000034",
+        "name": "Planejamento financeiro de contingência em ruptura familiar com medidas protetivas",
+        "status": "PLANEJADA"
+      }
+    ],
+    "status": "EM_EXECUCAO"
+  },
   "current_scenario_assumptions": {
     "indemnity_origin": "dano moral trabalhista",
     "net_capital_brl": 100000,
