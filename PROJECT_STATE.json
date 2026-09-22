@@ -8,17 +8,17 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.11",
-  "current_strategy_code": "EA-000004-000037",
-  "current_strategy_name": "Artigos críticos de planejamento financeiro",
+  "current_strategy_code": "EA-000004-000038",
+  "current_strategy_name": "Observatório de planejamento financeiro e conhecimento profissional",
   "current_phase": {
     "phase_number": 1,
-    "phase_total": 6,
-    "phase_code": "F-000004-000037-001",
-    "phase_name": "Mapa de lacunas argumentativas",
+    "phase_total": 7,
+    "phase_code": "F-000004-000038-001",
+    "phase_name": "Modelo de observação e perguntas permanentes",
     "status": "EM_EXECUCAO"
   },
   "last_completed_milestone": "EA-000004-000035 Fases 01 e 02 concluídas: inventário semântico e decisão EDITORIAL_HUB/Publicações.",
-  "next_logical_step": "Mapear lacunas argumentativas do corpus financeiro e definir o primeiro artigo-piloto com tese, evidência e limites profissionais.",
+  "next_logical_step": "Definir perguntas permanentes, taxonomia, horizon scanning, evidência viva e piloto do Observatório financeiro.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
