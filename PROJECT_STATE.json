@@ -11,14 +11,14 @@
   "current_strategy_code": "EA-000004-000031",
   "current_strategy_name": "Integração das superveniências jurídicas do Projeto Ações Judiciais no Planejamento Financeiro",
   "current_phase": {
-    "phase_number": 2,
+    "phase_number": 3,
     "phase_total": 6,
-    "phase_code": "F-000004-000031-002",
-    "phase_name": "Frente separação de fato e unidade econômica",
+    "phase_code": "F-000004-000031-003",
+    "phase_name": "Frente superendividamento e gate jurídico-financeiro",
     "status": "EM_EXECUCAO"
   },
-  "last_completed_milestone": "EA-000004-000031 Fase 01 concluída: impacto cruzado AJ→PF confirmado e decomposto nas estratégias EA32, EA33 e EA34.",
-  "next_logical_step": "Executar a EA-000004-000032, começando pelo modelo de unidade econômica e linha do tempo; depois avançar para renda/transferências/rateios, patrimônio e filhos.",
+  "last_completed_milestone": "EA-000004-000032 concluída: cinco pares públicos atualizados para separação de fato, unidade econômica, renda/transferências, patrimônio contingente e despesas dos filhos.",
+  "next_logical_step": "Executar a EA-000004-000033: inventariar decisões financeiras juridicamente sensíveis e separar simulação financeira de execução dependente de validação jurídica.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -351,12 +351,12 @@
       {
         "code": "EA-000004-000032",
         "name": "Separação de fato e unidade econômica no planejamento financeiro",
-        "status": "EM_EXECUCAO"
+        "status": "CONCLUIDA"
       },
       {
         "code": "EA-000004-000033",
         "name": "Gate jurídico-financeiro no superendividamento e uso de capital indenizatório",
-        "status": "PLANEJADA"
+        "status": "EM_EXECUCAO"
       },
       {
         "code": "EA-000004-000034",
