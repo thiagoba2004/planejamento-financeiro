@@ -61,6 +61,22 @@ O profissional deve ser capaz de:
 
 Nenhum índice isolado produz diagnóstico automático. O critério de 50% usado pelo Banco Central em estudo de endividamento de risco é indicador analítico, não corte jurídico nem regra universal do CFP®.
 
+### Separação de fato e base das métricas
+
+Quando a pessoa permanece formalmente casada, mas está separada de fato, **estado civil não deve ser usado como atalho para presumir uma única unidade econômica**.
+
+Antes de calcular comprometimento, fluxo livre ou capacidade de pagamento, identifique:
+- renda própria recorrente do cliente;
+- transferências efetivamente recebidas ou pagas;
+- despesas compartilhadas e o rateio efetivamente suportado;
+- pagamentos diretos feitos pelo outro cônjuge/genitor;
+- patrimônio individual confirmado;
+- patrimônio comum ou direito econômico ainda pendente de definição.
+
+A renda do outro cônjuge pode ser informação relevante para determinado diagnóstico, mas **não é somada automaticamente à renda do cliente**. Pagamento direto de uma despesa pelo outro responsável reduz a parcela efetivamente suportada pelo cliente; não cria renda própria.
+
+Em bens financiados, separar valor bruto, saldo devedor, valor econômico líquido e participação juridicamente confirmada ou tratada como cenário.
+
 ## 5. Escada de intervenção
 
 ### Nível 0 — Prevenção
