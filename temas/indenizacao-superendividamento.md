@@ -73,6 +73,17 @@ FLUXO_LIVRE = RENDA_LÍQUIDA - DESPESAS_ESSENCIAIS - SERVIÇO_MENSAL_DA_DÍVIDA
 
 Nenhum cenário é automaticamente o melhor.
 
+### Gate jurídico-financeiro antes da execução
+
+Esses cenários podem ser **simulados financeiramente**, mas a execução não é automaticamente livre quando houver processo de repactuação, negociação global, acordo homologado, garantia, patrimônio controvertido ou outra dependência jurídica material.
+
+Use três estados:
+- **VERDE:** nenhuma dependência jurídica material identificada; confirmar contrato, custo e liquidez;
+- **AMARELO:** simular e validar juridicamente antes de executar;
+- **VERMELHO:** não orientar execução financeira unilateral enquanto persistir ordem, garantia ou controvérsia material.
+
+Quitação ou amortização seletiva em contexto de repactuação não deve ser apresentada como autorização automática. O planejador mede o efeito econômico; a executabilidade jurídica pertence à análise especializada.
+
 ## 5. Sustentabilidade
 
 Um cenário que reduz dívida mas mantém **FLUXO_LIVRE < 0** pode apenas adiar a crise.
