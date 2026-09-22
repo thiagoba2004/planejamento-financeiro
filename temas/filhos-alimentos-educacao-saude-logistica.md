@@ -165,4 +165,4 @@ O profissional deve saber:
 - [Banco Central — orçamento pessoal](https://www.bcb.gov.br/meubc/faqs/p/o-que-e-um-orcamento-pessoal)
 - [Ações Judiciais — Divórcio litigioso c/c partilha, guarda, convivência e alimentos](https://thiagoba2004.github.io/acoes-judiciais/acoes/divorcio-litigioso-partilha-guarda-convivencia-alimentos.html)
 
-**Última revisão:** 20/09/2026.
+**Última revisão:** 21/09/2026.
