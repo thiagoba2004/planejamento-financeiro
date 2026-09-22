@@ -45,7 +45,7 @@ O profissional deve ser capaz de:
 `Patrimônio líquido = ativos totais - passivos totais`
 
 ### Comprometimento da renda com dívidas
-`Serviço mensal da dívida / renda líquida`
+`Serviço mensal da dívida / renda líquida da unidade analisada`
 
 ### Renda após o serviço da dívida
 `Renda líquida - serviço mensal da dívida`
@@ -160,3 +160,5 @@ O planejador financeiro pode identificar sinais, organizar documentos, calcular 
 ## 11. Atualização
 
 Esta unidade deve ser revisada quando a Planejar alterar programa, perfil de competências, fórmulas, regras do exame ou materiais oficiais; e quando fontes técnicas relevantes mudarem.
+
+**Última revisão:** 21/09/2026.
