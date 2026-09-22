@@ -1,6 +1,6 @@
 # EA-000004-000037 — Artigos críticos de planejamento financeiro
 
-**Status:** PLANEJADA  
+**Status:** EM EXECUÇÃO  
 **Objetivo:** desenvolver raciocínio, análise crítica e argumentação técnica sobre temas já abordados, explorando novas perspectivas, tensões e implicações práticas.
 
 ## Plano de Fases
