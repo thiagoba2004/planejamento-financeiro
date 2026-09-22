@@ -160,3 +160,10 @@ article.resource-card{
   border-color:var(--line);
   border-top:1px solid var(--line)
 }
+
+
+/* Padrão transversal — botão ENVIAR MENSAGEM */
+.submit-button{
+  border-radius:999px !important;
+  padding-inline:1.45rem;
+}
