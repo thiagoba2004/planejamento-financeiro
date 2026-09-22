@@ -31,6 +31,16 @@ R$ 100.000,00 = continuidade + reserva + dívidas + objetivos + capital de prote
 8. estabelecer uso discricionário consciente;
 9. monitorar e revisar.
 
+## Gate jurídico-financeiro do plano
+
+Entre a simulação e a execução existe uma trava profissional. Antes de quitar, amortizar, renegociar, ratear, vender ativo gravado ou investir capital que possa ser material a processo/obrigação jurídica, classifique a decisão:
+
+- **VERDE — execução financeira ordinária:** nenhuma dependência jurídica material identificada;
+- **AMARELO — simular e validar:** existe incerteza jurídica/processual;
+- **VERMELHO — não executar:** há ordem, acordo, garantia ou controvérsia material que impede instrução operacional pelo planejador sem validação especializada.
+
+O gate não transforma o planejador em advogado. Ele impede que uma alternativa financeiramente eficiente seja tratada como juridicamente executável sem verificação.
+
 ## 4. Estado-base do plano
 
 No cenário atual, como os dados pessoais permanecem ausentes:
