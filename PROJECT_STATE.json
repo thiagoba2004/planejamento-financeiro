@@ -8,16 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": "EA-000004-000044",
-  "current_strategy_name": "Padrão único do botão ENVIAR MENSAGEM",
-  "current_phase": {
-    "phase_number": 3,
-    "phase_total": 3,
-    "phase_name": "Auditoria, deploy e fechamento",
-    "status": "EM_EXECUCAO"
-  },
-  "last_completed_milestone": "EA-000004-000043 concluída: 40/40 páginas públicas aprovadas na auditoria de semântica visual; ações, navegação destacada, links secundários e cards harmonizados; deploy verificado.",
-  "next_logical_step": "Confirmar deploy do botão ENVIAR MENSAGEM oval.",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000004-000044 concluída: botão ENVIAR MENSAGEM oval/pílula, mantendo verde-petróleo; deploy verificado.",
+  "next_logical_step": "Modo operacional. Preservar submit-button oval em futuras alterações.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -44,12 +39,12 @@
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "last_deployment": {
-    "workflow_run_id": 35795241625,
+    "workflow_run_id": 35797394964,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE_AND_INTERFACE_AUDIT",
-    "commit_sha": "05d440ef6740b8185b5d7427a7fe706a3e1a0208",
+    "verified_by": "GITHUB_PAGES_PIPELINE_AND_SUBMIT_BUTTON_AUDIT",
+    "commit_sha": "33d48f0476b922a2bb020b8843dde8916969fa8e",
     "completed_at": "2026-09-22",
-    "note": "EA-000004-000043: harmonização semântica da interface financeira; 40/40 HTMLs aprovados."
+    "note": "EA-000004-000044: botão ENVIAR MENSAGEM oval/pílula."
   },
   "public_menu": [
     "Início",
@@ -395,12 +390,7 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000004-000043",
-  "last_concluded_strategy_name": "Auditoria e harmonização semântica da interface do Site Planejamento Financeiro",
-  "current_strategy": {
-    "strategy_code": "EA-000004-000044",
-    "strategy_name": "Padrão único do botão ENVIAR MENSAGEM",
-    "plan_ref": "research/EA-000004-000044/plano-de-fases.md",
-    "status": "EM_EXECUCAO"
-  }
+  "last_concluded_strategy_code": "EA-000004-000044",
+  "last_concluded_strategy_name": "Padrão único do botão ENVIAR MENSAGEM",
+  "current_strategy": null
 }
