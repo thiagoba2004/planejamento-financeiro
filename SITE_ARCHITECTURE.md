@@ -78,3 +78,12 @@ A identidade deve comunicar clareza, formação, cálculo e decisão, sem reprod
 - O título do item é o hiperlink principal; data, tema e resumo curto orientam a escolha.
 - Sinais ainda em monitoramento podem aparecer resumidos sem serem tratados como publicação autônoma.
 - Markdown e HTML seguem a mesma granularidade.
+
+
+## Arquitetura pública do Observatório — 22/09/2026
+
+- índice público organizado por **temas do Observatório**;
+- metadado público principal: **Atualizado em DD/MM/AAAA**;
+- identificadores técnicos de versão ficam fora da UI;
+- cada tema financeiro organiza síntese, premissas/evidências, implicações, interdependências, mudanças, questões em aberto, fontes e conteúdos relacionados;
+- monitoramento e gatilhos permanecem na governança interna.

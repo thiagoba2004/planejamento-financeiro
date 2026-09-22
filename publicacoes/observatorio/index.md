@@ -1,11 +1,11 @@
 # Observatório de planejamento financeiro
 
-Pesquisa cumulativa, interdependências e sinais capazes de alterar premissas, métodos, conteúdos ou competências profissionais.
+O Observatório sistematiza o **estado atual do conhecimento** sobre temas de planejamento financeiro já estudados pelo Site. Reúne premissas verificadas, implicações práticas, interdependências, mudanças relevantes já analisadas e questões ainda abertas.
 
-## Unidades publicadas
+## Temas do Observatório
 
-### [Capital extraordinário, liquidez e superendividamento — 22/09/2026](capital-extraordinario-liquidez-superendividamento-2026-09-22.html)
+### [Capital extraordinário, liquidez e superendividamento — Estado atual do conhecimento](capital-extraordinario-liquidez-superendividamento-2026-09-22.html)
 
-**Snapshot 0.1 · data de corte: 22/09/2026**
+**Atualizado em 22/09/2026**
 
-Síntese das conclusões consolidadas, lacunas de evidência e interdependências entre caixa, patrimônio, dívidas, objetivos, investimentos, proteção, previdência e tributação.
+Síntese das premissas atuais sobre caixa, patrimônio e disponibilidade econômica, suas implicações para o planejamento e as relações com dívidas, objetivos, investimentos, proteção, previdência e tributação.
