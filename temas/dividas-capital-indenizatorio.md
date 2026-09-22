@@ -73,6 +73,20 @@ Antes de usar o capital para reduzir dívida:
 
 O capital de R$ 100.000,00 é líquido, mas não é automaticamente **capital investível** nem automaticamente **capital para quitar dívidas**.
 
+### Gate jurídico antes de executar
+
+Antes do item 5 — escolher entre manter, quitar, amortizar ou renegociar — verifique se existe:
+- processo de repactuação ou negociação global;
+- acordo homologado ou ordem judicial;
+- garantia, alienação fiduciária, hipoteca ou gravame;
+- titularidade patrimonial controvertida;
+- dívida cuja classificação jurídica esteja pendente;
+- efeito relevante sobre direitos de terceiros.
+
+Nessas situações, o planejador pode **simular** os cenários, mas a execução deve ficar condicionada à validação jurídica apropriada.
+
+Uma dívida juridicamente excluída de eventual repactuação continua no orçamento: **fora do plano não significa fora do fluxo**.
+
 ## 6. Custo de oportunidade sem falsa comparação
 
 Não compare:
