@@ -31,6 +31,20 @@ Renda de cada unidade, despesas já separadas, despesas ainda compartilhadas, ca
 ### Cenários
 Separe valores confirmados de hipóteses. Não preencha dados ausentes silenciosamente.
 
+### Separação de fato sem divórcio formal
+
+Uma pessoa pode continuar formalmente casada e já operar em unidade econômica separada. O planejador não declara juridicamente a separação de fato: recebe a data e seus efeitos como premissas documentadas ou cenários.
+
+Para o orçamento atual, distinga:
+- renda própria de cada unidade;
+- transferências entre os responsáveis;
+- despesas compartilhadas e respectivos rateios;
+- despesas dos filhos;
+- contas/cartões ainda compartilhados;
+- patrimônio e passivos pendentes de definição jurídica.
+
+Coabitação temporária no mesmo imóvel não basta, sozinha, para tratar as finanças como uma única unidade econômica.
+
 ## 3. Cenários de 30, 90 e 365 dias — heurística do Projeto
 
 **Saldo operacional mensal**
@@ -120,4 +134,4 @@ Use:
 - Banco Central do Brasil — orçamento pessoal e educação financeira;
 - Ações Judiciais — dossiê jurídico de divórcio litigioso, usado apenas para premissas jurídicas verificadas.
 
-**Última revisão:** 20/09/2026.
+**Última revisão:** 21/09/2026.
