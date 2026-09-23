@@ -1,4 +1,4 @@
-# Investir a indenização ou pagar as dívidas? O dilema financeiro de quem já chegou ao superendividamento
+# Investir a indenização trabalhista ou pagar as dívidas? O dilema financeiro de quem já chegou ao superendividamento
 
 **O que CFP®, FPSB e a literatura de household finance dizem sobre usar um capital extraordinário para investir enquanto permanecem as dívidas que motivaram uma repactuação.**
 
@@ -114,7 +114,7 @@ Agarwal, Liu e Souleles, estudando rebates fiscais, também encontraram inicialm
 
 Esses trabalhos não estabelecem uma regra moral de que todo capital extraordinário deva ser entregue a credores. Eles mostram algo mais útil: **quando a família está financeiramente pressionada, o windfall frequentemente funciona como oportunidade de desalavancagem**.
 
-Isso é particularmente relevante quando o ponto de partida não é uma família financeiramente estável, mas alguém que já se reconheceu incapaz de sustentar o serviço normal de suas dívidas.
+Isso é particularmente relevante quando o ponto de partida não é uma família financeiramente estável, mas alguém que já precisou buscar uma reorganização ampla de suas dívidas.
 
 ## 6. A armadilha comportamental: pagar a dívida errada ou “proteger” o investimento
 
@@ -179,7 +179,7 @@ Se o investimento cai 20% e a dívida continua existindo integralmente, quem abs
 
 Aqui aparece a particularidade mais importante do nosso cenário.
 
-A pessoa não está simplesmente decidindo entre antecipar um financiamento saudável ou investir uma bonificação anual. Ela já chegou ao ponto de buscar uma **repactuação por superendividamento**.
+A pessoa não está simplesmente decidindo entre antecipar um financiamento saudável ou investir uma bonificação anual. Ela já chegou ao ponto de buscar uma **repactuação por superendividamento**. O conceito jurídico de superendividamento possui requisitos próprios e não deve ser confundido automaticamente com qualquer quadro de estresse financeiro.
 
 Isso significa que, do ponto de vista financeiro, pelo menos três perguntas precisam ser respondidas antes da carteira de investimentos:
 
@@ -251,7 +251,7 @@ Se várias respostas forem “não”, a suposta estratégia de investimento pro
 
 ## 12. E o processo judicial?
 
-Este artigo não conclui que a indenização **deva juridicamente** ser destinada aos credores.
+Este artigo é uma análise educacional de planejamento financeiro e não uma recomendação individual. Também não conclui que a indenização **deva juridicamente** ser destinada aos credores.
 
 Também não afirma que investir a indenização configure, por si só:
 
