@@ -8,17 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": "EA-000004-000045",
-  "current_strategy_name": "Dívida versus investimento com capital indenizatório no superendividamento",
-  "current_phase": {
-    "phase_number": 1,
-    "phase_total": 5,
-    "phase_code": "F-000004-000045-001",
-    "phase_name": "Registro e corpus interno",
-    "status": "EM_EXECUCAO"
-  },
-  "last_completed_milestone": "EA-000004-000044 concluída: botão ENVIAR MENSAGEM oval/pílula, mantendo verde-petróleo; deploy verificado.",
-  "next_logical_step": "Executar FASE 01/05: corpus interno sobre dívida, investimento, liquidez e superendividamento.",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000004-000045 concluída: pesquisa CFP®/FPSB, Planejar, BCB e literatura acadêmica consolidada; matriz dívida versus investimento produzida; artigo ainda não redigido.",
+  "next_logical_step": "Aguardar revisão humana dos achados da EA-000004-000045 e autorização expressa para redigir o artigo em Publicações > Artigos.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -396,12 +390,7 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000004-000044",
-  "last_concluded_strategy_name": "Padrão único do botão ENVIAR MENSAGEM",
-  "current_strategy": {
-    "strategy_code": "EA-000004-000045",
-    "strategy_name": "Dívida versus investimento com capital indenizatório no superendividamento",
-    "plan_ref": "research/EA-000004-000045/plano-de-fases.md",
-    "status": "EM_EXECUCAO"
-  }
+  "last_concluded_strategy_code": "EA-000004-000045",
+  "last_concluded_strategy_name": "Dívida versus investimento com capital indenizatório no superendividamento",
+  "current_strategy": null
 }
