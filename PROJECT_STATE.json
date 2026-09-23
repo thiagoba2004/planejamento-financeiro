@@ -8,16 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": "EA-000004-000046",
-  "current_strategy_name": "Artigo: dívida versus investimento com capital indenizatório",
-  "current_phase": {
-    "phase_number": 5,
-    "phase_total": 5,
-    "phase_name": "Auditoria, deploy e fechamento",
-    "status": "EM_EXECUCAO"
-  },
-  "last_completed_milestone": "EA-000004-000045 concluída: pesquisa CFP®/FPSB, Planejar, BCB e literatura acadêmica consolidada; matriz dívida versus investimento produzida; artigo ainda não redigido.",
-  "next_logical_step": "Auditar versão publicada, confirmar GitHub Pages e concluir EA-000004-000046.",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000004-000046 concluída: artigo redigido, revisado, publicado e integrado a Artigos, Observatório, Fontes e Mapa do Site; deploy verificado.",
+  "next_logical_step": "Modo operacional. Aguardar revisão visual/humana do artigo publicado e novos comandos editoriais.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -44,12 +39,12 @@
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "last_deployment": {
-    "workflow_run_id": 35797394964,
+    "workflow_run_id": 35804824529,
     "status": "SUCCESS",
-    "verified_by": "GITHUB_PAGES_PIPELINE_AND_SUBMIT_BUTTON_AUDIT",
-    "commit_sha": "33d48f0476b922a2bb020b8843dde8916969fa8e",
+    "verified_by": "GITHUB_PAGES_PIPELINE_AND_ARTICLE_AUDIT",
+    "commit_sha": "afe50d98d76a15cf12af73636ef01de523291ec0",
     "completed_at": "2026-09-22",
-    "note": "EA-000004-000044: botão ENVIAR MENSAGEM oval/pílula."
+    "note": "EA-000004-000046: artigo dívida versus investimento publicado e auditado."
   },
   "public_menu": [
     "Início",
@@ -395,12 +390,7 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000004-000045",
-  "last_concluded_strategy_name": "Dívida versus investimento com capital indenizatório no superendividamento",
-  "current_strategy": {
-    "strategy_code": "EA-000004-000046",
-    "strategy_name": "Artigo: dívida versus investimento com capital indenizatório",
-    "plan_ref": "research/EA-000004-000046/plano-de-fases.md",
-    "status": "EM_EXECUCAO"
-  }
+  "last_concluded_strategy_code": "EA-000004-000046",
+  "last_concluded_strategy_name": "Artigo: dívida versus investimento com capital indenizatório",
+  "current_strategy": null
 }
