@@ -29,3 +29,9 @@ O run 35804603553 teve:
 3. reexecução do mesmo run criou segundo artefato de mesmo nome e falhou por duplicidade.
 
 O incidente é de infraestrutura do workflow/Pages e não de validação do HTML ou build. Um novo push deve gerar um run limpo para confirmação final.
+
+## Verificação final
+
+Novo run limpo: **35804824529 — success**.
+
+Todas as etapas — checkout, build public-only, setup Pages, upload do artefato e deploy — foram concluídas com sucesso. O incidente anterior fica classificado como transitório e encerrado.
