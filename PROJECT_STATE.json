@@ -11,13 +11,13 @@
   "current_strategy_code": "EA-000004-000046",
   "current_strategy_name": "Artigo: dívida versus investimento com capital indenizatório",
   "current_phase": {
-    "phase_number": 1,
+    "phase_number": 5,
     "phase_total": 5,
-    "phase_name": "Arquitetura argumentativa e tese",
+    "phase_name": "Auditoria, deploy e fechamento",
     "status": "EM_EXECUCAO"
   },
   "last_completed_milestone": "EA-000004-000045 concluída: pesquisa CFP®/FPSB, Planejar, BCB e literatura acadêmica consolidada; matriz dívida versus investimento produzida; artigo ainda não redigido.",
-  "next_logical_step": "Definir arquitetura argumentativa e redigir o artigo com base na pesquisa concluída.",
+  "next_logical_step": "Auditar versão publicada, confirmar GitHub Pages e concluir EA-000004-000046.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
