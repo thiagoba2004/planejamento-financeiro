@@ -34,3 +34,18 @@ Contrastar pagar dívida versus investir por tipo de dívida, CET, retorno líqu
 
 ### FASE 05/05 [F-000004-000045-005] — Relatório de pesquisa e gate editorial
 Produzir relatório documentado com achados, grau de evidência, divergências, fontes primárias/secundárias e estrutura sugerida para o futuro artigo. **Não redigir nem publicar o artigo nesta fase sem novo comando do usuário.**
+
+## Estado final
+
+**CONCLUÍDA — 5/5 fases.**
+
+A pesquisa foi concluída com triangulação de:
+- corpus interno do Projeto;
+- FPSB Global Financial Planning Standards;
+- materiais vigentes e editoriais da Planejar;
+- Banco Central do Brasil;
+- literatura acadêmica de household finance, dívida, liquidez, windfalls e comportamento.
+
+Foram registrados PF-SRC-000096 a PF-SRC-000109 no `SOURCE_REGISTRY.jsonl`.
+
+**Gate editorial:** o artigo não foi redigido nem publicado. A redação depende de autorização humana posterior à revisão dos achados.
