@@ -8,17 +8,11 @@
   "status": "EM_EXECUCAO",
   "kernel_version": "1.4",
   "generator_release": "1.15",
-  "current_strategy_code": "EA-000004-000047",
-  "current_strategy_name": "Pauta editorial interna e backlog de conteúdo",
-  "current_phase": {
-    "phase_number": 1,
-    "phase_total": 4,
-    "phase_code": "F-000004-000047-001",
-    "phase_name": "Arquitetura e critérios",
-    "status": "EM_EXECUCAO"
-  },
-  "last_completed_milestone": "EA-000004-000046 concluída: artigo redigido, revisado, publicado e integrado a Artigos, Observatório, Fontes e Mapa do Site; deploy verificado.",
-  "next_logical_step": "Definir a estrutura canônica da pauta editorial, inventariar conteúdos existentes e registrar a pauta inicial sem exposição pública.",
+  "current_strategy_code": null,
+  "current_strategy_name": null,
+  "current_phase": null,
+  "last_completed_milestone": "EA-000004-000047 concluída: pauta editorial interna criada, normatizada e auditada.",
+  "next_logical_step": "Usar governanca/PAUTA_EDITORIAL.md para selecionar futuros artigos; avaliar densidade e forma editorial antes de abrir a Estratégia Autônoma correspondente.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,13 +29,14 @@
     "CONTACT_STACK.md",
     "METRICS_PROTOCOL.md",
     "PROFESSIONAL_SCOPE.md",
-    "CFP_ALIGNMENT_PROTOCOL.md"
+    "CFP_ALIGNMENT_PROTOCOL.md",
+    "governanca/PAUTA_EDITORIAL.md"
   ],
   "updated_at": "2026-09-24",
   "site_status": "OBSERVATORIO_PUBLICO_ESTRUTURADO_E_VERIFICADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
-  "strategy_status": "EM_EXECUCAO",
+  "strategy_status": "SEM_ESTRATEGIA_ATIVA",
   "public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "current_strategy_public_url": "https://thiagoba2004.github.io/planejamento-financeiro/",
   "last_deployment": {
@@ -396,7 +391,14 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000004-000046",
-  "last_concluded_strategy_name": "Artigo: dívida versus investimento com capital indenizatório",
-  "current_strategy": "EA-000004-000047"
+  "last_concluded_strategy_code": "EA-000004-000047",
+  "last_concluded_strategy_name": "Pauta editorial interna e backlog de conteúdo",
+  "current_strategy": null,
+  "editorial_backlog": {
+    "path": "governanca/PAUTA_EDITORIAL.md",
+    "public": false,
+    "items_initial": 14,
+    "status": "IMPLANTADO_E_AUDITADO",
+    "updated_at": "2026-09-24"
+  }
 }
