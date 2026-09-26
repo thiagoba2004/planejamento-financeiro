@@ -35,6 +35,12 @@ Uma fonte editorial é canônica por integrar o corpus do projeto, mas suas afir
 
 Os metadados completos e URLs ficam em `SOURCE_REGISTRY.jsonl`.
 
+## Fonte acadêmica complementar — BDTD/IBICT
+
+A **Biblioteca Digital Brasileira de Teses e Dissertações (BDTD/IBICT)** integra a metodologia de descoberta acadêmica do Projeto, especialmente para endividamento, superendividamento, comportamento financeiro, crédito, consumo, educação financeira e temas correlatos.
+
+Ela é classificada como `COMPLEMENTAR_ACADEMICA` e **não** como fonte canônica do CFP®. Cada obra relevante deve ser validada no repositório institucional de origem e, quando disponível, por Handle/DOI. A presença na BDTD não substitui avaliação metodológica, atualidade, aderência nem triangulação com fontes normativas/profissionais.
+
 ## Regra de preservação
 
 Quando tecnicamente possível e juridicamente permitido, preservar metadados, hash ou referência recuperável da versão consultada. Não republicar automaticamente material protegido apenas porque ele é canônico.
