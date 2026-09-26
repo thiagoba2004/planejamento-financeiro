@@ -6,13 +6,13 @@
   "project_id": "planejamento-financeiro",
   "repository": "thiagoba2004/planejamento-financeiro",
   "status": "EM_EXECUCAO",
-  "kernel_version": "1.7",
-  "generator_release": "1.22",
+  "kernel_version": "1.8",
+  "generator_release": "1.23",
   "current_strategy_code": null,
   "current_strategy_name": null,
   "current_phase": null,
-  "last_completed_milestone": "EA-000004-000050 concluída: classificação universal implantada com perfil estruturado e gate preventivo.",
-  "next_logical_step": "Aplicar o gate de classificação a todo novo arquivo; antes de usar dados confidenciais reais, criar superfície P1 privada separada e cofre P0 para documentos brutos; auditar o histórico público em estratégia específica.",
+  "last_completed_milestone": "EA-000004-000051 concluída: identidade de governança separada dos ambientes Chat/Work/Projeto ChatGPT/Biblioteca/Codex.",
+  "next_logical_step": "Escolher Chat/Work/Codex conforme o perfil da tarefa sem alterar PRJ/EA/F; persistir trabalho substancial no GitHub antes de encerrar a sessão.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -35,7 +35,8 @@
     "governanca/KNOWLEDGE_INDEX.md",
     "governanca/KNOWLEDGE_INDEX.jsonl",
     "governanca/KNOWLEDGE_INDEX_META.json",
-    "INFORMATION_HANDLING_PROFILE.json"
+    "INFORMATION_HANDLING_PROFILE.json",
+    "EXECUTION_ENVIRONMENT_PROFILE.json"
   ],
   "updated_at": "2026-09-26",
   "site_status": "OBSERVATORIO_PUBLICO_ESTRUTURADO_E_VERIFICADO",
@@ -396,8 +397,8 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000004-000050",
-  "last_concluded_strategy_name": "Classificação Universal de Informação por Sensibilidade e Publicação",
+  "last_concluded_strategy_code": "EA-000004-000051",
+  "last_concluded_strategy_name": "Arquitetura Universal de Ambientes de Execução e Persistência",
   "current_strategy": null,
   "editorial_backlog": {
     "path": "governanca/PAUTA_EDITORIAL.md",
@@ -452,6 +453,23 @@
     "raw_s3_allowed": false,
     "s4_allowed": false,
     "retroactive_history_audit": "PENDENTE_DE_ESTRATEGIA_ESPECIFICA",
+    "updated_at": "2026-09-26"
+  },
+  "execution_environment_architecture": {
+    "status": "IMPLANTADA_E_VERIFICADA",
+    "global_source": "thiagoba2004/governanca-geral-modelos-ia/ARQUITETURA_UNIVERSAL_AMBIENTES_EXECUCAO_PERSISTENCIA.md",
+    "local_profile": "EXECUTION_ENVIRONMENT_PROFILE.json",
+    "project_identity_independent_of_platform": true,
+    "canonical_persistence": "thiagoba2004/planejamento-financeiro",
+    "preferred": {
+      "chat": "dialogue_bounded",
+      "work": "substantial_multistep",
+      "chatgpt_project": "optional_context",
+      "library": "operational_context",
+      "codex": "repo_engineering",
+      "apps": "external_access"
+    },
+    "fallback_preserves_identity": true,
     "updated_at": "2026-09-26"
   }
 }
