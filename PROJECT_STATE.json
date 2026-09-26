@@ -6,13 +6,13 @@
   "project_id": "planejamento-financeiro",
   "repository": "thiagoba2004/planejamento-financeiro",
   "status": "EM_EXECUCAO",
-  "kernel_version": "1.4",
-  "generator_release": "1.15",
+  "kernel_version": "1.5",
+  "generator_release": "1.20",
   "current_strategy_code": null,
   "current_strategy_name": null,
   "current_phase": null,
-  "last_completed_milestone": "EA-000004-000047 concluída: pauta editorial interna criada, normatizada e auditada.",
-  "next_logical_step": "Usar governanca/PAUTA_EDITORIAL.md para selecionar futuros artigos; avaliar densidade e forma editorial antes de abrir a Estratégia Autônoma correspondente.",
+  "last_completed_milestone": "EA-000004-000048 concluída: knowledge index gerado (359 documentos), BDTD/IBICT incorporada e melhoria contínua proativa normatizada.",
+  "next_logical_step": "Usar o knowledge index como primeira camada de descoberta em perguntas transversais; confirmar achados nos documentos originais; registrar e comunicar novas oportunidades materiais em IMPROVEMENT_LOG.jsonl.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -30,9 +30,13 @@
     "METRICS_PROTOCOL.md",
     "PROFESSIONAL_SCOPE.md",
     "CFP_ALIGNMENT_PROTOCOL.md",
-    "governanca/PAUTA_EDITORIAL.md"
+    "governanca/PAUTA_EDITORIAL.md",
+    "IMPROVEMENT_LOG.jsonl",
+    "governanca/KNOWLEDGE_INDEX.md",
+    "governanca/KNOWLEDGE_INDEX.jsonl",
+    "governanca/KNOWLEDGE_INDEX_META.json"
   ],
-  "updated_at": "2026-09-24",
+  "updated_at": "2026-09-26",
   "site_status": "OBSERVATORIO_PUBLICO_ESTRUTURADO_E_VERIFICADO",
   "generator_bootstrap_status": "IMPLANTADO_E_VERIFICADO",
   "generator_strategy_code": "EA-000002-000006",
@@ -391,8 +395,8 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000004-000047",
-  "last_concluded_strategy_name": "Pauta editorial interna e backlog de conteúdo",
+  "last_concluded_strategy_code": "EA-000004-000048",
+  "last_concluded_strategy_name": "Indexação universal, BDTD e melhoria contínua proativa",
   "current_strategy": null,
   "editorial_backlog": {
     "path": "governanca/PAUTA_EDITORIAL.md",
@@ -400,5 +404,29 @@
     "items_initial": 14,
     "status": "IMPLANTADO_E_AUDITADO",
     "updated_at": "2026-09-24"
+  },
+  "knowledge_index": {
+    "status": "IMPLANTADO_E_VERIFICADO",
+    "schema_version": "1.0",
+    "index_path": "governanca/KNOWLEDGE_INDEX.jsonl",
+    "meta_path": "governanca/KNOWLEDGE_INDEX_META.json",
+    "generator": "tools/build_knowledge_index.py",
+    "query_tool": "tools/query_knowledge_index.py",
+    "workflow": ".github/workflows/knowledge-index.yml",
+    "record_count": 359,
+    "updated_at": "2026-09-26"
+  },
+  "academic_discovery": {
+    "bdtd_ibict": {
+      "status": "INCORPORADA",
+      "url": "https://bdtd.ibict.br/",
+      "rule": "Fonte sistemática de descoberta; validar obra no repositório institucional de origem e por Handle/DOI quando disponível; presença não equivale a endosso de qualidade."
+    }
+  },
+  "improvement_governance": {
+    "status": "IMPLANTADA_E_VERIFICADA",
+    "log": "IMPROVEMENT_LOG.jsonl",
+    "rule": "Comunicar e persistir oportunidades materiais; não ampliar silenciosamente o escopo; executar innovation check em trabalhos substanciais.",
+    "updated_at": "2026-09-26"
   }
 }
