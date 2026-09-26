@@ -8,6 +8,8 @@ Consulte diretamente as instituições que sustentam o estudo e acompanhe mudan�
 
 ## Fontes principais
 
+- *Pesquisa acadêmica brasileira* — [**BDTD/IBICT · Teses e dissertações**](https://bdtd.ibict.br/): Fonte sistemática de descoberta; validar cada obra no repositório institucional de origem e, quando disponível, por Handle/DOI.
+
 - *Certificação* — [**Planejar**](https://www.planejar.org.br/): Programa CFP®, exames e materiais oficiais.
 
 - *Sistema financeiro* — [**Banco Central do Brasil**](https://www.bcb.gov.br/): SCR, educação financeira, crédito e estudos sobre endividamento.
@@ -56,4 +58,4 @@ Consulte diretamente as instituições que sustentam o estudo e acompanhe mudan�
 
 - *Crédito* — [**Banco Central · Liquidação antecipada**](https://www.bcb.gov.br/meubc/faqs/s/liquidacao-antecipada): Orientações sobre quitação total ou parcial e saldo atualizado da dívida.
 
-**Última sincronização semântica com o HTML público:** 21/09/2026.
+**Última sincronização semântica com o HTML público:** 26/09/2026.
