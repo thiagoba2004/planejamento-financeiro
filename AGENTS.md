@@ -5,7 +5,7 @@
 **project_alias:** `PF`  
 **project_name:** `Planejamento Financeiro`  
 **project_id legado:** `planejamento-financeiro`  
-**generated_from_kernel:** `1.5`  
+**generated_from_kernel:** `1.6`  
 **generator_release:** `1.20`  
 **repository:** `thiagoba2004/planejamento-financeiro`  
 **modules:** `research`, `publication`, `web-site`, `contact-protocol`, `software`, `data`, `professional-education`, `publication`, `software`, `data`, `professional-education`
@@ -29,6 +29,20 @@ INFORMAR QUE IRÁ LER O PROMPT, ANALISAR E TOMAR AS PROVIDÊNCIAS
 ↓
 EXECUTAR
 ```
+
+### Ponte bidirecional com o Coordenador Geral
+
+Antes de tratar pedidos com **possível repercussão transversal**, **dúvida de pertencimento/roteamento**, possível vínculo com a **governança global** ou sinais de **candidato a novo Projeto**, consultar, quando a Biblioteca estiver acessível:
+
+`/Governanca-Geral-Modelos-IA/00_BOOTSTRAP_COORDENADOR_GERAL.md`
+
+Regras:
+
+- pedidos inequivocamente locais e já abrangidos por este Projeto seguem diretamente este `AGENTS.md`, sem consulta obrigatória ao Bootstrap;
+- a consulta ao Bootstrap é condicional e serve para classificar/rotear, não para substituir a governança local;
+- evitar loop de roteamento: Bootstrap → Projeto é entrada normal; Projeto → Bootstrap ocorre apenas diante de dúvida, repercussão transversal ou governança global;
+- se a Biblioteca/Bootstrap não estiver acessível na sessão, não inventar seu conteúdo; registrar a limitação quando material e prosseguir pela governança local comprovada;
+- conversas classificadas como casuais/efêmeras pelo Coordenador Geral não devem ser artificialmente absorvidas por este Projeto.
 
 ## 3. Fonte da verdade
 
