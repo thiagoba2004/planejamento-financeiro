@@ -6,13 +6,13 @@
   "project_id": "planejamento-financeiro",
   "repository": "thiagoba2004/planejamento-financeiro",
   "status": "EM_EXECUCAO",
-  "kernel_version": "1.5",
-  "generator_release": "1.20",
+  "kernel_version": "1.6",
+  "generator_release": "1.21",
   "current_strategy_code": null,
   "current_strategy_name": null,
   "current_phase": null,
-  "last_completed_milestone": "EA-000004-000048 concluída: knowledge index gerado (359 documentos), BDTD/IBICT incorporada e melhoria contínua proativa normatizada.",
-  "next_logical_step": "Usar o knowledge index como primeira camada de descoberta em perguntas transversais; confirmar achados nos documentos originais; registrar e comunicar novas oportunidades materiais em IMPROVEMENT_LOG.jsonl.",
+  "last_completed_milestone": "EA-000004-000049 concluída: ponte bidirecional condicional com o Bootstrap global implantada e auditada.",
+  "next_logical_step": "Aplicar o AGENTS local diretamente em pedidos inequivocamente locais e consultar o Bootstrap global somente quando houver gatilho transversal/global ou dúvida de roteamento.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -395,8 +395,8 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000004-000048",
-  "last_concluded_strategy_name": "Indexação universal, BDTD e melhoria contínua proativa",
+  "last_concluded_strategy_code": "EA-000004-000049",
+  "last_concluded_strategy_name": "Roteamento bidirecional com o Bootstrap do Coordenador Geral",
   "current_strategy": null,
   "editorial_backlog": {
     "path": "governanca/PAUTA_EDITORIAL.md",
@@ -427,6 +427,19 @@
     "status": "IMPLANTADA_E_VERIFICADA",
     "log": "IMPROVEMENT_LOG.jsonl",
     "rule": "Comunicar e persistir oportunidades materiais; não ampliar silenciosamente o escopo; executar innovation check em trabalhos substanciais.",
+    "updated_at": "2026-09-26"
+  },
+  "global_coordinator_bridge": {
+    "status": "IMPLANTADA_E_VERIFICADA",
+    "bootstrap": "/Governanca-Geral-Modelos-IA/00_BOOTSTRAP_COORDENADOR_GERAL.md",
+    "mode": "CONDICIONAL",
+    "triggers": [
+      "repercussão transversal",
+      "dúvida de roteamento",
+      "governança global",
+      "candidato a novo Projeto"
+    ],
+    "anti_loop": true,
     "updated_at": "2026-09-26"
   }
 }
