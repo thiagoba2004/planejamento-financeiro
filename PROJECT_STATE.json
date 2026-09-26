@@ -6,13 +6,13 @@
   "project_id": "planejamento-financeiro",
   "repository": "thiagoba2004/planejamento-financeiro",
   "status": "EM_EXECUCAO",
-  "kernel_version": "1.6",
-  "generator_release": "1.21",
+  "kernel_version": "1.7",
+  "generator_release": "1.22",
   "current_strategy_code": null,
   "current_strategy_name": null,
   "current_phase": null,
-  "last_completed_milestone": "EA-000004-000049 concluída: ponte bidirecional condicional com o Bootstrap global implantada e auditada.",
-  "next_logical_step": "Aplicar o AGENTS local diretamente em pedidos inequivocamente locais e consultar o Bootstrap global somente quando houver gatilho transversal/global ou dúvida de roteamento.",
+  "last_completed_milestone": "EA-000004-000050 concluída: classificação universal implantada com perfil estruturado e gate preventivo.",
+  "next_logical_step": "Aplicar o gate de classificação a todo novo arquivo; antes de usar dados confidenciais reais, criar superfície P1 privada separada e cofre P0 para documentos brutos; auditar o histórico público em estratégia específica.",
   "canonical_files": [
     "README.md",
     "AGENTS.md",
@@ -34,7 +34,8 @@
     "IMPROVEMENT_LOG.jsonl",
     "governanca/KNOWLEDGE_INDEX.md",
     "governanca/KNOWLEDGE_INDEX.jsonl",
-    "governanca/KNOWLEDGE_INDEX_META.json"
+    "governanca/KNOWLEDGE_INDEX_META.json",
+    "INFORMATION_HANDLING_PROFILE.json"
   ],
   "updated_at": "2026-09-26",
   "site_status": "OBSERVATORIO_PUBLICO_ESTRUTURADO_E_VERIFICADO",
@@ -395,8 +396,8 @@
       "title_is_primary_link": true
     }
   },
-  "last_concluded_strategy_code": "EA-000004-000049",
-  "last_concluded_strategy_name": "Roteamento bidirecional com o Bootstrap do Coordenador Geral",
+  "last_concluded_strategy_code": "EA-000004-000050",
+  "last_concluded_strategy_name": "Classificação Universal de Informação por Sensibilidade e Publicação",
   "current_strategy": null,
   "editorial_backlog": {
     "path": "governanca/PAUTA_EDITORIAL.md",
@@ -440,6 +441,17 @@
       "candidato a novo Projeto"
     ],
     "anti_loop": true,
+    "updated_at": "2026-09-26"
+  },
+  "information_classification": {
+    "status": "IMPLANTADA_E_VERIFICADA",
+    "global_policy": "/Governanca-Geral-Modelos-IA/CLASSIFICACAO_UNIVERSAL_INFORMACAO.md",
+    "local_profile": "INFORMATION_HANDLING_PROFILE.json",
+    "repository_surface": "P2_GIT_PUBLICO_REPOSITORIO",
+    "s2_or_higher_allowed": false,
+    "raw_s3_allowed": false,
+    "s4_allowed": false,
+    "retroactive_history_audit": "PENDENTE_DE_ESTRATEGIA_ESPECIFICA",
     "updated_at": "2026-09-26"
   }
 }
