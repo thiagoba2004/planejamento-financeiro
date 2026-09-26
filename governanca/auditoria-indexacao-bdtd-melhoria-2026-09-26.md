@@ -32,6 +32,10 @@ A primeira geração automática revelou superescape nas expressões regulares e
 
 A própria estratégia é resultado do innovation check: a varredura manual necessária para responder à pergunta sobre BDTD foi convertida em mecanismo reutilizável. O processo agora também exige que futuras oportunidades materiais sejam comunicadas e registradas, evitando que dependam de o usuário perceber pistas durante a execução.
 
+## Separação público/interno
+
+- Planejamento Financeiro: o workflow Pages monta artefato por lista explícita de diretórios HTML; `governanca`, `tools` e `IMPROVEMENT_LOG.jsonl` não são copiados.
+
 ## Conclusão
 
 Gate final satisfeito. O índice é camada de descoberta; qualquer achado substantivo deve ser confirmado no documento original.
