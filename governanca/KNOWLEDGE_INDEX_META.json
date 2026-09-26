@@ -1,0 +1,28 @@
+{
+  "deterministic": true,
+  "extensions": {
+    ".css": 1,
+    ".csv": 30,
+    ".html": 41,
+    ".json": 1,
+    ".jsonl": 4,
+    ".md": 280,
+    ".yml": 2
+  },
+  "generator": "tools/build_knowledge_index.py",
+  "index_file": "governanca/KNOWLEDGE_INDEX.jsonl",
+  "record_count": 359,
+  "schema_version": "1.0",
+  "semantic_tag_counts": {
+    "bdtd_ibict": 8,
+    "editorial": 122,
+    "financeiro": 319,
+    "fonte": 167,
+    "governanca": 73,
+    "juridico": 83,
+    "pesquisa_academica": 103,
+    "superendividamento": 86,
+    "trabalho_sindical": 48
+  },
+  "source_system_counts": {}
+}\n
