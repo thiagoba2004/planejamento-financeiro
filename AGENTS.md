@@ -5,8 +5,8 @@
 **project_alias:** `PF`  
 **project_name:** `Planejamento Financeiro`  
 **project_id legado:** `planejamento-financeiro`  
-**generated_from_kernel:** `1.4`  
-**generator_release:** `1.19`  
+**generated_from_kernel:** `1.5`  
+**generator_release:** `1.20`  
 **repository:** `thiagoba2004/planejamento-financeiro`  
 **modules:** `research`, `publication`, `web-site`, `contact-protocol`, `software`, `data`, `professional-education`, `publication`, `software`, `data`, `professional-education`
 
@@ -376,3 +376,16 @@ Regras obrigatórias:
 
 Estados canônicos: `IDEIA`, `EM_TRIAGEM`, `APROVADA_PARA_PESQUISA`, `EM_PESQUISA`, `PRONTA_PARA_REDACAO`, `EM_REDACAO`, `PRONTA_PARA_PUBLICACAO`, `PUBLICADA`, `SUSPENSA` e `DESCARTADA`.
 
+
+
+## Índice semântico-factual do acervo
+
+Manter `governanca/KNOWLEDGE_INDEX.jsonl`, gerado por `tools/build_knowledge_index.py`, como camada interna de descoberta. Consultar o índice antes de varreduras manuais amplas e confirmar achados materiais no documento original. O índice não replica texto integral e não substitui fontes CFP®/Planejar ou evidência acadêmica.
+
+## BDTD/IBICT no módulo research
+
+Para endividamento, superendividamento, comportamento financeiro, crédito, consumo, educação financeira e outros temas compatíveis com pós-graduação brasileira, pesquisar sistematicamente a **BDTD/IBICT** como fonte complementar acadêmica. Validar a obra no repositório institucional de origem e por Handle/DOI quando disponível. A BDTD não é fonte canônica do CFP®.
+
+## Inovação e aperfeiçoamento proativos
+
+Manter `IMPROVEMENT_LOG.jsonl`. Oportunidade material de automação, indexação, padronização, fonte adicional, redução de retrabalho ou melhoria de verificabilidade deve ser comunicada e persistida. Sugestão não autoriza expansão silenciosa de escopo. No fechamento de trabalho substancial, executar **innovation check**.
