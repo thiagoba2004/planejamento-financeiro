@@ -6,12 +6,12 @@
     ".html": 41,
     ".json": 3,
     ".jsonl": 4,
-    ".md": 287,
+    ".md": 288,
     ".yml": 2
   },
   "generator": "tools/build_knowledge_index.py",
   "index_file": "governanca/KNOWLEDGE_INDEX.jsonl",
-  "record_count": 368,
+  "record_count": 369,
   "schema_version": "1.0",
   "semantic_tag_counts": {
     "bdtd_ibict": 10,
