@@ -3,13 +3,16 @@
   "adapter_sha": "9c139de4bc973900c94bc74c3d0fc772119096d5",
   "broker_repository": "thiagoba2004/governanca-geral-modelos-ia",
   "project_code": "PRJ-000004",
+  "project_current_phase": null,
   "project_current_strategy": null,
   "project_state_path": "PROJECT_STATE.json",
   "project_state_sha": "ec07dadf441aa9bd2a6ba817dd6af405e03b15c1",
+  "project_strategy_status": "SEM_ESTRATEGIA_ATIVA",
   "protocol_path": "APSP_AUTONOMOUS_PHASE_SUCCESSION_PROTOCOL.md",
   "protocol_sha": "47fed56b77fdabd0aaefbeb47983f4cd8dd11dff",
+  "recovery_applicable": null,
   "repository": "thiagoba2004/planejamento-financeiro",
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "secret_policy": "NO_LOCAL_SECRETS",
   "status": "VERIFIED"
 }
